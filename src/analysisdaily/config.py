@@ -56,6 +56,16 @@ class Settings(BaseSettings):
     # ---- 数据目录 ----
     app_data_dir: Path = Path("./data")
 
+    @field_validator("llm_provider", mode="before")
+    @classmethod
+    def _llm_provider_default(cls, v):
+        return "none" if v in (None, "") else v
+
+    @field_validator("embedding_backend", mode="before")
+    @classmethod
+    def _embedding_backend_default(cls, v):
+        return "auto" if v in (None, "") else v
+
     @field_validator("cluster_min_samples")
     @classmethod
     def _min_samples_ge2(cls, v: int) -> int:
