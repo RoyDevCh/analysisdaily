@@ -18,3 +18,10 @@ def test_strip_emotive_removes_emotive_sentences():
     cleaned = strip_emotive(text)
     assert "shocking" not in cleaned
     assert "1.8 billion" in cleaned
+from analysisdaily.facts.subjectivity import is_clean_fact
+
+
+def test_is_clean_fact_rejects_exclamation_and_emotive():
+    assert not is_clean_fact("We need to know her name ASAP!")
+    assert not is_clean_fact("This is a shocking disaster!")
+    assert is_clean_fact("The commission fined TechCo 1.8 billion euros.")

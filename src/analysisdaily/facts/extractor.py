@@ -19,7 +19,7 @@ import numpy as np
 from ..clustering.embedder import Embedder
 from ..models.raw import EventCluster
 from ..models.report import BiasLabel, FactStatement, QuoteSpan
-from .subjectivity import is_factual, split_sentences
+from .subjectivity import is_clean_fact, is_factual, split_sentences
 
 SIM_THRESHOLD = 0.30
 
@@ -110,7 +110,7 @@ def extract_facts(cluster: EventCluster, embedder: Embedder, max_facts: int = 5)
             )
             if len(spans) >= 2:
                 break
-        if not spans:
+        if not spans or not is_clean_fact(rep.text):
             continue
         diversity = min(len(distinct_sources), 5) / 5
         conf = min(1.0, (support / max(1.0, len(distinct_sources))) * 0.5 + diversity * 0.5)
