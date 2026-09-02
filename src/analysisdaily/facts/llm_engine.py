@@ -10,7 +10,6 @@ from __future__ import annotations
 
 import json
 import re
-import urllib.request
 
 from ..clustering.embedder import Embedder
 from ..config import Settings
@@ -70,21 +69,9 @@ class LLMFactEngine:
             {"role": "system", "content": _SYSTEM},
             {"role": "user", "content": user},
         ]
-        payload = json.dumps({
-            "model": self.settings.llm_model,
-            "messages": messages,
-            "temperature": 0.1,
-            "max_tokens": 900,
-        }).encode("utf-8")
-        url = self.settings.llm_base_url.rstrip("/") + "/chat/completions"
-        req = urllib.request.Request(
-            url,
-            data=payload,
-            headers={"Content-Type": "application/json", "Authorization": "Bearer " + self.settings.llm_api_key},
-        )
-        with urllib.request.urlopen(req, timeout=self.settings.llm_timeout) as resp:
-            data = json.load(resp)
-        return data["choices"][0]["message"]["content"]
+        from ..llm_client import chat_completion
+
+        return chat_completion(self.settings, messages, temperature=0.1, max_tokens=900)
 
     def _parse(self, raw: str, cluster: EventCluster) -> dict | None:
         obj = self._extract_json(raw)

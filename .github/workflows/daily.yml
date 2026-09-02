@@ -34,6 +34,7 @@ jobs:
           LLM_BASE_URL=${{ secrets.LLM_BASE_URL }}
           LLM_API_KEY=${{ secrets.LLM_API_KEY }}
           LLM_MODEL=${{ secrets.LLM_MODEL }}
+          OPENROUTER_API_KEY=${{ secrets.OPENROUTER_API_KEY }}
           GROUND_NEWS_API_KEY=${{ secrets.GROUND_NEWS_API_KEY }}
           ALLSIDES_API_KEY=${{ secrets.ALLSIDES_API_KEY }}
           EMBEDDING_BACKEND=${{ secrets.EMBEDDING_BACKEND }}

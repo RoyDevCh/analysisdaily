@@ -26,10 +26,11 @@ class Settings(BaseSettings):
     wire_earth_api_key: str = ""
 
     # ---- LLM 事实引擎（可选） ----
-    llm_provider: Literal["openai", "anthropic", "ollama", "none"] = "none"
+    llm_provider: Literal["openai", "anthropic", "ollama", "openrouter", "none"] = "none"
     llm_base_url: str = ""
     llm_api_key: str = ""
     llm_model: str = ""
+    openrouter_api_key: str = ""
     llm_timeout: int = 60
 
     # ---- 分发（可选，填了对应配置才启用） ----

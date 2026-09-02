@@ -4,9 +4,6 @@
 """
 from __future__ import annotations
 
-import json
-import urllib.request
-
 from ..config import Settings
 
 _SYSTEM = (
@@ -19,20 +16,9 @@ _SYSTEM = (
 
 
 def _chat(settings: Settings, messages: list[dict], max_tokens: int = 1300) -> str:
-    payload = json.dumps({
-        "model": settings.llm_model,
-        "messages": messages,
-        "temperature": 0.4,
-        "max_tokens": max_tokens,
-    }).encode("utf-8")
-    url = settings.llm_base_url.rstrip("/") + "/chat/completions"
-    req = urllib.request.Request(
-        url, data=payload,
-        headers={"Content-Type": "application/json", "Authorization": "Bearer " + settings.llm_api_key},
-    )
-    with urllib.request.urlopen(req, timeout=settings.llm_timeout) as resp:
-        data = json.load(resp)
-    return data["choices"][0]["message"]["content"]
+    from ..llm_client import chat_completion
+
+    return chat_completion(settings, messages, temperature=0.4, max_tokens=max_tokens)
 
 
 def write_feature(items, settings: Settings) -> str:

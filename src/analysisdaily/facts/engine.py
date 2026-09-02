@@ -69,6 +69,6 @@ class RulesFactEngine:
 def get_fact_engine(settings: Settings, embedder: Embedder):
     from .llm_engine import LLMFactEngine
 
-    if settings.llm_provider in ("openai", "anthropic", "ollama"):
+    if settings.llm_provider in ("openai", "anthropic", "ollama", "openrouter"):
         return LLMFactEngine(settings, embedder)
     return RulesFactEngine(settings, embedder)
