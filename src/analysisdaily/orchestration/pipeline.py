@@ -80,7 +80,7 @@ def run_pipeline(
         _threads = update_threads(embedder, reports, load_threads(threads_path), report_date.strftime("%Y%m%d"))
         save_threads(threads_path, _threads)
         daily.tracking = render_tracking(_threads)
-        # 双语：英文版（原生）+ 中文版（LLM 翻译）
+        # 双语：英文版（原生）+ 中文版（整篇 LLM 翻译，比逐字段产中文更稳）
         from ..synthesis.bilingual import translate_to_zh
 
         brief_en = render_daily_report_md(daily, lang="en")

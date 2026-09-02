@@ -22,17 +22,16 @@ def _chat(settings: Settings, messages: list[dict], max_tokens: int = 1300) -> s
 
 
 def write_feature(items, settings: Settings) -> str:
-    """items: list[DailyItem]，用其 headline/summary/category 生成跨事件深度报道。"""
+    """items: list[DailyItem]。返回英文深度报道正文（中文版由整篇翻译处理）。"""
     if not items:
         return ""
     if settings.llm_provider not in ("openai", "anthropic", "ollama", "openrouter") or not settings.llm_api_key or not settings.llm_model:
         return _rule_feature(items)
     try:
-        ctx = "\n\n".join(f"[{it.category}] {it.headline}\n{it.summary[:500]}" for it in items[:8])
+        ctx = "\n\n".join(f"[{it.category}] {it.headline}\n{it.summary[:400]}" for it in items[:8])
         user = (
             f"Today's top news events (headline + summary):\n\n{ctx}\n\n"
-            "Now write the feature article (3-5 paragraphs) that connects these related events into one narrative. "
-            "Only output the article body."
+            "Write the feature article (3-5 paragraphs) connecting these events into one narrative. Only output the article body."
         )
         return _chat(settings, [{"role": "system", "content": _SYSTEM}, {"role": "user", "content": user}]).strip()
     except Exception:  # noqa: BLE001
@@ -40,9 +39,6 @@ def write_feature(items, settings: Settings) -> str:
 
 
 def _rule_feature(items) -> str:
-    cats = "、".join(sorted({it.category for it in items}))
     heads = "；".join(it.headline for it in items[:5])
-    return (
-        f"今日共 {len(items)} 条事件，涵盖 {cats}。最受关注：{heads}。"
-        "（未配置 LLM 或生成失败，此为规则兜底：配置 LLM_PROVIDER / LLM_API_KEY 后即可生成跨事件深度叙事。）"
-    )
+    tip = "（未配置 LLM 或生成失败，此为规则兜底。）"
+    return f"(rule fallback) {len(items)} events: {heads}. {tip}"

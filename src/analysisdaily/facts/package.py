@@ -11,6 +11,11 @@ from ..models.report import BackgroundData, FactStatement, PerspectivesDivergenc
 class EventPackage:
     cluster: EventCluster
     headline: str
+    headline_zh: str = ""
+    summary_zh: str = ""
+    left_focus_zh: str = ""
+    right_focus_zh: str = ""
+    blindspot_zh: str = ""
     verified_facts: list[FactStatement] = field(default_factory=list)
     divergence: PerspectivesDivergence = field(default_factory=PerspectivesDivergence)
     background: BackgroundData = field(default_factory=BackgroundData)

@@ -26,6 +26,7 @@ _SYSTEM = (
     "3) source field values MUST be chosen from the provided source names verbatim. "
     "    category MUST be one of: 国际政治, 经济与市场, 科技与AI, 气候与环境, 安全与冲突, 社会与公共政策, 文化体育. "
     "4) Write in the SAME language as the source text (mostly English). "
+
     "JSON schema: {\"category\": str, \"headline\": str, \"summary\": str, \"left_leaning_focus\": str, \"right_leaning_focus\": str, "
     "\"blindspot_warning\": str, \"facts\": [{\"text\": str, \"sources\": [str]}]}"
 )
@@ -111,6 +112,11 @@ class LLMFactEngine:
         summary = str(obj.get("summary", "")).strip()
         if not summary:
             summary = " ".join(f.text for f in facts)[:600]
+        headline_zh = str(obj.get("headline_zh", "")).strip()
+        summary_zh = str(obj.get("summary_zh", "")).strip()
+        left_zh = str(obj.get("left_leaning_focus_zh", "")).strip()
+        right_zh = str(obj.get("right_leaning_focus_zh", "")).strip()
+        blind_zh = str(obj.get("blindspot_warning_zh", "")).strip()
         headline = str(obj.get("headline", "")).strip().rstrip("!?")
         if not headline or "!" in headline:
             headline = cluster.headline_hint.rstrip("!?")
@@ -127,6 +133,11 @@ class LLMFactEngine:
             divergence=div,
             background=BackgroundData(source=self._context_source(cluster), key_stat="", url=""),
             summary=summary,
+            headline_zh=headline_zh,
+            summary_zh=summary_zh,
+            left_focus_zh=left_zh,
+            right_focus_zh=right_zh,
+            blindspot_zh=blind_zh,
             engine=self.name,
         )
 

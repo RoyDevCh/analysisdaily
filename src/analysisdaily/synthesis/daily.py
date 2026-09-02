@@ -26,9 +26,14 @@ class DailyItem(BaseModel):
     event_id: str
     category: str
     summary: str = ""
+    summary_zh: str = ""
     left_focus: str = ""
+    left_zh: str = ""
     right_focus: str = ""
+    right_zh: str = ""
     blindspot: str = ""
+    blindspot_zh: str = ""
+    headline_zh: str = ""
     single_source: bool = False
     source_count: int = 0
     coverage: str = ""
@@ -52,6 +57,8 @@ class DailyReport(BaseModel):
     reporting_gaps: list[str] = Field(default_factory=list)
     generated_at: str = ""
     feature: str = ""
+    feature_zh: str = ""
+    lead_zh: str = ""
     tracking: list[str] = Field(default_factory=list)
 
 
@@ -82,6 +89,15 @@ def _to_item(r: StructuredReport, source_weights: dict | None = None) -> DailyIt
 def _item_score(it: DailyItem) -> tuple:
     # 印证度：来源多且非"单方"靠前
     return (-it.source_count, it.single_source)
+
+
+def _lead_paragraph_zh(daily: DailyReport) -> str:
+    cats = "、".join(s.category for s in daily.sections[:3])
+    top = daily.top_stories[0].headline_zh or daily.top_stories[0].headline if daily.top_stories else ""
+    tail = (daily.top_stories[1].headline_zh or daily.top_stories[1].headline) if len(daily.top_stories) > 1 else ""
+    if daily.top_stories and len(daily.top_stories) > 1:
+        return (f"今日共汇总 {daily.event_count} 条事件，来自 {daily.source_total} 篇报道，聚焦 {cats} 等领域。最受关注：{top}；{tail}。已过滤情绪词并仅保留带引文接地的事实。")
+    return f"今日共汇总 {daily.event_count} 条事件，来自 {daily.source_total} 篇报道，聚焦 {cats} 等领域。"
 
 
 def _lead_paragraph(daily: DailyReport) -> str:
@@ -128,23 +144,30 @@ def build_daily_report(reports: list[StructuredReport], generated_at: str, max_i
         generated_at=generated_at,
     )
     daily.lead_paragraph = _lead_paragraph(daily)
+    daily.lead_zh = _lead_paragraph_zh(daily)
     return daily
 
 
-def _item_line(it: DailyItem) -> str:
+def _item_line(it: DailyItem, lang: str = "zh") -> str:
+    en = lang == "en"
     flag = " ⚠单方" if it.single_source else ""
-    lines = [f"### {it.headline}{flag}（{it.source_count} 来源 | {it.coverage}）"]
-    if it.summary:
-        lines.append(it.summary.strip())
+    head = it.headline_zh if (not en and it.headline_zh) else it.headline
+    body = it.summary_zh if (not en and it.summary_zh) else it.summary
+    lines = [f"### {head}{flag}（{it.source_count} 来源 | {it.coverage}）"]
+    if body:
+        lines.append(body.strip())
     if it.preferred_sources:
         lines.append("  \U0001f4cc 偏好信源：" + "、".join(it.preferred_sources))
     focus = []
-    if it.left_focus:
-        focus.append(f"左翼：{it.left_focus}")
-    if it.right_focus:
-        focus.append(f"右翼：{it.right_focus}")
-    if it.blindspot:
-        focus.append(f"盲区：{it.blindspot}")
+    left = it.left_zh if (not en and it.left_zh) else it.left_focus
+    right = it.right_zh if (not en and it.right_zh) else it.right_focus
+    blind = it.blindspot_zh if (not en and it.blindspot_zh) else it.blindspot
+    if left:
+        focus.append(f"左翼：{left}")
+    if right:
+        focus.append(f"右翼：{right}")
+    if blind:
+        focus.append(f"盲区：{blind}")
     if focus:
         lines.append("  " + "；".join(focus))
     return "\n".join(lines)
@@ -154,10 +177,12 @@ def render_daily_report_md(daily: DailyReport, lang: str = "zh") -> str:
     en = lang == "en"
     _cat = lambda c: (CATEGORY_EN.get(c, c) if en else c)
     title = f"Neutral Daily Report · {daily.date.isoformat()}" if en else f"中立客观日报 · {daily.date.isoformat()}"
-    lines = [f"# {title}", "", daily.lead_paragraph, ""]
-    if daily.feature:
+    lead = daily.lead_zh if (not en and daily.lead_zh) else daily.lead_paragraph
+    feat = daily.feature_zh if (not en and daily.feature_zh) else daily.feature
+    lines = [f"# {title}", "", lead, ""]
+    if feat:
         lines.append("## 深度报道")
-        for para in daily.feature.split("\n\n"):
+        for para in feat.split("\n\n"):
             if para.strip():
                 lines.append(para.strip())
         lines.append("")
@@ -168,12 +193,12 @@ def render_daily_report_md(daily: DailyReport, lang: str = "zh") -> str:
     if daily.top_stories:
         lines.append("## 今日要点")
         for it in daily.top_stories:
-            lines.append(_item_line(it))
+            lines.append(_item_line(it, lang))
         lines.append("")
     for sec in daily.sections:
         lines.append(f"## {_cat(sec.category)}（{len(sec.items)}）")
         for it in sec.items:
-            lines.append(_item_line(it))
+            lines.append(_item_line(it, lang))
         lines.append("")
     if daily.more_items:
         lines.append(f"## 其它事件（{len(daily.more_items)}）")
