@@ -141,8 +141,8 @@
   },
   {
     "thread_id": "thread-video-us-energy-chief-in-venezuela-to-si",
-    "title": "Video: US energy chief in Venezuela to sign controversial oil deal",
-    "category": "气候与环境",
+    "title": "US Energy Secretary signs oil deal in Venezuela covering 65 billion barrels of reserves",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260902",
@@ -157,6 +157,13 @@
         "headline": "Video: US energy chief in Venezuela to sign controversial oil deal",
         "summary": "US Energy Secretary arrived in La Guaira for the signing of a deal that will control much of Venezuela s oil reserves.",
         "category": "气候与环境"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-video-us-energy-chief-01",
+        "headline": "US Energy Secretary signs oil deal in Venezuela covering 65 billion barrels of reserves",
+        "summary": "US Energy Secretary Chris Wright arrived in La Guaira, Venezuela to sign a controversial oil agreement granting the United States control over significant portions of Venezuela's oil reserves, estimated at 65 billion barrels. Analysts expressed uncertainty about the deal's implications, while former Venezuelan officials criticized it as colonialist. Industry experts stated that meaningful oil prod",
+        "category": "经济与市场"
       }
     ]
   },
@@ -183,7 +190,7 @@
   },
   {
     "thread_id": "thread-nepal-floods-father-borrows-13-walks-for",
-    "title": "Nepal floods: Father borrows $13, walks for days to search for missing son",
+    "title": "Search operations continue in Nepal one week after catastrophic floods, with debris and missing persons reported",
     "category": "气候与环境",
     "events": [
       {
@@ -191,6 +198,13 @@
         "event_cluster_id": "20260902-nepal-floods-father-borrows-01",
         "headline": "Nepal floods: Father borrows $13, walks for days to search for missing son",
         "summary": "Poor, frustrated and angry, Talka Sada is losing hope after trekking across Nepal s flood-hit areas in his search.",
+        "category": "气候与环境"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-nepal-search-operations-continue-01",
+        "headline": "Search operations continue in Nepal one week after catastrophic floods, with debris and missing persons reported",
+        "summary": "Search and rescue operations continued in Nepal roughly one week after flash floods struck parts of Nepal and Tibet. The UN estimated the disaster left at least 2.2 million tonnes of debris according to a preliminary assessment. Rescuers worked to locate people trapped in hydropower plants in the flood-affected regions. Individual accounts described families traveling on foot for days to search fo",
         "category": "气候与环境"
       }
     ]
@@ -253,8 +267,8 @@
   },
   {
     "thread_id": "thread-palestinian-artist-saint-levant-delays-t",
-    "title": "Palestinian artist Saint Levant delays tour amid US visa complications",
-    "category": "国际政治",
+    "title": "Trump-era visa and immigration policy draws mixed international and domestic reactions",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -269,6 +283,13 @@
         "headline": "Palestinian artist Saint Levant delays tour amid US visa complications",
         "summary": "Visa cancellations or delays have forced international artists to rethink US tours under President Donald Trump.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-palestinian-artist-saint-levant-01",
+        "headline": "Trump-era visa and immigration policy draws mixed international and domestic reactions",
+        "summary": "Palestinian artist Saint Levant postponed a tour due to US visa complications, according to Al Jazeera, which linked the issue to international artists facing visa cancellations or delays under President Donald Trump. The Washington Post reported that Iran retaliated with missiles and drones after US strikes, defying Trump's warning of further escalation. The New York Post reported the death of Ha",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -295,8 +316,8 @@
   },
   {
     "thread_id": "thread-turn-your-rising-home-equity-into-cash-y",
-    "title": "Turn Your Rising Home Equity Into Cash You Can Use",
-    "category": "未分类",
+    "title": "Mortgage Lenders Promote Home Equity Options as the U.S. Open Highlights a New Cocktail",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260902",
@@ -311,6 +332,20 @@
         "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
         "summary": "Get to know the Moët Serve and how the cocktail battles with the Honey Deuce at the U.S. Open tennis tournament",
         "category": "未分类"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-experts-best-cash-back-01",
+        "headline": "Articles cover cash back credit cards, home equity options, and a Babylon Bee satire roundup",
+        "summary": "CNN published two articles: one recommending a top cash back credit card for 2022 and another outlining options for homeowners seeking to extract cash from their homes. The New York Post published a curated list of jokes and stories from the satirical site the Babylon Bee, including a headline about former President Donald Trump naming Harrison Ford the second-greatest president in U.S. history. T",
+        "category": "经济与市场"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-turn-your-rising-home-01",
+        "headline": "Mortgage Lenders Promote Home Equity Options as the U.S. Open Highlights a New Cocktail",
+        "summary": "CNN published two articles encouraging readers to use rising home equity through home equity loans. Forbes reported on a new Moët & Chandon cocktail called the Moët Serve being offered alongside the signature Honey Deuce at the U.S. Open tennis tournament. The CNN pieces focus on financial products and consumer borrowing, while the Forbes piece covers a lifestyle and sports hospitality offering. S",
+        "category": "经济与市场"
       }
     ]
   },
@@ -337,7 +372,7 @@
   },
   {
     "thread_id": "thread-zelensky-says-airlines-should-avoid-russ",
-    "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+    "title": "Zelensky warns airlines of Russian airspace risks as Ukraine expands drone operations",
     "category": "安全与冲突",
     "events": [
       {
@@ -352,6 +387,13 @@
         "event_cluster_id": "20260902-zelensky-airlines-avoid-russian-01",
         "headline": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
         "summary": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-zelensky-airlines-avoid-russian-01",
+        "headline": "Zelensky warns airlines of Russian airspace risks as Ukraine expands drone operations",
+        "summary": "Ukrainian President Volodymyr Zelensky stated that Russian airspace is becoming unsafe for commercial airlines due to an increasing number of Ukrainian attack drones operating inside Russia, though he said Ukraine does not intend to target civilian flights. Zelensky called on the aviation industry to take these drone operations into account when planning routes. The BBC report noted that Chinese a",
         "category": "安全与冲突"
       }
     ]
@@ -421,7 +463,7 @@
   },
   {
     "thread_id": "thread-he-was-always-a-bit-of-a-groundbreaker-d",
-    "title": "‘He was always a bit of a groundbreaker’: David Bowie enters a new dimension in ‘extended reality’ documentary",
+    "title": "David Bowie 3D纪录片《Unseen Unheard》于威尼斯电影节沉浸式单元首映",
     "category": "文化体育",
     "events": [
       {
@@ -436,6 +478,13 @@
         "event_cluster_id": "20260902-he-always-bit-groundbreaker-01",
         "headline": "‘He was always a bit of a groundbreaker’: David Bowie enters a new dimension in ‘extended reality’ documentary",
         "summary": "Hundreds of unseen images of the star feature at the Venice film festival, alongside virtual worlds exploring wildfires, wolves and the birth of stars David Bowie shares the bill with starmen, firefighters and Walt Disney wolves at the 10th anniversary edition of Venice Immersive, the film festival’s pioneering showcase for new forms of storytelling. David Bowie: Unseen Unheard – a 3D documentary ",
+        "category": "文化体育"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-he-always-bit-groundbreaker-01",
+        "headline": "David Bowie 3D纪录片《Unseen Unheard》于威尼斯电影节沉浸式单元首映",
+        "summary": "第10届威尼斯电影节沉浸式单元（Venice Immersive）在Lazzaretto Vecchio岛开幕，展示69件XR（扩展现实）作品，其中包括David Bowie 3D纪录片《Unseen Unheard》，含数百张此前未公开的图片。同一单元还涵盖涉及野火、狼群及恒星诞生等主题的虚拟世界作品。该单元主办方强调，10周年并非回顾展，而是持续关注新兴技术与传统叙事电影结合的项目。\n\n注：所提供来源对此事件主题存在明显分歧——《卫报》报道威尼斯沉浸式单元的Bowie纪录片首映，而《纽约邮报》则报道一名纽约共和党国会工作人员在Staten Island遭雷击生还。两者并非同一事件。",
         "category": "文化体育"
       }
     ]
@@ -633,6 +682,13 @@
         "headline": "‘We had an ordinary life’: Iran fisherwoman navigates uncertainty of war",
         "summary": "An Iranian fisherwoman explains how her idyllic seaside life was shattered when the US and Israel began their bombing.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-we-had-ordinary-life-01",
+        "headline": "‘We had an ordinary life’: Iran fisherwoman navigates uncertainty of war",
+        "summary": "An Iranian fisherwoman explains how her idyllic seaside life was shattered when the US and Israel began their bombing.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -694,8 +750,8 @@
   },
   {
     "thread_id": "thread-uss-abraham-lincoln-docks-in-thailand-af",
-    "title": "USS Abraham Lincoln Docks in Thailand After Extended Deployment",
-    "category": "安全与冲突",
+    "title": "USS Abraham Lincoln docks near Pattaya, Thailand with 5,000 US sailors",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -703,12 +759,19 @@
         "headline": "USS Abraham Lincoln Docks in Thailand After Extended Deployment",
         "summary": "The USS Abraham Lincoln docked near Pattaya, Thailand, on Wednesday. Approximately 5,000 US sailors arrived after an extended period at sea. Sources diverge on the exact duration of the deployment, citing figures between 250 and 270 days. Some reports highlight concerns regarding crew mental health and living conditions. The arrival is expected to provide a business boost to the local area.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-5-000-us-sailors-01",
+        "headline": "USS Abraham Lincoln docks near Pattaya, Thailand with 5,000 US sailors",
+        "summary": "The USS Abraham Lincoln aircraft carrier arrived at the port of Laem Chabang near Pattaya, Thailand, on Wednesday with approximately 5,000 US sailors aboard. The crew had spent a record 250 days at sea prior to the stop. Pattaya officials expect the visit to provide a business boost to the local economy. The port location is close to Pattaya, an area known for its nightlife and sex tourism. Source",
+        "category": "国际政治"
       }
     ]
   },
   {
     "thread_id": "thread-joshua-wong-pleads-guilty-in-hong-kong-n",
-    "title": "Joshua Wong Pleads Guilty in Hong Kong National Security Case",
+    "title": "Hong Kong activist Joshua Wong pleads guilty to foreign collusion charge",
     "category": "国际政治",
     "events": [
       {
@@ -717,12 +780,19 @@
         "headline": "Joshua Wong Pleads Guilty in Hong Kong National Security Case",
         "summary": "Hong Kong activist Joshua Wong pleaded guilty on Wednesday to conspiring to seek foreign sanctions against Hong Kong and China. Wong is 29 years old and is already imprisoned on subversion charges. The current charge involves collusion with foreign entities and carries a maximum sentence of life imprisonment. Prosecutors allege Wong worked with exiled activist Nathan Law to urge foreign powers to ",
         "category": "国际政治"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-what-we-know-about-01",
+        "headline": "Hong Kong activist Joshua Wong pleads guilty to foreign collusion charge",
+        "summary": "Joshua Wong, a 29-year-old Hong Kong pro-democracy activist already imprisoned on subversion charges under the National Security Law, pleaded guilty to a second national security charge of conspiring to collude with foreign powers. Prosecutors allege Wong worked with exiled activist Nathan Law to urge foreign governments to impose sanctions, blockades, and other hostile measures against China and ",
+        "category": "国际政治"
       }
     ]
   },
   {
     "thread_id": "thread-germany-attributes-leipzig-airport-drone",
-    "title": "Germany Attributes Leipzig Airport Drone Attack to Russia",
+    "title": "Germany blames Russia for attempted drone attack at Leipzig/Halle Airport",
     "category": "安全与冲突",
     "events": [
       {
@@ -730,6 +800,13 @@
         "event_cluster_id": "20260902-germany-russia-behind-attempted-01",
         "headline": "Germany Attributes Leipzig Airport Drone Attack to Russia",
         "summary": "The German government announced on Tuesday that Russia was responsible for an attempted drone attack at Leipzig/Halle airport on August 4. An explosive-laden drone was discovered near Ukrainian cargo aircraft. Germany is closing a Russian consulate in Bonn and terminating the contract for the Russian House in Berlin. Sources diverge on the specific diplomatic measures, with Fox News providing deta",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-germany-russia-behind-attempted-01",
+        "headline": "Germany blames Russia for attempted drone attack at Leipzig/Halle Airport",
+        "summary": "The German government said on Tuesday that Russia was responsible for an attempted drone attack at Leipzig/Halle Airport on 4 August, in which an explosives-laden drone was found near Ukrainian cargo aircraft. The explosive failed to detonate due to a faulty detonator, and officials also reported a second drone may have struck a nearby cargo aircraft. In response, Germany announced the closure of ",
         "category": "安全与冲突"
       }
     ]
@@ -757,8 +834,8 @@
   },
   {
     "thread_id": "thread-apple-and-google-rename-lake-ontario-to-",
-    "title": "Apple and Google Rename Lake Ontario to Lake America Following Executive Order",
-    "category": "国际政治",
+    "title": "Apple Maps renames Lake Ontario to Lake America; MapQuest tops download charts after refusing",
+    "category": "科技与AI",
     "events": [
       {
         "date": "20260902",
@@ -766,6 +843,13 @@
         "headline": "Apple and Google Rename Lake Ontario to Lake America Following Executive Order",
         "summary": "President Donald Trump signed an executive order on August 27 renaming Lake Ontario to Lake America during a trade dispute with Canada. Apple Maps and Google Maps updated their platforms to reflect this change. MapQuest refused to rename the lake and posted its defiance on social media. Consequently, MapQuest became the most downloaded navigation app on the US Apple App Store. Sources agree on the",
         "category": "国际政治"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-apple-maps-renames-lake-01",
+        "headline": "Apple Maps renames Lake Ontario to Lake America; MapQuest tops download charts after refusing",
+        "summary": "Apple Maps has renamed Lake Ontario to Lake America following an executive order signed by US President Donald Trump on 27 August directing federal agencies to use the new name amid a trade dispute with Canada. Google Maps had previously made the same change. MapQuest publicly refused to rename the lake and rose to the number-one position on the US Apple App Store navigation chart. The four source",
+        "category": "科技与AI"
       }
     ]
   },
@@ -785,7 +869,7 @@
   },
   {
     "thread_id": "thread-canadian-prime-minister-mark-carney-resp",
-    "title": "Canadian Prime Minister Mark Carney Responds to US Tariffs",
+    "title": "Canadian PM Carney criticizes US officials and prepares retaliatory tariffs amid escalating trade war with Trump",
     "category": "国际政治",
     "events": [
       {
@@ -793,6 +877,13 @@
         "event_cluster_id": "20260902-mark-carney-tells-us-01",
         "headline": "Canadian Prime Minister Mark Carney Responds to US Tariffs",
         "summary": "Canadian Prime Minister Mark Carney urged US officials to be serious regarding escalating trade tensions. Canada plans to retaliate against US tariffs with its own duties on US goods. Carney vowed to match US tariffs dollar for dollar. The Prime Minister criticized US officials for insulting Canada. Sources diverge on the specific phrasing used by Carney, citing both 'start being serious' and 'sto",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-mark-carney-tells-us-01",
+        "headline": "Canadian PM Carney criticizes US officials and prepares retaliatory tariffs amid escalating trade war with Trump",
+        "summary": "Canadian Prime Minister Mark Carney publicly criticized US officials, urging them to \"start being serious\" and \"stop throwing shade\" as trade tensions between Canada and the United States escalated. Carney condemned insults directed at Canada as \"beneath their office.\" Canada is set to impose retaliatory tariffs on US goods in response to sweeping tariffs levied by President Donald Trump. Carney v",
         "category": "国际政治"
       }
     ]
@@ -820,7 +911,7 @@
   },
   {
     "thread_id": "thread-keir-starmer-announces-departure-from-pa",
-    "title": "Keir Starmer Announces Departure from Parliament",
+    "title": "Former UK Prime Minister Keir Starmer Announces Resignation from Parliament",
     "category": "国际政治",
     "events": [
       {
@@ -829,13 +920,20 @@
         "headline": "Keir Starmer Announces Departure from Parliament",
         "summary": "Former UK Prime Minister Keir Starmer announced his intention to leave Parliament. Starmer previously resigned from his position as prime minister in July. This decision marks the end of his domestic political career. The provided texts also mention Benjamin Netanyahu's upcoming re-election in Israel.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-keir-starmer-former-uk-01",
+        "headline": "Former UK Prime Minister Keir Starmer Announces Resignation from Parliament",
+        "summary": "Former UK Prime Minister Keir Starmer announced he will resign from Parliament. Starmer had previously stepped down as prime minister in July. The decision marks the end of his domestic political career. Two of the three provided sources focus on Starmer's resignation, while the third addresses Israeli Prime Minister Netanyahu and does not relate to Starmer's announcement.",
+        "category": "国际政治"
       }
     ]
   },
   {
     "thread_id": "thread-u-s-and-iran-exchange-military-strikes",
-    "title": "U.S. and Iran Survey the Damage After a Night of Intense Strikes",
-    "category": "安全与冲突",
+    "title": "US and Iran Exchange Strikes Near Strait of Hormuz, Including Fatal Bombing at Iranian Wedding",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -850,6 +948,13 @@
         "headline": "U.S. and Iran Survey the Damage After a Night of Intense Strikes",
         "summary": "A still from a video provided by the Iranian Red Crescent rescue service showed damage in Kuhestak, southern Iran, on Wednesday.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-what-do-we-know-01",
+        "headline": "US and Iran Exchange Strikes Near Strait of Hormuz, Including Fatal Bombing at Iranian Wedding",
+        "summary": "The US and Iran exchanged strikes overnight, with US bombing striking a residential building and telecom tower in Sirik, Iran, killing people at a wedding. Iran and the US also launched additional strikes in the Hormuz area. Iranian state media reported damage in Kuhestak, southern Iran. Iranian forces fired on Gulf neighbors after the US renewed strikes, ending a monthlong lull in fighting. Separ",
+        "category": "国际政治"
       }
     ]
   },
@@ -904,7 +1009,7 @@
   },
   {
     "thread_id": "thread-guinea-bissau-voters-approve-new-constit",
-    "title": "Guinea-Bissau Voters Approve New Constitution",
+    "title": "Guinea-Bissau voters approve new constitution expanding presidential powers",
     "category": "国际政治",
     "events": [
       {
@@ -913,12 +1018,19 @@
         "headline": "Guinea-Bissau Voters Approve New Constitution",
         "summary": "Voters in Guinea-Bissau approved a new constitution that expands the powers of the president. Provisional results indicate a 70% approval rate for the changes. The reforms include a reduction in parliament seats and new rules for presidential candidates. These changes occur before elections scheduled for December. The sources agree on the expansion of power but differ on whether the reforms follow",
         "category": "国际政治"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-guinea-bissau-referendum-approves-01",
+        "headline": "Guinea-Bissau voters approve new constitution expanding presidential powers",
+        "summary": "Guinea-Bissau voters approved a new constitution that expands presidential powers, according to provisional results cited by The Guardian showing roughly 70% support. BBC World notes the reforms follow last year's coup and come ahead of a proposed return to civilian rule. The Guardian reports the changes include fewer seats in parliament and new rules on presidential candidates ahead of December e",
+        "category": "国际政治"
       }
     ]
   },
   {
     "thread_id": "thread-king-haakon-viii-takes-oath-in-norway",
-    "title": "King Haakon VIII Takes Oath in Norway",
+    "title": "Norway's new King Haakon sworn in at parliament as Queen Mette-Marit absent",
     "category": "国际政治",
     "events": [
       {
@@ -926,6 +1038,13 @@
         "event_cluster_id": "20260902-norway-s-king-haakon-01",
         "headline": "King Haakon VIII Takes Oath in Norway",
         "summary": "King Haakon VIII swore to uphold the constitution in the parliament in Oslo. This event marks the first major institutional step of his reign. Queen Mette-Marit did not attend the ceremony. The late King Harald V lies in state at the Royal Palace.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-norway-s-king-haakon-01",
+        "headline": "Norway's new King Haakon sworn in at parliament as Queen Mette-Marit absent",
+        "summary": "Norway's new King Haakon took the oath of office in parliament in Oslo, marking the first major institutional step of his reign. The ceremony took place while his father, former King Harald V, lay in state at the Royal Palace. Queen Mette-Marit, the king's wife, did not attend due to her recovery from a lung transplant. Sources agree on the oath and location but provide differing details about the",
         "category": "国际政治"
       }
     ]
@@ -960,7 +1079,7 @@
   },
   {
     "thread_id": "thread-us-and-iran-exchange-airstrikes-in-middl",
-    "title": "US and Iran Exchange Airstrikes in Middle East",
+    "title": "US launches fresh strikes on Iranian Revolutionary Guard targets, Iran retaliates against US bases in Middle East",
     "category": "安全与冲突",
     "events": [
       {
@@ -969,12 +1088,19 @@
         "headline": "US and Iran Exchange Airstrikes in Middle East",
         "summary": "The US Central Command launched airstrikes against Islamic Revolutionary Guard Corps (IRGC) targets in Iran. Iran responded with strikes against US interests in Bahrain, Kuwait, Jordan, and Iraq. US embassies in Jerusalem, Jordan, and Qatar issued warnings to American citizens regarding potential escalation. The US cited IRGC attacks on commercial shipping and service members as the cause. The Gua",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-us-iran-exchange-more-01",
+        "headline": "US launches fresh strikes on Iranian Revolutionary Guard targets, Iran retaliates against US bases in Middle East",
+        "summary": "The US military began striking Islamic Revolutionary Guard Corps (IRGC) targets in Iran around 12 p.m. ET on Tuesday, according to US Central Command. Iran retaliated with ballistic missile strikes against US bases and interests in Bahrain, Kuwait, Jordan and Iraq, including an attack on Camp Titin in Jordan, according to Iran's Revolutionary Guards. Multiple US embassies in the Middle East, inclu",
+        "category": "安全与冲突"
       }
     ]
   },
   {
     "thread_id": "thread-developments-regarding-west-bank-settlem",
-    "title": "Developments Regarding West Bank Settlements and Mosques",
+    "title": "UK pledges policy reset regarding Israel and West Bank settlements amid reports of mosque attacks",
     "category": "国际政治",
     "events": [
       {
@@ -982,6 +1108,13 @@
         "event_cluster_id": "20260902-worshippers-west-bank-tear-01",
         "headline": "Developments Regarding West Bank Settlements and Mosques",
         "summary": "Palestinian authorities report that Israeli forces and settlers violated 13 West Bank mosques this year. Separately, UK Foreign Secretary Ed Miliband announced a reset of British policy toward Israel. Miliband stated he will seek to prevent UK companies from assisting in the construction of West Bank settlements. He specifically mentioned measures regarding the E1 plan. The sources diverge in focu",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-worshippers-west-bank-tear-01",
+        "headline": "UK pledges policy reset regarding Israel and West Bank settlements amid reports of mosque attacks",
+        "summary": "Palestinian authorities reported that Israeli forces and settlers violated 13 West Bank mosques in 2024, according to Al Jazeera. UK Foreign Secretary Ed Miliband told the House of Commons he would pursue a \"comprehensive reset\" of British policy toward Israel, including measures aimed at stopping British companies from contributing to settlement construction. Miliband specifically referenced effo",
         "category": "国际政治"
       }
     ]
@@ -1079,7 +1212,7 @@
   },
   {
     "thread_id": "thread-u-s-military-strikes-iran",
-    "title": "U.S. Military Strikes Iran",
+    "title": "U.S. Conducts Military Strikes on Iran as Tehran Retaliates",
     "category": "安全与冲突",
     "events": [
       {
@@ -1088,12 +1221,19 @@
         "headline": "U.S. Military Strikes Iran",
         "summary": "The U.S. military conducted strikes on targets in Iran on Tuesday. Iran responded by firing missiles and drones at regional sites. President Trump stated that the strikes were not intended to force Iran into a deal. Sources diverge on the strategic intent behind the military action.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-u-s-military-strikes-01",
+        "headline": "U.S. Conducts Military Strikes on Iran as Tehran Retaliates",
+        "summary": "The U.S. military struck targets in Iran on Tuesday, and Iran responded by firing missiles and drones at various sites across the region. NPR frames the strikes and Iranian retaliation as an escalation in an ongoing intermittent war. Forbes reports that Trump stated he 'couldn't care less' about using the strikes to pressure Iran into a deal. Sources diverge on the U.S. strategic intent behind the",
+        "category": "安全与冲突"
       }
     ]
   },
   {
     "thread_id": "thread-unrelated-reports-on-us-open-and-grand-c",
-    "title": "Unrelated reports on US Open and Grand Canyon floods",
+    "title": "News articles cover varied topics including tennis, baseball, and a Grand Canyon hiking incident",
     "category": "社会与公共政策",
     "events": [
       {
@@ -1101,6 +1241,13 @@
         "event_cluster_id": "20260902-alex-eala-cruises-us-01",
         "headline": "Unrelated reports on US Open and Grand Canyon floods",
         "summary": "Alex Eala, Madison Keys, Coco Gauff, and Taylor Fritz advanced to the US Open second round. Alexander Zverev and Gaël Monfils also progressed in the tournament. Separately, a second hiker was found dead following flash floods in the Grand Canyon on Saturday. Search efforts continue for a missing friend of the deceased. The sources report on entirely different events.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-alex-eala-cruises-us-01",
+        "headline": "News articles cover varied topics including tennis, baseball, and a Grand Canyon hiking incident",
+        "summary": "The provided articles cover three distinct events: the US Open tennis tournament where Alex Eala and top seed Alexander Zverev advanced, a New York Yankees decision regarding outfielder Trent Grisham, and the discovery of a second deceased hiker following flash floods in the Grand Canyon. The tennis report from Al Jazeera notes that several American players and Gael Monfils also progressed. The Ne",
         "category": "社会与公共政策"
       }
     ]
@@ -1135,7 +1282,7 @@
   },
   {
     "thread_id": "thread-impacts-of-ai-on-education-and-persuasio",
-    "title": "Impacts of AI on Education and Persuasion",
+    "title": "Research highlights mixed effects of AI on students and AI persuasion capabilities exceeding human experts",
     "category": "科技与AI",
     "events": [
       {
@@ -1143,6 +1290,20 @@
         "event_cluster_id": "20260902-faster-homework-poor-exam-01",
         "headline": "Impacts of AI on Education and Persuasion",
         "summary": "AI is increasing in classroom use, though its effect on learning depends on student usage patterns. Some students report faster homework completion alongside poorer exam results. Separate research indicates AI can be more persuasive than expert human persuaders. The sources diverge in focus, with one addressing academic performance and the other addressing psychological influence.",
+        "category": "科技与AI"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-nigerian-anticorruption-agency-sacks-01",
+        "headline": "Nigerian anticorruption agency dismisses 40 staff; University of Sydney staff strike over AI",
+        "summary": "Nigerian anticorruption agency dismisses 40 staff over misconduct allegations. Separately, University of Sydney staff held a 24-hour strike over AI use and job security. Sources cover two unrelated events in different countries.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-faster-homework-poor-exam-01",
+        "headline": "Research highlights mixed effects of AI on students and AI persuasion capabilities exceeding human experts",
+        "summary": "Two recent reports examine different aspects of artificial intelligence's societal impact. One report addresses how AI tools are being adopted in classrooms, noting that effects on student learning outcomes vary based on usage patterns rather than the technology itself. A separate research study indicates that AI systems can be more persuasive than expert-level human persuaders. The sources diverg",
         "category": "科技与AI"
       }
     ]
@@ -1158,6 +1319,132 @@
         "headline": "SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns",
         "summary": "The Supreme Court has ruled that President Trump's ballroom project may continue. And, Army Secretary Dan Driscoll resigns after 18 months on the job. (Image credit: Andrew Harnik)",
         "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-尼泊尔洪水灾害致逾千人死亡-救援转向救济与重建",
+    "title": "尼泊尔洪水灾害致逾千人死亡，救援转向救济与重建",
+    "category": "气候与环境",
+    "events": [
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-nepal-tibet-flood-response-01",
+        "headline": "尼泊尔洪水灾害致逾千人死亡，救援转向救济与重建",
+        "summary": "尼泊尔近日发生的严重洪水灾害已导致超过1,000人死亡，另有数千人失踪。救援行动持续进行中，救援物资正通过空运方式送达偏远村庄。被困的水电站工人的大规模救援工作仍在进行中，一名工人告诉BBC，他在隧道内被洪水追逐了20分钟。尼泊尔经济在吸收洪水造成的损失方面面临困难，《纽约时报》报道灾区房屋被厚厚泥土掩埋。该事件也波及邻国西藏。",
+        "category": "气候与环境"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-埃及西奈半岛巴士事故造成至少21人死亡",
+    "title": "埃及西奈半岛巴士事故造成至少21人死亡",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-bus-crash-egypt-s-01",
+        "headline": "埃及西奈半岛巴士事故造成至少21人死亡",
+        "summary": "一辆客车在埃及南西奈省达哈布至努韦巴公路上发生事故，造成至少21至22人死亡。事故发生于周三，该路段位于西奈半岛东岸，是旅游热门地区。报道显示死者包括约旦公民。来源在死亡人数上有分歧，阿尔贾兹拉报道至少21人，BBC和纽约时报报道至少22人。",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-yankees-pitcher-max-fried-s-return-raise",
+    "title": "Yankees pitcher Max Fried's return raises injury concerns; Jets draft prospects and marriage trends also discussed",
+    "category": "文化体育",
+    "events": [
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-yankees-218-million-ace-01",
+        "headline": "Yankees pitcher Max Fried's return raises injury concerns; Jets draft prospects and marriage trends also discussed",
+        "summary": "Three-time All-Star Max Fried, the New York Yankees' $218 million pitcher, showed a concerning trend in his return from injury, prompting concern from a fellow All-Star pitcher with his own history of elbow injuries. Separately, the New York Post examined potential quarterback draft fits for the New York Jets heading into next April's draft. The New York Post also reported on marriage trends among",
+        "category": "文化体育"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-three-unrelated-news-items-reported-acro",
+    "title": "Three unrelated news items reported across Al Jazeera and Forbes",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-messi-retirement-fifa-ban-01",
+        "headline": "Three unrelated news items reported across Al Jazeera and Forbes",
+        "summary": "Three distinct news items appeared in the provided sources. Al Jazeera reported that Argentine footballer Leandro Paredes faces uncertainty over his international future due to a 10-match ban and Lionel Messi's retirement from Argentina. A separate Al Jazeera article reported a cargo ship sinking after a collision in the Sea of Marmara off Turkiye's Istanbul, with 10 crew members missing and searc",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-bosnian-serb-war-criminal-ratko-mladic-d",
+    "title": "Bosnian Serb war criminal Ratko Mladic dies; reactions highlight unfinished reconciliation in the Balkans",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-mladic-s-death-bosnia-01",
+        "headline": "Bosnian Serb war criminal Ratko Mladic dies; reactions highlight unfinished reconciliation in the Balkans",
+        "summary": "Ratko Mladic, the former Bosnian Serb military commander convicted of genocide and war crimes during the 1990s Bosnian War, has died, prompting renewed discussion of reconciliation in Bosnia and the wider Balkans. DW World framed his death as reopening old wounds and argued that the ideology behind the conflict persists despite the Dayton peace agreement. BBC World coverage focused on a separate l",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-美国航母亚伯拉罕-林肯号抵达泰国港口结束近九个月海上部署",
+    "title": "美国航母亚伯拉罕·林肯号抵达泰国港口结束近九个月海上部署",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-uss-abraham-lincoln-docks-01",
+        "headline": "美国航母亚伯拉罕·林肯号抵达泰国港口结束近九个月海上部署",
+        "summary": "美国航空母舰亚伯拉罕·林肯号在海上连续部署约270天后抵达泰国港口,此前该舰因长期缺乏靠港引发船员生活条件和心理健康问题的报道。福布斯报道称航母已离港超过250天,卫报则称该舰是特朗普对伊朗军事行动的一部分,船上出现自杀未遂等心理健康事件并引发批评。两家媒体均确认航母已抵达泰国港口,但卫报将部署与对伊朗行动相关联,福布斯未提及此政治背景。",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-乌克兰扎波罗热市一学校在地库开学以规避战争风险",
+    "title": "乌克兰扎波罗热市一学校在地库开学以规避战争风险",
+    "category": "社会与公共政策",
+    "events": [
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-ukrainian-children-go-school-01",
+        "headline": "乌克兰扎波罗热市一学校在地库开学以规避战争风险",
+        "summary": "乌克兰扎波罗热市Sichovy Collegium于本周二在地库中开学，该地下空间专为战时安全教学而建造。New York Post的报道主题为英国苏塞克斯公爵夫妇哈里王子与梅根·马克尔为其子女选择每年学费3.5万美元的私立预备学校，文章同时提及查尔斯三世国王于2024年被诊断患癌。两篇报道主题不同，所述事件无关联，来源之间无分歧。",
+        "category": "社会与公共政策"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-以色列在加沙逮捕哈马斯高级指挥官-美国寻求引渡加沙捐助者",
+    "title": "以色列在加沙逮捕哈马斯高级指挥官，美国寻求引渡加沙捐助者",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-us-seeks-gaza-donor-01",
+        "headline": "以色列在加沙逮捕哈马斯高级指挥官，美国寻求引渡加沙捐助者",
+        "summary": "以色列国防军宣布在加沙地带的一次突袭行动中逮捕了哈马斯安全总局局长穆因·阿拉比德，国防部长卡茨发表声明。以色列空军在撤退过程中进行了空袭掩护。以色列方面称没有以军人员伤亡，并表示已摧毁加沙约70%的地区。另据报道，美国正在寻求引渡被关押在西班牙的詹姆斯·弗格·钱伯斯，其被指控资助哈马斯，其妻子警告这将开创危险先例。",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-独立电影与f1意大利大奖赛2026年相关报道概述",
+    "title": "独立电影与F1意大利大奖赛2026年相关报道概述",
+    "category": "文化体育",
+    "events": [
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-how-indie-cinema-beating-01",
+        "headline": "独立电影与F1意大利大奖赛2026年相关报道概述",
+        "summary": "Al Jazeera报道了2026年独立电影院线在与好莱坞竞争中的表现。Forbes则发布了2026年F1意大利大奖赛的赛程安排、比赛时间、排位赛、练习赛及全球电视转播详情。两篇文章主题不同，分别聚焦于独立电影产业和一级方程式赛车赛事，未形成对同一事件的交叉报道。",
+        "category": "文化体育"
       }
     ]
   }
