@@ -186,10 +186,6 @@ def render_daily_report_md(daily: DailyReport, lang: str = "zh") -> str:
             if para.strip():
                 lines.append(para.strip())
         lines.append("")
-    if daily.tracking:
-        lines.append("## " + ("Event Tracking (cross-day timeline)" if en else "事件追踪（跨日时间线）"))
-        lines.extend(daily.tracking)
-        lines.append("")
     if daily.top_stories:
         lines.append("## 今日要点")
         for it in daily.top_stories:
@@ -209,6 +205,10 @@ def render_daily_report_md(daily: DailyReport, lang: str = "zh") -> str:
         lines.append("## 报道盲区")
         for g in daily.reporting_gaps:
             lines.append(f"- {g}")
+        lines.append("")
+    if daily.tracking:
+        lines.append("## " + ("Event Tracking (cross-day timeline)" if en else "事件追踪（跨日时间线）"))
+        lines.extend(daily.tracking)
         lines.append("")
     lines.append("> 生成引擎：规则/LLM 兜底；每条事实均带引文接地；无共分母证据已被过滤。")
     return "\n".join(lines)

@@ -169,7 +169,7 @@
   },
   {
     "thread_id": "thread-video-us-energy-chief-in-venezuela-to-si",
-    "title": "US Energy Secretary signs oil deal in Venezuela covering 65 billion barrels",
+    "title": "US energy secretary visits Venezuela to sign oil deal covering 65 billion barrels",
     "category": "经济与市场",
     "events": [
       {
@@ -227,12 +227,19 @@
         "headline": "US Energy Secretary signs oil deal in Venezuela covering 65 billion barrels",
         "summary": "US Energy Secretary Chris Wright arrived in La Guaira, Venezuela, for the signing of a deal giving the US control over much of Venezuela's oil reserves, estimated at 65 billion barrels. The agreement is described by supporters as a partnership that could generate revenue for both countries and serve as a model for future deals, including potentially with Iran. Critics, including Venezuelan opposit",
         "category": "经济与市场"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-video-us-energy-chief-01",
+        "headline": "US energy secretary visits Venezuela to sign oil deal covering 65 billion barrels",
+        "summary": "US Energy Secretary Chris Wright arrived in La Guaira, Venezuela, for the signing of a deal granting the US control over a significant portion of Venezuela's oil reserves, estimated at 65 billion barrels of crude. The deal has drawn criticism from some Venezuelan groups and analysts, including a former envoy who called it a colonialist fever dream. Industry experts noted that meaningful increases ",
+        "category": "经济与市场"
       }
     ]
   },
   {
     "thread_id": "thread-bus-crash-in-egypt-s-south-sinai-kills-a",
-    "title": "Bus crash on Egypt's Sinai coast kills at least 21",
+    "title": "Bus crash on Egypt's Red Sea coast kills 22",
     "category": "社会与公共政策",
     "events": [
       {
@@ -282,6 +289,13 @@
         "event_cluster_id": "20260902-bus-crash-egypt-s-01",
         "headline": "Bus crash on Egypt's Sinai coast kills at least 21",
         "summary": "A bus crash occurred on the Dahab-Nuweiba road on the eastern coast of the Sinai Peninsula in Egypt's South Sinai governorate. Reports indicate at least 21 to 22 people were killed, with Jordanian nationals reported among the dead. The area is a popular tourist destination. Sources differ on the exact death toll.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-bus-crash-egypt-s-01",
+        "headline": "Bus crash on Egypt's Red Sea coast kills 22",
+        "summary": "A passenger bus crashed on Egypt's Red Sea coast in the South Sinai governorate, killing at least 22 people. The bus was traveling between Dahab and Nuweiba when the accident occurred on Wednesday. Reports indicate that Jordanian nationals were among those killed. Both sources report a death toll of 22 and do not diverge on major details of the incident.",
         "category": "社会与公共政策"
       }
     ]
@@ -547,7 +561,7 @@
   },
   {
     "thread_id": "thread-zelensky-says-airlines-should-avoid-russ",
-    "title": "Putin and Zelenskyy exchange threats as Ukraine expands drone operations into Russia",
+    "title": "Putin and Zelenskyy exchange threats amid ongoing strikes between Russia and Ukraine",
     "category": "安全与冲突",
     "events": [
       {
@@ -626,6 +640,13 @@
         "headline": "Putin and Zelenskyy exchange threats as Ukraine expands drone operations into Russia",
         "summary": "Russian President Vladimir Putin accused Ukrainian President Volodymyr Zelenskyy of terrorism, while Zelenskyy warned that Russian airspace is becoming unsafe for commercial airlines due to increased Ukrainian drone operations. Russia stated it would intensify strikes on Ukraine's energy facilities ahead of winter. Ukrainian officials said there is no intention to directly target civilian flights,",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-putin-zelenskyy-issue-threats-01",
+        "headline": "Putin and Zelenskyy exchange threats amid ongoing strikes between Russia and Ukraine",
+        "summary": "Russian President Vladimir Putin accused Ukrainian President Volodymyr Zelenskyy of terrorism, while Zelenskyy warned foreign airlines against using Russian airspace due to the conflict. Ukraine has escalated its drone operations against Russia, and Moscow said it will increase its attacks on Ukraine. Chinese and Gulf state airlines were reported to still be using Russian airspace. The exchanges o",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -652,8 +673,8 @@
   },
   {
     "thread_id": "thread-norway-s-new-king-haakon-viii-takes-oath",
-    "title": "Articles cover unrelated topics including Norway's new king, stadium plans, retail trends, and Taco Bell dessert",
-    "category": "社会与公共政策",
+    "title": "Two unrelated news items covered in current reports",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -675,6 +696,27 @@
         "headline": "Articles cover unrelated topics including Norway's new king, stadium plans, retail trends, and Taco Bell dessert",
         "summary": "The provided articles do not cover the same event but instead address four separate news items. BBC World reports on Norway's King Harald V lying in state while his son takes an oath as the new king. Forbes covers Tampa Bay Rays' progress toward a new ballpark and the rise of destination retail tied to travel experiences. New York Post reports on Taco Bell launching a $4 nostalgic dessert item. Th",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-six-steps-success-boots-01",
+        "headline": "Multiple unrelated news stories covered in single article batch",
+        "summary": "The provided articles cover several distinct events rather than a single unified event. Forbes reports on new Boots CEO Alex Baldock's appointment, a potential Grammy nomination for Beyoncé's 'Morning Dew (Donk)', and growth in destination retail via The Bicester Collection's travel guides. The Guardian reports that Guinea-Bissau voters approved a new constitution with approximately 70% support, w",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-experts-best-cash-back-01",
+        "headline": "Articles Cover Diverse Topics Including Credit Cards, Home Equity, Skincare, and Reality TV",
+        "summary": "Five articles from CNN and New York Post cover unrelated topics. CNN published two articles about consumer finance: one recommending a cash back credit card for 2022 and another discussing options for obtaining cash from home equity. New York Post published three articles covering skincare recommendations for vitamin C serums, a reality TV personality's comments about a co-star, and a viewer vote ",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-cup-noodles-made-cold-01",
+        "headline": "Two unrelated news items covered in current reports",
+        "summary": "The two articles cover unrelated topics. BBC World reports on a viral Japanese food trend of making instant noodles with cold water, featuring correspondent Kurumi Mori testing the method in Tokyo. New York Post reports on sports media figure Bill Simmons responding to a FanDuel betting controversy. The sources do not overlap in subject matter, and no shared event, timeline, or location connects t",
+        "category": "文化体育"
       }
     ]
   },
@@ -981,7 +1023,7 @@
   },
   {
     "thread_id": "thread-extreme-heat-expected-on-1st-full-weeken",
-    "title": "Charlie Kirk murder suspect pleads not guilty in Utah court",
+    "title": "Charlie Kirk murder suspect pleads not guilty to aggravated murder charge in Utah",
     "category": "安全与冲突",
     "events": [
       {
@@ -1025,13 +1067,20 @@
         "headline": "Charlie Kirk murder suspect pleads not guilty in Utah court",
         "summary": "The suspect in the murder of Charlie Kirk pleaded not guilty to the charges against him. The 23-year-old is charged with aggravated murder, a capital offense in Utah, along with six other counts. A judge cleared the way for a trial that could include the death penalty as a possible sentence.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-charlie-kirk-murder-suspect-01",
+        "headline": "Charlie Kirk murder suspect pleads not guilty to aggravated murder charge in Utah",
+        "summary": "The 22-year-old suspect charged with the murder of Charlie Kirk pleaded not guilty in a Utah court. The suspect faces one count of aggravated murder, a capital offence in Utah, along with six additional counts. A judge cleared the way for the case to proceed toward a potential death penalty trial. The articles diverge on the suspect's age: Al Jazeera identifies the defendant as 22, while the BBC r",
+        "category": "安全与冲突"
       }
     ]
   },
   {
     "thread_id": "thread-how-indie-cinema-is-beating-hollywood-in",
-    "title": "How indie cinema is beating Hollywood in 2026",
-    "category": "未分类",
+    "title": "Independent cinema outpaces Hollywood in 2026 amid backlash over $5,000 San Francisco rental listing",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -1053,6 +1102,13 @@
         "headline": "How indie cinema is beating Hollywood in 2026",
         "summary": "Here's the full 2026 F1 Italian Grand Prix schedule, including race start times, qualifying, practice and global TV broadcast details.",
         "category": "未分类"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-how-indie-cinema-beating-01",
+        "headline": "Independent cinema outpaces Hollywood in 2026 amid backlash over $5,000 San Francisco rental listing",
+        "summary": "Two unrelated topics were covered: independent cinema surpassing Hollywood in 2026, and a backlash against a $5,000 rental listing in San Francisco. The San Francisco listing drew criticism from prospective tenants who called the landlords \"literal demons.\" Sources did not provide further overlapping details on either subject. The two stories are not connected to each other.",
+        "category": "文化体育"
       }
     ]
   },
@@ -1156,7 +1212,7 @@
   },
   {
     "thread_id": "thread-joshua-wong-pleads-guilty-in-hong-kong-n",
-    "title": "Hong Kong pro-democracy activist Joshua Wong pleads guilty in national security collusion case",
+    "title": "Hong Kong pro-democracy activist Joshua Wong pleads guilty to national security charge of colluding with foreign forces",
     "category": "社会与公共政策",
     "events": [
       {
@@ -1228,13 +1284,20 @@
         "headline": "Hong Kong pro-democracy activist Joshua Wong pleads guilty in national security collusion case",
         "summary": "Joshua Wong, a 29-year-old Hong Kong pro-democracy activist, pleaded guilty on Wednesday to conspiring to seek foreign sanctions against Hong Kong and China, a charge under Hong Kong's national security law that carries a maximum sentence of life imprisonment. Prosecutors accuse Wong of working with exiled activist Nathan Law to urge foreign powers to impose sanctions, blockades or other hostile m",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-hong-kong-pro-democracy-01",
+        "headline": "Hong Kong pro-democracy activist Joshua Wong pleads guilty to national security charge of colluding with foreign forces",
+        "summary": "Joshua Wong, a 29-year-old Hong Kong pro-democracy activist, pleaded guilty on Wednesday to conspiring to collude with foreign forces, a national security charge carrying a maximum life sentence. Prosecutors allege Wong worked with exiled activist Nathan Law to urge foreign powers to impose sanctions, blockades or other hostile measures against China and Hong Kong. This is Wong's second national s",
+        "category": "社会与公共政策"
       }
     ]
   },
   {
     "thread_id": "thread-germany-attributes-leipzig-airport-drone",
-    "title": "Germany blames Russia for attempted drone attack at Leipzig/Halle airport, announces consulate closure",
-    "category": "安全与冲突",
+    "title": "Germany blames Russia for drone incident at Leipzig/Halle Airport, closes Russian diplomatic facilities",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -1298,13 +1361,20 @@
         "headline": "Germany blames Russia for attempted drone attack at Leipzig/Halle airport, announces consulate closure",
         "summary": "The German government stated on Tuesday that it holds Russia responsible for an attempted drone attack at Leipzig/Halle Airport in early August, in which an explosives-laden drone was found near a Ukrainian cargo aircraft. German authorities announced countermeasures including the closure of a Russian consulate in Bonn and the termination of the contract for the Russian House cultural center in Be",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-germany-russia-behind-attempted-01",
+        "headline": "Germany blames Russia for drone incident at Leipzig/Halle Airport, closes Russian diplomatic facilities",
+        "summary": "On August 4, an explosive-laden drone was found next to a Ukrainian Antonov cargo aircraft at Leipzig/Halle Airport in eastern Germany; the detonator failed, preventing detonation. On Tuesday, the German government stated it holds Russia responsible for the incident, with Interior Minister Alexander Dobrindt citing forensic evidence and intelligence findings linking Moscow to the attack. German Fo",
+        "category": "国际政治"
       }
     ]
   },
   {
     "thread_id": "thread-nepal-flood-death-toll-exceeds-1-000",
-    "title": "Nepal glacial flood causes deaths and damage in border districts",
-    "category": "气候与环境",
+    "title": "Nepal floods kill over 1,000; UN coordinates relief",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -1347,6 +1417,20 @@
         "headline": "Nepal glacial flood causes deaths and damage in border districts",
         "summary": "A glacial flood devastated Rusawa district near the Nepal-China border, where bodies are being excavated from the mud. In other affected areas, including Devighat in Nuwakot district and Dhunge Bazaar, homes were buried or damaged by mud and debris. Volunteers and police officers packed humanitarian aid and essential supplies for victims. Nepal's economy faces limited capacity to absorb the cost o",
         "category": "气候与环境"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-bodies-excavated-worst-flood-01",
+        "headline": "Nepal glacial flood recovery and humanitarian response underway",
+        "summary": "Recovery operations are ongoing in Nepal's Rusawa district near the China border following a glacial flood that caused widespread destruction. Excavation of bodies from the mud continues in the worst-hit area. A home in Devighat, Nuwakot district, remained intact while surrounding structures were destroyed by floodwaters. Nepal's economy faces limited capacity to absorb flood damage costs. Volunte",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-nepal-intensifies-relief-recovery-01",
+        "headline": "Nepal floods kill over 1,000; UN coordinates relief",
+        "summary": "Nepal has intensified relief and recovery efforts following deadly floods, with more than 1,000 people reported dead and thousands missing. Rescue operations are ongoing, and aid is being airlifted to affected villages, according to the United Nations. The New York Times article provided did not pertain to this event and instead covered a separate story about critically endangered kakapo parrots i",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -1394,8 +1478,8 @@
   },
   {
     "thread_id": "thread-canadian-prime-minister-mark-carney-resp",
-    "title": "Carney tells US officials to \"start being serious\" as Canada prepares tariff retaliation",
-    "category": "国际政治",
+    "title": "Carney rebukes US officials over trade insults ahead of Canadian retaliation tariffs",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260902",
@@ -1459,6 +1543,13 @@
         "headline": "Carney tells US officials to \"start being serious\" as Canada prepares tariff retaliation",
         "summary": "Canadian Prime Minister Mark Carney criticized US officials for insulting Canada amid escalating trade tensions between the two countries. Carney urged Washington to \"start being serious\" (per The Guardian) and \"stop throwing shade\" (per The New York Times). Canada is preparing to impose its own retaliatory tariffs on US goods in response to sweeping tariffs levied by President Donald Trump. Both ",
         "category": "国际政治"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-mark-carney-tells-us-01",
+        "headline": "Carney rebukes US officials over trade insults ahead of Canadian retaliation tariffs",
+        "summary": "Canadian Prime Minister Mark Carney criticized US officials for insulting Canada and urged Washington to \"start being serious\" as trade tensions between the two countries escalate. Carney stated the insults are \"beneath their office.\" Canada is set to retaliate against sweeping US tariffs with its own duties on US goods within days. The Guardian frames the dispute as a \"trade war,\" while The New Y",
+        "category": "经济与市场"
       }
     ]
   },
@@ -1485,7 +1576,7 @@
   },
   {
     "thread_id": "thread-keir-starmer-announces-departure-from-pa",
-    "title": "Former UK Prime Minister Keir Starmer to resign from Parliament",
+    "title": "Two separate political developments in Israel and the United Kingdom",
     "category": "国际政治",
     "events": [
       {
@@ -1535,6 +1626,13 @@
         "event_cluster_id": "20260902-netanyahu-s-israel-looking-01",
         "headline": "Former UK Prime Minister Keir Starmer to resign from Parliament",
         "summary": "Keir Starmer, former Prime Minister of the United Kingdom, announced he will resign from Parliament. Starmer stepped down as prime minister in July and delivered a farewell speech. The decision marks the end of his domestic political career. The announcement comes as Prime Minister Benjamin Netanyahu of Israel is preparing for an upcoming October re-election and trailing in polls. Sources focus on",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-netanyahu-s-israel-looking-01",
+        "headline": "Two separate political developments in Israel and the United Kingdom",
+        "summary": "Two distinct political stories were reported: one concerning Israeli Prime Minister Benjamin Netanyahu's political situation ahead of upcoming elections, and another concerning former UK Prime Minister Keir Starmer's departure from Parliament. The New York Times article focuses on Netanyahu trailing in polls ahead of Israel's October elections and suggests Israel is seeking confrontation on multip",
         "category": "国际政治"
       }
     ]
@@ -1793,7 +1891,7 @@
   },
   {
     "thread_id": "thread-us-and-iran-exchange-airstrikes-in-middl",
-    "title": "US launches new strikes on Iran, Iran retaliates against US bases in Middle East",
+    "title": "US launches new strikes on IRGC targets in Iran; Iran retaliates against US bases in Middle East",
     "category": "安全与冲突",
     "events": [
       {
@@ -1850,6 +1948,13 @@
         "event_cluster_id": "20260902-us-iran-exchange-more-01",
         "headline": "US launches new strikes on Iran, Iran retaliates against US bases in Middle East",
         "summary": "The US military conducted new airstrikes on Iranian Revolutionary Guard Corps (IRGC) targets in Iran around 12 p.m. ET on Tuesday. Iran retaliated with ballistic missile attacks targeting US bases and interests in Bahrain, Kuwait, Jordan, and Iraq, including an intense missile attack on Camp Titin in Jordan according to Iran's IRGC. US embassies in Jerusalem, Jordan, and Qatar warned Americans in ",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-us-iran-exchange-more-01",
+        "headline": "US launches new strikes on IRGC targets in Iran; Iran retaliates against US bases in Middle East",
+        "summary": "US Central Command confirmed it began striking Islamic Revolutionary Guard Corps (IRGC) targets in Iran on Tuesday around 12 p.m. ET, citing recent IRGC attacks on commercial shipping in the Strait of Hormuz and against US service members. Iran's Revolutionary Guards reported launching ballistic missile attacks on US positions in Bahrain, Kuwait, Jordan, and Iraq, including an intense missile atta",
         "category": "安全与冲突"
       }
     ]
@@ -1912,8 +2017,8 @@
   },
   {
     "thread_id": "thread-danish-farmers-protest-fertilizer-restri",
-    "title": "Global agricultural sector faces multiple challenges including pesticide poisoning, fertilizer restrictions, and climate pressures",
-    "category": "社会与公共政策",
+    "title": "Multiple reports highlight ongoing challenges facing global agricultural sectors",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260902",
@@ -1956,6 +2061,13 @@
         "headline": "Global agricultural sector faces multiple challenges including pesticide poisoning, fertilizer restrictions, and climate pressures",
         "summary": "Multiple reports highlight distinct challenges affecting farmers worldwide. A study published via Pesticide Action Network found that 402-433 million farmers and farm workers suffer unintentional acute pesticide poisoning annually, with approximately 11,000 deaths each year and India accounting for nearly 60% of fatalities. In Denmark, farmers protested in Copenhagen against proposed government re",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-yemen-dates-provide-lifeline-01",
+        "headline": "Multiple reports highlight ongoing challenges facing global agricultural sectors",
+        "summary": "Three separate reports detail difficulties encountered by farmers in different regions. In Yemen, farmers rely on date harvests amid poor infrastructure and climate constraints. A global study commissioned by Pesticide Action Network found an estimated 402-433 million cases of unintentional acute pesticide poisoning annually, with approximately 11,000 deaths per year. In Denmark, farmers drove tra",
+        "category": "经济与市场"
       }
     ]
   },
@@ -2045,7 +2157,7 @@
   },
   {
     "thread_id": "thread-putin-pledges-support-for-iran",
-    "title": "Putin signals support for Iran and rallies leaders to challenge U.S.",
+    "title": "Putin pledges continued strikes in Ukraine and support for Iran at regional security meeting",
     "category": "国际政治",
     "events": [
       {
@@ -2060,6 +2172,13 @@
         "event_cluster_id": "20260902-putin-signals-support-iran-01",
         "headline": "Putin signals support for Iran and rallies leaders to challenge U.S.",
         "summary": "Russian President Vladimir Putin signaled continued support for Iran at a regional security meeting in Kyrgyzstan. Tehran expressed thanks to Moscow for backing amid an ongoing conflict with the U.S. The meeting highlighted the strengthening military and political alignment between Russia and Iran. Putin called on allied leaders to push back against U.S. influence in the region. Both sources frame",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-putin-pledges-increased-strikes-01",
+        "headline": "Putin pledges continued strikes in Ukraine and support for Iran at regional security meeting",
+        "summary": "Russian President Vladimir Putin pledged increased strikes on Ukraine and reaffirmed support for Iran at a regional security meeting in Kyrgyzstan, according to multiple reports. The meeting highlighted growing military and political cooperation between Moscow and Tehran. Both sources reported Putin's commitment to backing Iran amid shared opposition to U.S. influence. The New York Times emphasize",
         "category": "国际政治"
       }
     ]
@@ -2110,13 +2229,20 @@
         "headline": "U.S. strikes Iran, Iran retaliates with missiles and drones",
         "summary": "The U.S. military carried out strikes on targets in Iran on Tuesday night. Iran responded by firing missiles and drones at multiple sites across the region. Prior to the strikes, President Donald Trump had warned that any Iranian retaliation would result in further U.S. strikes at a harder level. Following Iran's response, Trump stated he 'couldn't care less' about pressuring Tehran to accept a de",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-trump-returns-familiar-playbook-01",
+        "headline": "U.S. strikes Iran, Iran retaliates with missiles and drones",
+        "summary": "U.S. forces conducted strikes against Iran on Tuesday, prompting Iran to retaliate with missiles and drones. President Trump stated on social media late Tuesday that he \"couldn't care less\" about reaching an agreement with Iran. Prior to the strikes, Trump had warned Iran that any retaliation would result in further U.S. strikes \"at a much harder and higher level.\" Both sources frame the event as ",
+        "category": "安全与冲突"
       }
     ]
   },
   {
     "thread_id": "thread-unrelated-reports-on-us-open-and-grand-c",
-    "title": "Cricketers to get best rooms at Asian Games 2026, says Japanese official",
-    "category": "文化体育",
+    "title": "Asian Games 2026 cricket venue to offer top accommodation despite cricket's minor status in Japan",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -2173,6 +2299,13 @@
         "headline": "Cricketers to get best rooms at Asian Games 2026, says Japanese official",
         "summary": "Cricket is a minor sport in Japan, but it will provide the best accommodation to participating teams, the official says.",
         "category": "文化体育"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-cricketers-get-best-rooms-01",
+        "headline": "Asian Games 2026 cricket venue to offer top accommodation despite cricket's minor status in Japan",
+        "summary": "A Japanese official stated that cricket teams participating in the 2026 Asian Games will receive the best rooms among all competitors, despite cricket being a minor sport in Japan. The announcement was made by an official involved in organizing the event. The two provided sources diverge in topic: Al Jazeera covered the Asian Games 2026 cricket accommodation story, while CNN's article focused on a",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -2192,8 +2325,8 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-indie-cinema-and-f1",
-    "title": "Multiple 2026 Sports Seasons and Entertainment Trends Underway",
-    "category": "文化体育",
+    "title": "Premier League breaks transfer record with four top signings",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260902",
@@ -2222,6 +2355,13 @@
         "headline": "Multiple 2026 Sports Seasons and Entertainment Trends Underway",
         "summary": "Several 2026 sports and entertainment developments were reported across different outlets. The Professional Pickleball Association began its 2026-27 season in North Carolina. The 2026 Formula 1 Italian Grand Prix schedule, including qualifying, practice, and broadcast details, was released. NFL analysts predicted the Philadelphia Eagles' 2026 offensive success would depend on Jalen Hurts' dual-thr",
         "category": "文化体育"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-summer-transfers-2026-all-01",
+        "headline": "Premier League breaks transfer record with four top signings",
+        "summary": "Premier League has broken its own transfer record with four of its 11 most expensive signings arriving this summer 2026 window. Separately, Forbes reported on the 2026 F1 Italian Grand Prix schedule. The two articles cover unrelated topics. The sources do not converge on a single event.",
+        "category": "经济与市场"
       }
     ]
   },
@@ -2374,8 +2514,8 @@
   },
   {
     "thread_id": "thread-three-unrelated-news-items-reported-acro",
-    "title": "Paredes uncertain over Argentina future after ban and Messi retirement",
-    "category": "Sports",
+    "title": "Argentina serves Messi-shaped schnitzel as fans pay tribute",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -2404,6 +2544,13 @@
         "headline": "Paredes uncertain over Argentina future after ban and Messi retirement",
         "summary": "Leandro Paredes faces uncertainty about his international career following a 10-match ban, while Lionel Messi has announced his retirement from Argentina. The ban and Messi's departure leave Paredes weighing his future with the national team. Sources do not specify dates, venues, or the official reasoning behind the suspension beyond the ban length. The New York Post article does not address this ",
         "category": "Sports"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-argentina-serves-up-messi-01",
+        "headline": "Argentina serves Messi-shaped schnitzel as fans pay tribute",
+        "summary": "A restaurant in Buenos Aires is offering a schnitzel shaped like Lionel Messi as Argentine fans pay tribute to the player. The two provided articles do not share a single event: Al Jazeera reports on the Messi schnitzel tribute, while Pew Research Center reports on American smartphone usage habits. About half of Americans say they spend too much time on their smartphone, with seven-in-ten adults u",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -2752,7 +2899,7 @@
   },
   {
     "thread_id": "thread-美国航母uss-abraham-lincoln在海上航行近九个月后停靠泰国港口",
-    "title": "美国航母USS Abraham Lincoln抵达泰国港口",
+    "title": "美国航母USS Abraham Lincoln抵达泰国港口 船员结束近九个月海上部署",
     "category": "国际政治",
     "events": [
       {
@@ -2767,6 +2914,13 @@
         "event_cluster_id": "20260902-5-000-us-sailors-01",
         "headline": "美国航母USS Abraham Lincoln抵达泰国港口",
         "summary": "美国航空母舰USS Abraham Lincoln在海上部署约250至270天后，抵达泰国春武里府（Chonburi）林查班港（Laem Chabang），靠近度假胜地芭提雅。船上约5,000名船员将下船休整。当地官员预计此次访问将为当地经济带来提振。此前该航母曾被派往中东，作为美国对伊朗施压行动的一部分，但报道指出长期部署导致船上生活条件恶化，并出现船员心理问题及自杀未遂的情况。",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-5-000-us-sailors-01",
+        "headline": "美国航母USS Abraham Lincoln抵达泰国港口 船员结束近九个月海上部署",
+        "summary": "美国航空母舰USS Abraham Lincoln于周三抵达泰国春武里府（Chonburi）林查班港（Laem Chabang），靠近知名旅游城市芭堤雅（Pattaya），船上约5,000名船员得以在此休整。此前该航母已连续在海上航行约250至270天，未进行港口停靠，这是创纪录的部署周期。BBC与《卫报》报道船员在部署期间面临生活条件恶化和心理健康问题，包括自杀未遂的报道，并将此次部署与美国总统特朗普针对伊朗的军事行动联系起来。泰国方面预计此次停靠将给当地经济带来提振。",
         "category": "国际政治"
       }
     ]
@@ -2829,7 +2983,7 @@
   },
   {
     "thread_id": "thread-tiger-woods-pleads-guilty-to-reckless-dr",
-    "title": "Tiger Woods pleads guilty to reckless driving, accepts five-year driving ban",
+    "title": "Tiger Woods pleads guilty to reckless driving, receives five-year driving ban",
     "category": "社会与公共政策",
     "events": [
       {
@@ -2865,6 +3019,13 @@
         "event_cluster_id": "20260902-tiger-woods-pleads-guilty-01",
         "headline": "Tiger Woods pleads guilty to reckless driving, accepts five-year driving ban",
         "summary": "Golfer Tiger Woods pleaded guilty to reckless driving and agreed to a five-year suspension of his driving licence and a $1,000 fine under a plea agreement that dropped DUI charges. The plea agreement was entered in court, with Al Jazeera reporting the licence forfeiture terms and BBC specifying the financial penalty. Both sources confirm the resolution occurred as part of a negotiated plea rather ",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-tiger-woods-pleads-guilty-01",
+        "headline": "Tiger Woods pleads guilty to reckless driving, receives five-year driving ban",
+        "summary": "Golfer Tiger Woods entered a guilty plea to reckless driving under a plea agreement that dropped the original driving under the influence (DUI) charge. As part of the deal, Woods will have his driver's license suspended for five years and will pay a $1,000 fine. He avoided jail time through the agreement. All three sources report the same core outcome of the plea deal. Sources diverge slightly in ",
         "category": "社会与公共政策"
       }
     ]
@@ -2955,8 +3116,8 @@
   },
   {
     "thread_id": "thread-massachusetts-and-texas-see-competitive-",
-    "title": "AI应用用于地震救援物资协调",
-    "category": "科技与AI",
+    "title": "Ed Markey wins Massachusetts Democratic primary; California cities top worst retirement list",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -2978,6 +3139,20 @@
         "headline": "AI应用用于地震救援物资协调",
         "summary": "Two articles are provided, but they do not appear to cover the same event. The New York Times reports on volunteers in Colombia using an AI-built app to map and coordinate aid distribution after an earthquake. The New York Post article discusses Bill Belichick and the New England Patriots using a field goal trick to gain a competitive edge, which is unrelated to the earthquake story. Sources diver",
         "category": "科技与AI"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-jessica-pegula-taking-tennis-01",
+        "headline": "No unified event across sources; no synthesis possible",
+        "summary": "The three provided articles do not cover a single event. The Forbes articles discuss Jessica Pegula's use of tennis analytics and the start of the 2026-27 Professional Pickleball Association season in North Carolina. The New York Times article reports on a criminal trial in Manchester, England, in which a husband and 12 other men are accused of drugging and raping a woman over a period of years. B",
+        "category": "文化体育"
+      },
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-ed-markey-wins-key-01",
+        "headline": "Ed Markey wins Massachusetts Democratic primary; California cities top worst retirement list",
+        "summary": "Ed Markey secured the Democratic nomination in Massachusetts, according to Al Jazeera. Separately, the New York Post reported that California cities dominated a list of the worst places to retire in the United States. The two articles cover unrelated topics and do not report on the same event. Sources diverge in subject matter, with Al Jazeera focusing on Massachusetts primary election results and",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -3209,6 +3384,62 @@
         "headline": "普京向伊朗承诺支持，局势涉及中东冲突与乌克兰",
         "summary": "俄罗斯总统普京向伊朗表达了支持，伊方感谢莫斯科在当前中东冲突中的立场。相关报道同时提及普京对乌克兰的强硬立场。各方对普京表态的具体范围与含义描述存在差异。事件背景涉及2025年美国与伊朗之间的中东冲突升级。",
         "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-active-shooter-drills-and-school-safety-",
+    "title": "Active Shooter Drills and School Safety Practices Spread Across Multiple Countries",
+    "category": "社会与公共政策",
+    "events": [
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-do-active-shooter-drills-01",
+        "headline": "Active Shooter Drills and School Safety Practices Spread Across Multiple Countries",
+        "summary": "Active shooter drills have been adopted in Thailand following gun violence incidents, with a recent drill conducted at a school in Bangkok. In Ukraine, students at Sichovy Collegium in Zaporizhzhia began the school year in an underground facility built to allow learning to continue during the war. In the United States, a knife-wielding student at a Los Angeles high school confronted another studen",
+        "category": "社会与公共政策"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-美委石油贸易与叙利亚霍尔木兹海峡替代航线讨论",
+    "title": "美委石油贸易与叙利亚霍尔木兹海峡替代航线讨论",
+    "category": "经济与市场",
+    "events": [
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-us-gobbling-up-venezuelan-01",
+        "headline": "美委石油贸易与叙利亚霍尔木兹海峡替代航线讨论",
+        "summary": "美国正增加进口委内瑞拉原油,但分析人士指出委内瑞拉原油难以开采和提炼,可能无法取代因霍尔木兹海峡受阻而滞留的石油。叙利亚则提出可作为中东枢纽,提供绕过霍尔木兹海峡的货运替代路线,在战争时期海峡货物运输受阻之际,叙利亚有望利用对替代中转路线的需求。两篇文章对替代霍尔木兹海峡方案的可行性持不同立场,《华盛顿邮报》强调叙利亚作为替代航线的潜力,《半岛电视台》则质疑委内瑞拉原油能否实际填补供应缺口。",
+        "category": "经济与市场"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-费城费城人队签下前休斯顿太空人队投手",
+    "title": "费城费城人队签下前休斯顿太空人队投手",
+    "category": "体育",
+    "events": [
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-phillies-acquire-viral-veteran-01",
+        "headline": "费城费城人队签下前休斯顿太空人队投手",
+        "summary": "费城费城人队报道签下前休斯顿太空人队投手，该球员职业生涯有400次三振，并在社交媒体上拥有大量关注。此次签约发生在季后赛争夺升温之际。该球员此前从太空人队离队。",
+        "category": "体育"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-帕雷德斯因停赛与梅西退役而考虑阿根廷国家队未来",
+    "title": "帕雷德斯因停赛与梅西退役而考虑阿根廷国家队未来",
+    "category": "体育",
+    "events": [
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-messi-retirement-fifa-ban-01",
+        "headline": "帕雷德斯因停赛与梅西退役而考虑阿根廷国家队未来",
+        "summary": "阿森纳中场莱安德罗·帕雷德斯因累计黄牌被国际足联禁赛10场，缺席阿根廷世预赛名单。与此同时，梅西宣布退出国家队，帕雷德斯表示将重新评估自己在国家队的未来角色。帕雷德斯此前因在对阵厄瓜多尔的比赛中受到处罚而停赛，停赛场次涵盖世界杯预选赛关键阶段。福布斯相关文章聚焦于决策类书籍推荐，与本事件无直接关联。",
+        "category": "体育"
       }
     ]
   }

@@ -85,15 +85,21 @@ def update_threads(embedder: Embedder, reports: list[StructuredReport], threads:
     return threads
 
 
+def _d(e: ThreadSnapshot) -> str:
+    return f"{e.date[:4]}-{e.date[4:6]}-{e.date[6:8]}"
+
+
 def render_tracking(threads: list[Thread], min_days: int = 2) -> list[str]:
-    """返回 事件追踪 时间线（多日事件优先）。"""
+    """返回 事件追踪 时间线（多日事件优先，逐日缩进呈现发展脉络）。"""
     multi = [t for t in threads if len(t.events) >= min_days]
     active = [t for t in threads if len(t.events) == 1]
     def _fmt(t: Thread) -> str:
-        steps = " → ".join(f"{e.date} {e.headline[:36]}" for e in t.events)
-        return f"- **{t.title[:60]}**（{len(t.events)} 天）：{steps}"
+        span = f"{_d(t.events[0])} → {_d(t.events[-1])}"
+        lines = [f"- **{t.title[:64]}**（{len(t.events)} 天 | {span}）"]
+        for e in t.events:
+            lines.append(f"   · {_d(e)}  {e.headline[:60]}")
+        return "\n".join(lines)
     out = [_fmt(t) for t in multi]
-    # 单日（新事件）也列出，便于看到"今天开始的新事件"
     for t in active:
-        out.append(f"- **{t.title[:60]}**（新）：{t.events[0].date} {t.events[0].headline[:36]}")
+        out.append(f"- **{t.title[:64]}**（新 · {_d(t.events[0])}）")
     return out
