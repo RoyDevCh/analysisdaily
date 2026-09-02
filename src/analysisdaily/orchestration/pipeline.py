@@ -41,6 +41,10 @@ def run_pipeline(
 
     generated_at = datetime.now(timezone.utc).isoformat(timespec="seconds")
     reports = build_daily(packages, report_date, generated_at)
+    # 自定义信源权重：仅影响来源排序（呈现角度），不改动事实
+    sw = settings.source_weights or {}
+    for r in reports:
+        r.sources.sort(key=lambda s: -sw.get(s.name, 0.0))
 
     # 可选：本地 docker 容器（pgvector）持久化元数据/日报
     try:
@@ -63,12 +67,19 @@ def run_pipeline(
     if reports:
         from ..synthesis.daily import build_daily_report, render_daily_report_md
 
-        daily = build_daily_report(reports, generated_at)
+        daily = build_daily_report(reports, generated_at, source_weights=settings.source_weights)
         # 跨事件深度报道（LLM 执笔，失败回退规则）
         from ..synthesis.feature import write_feature
 
         items = [it for sec in daily.sections for it in sec.items]
         daily.feature = write_feature(items, settings)
+        # 事件追踪：把今天的每条事件并入跨日线程（data/threads.json）
+        from ..tracking.threads import load_threads, render_tracking, save_threads, update_threads
+
+        threads_path = settings.app_data_dir / "threads.json"
+        _threads = update_threads(embedder, reports, load_threads(threads_path), report_date.strftime("%Y%m%d"))
+        save_threads(threads_path, _threads)
+        daily.tracking = render_tracking(_threads)
         # 双语：英文版（原生）+ 中文版（LLM 翻译）
         from ..synthesis.bilingual import translate_to_zh
 

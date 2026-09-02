@@ -32,6 +32,7 @@ class DailyItem(BaseModel):
     single_source: bool = False
     source_count: int = 0
     coverage: str = ""
+    preferred_sources: list[str] = Field(default_factory=list)
 
 
 class CategorySection(BaseModel):
@@ -51,13 +52,20 @@ class DailyReport(BaseModel):
     reporting_gaps: list[str] = Field(default_factory=list)
     generated_at: str = ""
     feature: str = ""
+    tracking: list[str] = Field(default_factory=list)
 
 
-def _to_item(r: StructuredReport) -> DailyItem:
+def _to_item(r: StructuredReport, source_weights: dict | None = None) -> DailyItem:
     facts = r.verified_facts
     single_ratio = sum(1 for f in facts if f.single_source_claim) / max(1, len(facts))
+    source_weights = source_weights or {}
+    pref = [
+        s.name for s in sorted(r.sources, key=lambda s: -source_weights.get(s.name, 0.0))
+        if source_weights.get(s.name, 0.0) > 0
+    ][:3]
     return DailyItem(
         headline=r.headline, event_id=r.event_id, category=r.category,
+        preferred_sources=pref,
         summary=(r.summary or "").strip(),
         left_focus=r.perspectives_divergence.left_leaning_focus or "",
         right_focus=r.perspectives_divergence.right_leaning_focus or "",
@@ -88,8 +96,8 @@ def _lead_paragraph(daily: DailyReport) -> str:
     return f"Today's digest covers {daily.event_count} events from {daily.source_total} sources, focusing on {cats}."
 
 
-def build_daily_report(reports: list[StructuredReport], generated_at: str, max_items: int = MAX_ITEMS) -> DailyReport:
-    items = [_to_item(r) for r in reports]
+def build_daily_report(reports: list[StructuredReport], generated_at: str, max_items: int = MAX_ITEMS, source_weights: dict | None = None) -> DailyReport:
+    items = [_to_item(r, source_weights) for r in reports]
     items.sort(key=_item_score)
     shown = items[:max_items]
     more = items[max_items:]
@@ -128,6 +136,8 @@ def _item_line(it: DailyItem) -> str:
     lines = [f"### {it.headline}{flag}（{it.source_count} 来源 | {it.coverage}）"]
     if it.summary:
         lines.append(it.summary.strip())
+    if it.preferred_sources:
+        lines.append("  \U0001f4cc 偏好信源：" + "、".join(it.preferred_sources))
     focus = []
     if it.left_focus:
         focus.append(f"左翼：{it.left_focus}")
@@ -150,6 +160,10 @@ def render_daily_report_md(daily: DailyReport, lang: str = "zh") -> str:
         for para in daily.feature.split("\n\n"):
             if para.strip():
                 lines.append(para.strip())
+        lines.append("")
+    if daily.tracking:
+        lines.append("## " + ("Event Tracking (cross-day timeline)" if en else "事件追踪（跨日时间线）"))
+        lines.extend(daily.tracking)
         lines.append("")
     if daily.top_stories:
         lines.append("## 今日要点")

@@ -1,0 +1,44 @@
+[
+  {
+    "thread_id": "thread-european-commission-fines-techco-1-8-bil",
+    "title": "European Commission Fines TechCo 1.8 Billion Euros",
+    "category": "经济与市场",
+    "events": [
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-eu-fines-techco-1-01",
+        "headline": "European Commission Fines TechCo 1.8 Billion Euros",
+        "summary": "The European Commission fined TechCo 1.8 billion euros on Tuesday for abusing its dominant position in the online search market. The regulator stated that TechCo gave its own shopping service an illegal advantage. This decision followed a four-year investigation into the company's practices. TechCo announced plans to appeal the ruling. Sources diverge on the nature of the fine, with one source cit",
+        "category": "经济与市场"
+      },
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-eu-fines-techco-1-01",
+        "headline": "European Commission Fines TechCo 1.8 Billion Euros",
+        "summary": "The European Commission fined TechCo 1.8 billion euros on Tuesday. The regulator stated TechCo abused its dominant position in the online search market by favoring its own shopping service. This decision followed a four-year investigation. TechCo announced plans to appeal the ruling. Sources diverge on the nature of the fine, with one source mentioning critics who view the move as regulatory overr",
+        "category": "经济与市场"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-nearly-200-nations-agree-to-phase-down-c",
+    "title": "Nearly 200 Nations Agree to Phase Down Coal Use by 2035",
+    "category": "气候与环境",
+    "events": [
+      {
+        "date": "20260902",
+        "event_cluster_id": "20260902-nearly-200-nations-agree-01",
+        "headline": "Nearly 200 Nations Agree to Phase Down Coal Use by 2035",
+        "summary": "Nearly 200 countries signed a climate pact on Tuesday to phase down coal use by 2035. The agreement followed two weeks of negotiations. The deal establishes a timeline and specific targets for reducing emissions. Both sources report the same deadline and participant count.",
+        "category": "气候与环境"
+      },
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-nearly-200-nations-agree-01",
+        "headline": "Nearly 200 Nations Agree to Phase Down Coal Use by 2035",
+        "summary": "Nearly 200 countries signed a climate pact on Tuesday to phase down coal use by 2035. The agreement followed two weeks of negotiations. The deal establishes a timeline and specific targets for reducing emissions. Both sources report the same deadline and participant count.",
+        "category": "气候与环境"
+      }
+    ]
+  }
+]

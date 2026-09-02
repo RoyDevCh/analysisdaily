@@ -63,6 +63,5 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
-          git add data/daily-reports || true
+          git add data/daily-reports data/threads.json || true
           if git diff --cached --quiet; then echo "no changes"; else git commit -m "daily report [skip ci]"; git push; fi
-

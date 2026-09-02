@@ -5,7 +5,7 @@ from functools import lru_cache
 from pathlib import Path
 from typing import Literal
 
-from pydantic import field_validator
+from pydantic import Field, field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
@@ -53,8 +53,26 @@ class Settings(BaseSettings):
     cluster_window_hours: int = 24
     cluster_min_samples: int = 2
 
+    # 自定义信源权重（用户偏好）：{"Reuters": 1.0, "Fox News": 0.3, ...}
+    # 只影响“呈现角度/来源排序”，不改动最大公约数事实。
+    source_weights: dict[str, float] = Field(default_factory=dict)
+
     # ---- 数据目录 ----
     app_data_dir: Path = Path("./data")
+
+    @field_validator("source_weights", mode="before")
+    @classmethod
+    def _parse_weights(cls, v):
+        import json
+
+        if isinstance(v, dict):
+            return v
+        if isinstance(v, str) and v.strip():
+            try:
+                return json.loads(v)
+            except Exception:  # noqa: BLE001
+                return {}
+        return {}
 
     @field_validator("llm_provider", mode="before")
     @classmethod
