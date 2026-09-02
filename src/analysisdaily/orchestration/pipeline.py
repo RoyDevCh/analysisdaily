@@ -69,13 +69,17 @@ def run_pipeline(
 
         items = [it for sec in daily.sections for it in sec.items]
         daily.feature = write_feature(items, settings)
-        brief_md = render_daily_report_md(daily)
-        (out_dir / ("daily-" + report_date.isoformat() + ".md")).write_text(brief_md, encoding="utf-8")
-        # 分发：推送"一篇"可读日报
+        # 双语：英文版（原生）+ 中文版（LLM 翻译）
+        from ..synthesis.bilingual import translate_to_zh
+
+        brief_en = render_daily_report_md(daily, lang="en")
+        brief_zh = translate_to_zh(settings, brief_en)
+        (out_dir / ("daily-" + report_date.isoformat() + ".en.md")).write_text(brief_en, encoding="utf-8")
+        (out_dir / ("daily-" + report_date.isoformat() + ".zh.md")).write_text(brief_zh, encoding="utf-8")
         try:
             from ..delivery.dispatch import dispatch
 
-            sent = dispatch(daily, brief_md, settings)
+            sent = dispatch(daily, brief_en, brief_zh, settings)
             if any(sent.values()):
                 logger.info("dispatch: %s", {k: v for k, v in sent.items() if v})
         except Exception:

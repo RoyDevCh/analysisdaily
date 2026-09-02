@@ -14,6 +14,12 @@ from ..models.report import StructuredReport
 
 MAX_ITEMS = 12  # 主报告展开的事件数上限
 
+CATEGORY_EN = {
+    "国际政治": "International Politics", "经济与市场": "Economy & Markets", "科技与AI": "Tech & AI",
+    "气候与环境": "Climate & Environment", "安全与冲突": "Security & Conflict", "社会与公共政策": "Society & Policy",
+    "文化体育": "Culture & Sports", "未分类": "Uncategorized",
+}
+
 
 class DailyItem(BaseModel):
     headline: str
@@ -71,15 +77,15 @@ def _item_score(it: DailyItem) -> tuple:
 
 
 def _lead_paragraph(daily: DailyReport) -> str:
-    cats = "、".join(s.category for s in daily.sections[:3])
+    cats = "、".join(CATEGORY_EN.get(s.category, s.category) for s in daily.sections[:3])
     top = daily.top_stories[0].headline if daily.top_stories else ""
     tail = daily.top_stories[1].headline if len(daily.top_stories) > 1 else ""
     if daily.top_stories and len(daily.top_stories) > 1:
         return (
-            f"今日共汇总 {daily.event_count} 条事件，来自 {daily.source_total} 篇报道，聚焦 {cats} 等领域。"
-            f"最受关注：{top}、{tail}。已过滤情绪词并仅保留带引文接地的事实，左右翼分歧与报道盲区见各条目。"
+            f"Today's digest covers {daily.event_count} events from {daily.source_total} sources, focusing on "
+            f"{cats}. Most covered: {top}; {tail}. Emotive language is filtered and every fact is quote-grounded."
         )
-    return f"今日共汇总 {daily.event_count} 条事件，来自 {daily.source_total} 篇报道，聚焦 {cats} 等领域。"
+    return f"Today's digest covers {daily.event_count} events from {daily.source_total} sources, focusing on {cats}."
 
 
 def build_daily_report(reports: list[StructuredReport], generated_at: str, max_items: int = MAX_ITEMS) -> DailyReport:
@@ -134,8 +140,11 @@ def _item_line(it: DailyItem) -> str:
     return "\n".join(lines)
 
 
-def render_daily_report_md(daily: DailyReport) -> str:
-    lines = [f"# 中立客观日报 · {daily.date.isoformat()}", "", daily.lead_paragraph, ""]
+def render_daily_report_md(daily: DailyReport, lang: str = "zh") -> str:
+    en = lang == "en"
+    _cat = lambda c: (CATEGORY_EN.get(c, c) if en else c)
+    title = f"Neutral Daily Report · {daily.date.isoformat()}" if en else f"中立客观日报 · {daily.date.isoformat()}"
+    lines = [f"# {title}", "", daily.lead_paragraph, ""]
     if daily.feature:
         lines.append("## 深度报道")
         for para in daily.feature.split("\n\n"):
@@ -148,7 +157,7 @@ def render_daily_report_md(daily: DailyReport) -> str:
             lines.append(_item_line(it))
         lines.append("")
     for sec in daily.sections:
-        lines.append(f"## {sec.category}（{len(sec.items)}）")
+        lines.append(f"## {_cat(sec.category)}（{len(sec.items)}）")
         for it in sec.items:
             lines.append(_item_line(it))
         lines.append("")

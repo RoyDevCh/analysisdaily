@@ -31,6 +31,28 @@ def _block(kind: str, content: str) -> dict:
     }
 
 
+def md_to_children(markdown: str) -> list[tuple[str, str]]:
+    """Markdown -> Notion children blocks（标题/段落/列表）。"""
+    blocks: list[tuple[str, str]] = []
+    for line in markdown.splitlines():
+        line = line.rstrip()
+        if not line.strip():
+            continue
+        if line.startswith("### "):
+            blocks.append(("heading_3", line[4:]))
+        elif line.startswith("## "):
+            blocks.append(("heading_2", line[3:]))
+        elif line.startswith("# "):
+            blocks.append(("heading_1", line[2:]))
+        elif line.startswith("- "):
+            blocks.append(("bulleted_list_item", line[2:]))
+        elif line.startswith("> "):
+            blocks.append(("quote", line[2:]))
+        else:
+            blocks.append(("paragraph", line))
+    return blocks[:100]
+
+
 def push_rich_page(settings: Settings, title: str, blocks: list[tuple[str, str]]) -> bool:
     """把一篇日报作为**一个** Notion 页面写入 database（或回退到 page_id）。"""
     if not settings.notion_token:
