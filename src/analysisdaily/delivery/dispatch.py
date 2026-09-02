@@ -36,12 +36,21 @@ def dispatch(daily: DailyReport, brief_md: str, settings: Settings) -> dict[str,
             for sec in daily.sections:
                 blocks.append(("heading_2", f"{sec.category}（{len(sec.items)}）"))
                 for it in sec.items:
-                    line = f"{it.headline}（{it.source_count} 来源）"
-                    if it.key_fact:
-                        line += " — " + it.key_fact
+                    head = f"{it.headline}（{it.source_count} 来源）"
                     if it.single_source:
-                        line += " [单方]"
-                    blocks.append(("bulleted_list_item", line))
+                        head += " [单方]"
+                    blocks.append(("heading_3", head))
+                    if it.summary:
+                        blocks.append(("paragraph", it.summary))
+                    focus = []
+                    if it.left_focus:
+                        focus.append("左翼: " + it.left_focus)
+                    if it.right_focus:
+                        focus.append("右翼: " + it.right_focus)
+                    if it.blindspot:
+                        focus.append("盲区: " + it.blindspot)
+                    if focus:
+                        blocks.append(("bulleted_list_item", "；".join(focus)))
             if daily.reporting_gaps:
                 blocks.append(("heading_2", "报道盲区"))
                 for g in daily.reporting_gaps:

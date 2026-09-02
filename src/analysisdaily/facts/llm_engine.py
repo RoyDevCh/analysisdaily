@@ -20,14 +20,14 @@ from .package import EventPackage
 from .subjectivity import is_clean_fact, is_factual, split_sentences
 
 _SYSTEM = (
-    "You are a neutral fact-checking editor. Given several news articles about the SAME event, "
-    "extract ONLY verified, objective facts that appear in the sources. Rules: "
+    "You are a neutral news editor. Given several news articles about the SAME event, "
+    "write a concise factual news summary (4-6 sentences) synthesizing the sources (include who/what/when/where and key details; explicitly note where sources diverge). Avoid opinion and emotive words. Rules: "
     "1) Output STRICT JSON only, no markdown, no commentary. "
     "2) Facts must be plain subject-verb-object statements, no adjectives, no opinion, no exclamation. "
     "3) source field values MUST be chosen from the provided source names verbatim. "
     "    category MUST be one of: 国际政治, 经济与市场, 科技与AI, 气候与环境, 安全与冲突, 社会与公共政策, 文化体育. "
     "4) Write in the SAME language as the source text (mostly English). "
-    "JSON schema: {\"category\": str, \"headline\": str, \"left_leaning_focus\": str, \"right_leaning_focus\": str, "
+    "JSON schema: {\"category\": str, \"headline\": str, \"summary\": str, \"left_leaning_focus\": str, \"right_leaning_focus\": str, "
     "\"blindspot_warning\": str, \"facts\": [{\"text\": str, \"sources\": [str]}]}"
 )
 
@@ -58,8 +58,8 @@ class LLMFactEngine:
 
     def _call(self, cluster: EventCluster) -> str:
         lines = []
-        for a in cluster.articles[:8]:
-            body = (a.content or a.summary or "").strip()[:700]
+        for a in cluster.articles[:6]:
+            body = (a.content or a.summary or "").strip()[:1100]
             lines.append(f"[{a.source_name}] (bias={a.side}) {a.title}\n{body}")
         context = "\n\n".join(lines)
         user = (
@@ -121,6 +121,9 @@ class LLMFactEngine:
         cat = str(obj.get("category", "")).strip()
         if cat:
             cluster.category = cat
+        summary = str(obj.get("summary", "")).strip()
+        if not summary:
+            summary = " ".join(f.text for f in facts)[:600]
         headline = str(obj.get("headline", "")).strip().rstrip("!?")
         if not headline or "!" in headline:
             headline = cluster.headline_hint.rstrip("!?")
@@ -136,6 +139,7 @@ class LLMFactEngine:
             verified_facts=facts,
             divergence=div,
             background=BackgroundData(source=self._context_source(cluster), key_stat="", url=""),
+            summary=summary,
             engine=self.name,
         )
 

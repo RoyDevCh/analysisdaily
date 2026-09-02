@@ -34,6 +34,7 @@ class RulesFactEngine:
             verified_facts=facts,
             divergence=div,
             background=BackgroundData(source=self._context_source(cluster), key_stat="", url=""),
+            summary=self._summary(cluster),
             engine=self.name,
         )
 
@@ -49,6 +50,14 @@ class RulesFactEngine:
             f0 = strip_emotive(facts[0].text).rstrip("!?")
             return f0[:120]
         return cluster.headline_hint[:120]
+
+    def _summary(self, cluster: EventCluster) -> str:
+        """规则兜底综述：取权重最高来源的正文章节作为内容。"""
+        for a in sorted(cluster.articles, key=lambda x: x.bias.fact_weight, reverse=True):
+            body = (a.content or a.summary or "").strip()
+            if len(body) >= 60:
+                return body[:600]
+        return cluster.headline_hint
 
     def _context_source(self, cluster: EventCluster) -> str:
         for a in cluster.articles:

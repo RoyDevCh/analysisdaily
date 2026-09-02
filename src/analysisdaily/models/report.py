@@ -128,6 +128,7 @@ class StructuredReport(BaseModel):
     date: date
     category: str = "未分类"
     headline: str = Field(..., min_length=8)
+    summary: str = Field(default="", description="LLM 撰写的新闻综述（内容主体）")
     verified_facts: list[FactStatement] = Field(..., min_length=1)
     perspectives_divergence: PerspectivesDivergence = Field(default_factory=PerspectivesDivergence)
     background_data: BackgroundData = Field(default_factory=BackgroundData)

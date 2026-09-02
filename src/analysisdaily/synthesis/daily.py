@@ -19,9 +19,11 @@ class DailyItem(BaseModel):
     headline: str
     event_id: str
     category: str
-    key_fact: str = ""
+    summary: str = ""
+    left_focus: str = ""
+    right_focus: str = ""
+    blindspot: str = ""
     single_source: bool = False
-    divergence_note: str = ""
     source_count: int = 0
     coverage: str = ""
 
@@ -46,22 +48,14 @@ class DailyReport(BaseModel):
 
 def _to_item(r: StructuredReport) -> DailyItem:
     facts = r.verified_facts
-    key_fact = ""
-    if facts:
-        canonical = next((f for f in facts if not f.single_source_claim), facts[0])
-        key_fact = canonical.text.strip()
-        if len(key_fact) > 160:
-            key_fact = key_fact[:157].rstrip() + "..."
     single_ratio = sum(1 for f in facts if f.single_source_claim) / max(1, len(facts))
-    div = r.perspectives_divergence
-    note = ""
-    for candidate in (div.blindspot_warning, div.left_leaning_focus, div.right_leaning_focus):
-        if candidate and "基本未报道" not in candidate and "样本过少" not in candidate and "无偏见" not in candidate:
-            note = candidate
-            break
     return DailyItem(
-        headline=r.headline, event_id=r.event_id, category=r.category, key_fact=key_fact,
-        single_source=single_ratio > 0.5, divergence_note=note,
+        headline=r.headline, event_id=r.event_id, category=r.category,
+        summary=(r.summary or "").strip(),
+        left_focus=r.perspectives_divergence.left_leaning_focus or "",
+        right_focus=r.perspectives_divergence.right_leaning_focus or "",
+        blindspot=r.perspectives_divergence.blindspot_warning or "",
+        single_source=single_ratio > 0.5,
         source_count=r.raw_article_count,
         coverage=(
             f"中心 {r.perspectives_divergence.center_coverage} / 左 {r.perspectives_divergence.left_coverage} / "
@@ -124,8 +118,19 @@ def build_daily_report(reports: list[StructuredReport], generated_at: str, max_i
 
 def _item_line(it: DailyItem) -> str:
     flag = " ⚠单方" if it.single_source else ""
-    note = f" — {it.divergence_note}" if it.divergence_note else ""
-    return f"- **{it.headline}**{flag} （{it.source_count} 来源 | {it.coverage}）\n  {it.key_fact}{note}".rstrip()
+    lines = [f"### {it.headline}{flag}（{it.source_count} 来源 | {it.coverage}）"]
+    if it.summary:
+        lines.append(it.summary.strip())
+    focus = []
+    if it.left_focus:
+        focus.append(f"左翼：{it.left_focus}")
+    if it.right_focus:
+        focus.append(f"右翼：{it.right_focus}")
+    if it.blindspot:
+        focus.append(f"盲区：{it.blindspot}")
+    if focus:
+        lines.append("  " + "；".join(focus))
+    return "\n".join(lines)
 
 
 def render_daily_report_md(daily: DailyReport) -> str:

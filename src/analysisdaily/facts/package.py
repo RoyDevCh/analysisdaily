@@ -14,4 +14,5 @@ class EventPackage:
     verified_facts: list[FactStatement] = field(default_factory=list)
     divergence: PerspectivesDivergence = field(default_factory=PerspectivesDivergence)
     background: BackgroundData = field(default_factory=BackgroundData)
+    summary: str = ""
     engine: str = "rules"

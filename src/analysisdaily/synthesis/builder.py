@@ -33,6 +33,7 @@ def build_report(pkg: EventPackage, report_date: date, generated_at: str) -> Str
         date=report_date,
         category=pkg.cluster.category,
         headline=pkg.headline,
+        summary=pkg.summary,
         verified_facts=facts,
         perspectives_divergence=pkg.divergence,
         background_data=pkg.background,
