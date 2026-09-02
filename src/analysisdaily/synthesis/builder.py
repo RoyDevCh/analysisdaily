@@ -28,11 +28,15 @@ def build_report(pkg: EventPackage, report_date: date, generated_at: str) -> Str
         if a.source_name not in sources:
             sources[a.source_name] = SourceRef(name=a.source_name, url=a.url, bias=a.bias)
 
+    # 护城河：headline 也不能含情绪词/感叹号，否则回退到干净标题
+    headline = pkg.headline
+    if not is_clean_fact(headline):
+        headline = (facts[0].text[:120] if facts else pkg.cluster.headline_hint[:120])
     return StructuredReport(
         event_id=pkg.cluster.event_cluster_id,
         date=report_date,
         category=pkg.cluster.category,
-        headline=pkg.headline,
+        headline=headline,
         summary=pkg.summary,
         verified_facts=facts,
         perspectives_divergence=pkg.divergence,
