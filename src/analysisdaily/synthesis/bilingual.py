@@ -13,7 +13,7 @@ _SYS = (
 
 
 def translate_to_zh(settings: Settings, markdown_en: str) -> str:
-    if settings.llm_provider not in ("openai", "anthropic", "ollama") or not settings.llm_api_key or not settings.llm_model:
+    if settings.llm_provider not in ("openai", "anthropic", "ollama", "openrouter") or not settings.llm_api_key or not settings.llm_model:
         return markdown_en
     try:
         from ..llm_client import chat_completion

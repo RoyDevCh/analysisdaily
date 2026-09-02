@@ -25,7 +25,7 @@ def write_feature(items, settings: Settings) -> str:
     """items: list[DailyItem]，用其 headline/summary/category 生成跨事件深度报道。"""
     if not items:
         return ""
-    if settings.llm_provider not in ("openai", "anthropic", "ollama") or not settings.llm_api_key or not settings.llm_model:
+    if settings.llm_provider not in ("openai", "anthropic", "ollama", "openrouter") or not settings.llm_api_key or not settings.llm_model:
         return _rule_feature(items)
     try:
         ctx = "\n\n".join(f"[{it.category}] {it.headline}\n{it.summary[:500]}" for it in items[:8])

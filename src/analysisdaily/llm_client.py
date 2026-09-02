@@ -37,22 +37,26 @@ def chat_completion(settings: Settings, messages: list[dict], temperature: float
     if not key or not models:
         raise ValueError("LLM 未配置（缺 api_key/model）")
     last = None
-    for model in models:
-        body = {"model": model, "messages": messages, "temperature": temperature, "max_tokens": max_tokens}
-        url = base + "/chat/completions"
-        for attempt in range(3):
-            try:
-                data = _post(url, key, body)
-                return data["choices"][0]["message"]["content"]
-            except urllib.error.HTTPError as e:
-                last = e
-                if e.code in (429, 500, 502, 503) and attempt < 2:
-                    time.sleep(2 * (attempt + 1))
-                    continue
-                break  # 该模型耗尽 -> 切换下一个模型
-            except Exception:  # noqa: BLE001
-                if attempt < 2:
-                    time.sleep(2 * (attempt + 1))
-                    continue
-                break
+    # 多轮 pass × 多模型 × 多次重试，把瞬时 429（上游限流）彻底扛过去
+    for _pass in range(3):
+        for model in models:
+            body = {"model": model, "messages": messages, "temperature": temperature, "max_tokens": max_tokens}
+            url = base + "/chat/completions"
+            for attempt in range(4):
+                try:
+                    data = _post(url, key, body)
+                    return data["choices"][0]["message"]["content"]
+                except urllib.error.HTTPError as e:
+                    last = e
+                    if e.code in (429, 500, 502, 503) and attempt < 3:
+                        time.sleep(min(2 * (attempt + 1), 6))
+                        continue
+                    break  # 该模型耗尽 -> 换下一个模型
+                except Exception:  # noqa: BLE001
+                    if attempt < 3:
+                        time.sleep(min(2 * (attempt + 1), 6))
+                        continue
+                    break
+        if last is not None and _pass < 2:
+            time.sleep(3)  # 一轮全失败，稍等再整轮重试
     raise last
