@@ -58,12 +58,18 @@ class RssSourceAdapter:
                     content = c["value"]
                     break
             published = _parse_published(entry)
-            # Google News 等 feed 的每条目带真实媒体名（<source>），据此决定来源与倾向
-            item_src = entry.get("source") or {}
-            outlet = (item_src.get("title") or "").strip()
-            bias = outlet_bias(outlet) if outlet else self.source.bias
-            src_name = outlet if outlet else self.source.name
-            src_url = (item_src.get("href") or "").strip() or link
+            # 仅 Google News 等聚合 feed 的每条目带真实媒体名（<source>），据此覆盖来源与倾向；
+            # 真实媒体 RSS 本身就是单一 outlet，直接用 feed 的 bias。
+            if "news.google.com" in self.source.feed_url:
+                item_src = entry.get("source") or {}
+                outlet = (item_src.get("title") or "").strip()
+                bias = outlet_bias(outlet) if outlet else self.source.bias
+                src_name = outlet if outlet else self.source.name
+                src_url = (item_src.get("href") or "").strip() or link
+            else:
+                bias = self.source.bias
+                src_name = self.source.name
+                src_url = link
             rid = _article_id(src_name, src_url, published)
             out.append(
                 RawArticle(
