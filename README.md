@@ -104,3 +104,24 @@ python -m analysisdaily --run # 之后运行会自动把文章/日报写入 Post
 在仓库 **Settings → Secrets → Actions** 配置对应 `LLM_*`、`SMTP_*`、`TELEGRAM_*`、
 `NOTION_*` 等 secret；空 secret 也能跑（自动落在规则引擎 + 公开 RSS 兜底）。
 若把 `COMMIT_REPORT` secret 设为 `true`，会把生成结果 commit 回仓库存档。
+
+## LLM 路由与成本（OpenRouter）
+
+**LLM 事实核验 / 内容综述 / 深度报道 / 中英翻译** 走 OpenRouter 的**免费模型**（LLM_PROVIDER=openrouter + key）。
+
+### 主模型 + 多模型回退（推荐）
+`LLM_MODELS`（逗号分隔）按优先级调用，**主模型 429/失败自动切换下一个可用免费模型**：
+```
+minimax/minimax-m3:free,minimax/minimax-m2.7:free,nvidia/nemotron-3-super-120b-a12b:free,nvidia/nemotron-3-ultra-550b-a55b:free,nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free,google/gemma-4-31b-it:free,nvidia/nemotron-3.5-lightning:free,liquid/lfm-2.5-2.6b:free
+```
+- **minimax-m3** 实测对"新闻总结"表现最干净（直接给事实性总结）；Nemotron 系是强模型但偏"思考过程"型；Gemma-4-31b 偶被限流。
+- 限流是**单个模型级别**的（不等同于全 API 统一），所以"切模型"能绕开 429。
+
+### 免费自动路由（可选）
+把 `LLM_MODEL` 设为 **`openrouter/free`**（并把 `LLM_MODELS` 留空），客户端即使用 OpenRouter 的**免费自动路由**——自动挑一个当前可用的免费模型、天然避开 429。
+> 权衡：方便、不易因单模型 429 失败，但"路由到哪个模型"不确定（可能选到非通用/内容安全类模型），新闻任务质量较不稳定。**更推荐上面的 minimax-m3 优先 + 强模型回退。**
+
+### 成本
+- **GitHub Actions**：公开仓库免费；私有仓库 Free 额度 **2000 分钟/月**（我们每天约 3 分钟，约 90 分钟/月，远在免费内）。
+- **OpenRouter**：免费模型调用走你的充值（$10 → **1000+ 次/天免费调用**），我们每天约 20–35 次，绰绰有余。
+
