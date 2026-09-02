@@ -8,14 +8,13 @@ from pathlib import Path
 from ..clustering.clusterer import HdbscanClusterer
 from ..clustering.embedder import Embedder
 from ..config import Settings
-from ..delivery.writer import write_daily_index, write_report
+from ..delivery.writer import write_report
 
 logger = logging.getLogger("analysisdaily")
 from ..facts.engine import get_fact_engine
 from ..models.raw import RawArticle
 from ..models.report import StructuredReport
 from ..synthesis.builder import build_daily
-from ..synthesis.render import render_daily_markdown
 
 
 def run_pipeline(
@@ -24,7 +23,7 @@ def run_pipeline(
     report_date: date | None = None,
     out_dir: Path | None = None,
     embedder: Embedder | None = None,
-) -> list[StructuredReport]:
+) -> tuple[list[StructuredReport], object]:
     report_date = report_date or _derive_date(articles)
     out_dir = out_dir or (settings.app_data_dir / "reports")
     embedder = embedder or Embedder(settings)
@@ -60,19 +59,23 @@ def run_pipeline(
 
     for r in reports:
         write_report(r, out_dir)
+    daily = None
     if reports:
-        write_daily_index(reports, out_dir)
-        # 分发（仅对已配置渠道生效；未配置自动跳过）
+        from ..synthesis.daily import build_daily_report, render_daily_report_md
+
+        daily = build_daily_report(reports, generated_at)
+        brief_md = render_daily_report_md(daily)
+        (out_dir / ("daily-" + report_date.isoformat() + ".md")).write_text(brief_md, encoding="utf-8")
+        # 分发：推送"一篇"可读日报
         try:
             from ..delivery.dispatch import dispatch
 
-            daily_md = render_daily_markdown(reports, report_date.isoformat())
-            sent = dispatch(reports, daily_md, settings)
+            sent = dispatch(daily, brief_md, settings)
             if any(sent.values()):
                 logger.info("dispatch: %s", {k: v for k, v in sent.items() if v})
         except Exception:
             logger.warning("dispatch failed", exc_info=True)
-    return reports
+    return reports, daily
 
 
 def _derive_date(articles: list[RawArticle]) -> date:

@@ -14,6 +14,7 @@ import feedparser  # type: ignore
 
 from ..config import Settings
 from ..models.raw import RawArticle, SourceInfo
+from .outlets import outlet_bias
 from .sources import build_default_registry
 
 _UA = (
@@ -57,16 +58,22 @@ class RssSourceAdapter:
                     content = c["value"]
                     break
             published = _parse_published(entry)
-            rid = _article_id(self.source.name, link, published)
+            # Google News 等 feed 的每条目带真实媒体名（<source>），据此决定来源与倾向
+            item_src = entry.get("source") or {}
+            outlet = (item_src.get("title") or "").strip()
+            bias = outlet_bias(outlet) if outlet else self.source.bias
+            src_name = outlet if outlet else self.source.name
+            src_url = (item_src.get("href") or "").strip() or link
+            rid = _article_id(src_name, src_url, published)
             out.append(
                 RawArticle(
                     id=rid,
-                    source_name=self.source.name,
+                    source_name=src_name,
                     channel=self.source.channel,
-                    bias=self.source.bias,
-                    side=self.source.bias.side,
+                    bias=bias,
+                    side=bias.side,
                     title=title,
-                    url=link,
+                    url=src_url,
                     published=published,
                     summary=summary,
                     content=content,

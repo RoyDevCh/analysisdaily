@@ -23,7 +23,7 @@ def _post(settings: Settings, url: str, payload: dict) -> int:
         return resp.status
 
 
-def _text_block(content: str, kind: str = "paragraph") -> dict:
+def _block(kind: str, content: str) -> dict:
     return {
         "object": "block",
         "type": kind,
@@ -31,20 +31,21 @@ def _text_block(content: str, kind: str = "paragraph") -> dict:
     }
 
 
-def push_report(settings: Settings, headline: str, body_blocks: list[str]) -> bool:
-    """把一条日报写入 Notion。优先写 database；未配置 database 时回退到 page_id。"""
+def push_rich_page(settings: Settings, title: str, blocks: list[tuple[str, str]]) -> bool:
+    """把一篇日报作为**一个** Notion 页面写入 database（或回退到 page_id）。"""
     if not settings.notion_token:
         return False
-    body_blocks = body_blocks or []
-    children = [_text_block(headline, "heading_2")] + [_text_block(b) for b in body_blocks]
+    children = [_block(kind, txt) for kind, txt in blocks][:100]
+    if not children:
+        return False
     if settings.notion_database_id:
         payload = {
             "parent": {"database_id": settings.notion_database_id},
-            "properties": {"Name": {"title": [{"text": {"content": headline[:180]}}]}},
-            "children": children[:100],
+            "properties": {"Name": {"title": [{"text": {"content": title[:180]}}]}},
+            "children": children,
         }
     elif settings.notion_page_id:
-        payload = {"parent": {"page_id": settings.notion_page_id}, "children": children[:100]}
+        payload = {"parent": {"page_id": settings.notion_page_id}, "children": children}
     else:
         return False
     _post(settings, "https://api.notion.com/v1/pages", payload)

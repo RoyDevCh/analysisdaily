@@ -11,7 +11,7 @@ FIXTURE = Path(__file__).resolve().parents[1] / "data" / "e2e_sample"
 def test_end_to_end_pipeline(tmp_path):
     settings = Settings(embedding_backend="tfidf", app_data_dir=tmp_path)
     arts = load_fixture_dir(FIXTURE)
-    reports = run_pipeline(arts, settings, report_date=date(2026, 9, 2), out_dir=tmp_path / "reports")
+    reports, _ = run_pipeline(arts, settings, report_date=date(2026, 9, 2), out_dir=tmp_path / "reports")
     assert reports, "应产出至少一条日报"
     for r in reports:
         assert r.verified_facts, "每条日报必须有核验事实"

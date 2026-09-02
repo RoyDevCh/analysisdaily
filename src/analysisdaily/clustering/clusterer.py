@@ -22,7 +22,7 @@ from .embedder import Embedder
 STOP = {"a", "an", "the", "and", "or", "but", "of", "in", "on", "at", "to", "for", "with", "as", "by", "from", "into", "over", "after", "before", "amid", "be", "is", "are", "was", "were", "will", "would", "can", "could", "should", "this", "that", "these", "those", "new", "says", "said", "report", "reports", "news", "today", "year", "years", "day", "days", "week", "weeks"}
 
 # 文章相似度阈值（余弦）：事件内跨源应 >= 该值
-SIM_THRESHOLD = 0.30
+SIM_THRESHOLD = 0.45
 
 
 def _cluster_id(date_str: str, slug: str, seq: int) -> str:

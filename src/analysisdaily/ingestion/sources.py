@@ -24,28 +24,44 @@ def google_news_rss(query: str) -> str:
 def build_default_registry() -> list[SourceInfo]:
     """默认启用的源。按通道归类。"""
     return [
-        # ---- 事实底座流（Wire）----
+        # ---- 事实底座流（Wire）：主题级查询，同一事件的多源覆盖；每条目按真实媒体标注倾向 ----
         SourceInfo(
-            name="Reuters (via Google News)",
-            url="https://www.reuters.com",
+            name="Google News · 经济市场",
+            url="https://news.google.com",
             channel=Channel.WIRE,
             bias=BiasLabel.CENTER,
             kind="wire",
-            feed_url=google_news_rss("Reuters world when:1d"),
+            feed_url=google_news_rss("stock market OR economy when:1d"),
         ),
         SourceInfo(
-            name="AP News (via Google News)",
-            url="https://apnews.com",
+            name="Google News · 科技",
+            url="https://news.google.com",
             channel=Channel.WIRE,
             bias=BiasLabel.CENTER,
             kind="wire",
-            feed_url=google_news_rss("AP News when:1d"),
+            feed_url=google_news_rss("artificial intelligence OR technology when:1d"),
+        ),
+        SourceInfo(
+            name="Google News · 气候环境",
+            url="https://news.google.com",
+            channel=Channel.WIRE,
+            bias=BiasLabel.CENTER,
+            kind="wire",
+            feed_url=google_news_rss("climate change OR energy when:1d"),
+        ),
+        SourceInfo(
+            name="Google News · 国际冲突",
+            url="https://news.google.com",
+            channel=Channel.WIRE,
+            bias=BiasLabel.CENTER,
+            kind="wire",
+            feed_url=google_news_rss("conflict OR war OR sanctions when:1d"),
         ),
         SourceInfo(
             name="BBC World (public RSS)",
             url="https://feeds.bbci.co.uk/news/world/rss.xml",
             channel=Channel.WIRE,
-            bias=BiasLabel.CENTER_LEFT,   # BBC 居中偏左的公开标签（用于演示）
+            bias=BiasLabel.CENTER_LEFT,
             kind="wire",
             feed_url="https://feeds.bbci.co.uk/news/world/rss.xml",
         ),

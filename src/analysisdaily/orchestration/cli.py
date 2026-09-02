@@ -38,16 +38,19 @@ def main(argv: list[str] | None = None) -> int:
         articles = collect_articles(settings)
         print(f"[ingest] collected {len(articles)} live articles")
 
-    reports = run_pipeline(
+    _reports, daily = run_pipeline(
         articles,
         settings,
         report_date=report_date,
         out_dir=Path(args.out) if args.out else None,
     )
-    print(f"[synthesis] produced {len(reports)} structured report(s)")
-    for r in reports:
-        print(f"  - {r.event_id} [{r.category}] facts={len(r.verified_facts)}")
-    if not reports:
+    if daily:
+        print(f"[synthesis] 日报已生成 · {len(daily.sections)} 个主题 / {daily.event_count} 条事件")
+        if daily.lead_paragraph:
+            print(f"  {daily.lead_paragraph}")
+        for sec in daily.sections:
+            print(f"  [{sec.category}] {len(sec.items)} 条")
+    else:
         print("[warn] 无足够证据形成日报（可能为单篇/噪声样本），已按护城河放弃。")
     return 0
 
