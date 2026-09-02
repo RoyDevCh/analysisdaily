@@ -61,7 +61,8 @@ jobs:
           name: daily-report-${{ github.run_id }}
           path: data/daily-reports/
 
-      - name: Commit report
+      - name: Commit report (optional, set COMMIT_REPORT=true to enable)
+        if: ${{ secrets.COMMIT_REPORT == 'true' }}
         run: |
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
