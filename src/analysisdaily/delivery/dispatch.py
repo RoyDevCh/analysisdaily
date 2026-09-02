@@ -33,6 +33,11 @@ def dispatch(daily: DailyReport, brief_md: str, settings: Settings) -> dict[str,
     if settings.notion_token:
         try:
             blocks: list[tuple[str, str]] = [("paragraph", daily.lead_paragraph)]
+            if daily.feature:
+                blocks.append(("heading_2", "深度报道"))
+                for para in daily.feature.split("\n\n"):
+                    if para.strip():
+                        blocks.append(("paragraph", para))
             for sec in daily.sections:
                 blocks.append(("heading_2", f"{sec.category}（{len(sec.items)}）"))
                 for it in sec.items:

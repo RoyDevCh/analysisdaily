@@ -64,6 +64,11 @@ def run_pipeline(
         from ..synthesis.daily import build_daily_report, render_daily_report_md
 
         daily = build_daily_report(reports, generated_at)
+        # 跨事件深度报道（LLM 执笔，失败回退规则）
+        from ..synthesis.feature import write_feature
+
+        items = [it for sec in daily.sections for it in sec.items]
+        daily.feature = write_feature(items, settings)
         brief_md = render_daily_report_md(daily)
         (out_dir / ("daily-" + report_date.isoformat() + ".md")).write_text(brief_md, encoding="utf-8")
         # 分发：推送"一篇"可读日报

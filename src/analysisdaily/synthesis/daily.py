@@ -44,6 +44,7 @@ class DailyReport(BaseModel):
     more_items: list[DailyItem] = Field(default_factory=list)
     reporting_gaps: list[str] = Field(default_factory=list)
     generated_at: str = ""
+    feature: str = ""
 
 
 def _to_item(r: StructuredReport) -> DailyItem:
@@ -135,6 +136,12 @@ def _item_line(it: DailyItem) -> str:
 
 def render_daily_report_md(daily: DailyReport) -> str:
     lines = [f"# 中立客观日报 · {daily.date.isoformat()}", "", daily.lead_paragraph, ""]
+    if daily.feature:
+        lines.append("## 深度报道")
+        for para in daily.feature.split("\n\n"):
+            if para.strip():
+                lines.append(para.strip())
+        lines.append("")
     if daily.top_stories:
         lines.append("## 今日要点")
         for it in daily.top_stories:
