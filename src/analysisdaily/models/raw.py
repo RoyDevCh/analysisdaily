@@ -45,6 +45,7 @@ class RawArticle(BaseModel):
     summary: str = ""               # RSS 摘要 / 导语
     content: str = ""               # 抓取正文（可经 Trafilatura 抽取）
     fetched_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
+    feed: str = Field(default="", description="来源 feed 分组（用于按主题分离聚类）")
 
     @field_validator("summary", "content")
     @classmethod

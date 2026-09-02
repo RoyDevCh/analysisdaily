@@ -23,6 +23,9 @@ STOP = {"a", "an", "the", "and", "or", "but", "of", "in", "on", "at", "to", "for
 
 # 文章相似度阈值（余弦）：事件内跨源应 >= 该值
 SIM_THRESHOLD = 0.45
+# 两级聚类：feed 内更紧（分开不同子事件），跨 feed 仅合并高相似的同一事件
+FEED_SIM = 0.55
+MERGE_SIM = 0.50
 
 
 def _cluster_id(date_str: str, slug: str, seq: int) -> str:
@@ -63,10 +66,7 @@ class HdbscanClusterer:
             return []
         texts = [a.text for a in windowed]
         vecs = self.embedder.encode(texts)
-        if self.algorithm == "hdbscan":
-            labels = self._hdbscan(vecs)
-        else:
-            labels = self._threshold_cluster(vecs, SIM_THRESHOLD)
+        labels = self._compute_labels(windowed, vecs)
 
         groups: dict[int, list[RawArticle]] = {}
         for a, lab in zip(windowed, labels):
@@ -75,7 +75,7 @@ class HdbscanClusterer:
         out: list[EventCluster] = []
         seq_by_terms: Counter = Counter()
         for lab, arts in groups.items():
-            if lab < 1 or len(arts) < self.min_samples:
+            if lab < 1 or len(arts) < self.min_samples or len({a.source_name for a in arts}) < 2:
                 continue
             arts.sort(key=lambda a: a.bias.fact_weight, reverse=True)
             slug = _slugify_terms(arts[0].title)
@@ -157,6 +157,59 @@ class HdbscanClusterer:
                     next_lab += 1
                 labels[i] = comp[root]
             return labels
+
+    def _compute_labels(self, windowed: list[RawArticle], vecs: np.ndarray) -> np.ndarray:
+        """两级聚类：按 feed 分组，feed 内紧聚类，再跨 feed 合并同一事件。"""
+        feeds: dict[str, list[int]] = {}
+        for i, a in enumerate(windowed):
+            feeds.setdefault(a.feed, []).append(i)
+        if len(feeds) <= 1:
+            if self.algorithm == "hdbscan":
+                return self._hdbscan(vecs)
+            return self._threshold_cluster(vecs, SIM_THRESHOLD)
+        # 一级：每个 feed 内"紧"聚类（同主题内分开不同的子事件）
+        sub_groups: list[list[int]] = []
+        for idxs in feeds.values():
+            sub_groups.extend(self._cluster_subset(vecs, idxs, FEED_SIM))
+        # 二级：跨 feed 仅合并"同一事件"（高相似）的簇
+        merged = self._merge_groups(sub_groups, vecs, MERGE_SIM)
+        idx2label: dict[int, int] = {}
+        for lab, grp in enumerate(merged, start=1):
+            for i in grp:
+                idx2label[i] = lab
+        return np.array([idx2label.get(i, -1) for i in range(len(windowed))], dtype=int)
+
+    def _cluster_subset(self, vecs: np.ndarray, idxs: list[int], threshold: float) -> list[list[int]]:
+        if len(idxs) <= 1:
+            return [list(idxs)]
+        from sklearn.cluster import AgglomerativeClustering  # type: ignore
+
+        sub = vecs[idxs]
+        clf = AgglomerativeClustering(
+            n_clusters=None, distance_threshold=max(0.05, 1.0 - threshold),
+            metric="cosine", linkage="average",
+        )
+        assign = clf.fit_predict(sub)
+        groups: dict[int, list[int]] = {}
+        for j, lab in enumerate(assign.tolist()):
+            groups.setdefault(int(lab), []).append(idxs[j])
+        return list(groups.values())
+
+    def _merge_groups(self, groups: list[list[int]], vecs: np.ndarray, threshold: float) -> list[list[int]]:
+        if not groups:
+            return []
+        from sklearn.cluster import AgglomerativeClustering  # type: ignore
+
+        centroids = np.stack([vecs[g].mean(axis=0) for g in groups])
+        clf = AgglomerativeClustering(
+            n_clusters=None, distance_threshold=max(0.05, 1.0 - threshold),
+            metric="cosine", linkage="average",
+        )
+        assign = clf.fit_predict(centroids)
+        merged: dict[int, list[int]] = {}
+        for j, lab in enumerate(assign.tolist()):
+            merged.setdefault(int(lab), []).extend(groups[j])
+        return list(merged.values())
 
     def _hdbscan(self, vecs: np.ndarray) -> np.ndarray:
         try:

@@ -77,6 +77,7 @@ class RssSourceAdapter:
                     published=published,
                     summary=summary,
                     content=content,
+                    feed=self.source.name,
                 )
             )
         return out

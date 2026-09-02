@@ -82,4 +82,13 @@ class Embedder:
 def _l2norm(m: np.ndarray) -> np.ndarray:
     norms = np.linalg.norm(m, axis=1, keepdims=True)
     norms[norms == 0] = 1.0
-    return (m / norms).astype(np.float32)
+    out = (m / norms).astype(np.float32)
+    # 全零行（退化文本）会破坏 cosine 聚类：用确定性随机方向填充为微小非零向量
+    zero = np.linalg.norm(out, axis=1) == 0
+    if zero.any():
+        rng = np.random.default_rng(42)
+        rand = rng.standard_normal((int(zero.sum()), out.shape[1])).astype(np.float32)
+        rn = np.linalg.norm(rand, axis=1, keepdims=True)
+        rn[rn == 0] = 1.0
+        out[zero] = rand / rn
+    return out
