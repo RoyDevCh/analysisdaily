@@ -31,6 +31,8 @@ class Settings(BaseSettings):
     llm_api_key: str = ""
     llm_model: str = ""
     openrouter_api_key: str = ""
+    # 多模型回退列表（逗号分隔），主模型 429/失败自动切换
+    llm_models: str = ""  # 逗号分隔的多模型回退列表
     llm_timeout: int = 60
 
     # ---- 分发（可选，填了对应配置才启用） ----
