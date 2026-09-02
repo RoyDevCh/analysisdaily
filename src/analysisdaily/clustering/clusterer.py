@@ -221,16 +221,21 @@ class HdbscanClusterer:
             return self._threshold_cluster(vecs, SIM_THRESHOLD)
 
     def _guess_category(self, articles: list[RawArticle]) -> str:
-        kw = {
-            "经济与科技": ("tech", "chip", "ai", "economy", "market", "trade", "tariff", "公司", "科技", "经济", "antitrust", "fine"),
-            "政治与外交": ("president", "parliament", "election", "minister", "embassy", "政治", "总统", "选举"),
-            "社会与公共政策": ("immigration", "health", "education", "social", "社会", "移民", "医疗"),
-            "环境与能源": ("climate", "oil", "energy", "carbon", "环境", "气候", "coal"),
-        }
-        corpus = " ".join(a.text.lower() for a in articles)
+        """规则分类（LLM 分类的兜底）：用标题+权重最高文本的显著词，避免泛化误判。"""
+        a0 = articles[0]
+        head = (a0.title + " " + a0.text[:220]).lower()
+        cats = [
+            ("安全与冲突", ("war", "attack", "military", "drone", "missile", "conflict", "strike", "troops", "defense", "ceasefire", "hostage", "invasion", "bomb")),
+            ("国际政治", ("president", "minister", "parliament", "election", "diplomacy", "embassy", "summit", "treaty", "sanctions", "prime minister", "government", "policy", "ambassador")),
+            ("经济与市场", ("economy", "market", "stock", "inflation", "gdp", "trade", "tariff", "bank", "interest rate", "company", "profit", "shares", "earnings", "revenue")),
+            ("科技与AI", ("artificial intelligence", " ai ", "technology", "chip", "software", "data", "cybersecurity", "robot", "app ", "cloud", "startup")),
+            ("气候与环境", ("climate", "carbon", "emission", "energy", "renewable", "weather", "flood", "wildfire", "pollution", "warming", "heatwave")),
+            ("社会与公共政策", ("immigration", "health", "education", "crime", "court", "trial", "lawsuit", "worker", "school", "pension", "asylum")),
+            ("文化体育", ("film", "festival", "music", "sport", "league", "actor", "concert", "album", "tournament", "movie", "star ")),
+        ]
         best, best_hits = "未分类", 0
-        for cat, words in kw.items():
-            hits = sum(corpus.count(w) for w in words)
+        for cat, words in cats:
+            hits = sum(head.count(w) for w in words)
             if hits > best_hits:
                 best, best_hits = cat, hits
         return best

@@ -25,8 +25,9 @@ _SYSTEM = (
     "1) Output STRICT JSON only, no markdown, no commentary. "
     "2) Facts must be plain subject-verb-object statements, no adjectives, no opinion, no exclamation. "
     "3) source field values MUST be chosen from the provided source names verbatim. "
+    "    category MUST be one of: 国际政治, 经济与市场, 科技与AI, 气候与环境, 安全与冲突, 社会与公共政策, 文化体育. "
     "4) Write in the SAME language as the source text (mostly English). "
-    "JSON schema: {\"headline\": str, \"left_leaning_focus\": str, \"right_leaning_focus\": str, "
+    "JSON schema: {\"category\": str, \"headline\": str, \"left_leaning_focus\": str, \"right_leaning_focus\": str, "
     "\"blindspot_warning\": str, \"facts\": [{\"text\": str, \"sources\": [str]}]}"
 )
 
@@ -117,6 +118,9 @@ class LLMFactEngine:
             )
         if not facts:
             return None
+        cat = str(obj.get("category", "")).strip()
+        if cat:
+            cluster.category = cat
         headline = str(obj.get("headline", "")).strip().rstrip("!?")
         if not headline or "!" in headline:
             headline = cluster.headline_hint.rstrip("!?")
