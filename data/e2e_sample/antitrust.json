@@ -1,0 +1,72 @@
+[
+  {
+    "source_name": "Reuters (via Google News)",
+    "channel": "wire",
+    "bias": "Center",
+    "side": "center",
+    "title": "EU fines TechCo 1.8 billion euros for abusing dominant position in search market",
+    "url": "https://example.com/reuters/1",
+    "published": "2026-09-02T08:00:00+00:00",
+    "content": "The European Commission fined TechCo 1.8 billion euros on Tuesday for abusing its dominant position in the online search market. The regulator found TechCo gave its own shopping service an illegal advantage. TechCo said it would appeal the decision. The fine follows a four-year investigation into the company's market practices."
+  },
+  {
+    "source_name": "AP News (via Google News)",
+    "channel": "wire",
+    "bias": "Center",
+    "side": "center",
+    "title": "EU regulators impose 1.8 billion euro penalty on TechCo over search competition",
+    "url": "https://example.com/ap/1",
+    "published": "2026-09-02T08:05:00+00:00",
+    "content": "The European Commission on Tuesday imposed a 1.8 billion euro penalty on TechCo over competition concerns in online search. Regulators said the company abused its dominant position. Documents show TechCo promoted its own comparison-shopping service. The company announced it will appeal."
+  },
+  {
+    "source_name": "BBC World (public RSS)",
+    "channel": "wire",
+    "bias": "Center-Left",
+    "side": "left_leaning",
+    "title": "TechCo hit with 1.8bn euro EU antitrust fine over search dominance",
+    "url": "https://example.com/bbc/1",
+    "published": "2026-09-02T08:10:00+00:00",
+    "content": "TechCo has been fined 1.8 billion euros by the European Commission for abusing its dominant position in search. The decision caps a four-year probe into how TechCo promoted its own services over rivals. The regulator said the practice harmed smaller competitors. TechCo said it disagrees and will appeal."
+  },
+  {
+    "source_name": "The Guardian",
+    "channel": "wire",
+    "bias": "Left",
+    "side": "left_leaning",
+    "title": "TechCo's shocking abuse of search power ends in record EU fine",
+    "url": "https://example.com/guardian/1",
+    "published": "2026-09-02T08:20:00+00:00",
+    "content": "The European Commission has fined TechCo 1.8 billion euros for abusing its dominant position in search. Critics say the outcome is a victory for smaller firms. The company abused its power to crush rivals. The regulator documented the practice over four years. TechCo will appeal the ruling."
+  },
+  {
+    "source_name": "Fox News",
+    "channel": "wire",
+    "bias": "Right",
+    "side": "right_leaning",
+    "title": "Outrageous EU fine on TechCo ignites fears of regulatory overreach",
+    "url": "https://example.com/fox/1",
+    "published": "2026-09-02T08:25:00+00:00",
+    "content": "The European Commission fined TechCo 1.8 billion euros on Tuesday, a move critics slam as outrageous. The penalty follows a four-year investigation. Supporters say it abusing dominant position. Opponents warn the regulators are overstepping. TechCo said it will appeal the decision."
+  },
+  {
+    "source_name": "The Wall Street Journal",
+    "channel": "wire",
+    "bias": "Center-Right",
+    "side": "right_leaning",
+    "title": "European Commission levies 1.8 billion euro fine on TechCo",
+    "url": "https://example.com/wsj/1",
+    "published": "2026-09-02T08:30:00+00:00",
+    "content": "The European Commission fined TechCo 1.8 billion euros for abusing its dominant position in online search. The regulator said the company gave its own shopping service an advantage. The decision followed a four-year investigation. TechCo plans to appeal the ruling."
+  },
+  {
+    "source_name": "Reuters (via Google News)",
+    "channel": "wire",
+    "bias": "Center",
+    "side": "center",
+    "title": "TechCo revenue rose 11 percent in the second quarter, company said",
+    "url": "https://example.com/reuters/2",
+    "published": "2026-09-02T08:40:00+00:00",
+    "content": "TechCo said its quarterly revenue rose 11 percent to 86 billion euros. The company reported the figure in its earnings statement. The results were released before market open. Executives pointed to growth in its cloud division."
+  }
+]

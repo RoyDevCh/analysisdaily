@@ -1,0 +1,20 @@
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    container_name: analysisdaily-db
+    environment:
+      POSTGRES_USER: analysisdaily
+      POSTGRES_PASSWORD: analysisdaily
+      POSTGRES_DB: analysisdaily
+    ports:
+      - "5433:5432"
+    volumes:
+      - analysisdaily_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U analysisdaily -d analysisdaily"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  analysisdaily_pgdata:

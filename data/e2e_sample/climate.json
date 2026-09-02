@@ -1,0 +1,52 @@
+[
+  {
+    "source_name": "Reuters (via Google News)",
+    "channel": "wire",
+    "bias": "Center",
+    "side": "center",
+    "title": "Nearly 200 nations agree to phase down coal use by 2035 in climate pact",
+    "url": "https://example.com/reuters/cl1",
+    "published": "2026-09-02T09:00:00+00:00",
+    "content": "Almost 200 countries reached an agreement to phase down the use of coal by 2035. The deal was signed at the summit on Tuesday. The text sets a timeline for reducing emissions. The agreement was reached after two weeks of talks."
+  },
+  {
+    "source_name": "AP News (via Google News)",
+    "channel": "wire",
+    "bias": "Center",
+    "side": "center",
+    "title": "Countries agree to cut coal use by 2035 in global climate deal",
+    "url": "https://example.com/ap/cl1",
+    "published": "2026-09-02T09:05:00+00:00",
+    "content": "Nearly 200 countries agreed on Tuesday to reduce coal use by 2035. The pact is part of a broader effort to lower emissions. Negotiators described the deal as a step forward. The agreement sets out specific targets."
+  },
+  {
+    "source_name": "The Guardian",
+    "channel": "wire",
+    "bias": "Left",
+    "side": "left_leaning",
+    "title": "Historic climate deal phases out coal, but activists say it is too slow",
+    "url": "https://example.com/guardian/cl1",
+    "published": "2026-09-02T09:10:00+00:00",
+    "content": "Nearly 200 nations agreed to phase down coal by 2035 in a landmark climate pact. Activists called the measure historic but complained it is too slow. The deal requires countries to cut emissions. Some vulnerable states said the timeline is insufficient."
+  },
+  {
+    "source_name": "Fox News",
+    "channel": "wire",
+    "bias": "Right",
+    "side": "right_leaning",
+    "title": "Climate pact forces costly coal phase-out, critics warn of higher energy prices",
+    "url": "https://example.com/fox/cl1",
+    "published": "2026-09-02T09:15:00+00:00",
+    "content": "Nearly 200 countries agreed to phase down coal by 2035 on Tuesday. Critics say the deal will raise energy costs. Supporters argue it is necessary for the climate. The agreement sets a 2035 deadline for cutting coal. The vote passed despite opposition."
+  },
+  {
+    "source_name": "Pew Research Center",
+    "channel": "research",
+    "bias": "Center",
+    "side": "center",
+    "title": "Pew: global public opinion on climate policy remains deeply divided",
+    "url": "https://example.com/pew/cl1",
+    "published": "2026-09-02T09:20:00+00:00",
+    "content": "A Pew Research Center survey of 20 countries found that 61 percent of respondents support reducing emissions. Support varied widely by country. The survey was conducted before the summit. Results are based on 20,000 interviews."
+  }
+]
