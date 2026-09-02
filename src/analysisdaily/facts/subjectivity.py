@@ -19,7 +19,7 @@ EMOTIVE_WORDS = {
     "terrifying", "astonishing", "scandalous", "criminal", "biased", "fake", "hoax",
     "radical", "extremist", "fringe", "smear", "witch hunt", "deep state", "sneaky",
     "sneak", "lurid", "fantastic", "brilliant", "heroic", "evil", "corrupt", "messy",
-    "historic", "landmark",
+    "historic", "landmark", "bias", "scandal", "meltdown", "chaos", "crisis", "disaster", "catastrophe", "unprecedented", "staggering",
 }
 
 # 无实据/推测性标记（出现即倾向剔除）
