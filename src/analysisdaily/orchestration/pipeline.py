@@ -65,8 +65,10 @@ def run_pipeline(
         write_report(r, out_dir)
     daily = None
     if reports:
+        from ..synthesis.bilingual import localize_zh
         from ..synthesis.daily import build_daily_report, render_daily_report_md
 
+        localize_zh(reports, settings)  # 逐项翻译为中文（在构建日报前）
         daily = build_daily_report(reports, generated_at, source_weights=settings.source_weights)
         # 跨事件深度报道（LLM 执笔，失败回退规则）
         from ..synthesis.feature import write_feature
@@ -80,7 +82,7 @@ def run_pipeline(
         _threads = update_threads(embedder, reports, load_threads(threads_path), report_date.strftime("%Y%m%d"))
         save_threads(threads_path, _threads)
         daily.tracking = render_tracking(_threads)
-        # 双语：英文版（原生）+ 中文版（整篇 LLM 翻译，比逐字段产中文更稳）
+        # 双语：英文版（原生）+ 中文版（整篇 LLM 翻译，实测最可靠）
         from ..synthesis.bilingual import translate_to_zh
 
         brief_en = render_daily_report_md(daily, lang="en")
