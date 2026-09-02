@@ -53,3 +53,26 @@ def test_llm_engine_falls_back_when_unparsable(monkeypatch):
     pkg = eng.analyze(cluster)
     assert pkg.engine == "rules"
     assert pkg.verified_facts
+
+def test_llm_engine_filters_emotive_fact_before_construction(monkeypatch):
+    """LLM 只输出标签；若产出的"事实文本"含情绪词，应在构造前被过滤而不崩溃。"""
+    import json
+
+    from analysisdaily.facts.llm_engine import LLMFactEngine
+
+    cluster, settings, embed = _top_cluster()
+    # 构造成份在 _parse 内发生：用 monkeypatch 让 _call 返回含"disaster"的 JSON
+    bad_json = json.dumps({
+        "headline": "Neutral headline here",
+        "left_leaning_focus": "x", "right_leaning_focus": "y", "blindspot_warning": "z",
+        "facts": [
+            {"text": "The European Commission fined TechCo 1.8 billion euros.", "sources": ["Reuters (via Google News)"]},
+            {"text": "As climate change warms the Himalayas, disasters are becoming more frequent.", "sources": ["AP News (via Google News)"]},
+        ],
+    })
+    eng = LLMFactEngine(settings, embed)
+    monkeypatch.setattr(eng, "_call", lambda cluster: bad_json)
+    pkg = eng.analyze(cluster)  # 不应抛出异常（失败也会回退规则引擎）
+    # 若走了 LLM 产物，则"disaster"事实必须被过滤
+    assert pkg.verified_facts
+    assert all("disaster" not in f.text for f in pkg.verified_facts)

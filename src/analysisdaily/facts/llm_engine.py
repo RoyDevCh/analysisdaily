@@ -17,7 +17,7 @@ from ..config import Settings
 from ..models.raw import EventCluster
 from ..models.report import BackgroundData, FactStatement, QuoteSpan
 from .package import EventPackage
-from .subjectivity import is_factual, split_sentences
+from .subjectivity import is_clean_fact, is_factual, split_sentences
 
 _SYSTEM = (
     "You are a neutral fact-checking editor. Given several news articles about the SAME event, "
@@ -93,7 +93,7 @@ class LLMFactEngine:
         facts: list[FactStatement] = []
         for f in obj["facts"][:5]:
             text = str(f.get("text", "")).strip()
-            if len(text) < 20:
+            if len(text) < 20 or not is_clean_fact(text):
                 continue
             sources = [str(s) for s in f.get("sources", [])]
             spans, used = [], set()

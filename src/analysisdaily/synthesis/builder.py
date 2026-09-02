@@ -8,12 +8,18 @@ from __future__ import annotations
 from datetime import date
 
 from ..facts.package import EventPackage
+from ..facts.subjectivity import is_clean_fact
 from ..models.report import SourceRef, StructuredReport
 
 
 def build_report(pkg: EventPackage, report_date: date, generated_at: str) -> StructuredReport | None:
     # 无任何可核验事实 → 放弃该事件（严格落地）
     if not pkg.verified_facts:
+        return None
+
+    # 护城河：过滤不合格事实（含情绪词/感叹号），绝不因单条事实导致整批失败
+    facts = [f for f in pkg.verified_facts if is_clean_fact(f.text)]
+    if not facts:
         return None
 
     # 去重来源
@@ -27,7 +33,7 @@ def build_report(pkg: EventPackage, report_date: date, generated_at: str) -> Str
         date=report_date,
         category=pkg.cluster.category,
         headline=pkg.headline,
-        verified_facts=pkg.verified_facts,
+        verified_facts=facts,
         perspectives_divergence=pkg.divergence,
         background_data=pkg.background,
         sources=list(sources.values()),

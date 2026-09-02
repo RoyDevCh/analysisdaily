@@ -65,6 +65,17 @@ def strip_emotive(text: str) -> str:
     return " ".join(kept)
 
 
+def is_clean_fact(text: str) -> bool:
+    """是否可作为合格事实输出：无感叹号、无情绪词（供引擎过滤，避免校验崩溃）。"""
+    text = (text or "").strip()
+    if not text:
+        return False
+    if "!" in text:
+        return False
+    low = text.lower()
+    return not any(w in low for w in EMOTIVE_WORDS)
+
+
 def is_factual(sentence: str) -> bool:
     """是否可作为客观事实句：无情绪、无推测、有一定长度且含实体锚点。"""
     if len(sentence) < 20:
