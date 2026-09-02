@@ -25,7 +25,8 @@
 python -m venv .venv && .venv\Scripts\activate
 pip install -e ".[dev]"
 
-# 2. 启动 PostgreSQL + pgvector（可选，默认可用本地文件/内存后端）
+# 2. （可选）本地 PostgreSQL + pgvector —— 仅用于把文章/日报落一份本地库
+#    每日自动生成不需要它（GitHub Actions 云端跑，直接推 Notion）
 docker compose up -d
 
 # 3. 用离线样本跑通全管道（无需网络/无密钥）
@@ -78,14 +79,16 @@ python -m analysisdaily --run --date 2026-09-02
 - **证据 quote_span 由真实抓取文本回填** —— 模型只给"事实文本+来源名"，引文绝不来自模型凭空捏造；
 - **任一失败自动回退规则引擎**（engine=rules），保证日报永远可生成。
 
-## 本地 PostgreSQL/pgvector 容器
+## 本地 PostgreSQL/pgvector 容器（**可选**，仅本地落库）
+
+> ⚠️ **每日自动生成不需要它**：GitHub Actions 每天 08:00 在云端跑全流程并直接推送 Notion，与本地 Docker 无关；不开 Docker 系统照常运行，不会中断。
 
 已提供 `docker-compose.yml`（镜像 `pgvector/pgvector:pg16`，端口映射 5433）。启动：
 
 ```bash
 docker compose up -d          # 首次会拉镜像；需要 Docker 守护进程在运行
 pip install -e ".[db]"        # 安装 psycopg 以便真正写库
-python -m analysisdaily --run # 之后运行会自动把文章/日报写入 Postgres（未启动时自动跳过）
+python -m analysisdaily --run # 之后运行会自动把文章/日报写入 Postgres（不启动容器则自动跳过，报告照常生成/推送）
 ```
 
 ## 分发（邮件 / Telegram / Notion）
