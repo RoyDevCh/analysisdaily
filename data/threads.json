@@ -120,8 +120,8 @@
   },
   {
     "thread_id": "thread-apple-maps-renames-lake-ontario-as-lake-",
-    "title": "MapQuest tops US App Store downloads after refusing to rename Lake Ontario",
-    "category": "科技与AI",
+    "title": "Apple Maps renames Lake Ontario as 'Lake America' for US users following Trump executive order",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -164,6 +164,13 @@
         "headline": "MapQuest tops US App Store downloads after refusing to rename Lake Ontario",
         "summary": "MapQuest reached No. 1 on the US Apple App Store most-downloaded chart after publicly refusing to comply with President Donald Trump's executive order renaming Lake Ontario to \"Lake America.\" MapQuest mocked the change on social media while larger rivals Google Maps and Apple Maps adopted the new name. The app leapfrogged those competitors in download rankings, as first reported by TechCrunch. Tru",
         "category": "科技与AI"
+      },
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-apple-maps-renames-lake-01",
+        "headline": "Apple Maps renames Lake Ontario as 'Lake America' for US users following Trump executive order",
+        "summary": "Apple has renamed Lake Ontario as 'Lake America' for US users of its Maps app following an executive order from President Donald Trump. The lake, located between New York state and the Canadian province of Ontario, was renamed amid Trump's trade dispute with Canada. Apple Maps users outside the US continue to see the original Lake Ontario name. The renaming sparked public reactions in Ontario, New",
+        "category": "国际政治"
       }
     ]
   },
@@ -414,8 +421,8 @@
   },
   {
     "thread_id": "thread-keir-starmer-former-uk-prime-minister-sa",
-    "title": "Keir Starmer, Former UK Prime Minister, Says He Will Resign From Parliament",
-    "category": "国际政治",
+    "title": "Spanish opposition parties accused Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -430,6 +437,13 @@
         "headline": "Keir Starmer, Former UK Prime Minister, Says He Will Resign From Parliament",
         "summary": "Keir Starmer delivering a farewell speech after stepping down as prime minister of Britain in July.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-tens-thousands-rally-across-01",
+        "headline": "Spanish opposition parties accused Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
+        "summary": "Tens of thousands of people rallied in cities across Spain to protest the government's handling of the migration crisis in Ceuta. The crisis began roughly one month before the protests, leaving migrants and asylum seekers in need of shelter and resources. Spanish opposition parties accused Prime Minister Pedro Sánchez of abandoning residents of Ceuta. Reports differ on the scale of the protests, w",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -673,8 +687,8 @@
   },
   {
     "thread_id": "thread-norway-s-new-king-haakon-viii-takes-oath",
-    "title": "Two unrelated news items covered in current reports",
-    "category": "文化体育",
+    "title": "Morocco's ruling coalition fractures ahead of election campaign; unrelated Alaska gubernatorial primary update",
+    "category": "other",
     "events": [
       {
         "date": "20260902",
@@ -717,6 +731,13 @@
         "headline": "Two unrelated news items covered in current reports",
         "summary": "The two articles cover unrelated topics. BBC World reports on a viral Japanese food trend of making instant noodles with cold water, featuring correspondent Kurumi Mori testing the method in Tokyo. New York Post reports on sports media figure Bill Simmons responding to a FanDuel betting controversy. The sources do not overlap in subject matter, and no shared event, timeline, or location connects t",
         "category": "文化体育"
+      },
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-morocco-s-ruling-allies-01",
+        "headline": "Morocco's ruling coalition fractures ahead of election campaign; unrelated Alaska gubernatorial primary update",
+        "summary": "Two distinct articles describe unrelated political developments. Al Jazeera reports that Morocco's ruling allies are publicly turning on each other days before the official election campaign begins, with political tensions rising among Moroccans ahead of the polls. Forbes reports that Bernadette Wilson secured enough votes in Alaska's gubernatorial primary to advance to the general election and di",
+        "category": "other"
       }
     ]
   },
@@ -799,7 +820,7 @@
   },
   {
     "thread_id": "thread-us-and-iran-exchange-more-airstrikes-fue",
-    "title": "US and Iran exchange more airstrikes, fuelling fears of wider return to hostilities",
+    "title": "Iran accuses US of war crime after strike hits wedding in southern Iran, killing four",
     "category": "安全与冲突",
     "events": [
       {
@@ -815,12 +836,19 @@
         "headline": "US and Iran exchange more airstrikes, fuelling fears of wider return to hostilities",
         "summary": "Attacks on Iran’s Revolutionary Guard and reprisals against US bases in Middle East quash hopes that flare-up last weekend was limited in nature The US has launched new airstrikes on Iranian targets, prompting counter strikes by Tehran targeting American interests in Bahrain, Kuwait, Jordan and Iraq, fuelling concerns about a ⁠wider renewal of hostilities. US Marine Corps base Camp Titin in Jordan",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-iran-us-strike-killed-01",
+        "headline": "Iran accuses US of war crime after strike hits wedding in southern Iran, killing four",
+        "summary": "Iranian state media reported that a US strike caused an explosion at a wedding at a private home in Kuhestak, Hormozgan province, in southern Iran late on Tuesday, killing at least four people and injuring 68. Iranian officials said two children were among the dead and accused the US of committing a war crime. The US denied targeting civilians. Iran subsequently launched missiles and drones at US ",
+        "category": "安全与冲突"
       }
     ]
   },
   {
     "thread_id": "thread-worshippers-in-west-bank-tear-gassed-as-",
-    "title": "Worshippers in West Bank tear-gassed as Israeli attacks on mosques surge",
+    "title": "荷兰央行将86吨黄金储备从美国和加拿大转移至伦敦",
     "category": "经济与市场",
     "events": [
       {
@@ -835,6 +863,13 @@
         "event_cluster_id": "20260902-worshippers-west-bank-tear-01",
         "headline": "Worshippers in West Bank tear-gassed as Israeli attacks on mosques surge",
         "summary": "Palestinian authorities say Israeli forces and settlers have violated 13 West Bank mosques this year.",
+        "category": "经济与市场"
+      },
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-netherlands-moves-billions-gold-01",
+        "headline": "荷兰央行将86吨黄金储备从美国和加拿大转移至伦敦",
+        "summary": "荷兰央行（De Nederlandsche Bank）将86吨黄金储备从美国纽约和加拿大渥太华转移至英国伦敦，作为危机准备措施。两家媒体报道均援引荷兰央行说法，称此举是由于\"地缘政治紧张局势加剧\"。荷兰央行表示，存放于伦敦的黄金储备比存放于纽约和渥太华的更容易交易，并能在\"危机情况\"下更快地作出反应。此次转移涉及的黄金总量和具体地点在两篇报道中表述一致。",
         "category": "经济与市场"
       }
     ]
@@ -967,8 +1002,8 @@
   },
   {
     "thread_id": "thread-imprisoned-in-spain-james-fergie-chamber",
-    "title": "Greece Pursues Israeli Defense Systems Amid Shifting Regional Alliances",
-    "category": "安全与冲突",
+    "title": "Israel's defence minister says Israel seeking US support to expel Palestinians from Gaza",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -990,6 +1025,13 @@
         "headline": "Greece Pursues Israeli Defense Systems Amid Shifting Regional Alliances",
         "summary": "Greece has agreed to purchase Israel's Achilles Shield air defense system, according to Al Jazeera, which frames the deal within a broader realignment of regional alliances connected to US-Israeli operations against Iran. The New York Times does not specifically address the Greece-Israel defense deal but characterizes Prime Minister Benjamin Netanyahu's government as seeking confrontations on mult",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-israel-still-wants-remove-01",
+        "headline": "Israel's defence minister says Israel seeking US support to expel Palestinians from Gaza",
+        "summary": "Israeli Defence Minister Israel Katz stated that Israel is seeking US President Donald Trump's support for a plan to expel Palestinians from the Gaza Strip. Katz said there was \"no real solution for Gaza in the end without this migration\" and that the Israeli government was \"organised and prepared to get them out by sea, by air, by every way possible.\" He made the remarks at a conference hosted by",
+        "category": "国际政治"
       }
     ]
   },
@@ -1023,8 +1065,8 @@
   },
   {
     "thread_id": "thread-extreme-heat-expected-on-1st-full-weeken",
-    "title": "Charlie Kirk murder suspect pleads not guilty to aggravated murder charge in Utah",
-    "category": "安全与冲突",
+    "title": "Maltese tycoon Yorgen Fenech acquitted in Daphne Caruana Galizia murder trial",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -1074,6 +1116,13 @@
         "headline": "Charlie Kirk murder suspect pleads not guilty to aggravated murder charge in Utah",
         "summary": "The 22-year-old suspect charged with the murder of Charlie Kirk pleaded not guilty in a Utah court. The suspect faces one count of aggravated murder, a capital offence in Utah, along with six additional counts. A judge cleared the way for the case to proceed toward a potential death penalty trial. The articles diverge on the suspect's age: Al Jazeera identifies the defendant as 22, while the BBC r",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-maltese-tycoon-acquitted-killing-01",
+        "headline": "Maltese tycoon Yorgen Fenech acquitted in Daphne Caruana Galizia murder trial",
+        "summary": "A jury in Malta acquitted Yorgen Fenech, one of Malta's richest businessmen, on charges of orchestrating the 2017 car bomb murder of investigative journalist Daphne Caruana Galizia. Caruana Galizia had reported on alleged corruption and money laundering in Maltese political and business circles before her death at age 53. The prosecution is expected to appeal the verdict, which was the final prose",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -1156,7 +1205,7 @@
   },
   {
     "thread_id": "thread-uss-abraham-lincoln-docks-in-thailand-af",
-    "title": "USS Abraham Lincoln arrives in Thailand after extended deployment",
+    "title": "USS Abraham Lincoln docks near Pattaya, Thailand after 250 days at sea; local police crack down on prostitution",
     "category": "国际政治",
     "events": [
       {
@@ -1207,13 +1256,20 @@
         "headline": "USS Abraham Lincoln arrives in Thailand after extended deployment",
         "summary": "The USS Abraham Lincoln, a US aircraft carrier carrying approximately 5,000 sailors, docked at the port of Laem Chabang near Pattaya, Thailand following an extended deployment at sea. Reports indicate the vessel had been at sea for roughly 250 to 270 days without a port call. Sources diverge on the exact duration and on conditions aboard, with some outlets reporting 250 days and others 270 days. M",
         "category": "国际政治"
+      },
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-us-sailors-arrive-thailand-01",
+        "headline": "USS Abraham Lincoln docks near Pattaya, Thailand after 250 days at sea; local police crack down on prostitution",
+        "summary": "The USS Abraham Lincoln aircraft carrier and two other U.S. naval vessels docked at the port of Laem Chabang near Pattaya, Thailand, on Wednesday, allowing approximately 5,000 sailors and Marines a port visit after 250 days at sea. The carrier, based in San Diego, departed in November and was redirected to the Middle East during the U.S. war with Iran. Pattaya police increased patrols and conducte",
+        "category": "国际政治"
       }
     ]
   },
   {
     "thread_id": "thread-joshua-wong-pleads-guilty-in-hong-kong-n",
-    "title": "Hong Kong pro-democracy activist Joshua Wong pleads guilty to national security charge of colluding with foreign forces",
-    "category": "社会与公共政策",
+    "title": "Hong Kong pro-democracy activist Joshua Wong pleads guilty in second national security case",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -1291,6 +1347,13 @@
         "headline": "Hong Kong pro-democracy activist Joshua Wong pleads guilty to national security charge of colluding with foreign forces",
         "summary": "Joshua Wong, a 29-year-old Hong Kong pro-democracy activist, pleaded guilty on Wednesday to conspiring to collude with foreign forces, a national security charge carrying a maximum life sentence. Prosecutors allege Wong worked with exiled activist Nathan Law to urge foreign powers to impose sanctions, blockades or other hostile measures against China and Hong Kong. This is Wong's second national s",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-hong-kong-pro-democracy-01",
+        "headline": "Hong Kong pro-democracy activist Joshua Wong pleads guilty in second national security case",
+        "summary": "Joshua Wong, a Hong Kong pro-democracy activist, pleaded guilty on Wednesday to a charge of conspiring to collude with foreign powers, which carries a maximum life sentence. Prosecutors allege that Wong, 29, worked with exiled activist Nathan Law to urge foreign powers to impose sanctions, blockades or other hostile measures against China and Hong Kong. The case is his second brought under the nat",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -1373,7 +1436,7 @@
   },
   {
     "thread_id": "thread-nepal-flood-death-toll-exceeds-1-000",
-    "title": "Nepal floods kill over 1,000; UN coordinates relief",
+    "title": "Rescuers in Nepal Search for Survivors After August Floods and Mudslides",
     "category": "安全与冲突",
     "events": [
       {
@@ -1430,6 +1493,13 @@
         "event_cluster_id": "20260902-nepal-intensifies-relief-recovery-01",
         "headline": "Nepal floods kill over 1,000; UN coordinates relief",
         "summary": "Nepal has intensified relief and recovery efforts following deadly floods, with more than 1,000 people reported dead and thousands missing. Rescue operations are ongoing, and aid is being airlifted to affected villages, according to the United Nations. The New York Times article provided did not pertain to this event and instead covered a separate story about critically endangered kakapo parrots i",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-exclusive-access-search-nepal-01",
+        "headline": "Rescuers in Nepal Search for Survivors After August Floods and Mudslides",
+        "summary": "On August 26, a mudslide and subsequent floods struck Tibet's Gyirong Valley and Nepal's Trishuli River Valley, killing at least 1,114 people in Nepal with nearly 4,000 missing, according to Fox News. Chinese authorities reported 16 dead and at least 541 missing on their side of the border. Rescue teams in Nepal's Rasuwa district are using ziplines and cable cars to reach stranded residents after ",
         "category": "安全与冲突"
       }
     ]
@@ -1793,8 +1863,8 @@
   },
   {
     "thread_id": "thread-guinea-bissau-voters-approve-new-constit",
-    "title": "Guinea-Bissau voters approve new constitution expanding presidential powers",
-    "category": "国际政治",
+    "title": "Glen Powell主演剧集《Chad Powers》第二季回归流媒体平台",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -1823,6 +1893,13 @@
         "headline": "Guinea-Bissau voters approve new constitution expanding presidential powers",
         "summary": "Voters in Guinea-Bissau approved a new constitution in a referendum held ahead of December polls, with provisional results showing roughly 70% in favor. The constitutional changes expand presidential powers, reduce the number of parliamentary seats, and introduce new rules governing presidential candidates. The referendum follows a coup last year and comes as part of a proposed transition back to ",
         "category": "国际政治"
+      },
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-chad-powers-season-2-01",
+        "headline": "Glen Powell主演剧集《Chad Powers》第二季回归流媒体平台",
+        "summary": "Hulu喜剧剧集《Chad Powers》第二季于本周上线,Glen Powell继续担任主演。剧集以大学橄榄球为背景,首季播出后获得观众关注。Forbes报道了该剧第二季的开播时间、集数及评论界反响,New York Post则聚焦播出时间和观看方式。两篇文章均确认该剧第二季已正式回归。",
+        "category": "文化体育"
       }
     ]
   },
@@ -2129,7 +2206,7 @@
   },
   {
     "thread_id": "thread-germany-attributes-leipzig-airport-drone",
-    "title": "Germany blames Russia for drone attack on Leipzig airport as EU and NATO pledge countermeasures",
+    "title": "Germany blames Russia for attempted drone attack on Leipzig airport; EU and NATO vow increased pressure",
     "category": "安全与冲突",
     "events": [
       {
@@ -2151,6 +2228,13 @@
         "event_cluster_id": "20260902-eu-nato-vow-step-01",
         "headline": "Germany blames Russia for drone attack on Leipzig airport as EU and NATO pledge countermeasures",
         "summary": "Germany accused Russia of being responsible for a failed drone attack on Leipzig airport, described as occurring on or around August 4. Officials stated the attempt was part of a broader campaign to undermine European support for Ukraine. Following the incident, Germany announced countermeasures, and both the EU and NATO pledged to increase pressure on Russia. Sources describe the attack as a new ",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-eu-nato-vow-step-01",
+        "headline": "Germany blames Russia for attempted drone attack on Leipzig airport; EU and NATO vow increased pressure",
+        "summary": "The German government accused Russia of being responsible for a failed drone attack on Leipzig airport in late September or early October. The drone reportedly carried explosives and did not cause significant damage. In response, Germany announced measures including shutting down a Russian consulate. The EU and NATO pledged to increase pressure on Russia, with NATO describing the incident as a new",
         "category": "安全与冲突"
       }
     ]
@@ -2185,7 +2269,7 @@
   },
   {
     "thread_id": "thread-u-s-military-strikes-iran",
-    "title": "U.S. strikes Iran, Iran retaliates with missiles and drones",
+    "title": "Trump Responds to Iran's Retaliation With Verbal Warning After U.S. Strikes",
     "category": "安全与冲突",
     "events": [
       {
@@ -2235,6 +2319,13 @@
         "event_cluster_id": "20260902-trump-returns-familiar-playbook-01",
         "headline": "U.S. strikes Iran, Iran retaliates with missiles and drones",
         "summary": "U.S. forces conducted strikes against Iran on Tuesday, prompting Iran to retaliate with missiles and drones. President Trump stated on social media late Tuesday that he \"couldn't care less\" about reaching an agreement with Iran. Prior to the strikes, Trump had warned Iran that any retaliation would result in further U.S. strikes \"at a much harder and higher level.\" Both sources frame the event as ",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-trump-returns-familiar-playbook-01",
+        "headline": "Trump Responds to Iran's Retaliation With Verbal Warning After U.S. Strikes",
+        "summary": "U.S. President Trump made social media comments following renewed military action between the United States and Iran. After U.S. strikes, Trump warned that any Iranian retaliation would be met with further attacks, and later stated he couldn't care less about an agreement with Iran. Iran responded to the U.S. strikes with missiles and drones. Both U.S. and Iranian sources confirm the exchange of m",
         "category": "安全与冲突"
       }
     ]
@@ -2752,8 +2843,8 @@
   },
   {
     "thread_id": "thread-美国对伊朗irgc目标发动新一轮空袭-伊朗反击美军基地引发中东紧张升级",
-    "title": "美国对伊朗IRGC目标发动新一轮空袭，伊朗反击美军基地引发中东紧张升级",
-    "category": "安全与冲突",
+    "title": "Macron在英国短期访问期间与查尔斯国王一同观看贝叶挂毯",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -2761,6 +2852,13 @@
         "headline": "美国对伊朗IRGC目标发动新一轮空袭，伊朗反击美军基地引发中东紧张升级",
         "summary": "美国中央司令部于周二对伊朗伊斯兰革命卫队（IRGC）目标发动新一轮空袭，伊朗随后向巴林、科威特、约旦和伊拉克的美军基地发射弹道导弹作为报复。美国驻耶路撒冷、约旦和卡塔尔等中东使馆发布警告，要求美国公民保持高度警惕，应对航班取消和空域关闭等潜在中断。事件起因包括IRGC此前在霍尔木兹海峡对商业航运及驻地区美军发动的攻击。《卫报》关注此轮冲突可能标志着上周小规模冲突升级为更广泛敌对行动的回归，而《福克斯新闻》则强调美国空袭是对伊朗先前袭击的回应，并指出霍尔木兹海峡的水雷已被清除。",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-macron-visits-bayeux-tapestry-01",
+        "headline": "Macron在英国短期访问期间与查尔斯国王一同观看贝叶挂毯",
+        "summary": "法国总统马克龙访问英国，与英国国王查尔斯在伦敦大英博物馆观看即将借展的贝叶挂毯。此次访问为期较短的几天，而挂毯的借展期更长。马克龙还会见了英国首相安迪·伯纳姆。两件来源均记录了此次会面，但《卫报》详细报道了查尔斯国王关于英法两国共享历史和价值观的讲话内容，而DW侧重于马克龙、查尔斯和伯纳姆之间的会面事实。",
+        "category": "国际政治"
       }
     ]
   },
@@ -3361,8 +3459,8 @@
   },
   {
     "thread_id": "thread-japan-reduces-urban-speed-limits-and-see",
-    "title": "Japan reduces urban speed limits and sees viral cold-water noodle trend",
-    "category": "社会与公共政策",
+    "title": "Articles cover two unrelated events: US birthright citizenship ruling and Japan speed limit reduction",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -3370,6 +3468,13 @@
         "headline": "Japan reduces urban speed limits and sees viral cold-water noodle trend",
         "summary": "Japan implemented a nationwide reduction of the default speed limit on narrow residential streets from 60km/h to 30km/h, effective Tuesday, covering approximately 70% of general roads without center lines or posted speed signs, according to media reports. The change aims to reduce pedestrian deaths and injuries in densely populated urban areas. Separately, BBC Tokyo correspondent Kurumi Mori teste",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-us-judge-blocks-trump-01",
+        "headline": "Articles cover two unrelated events: US birthright citizenship ruling and Japan speed limit reduction",
+        "summary": "The provided sources discuss two separate events. A US judge blocked Trump's effort to limit birthright citizenship, following a 6-3 Supreme Court decision finding the effort illegal. Separately, Japan reduced the speed limit on narrow residential streets from 60km/h to 30km/h, effective Tuesday, covering approximately 70% of general roads, in an effort to reduce pedestrian deaths and injuries. Th",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -3389,7 +3494,7 @@
   },
   {
     "thread_id": "thread-active-shooter-drills-and-school-safety-",
-    "title": "Active Shooter Drills and School Safety Practices Spread Across Multiple Countries",
+    "title": "Schoolchildren Resume Education Amid Health and Conflict Crises",
     "category": "社会与公共政策",
     "events": [
       {
@@ -3397,6 +3502,13 @@
         "event_cluster_id": "20260902-do-active-shooter-drills-01",
         "headline": "Active Shooter Drills and School Safety Practices Spread Across Multiple Countries",
         "summary": "Active shooter drills have been adopted in Thailand following gun violence incidents, with a recent drill conducted at a school in Bangkok. In Ukraine, students at Sichovy Collegium in Zaporizhzhia began the school year in an underground facility built to allow learning to continue during the war. In the United States, a knife-wielding student at a Los Angeles high school confronted another studen",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-children-return-school-dr-01",
+        "headline": "Schoolchildren Resume Education Amid Health and Conflict Crises",
+        "summary": "Children in the Democratic Republic of Congo returned to school amid concerns over an ongoing Ebola outbreak. Separately, in Zaporizhzhia, Ukraine, children at Sichovy Collegium attended their first day of school in an underground facility built to allow continued learning during the war. The two articles address unrelated events in different countries. Both report on disruptions to children's edu",
         "category": "社会与公共政策"
       }
     ]
@@ -3440,6 +3552,90 @@
         "headline": "帕雷德斯因停赛与梅西退役而考虑阿根廷国家队未来",
         "summary": "阿森纳中场莱安德罗·帕雷德斯因累计黄牌被国际足联禁赛10场，缺席阿根廷世预赛名单。与此同时，梅西宣布退出国家队，帕雷德斯表示将重新评估自己在国家队的未来角色。帕雷德斯此前因在对阵厄瓜多尔的比赛中受到处罚而停赛，停赛场次涵盖世界杯预选赛关键阶段。福布斯相关文章聚焦于决策类书籍推荐，与本事件无直接关联。",
         "category": "体育"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-aew-dynamite-returns-with-all-out-fallou",
+    "title": "AEW Dynamite returns with All Out fallout",
+    "category": "文化体育",
+    "events": [
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-aew-dynamite-results-sept-01",
+        "headline": "AEW Dynamite returns with All Out fallout",
+        "summary": "AEW Dynamite aired on Wednesday night following the All In pay-per-view, beginning the build toward All Out. The show featured fallout from All In and returned with a star-studded lineup. Forbes provided a preview/results recap of the broadcast. The New York Post articles covered separate baseball stories involving the Yankees and Mets.",
+        "category": "文化体育"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-美国众议院否决限制最高法院规模的宪法修正案",
+    "title": "美国众议院否决限制最高法院规模的宪法修正案",
+    "category": "政治与立法",
+    "events": [
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-us-congress-rejects-constitutional-01",
+        "headline": "美国众议院否决限制最高法院规模的宪法修正案",
+        "summary": "美国众议院否决了一项旨在将最高法院大法官人数固定在九人的宪法修正案。该修正案由共和党人提出，旨在阻止未来总统试图增加最高法院大法官人数。共和党议长迈克·约翰逊批评民主党人投票反对捍卫最高法院的独立性。与此同时，加州总检察长与派拉蒙的反垄断诉讼案件中，爱荷华州和蒙大拿州请求最高法院中止该诉讼，派拉蒙面临每天700万美元的延误成本。各方报道均集中于众议院投票结果，但在描述各方立场和未来影响方面存在分歧。",
+        "category": "政治与立法"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-south-african-airline-cancels-flyby-amid",
+    "title": "South African airline cancels flyby amid aviation authority investigation",
+    "category": "社会与公共政策",
+    "events": [
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-south-african-airline-behind-01",
+        "headline": "South African airline cancels flyby amid aviation authority investigation",
+        "summary": "The South African civil aviation authority is investigating an aerial display performed over a stadium by a South African airline last Saturday. The airline has cancelled its next scheduled flyby in response to the inquiry. Separately, the United Nations reported that the world will miss its 1.5-degree climate target, according to The New York Times. The two articles cover distinct events.",
+        "category": "社会与公共政策"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-dara-singh-faces-potential-release-in-in",
+    "title": "Dara Singh faces potential release in India decades after burning missionary and sons alive",
+    "category": "社会与公共政策",
+    "events": [
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-man-who-murdered-christian-01",
+        "headline": "Dara Singh faces potential release in India decades after burning missionary and sons alive",
+        "summary": "Dara Singh is serving a life sentence in India for burning alive Graham Staines and his two sons in Odisha in 1999. He could potentially walk free following legal proceedings. The case remains a notable incident of religious violence in the country. Indian courts have reviewed his case under applicable remission policies. BBC World reported on the possibility of his release from prison.",
+        "category": "社会与公共政策"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-openai-faces-new-lawsuits-over-tumbler-r",
+    "title": "OpenAI faces new lawsuits over Tumbler Ridge mass shooting; separate Syria justice efforts continue",
+    "category": "社会与公共政策",
+    "events": [
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-openai-faces-lawsuits-tumbler-01",
+        "headline": "OpenAI faces new lawsuits over Tumbler Ridge mass shooting; separate Syria justice efforts continue",
+        "summary": "Multiple new lawsuits have been filed against OpenAI alleging ChatGPT played a role in the Tumbler Ridge mass shooting. In a separate development, residents of Damascus's Tadamon neighborhood are seeking justice for killings and torture from the Assad era, hoping the new Syrian government will exhume bodies from mass graves. The two articles cover distinct events with no overlap in subject, locati",
+        "category": "社会与公共政策"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-nba对快船队违规规避工资帽做出处罚",
+    "title": "NBA对快船队违规规避工资帽做出处罚",
+    "category": "体育与商业",
+    "events": [
+      {
+        "date": "20260903",
+        "event_cluster_id": "20260903-nba-drops-hammer-clippers-01",
+        "headline": "NBA对快船队违规规避工资帽做出处罚",
+        "summary": "NBA对洛杉矶快船队处以罚款并没收选秀权，原因是球队违反了联盟的工资帽规定。具体处罚包括五个首轮选秀权和3000万美元的罚款。消息来自福布斯报道，未提供更多细节。",
+        "category": "体育与商业"
       }
     ]
   }
