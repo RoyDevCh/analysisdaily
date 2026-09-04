@@ -421,8 +421,8 @@
   },
   {
     "thread_id": "thread-keir-starmer-former-uk-prime-minister-sa",
-    "title": "Spanish opposition parties accused Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
-    "category": "社会与公共政策",
+    "title": "Spanish PM denies Morocco facilitated Ceuta migrant surge as protests erupt nationwide",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -444,6 +444,13 @@
         "headline": "Spanish opposition parties accused Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
         "summary": "Tens of thousands of people rallied in cities across Spain to protest the government's handling of the migration crisis in Ceuta. The crisis began roughly one month before the protests, leaving migrants and asylum seekers in need of shelter and resources. Spanish opposition parties accused Prime Minister Pedro Sánchez of abandoning residents of Ceuta. Reports differ on the scale of the protests, w",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260904",
+        "event_cluster_id": "20260904-spain-s-pm-no-01",
+        "headline": "Spanish PM denies Morocco facilitated Ceuta migrant surge as protests erupt nationwide",
+        "summary": "Spanish Prime Minister Pedro Sánchez told parliament on Thursday that Spain has seen no evidence \"whatsoever\" that Morocco planned or facilitated the mass border breach into the Spanish North African enclave of Ceuta in late July. A police report commissioned by a judge, widely quoted in media, claimed Moroccan border forces actively aided approximately 70,000 people to cross the border. On Wednes",
+        "category": "国际政治"
       }
     ]
   },
@@ -575,8 +582,8 @@
   },
   {
     "thread_id": "thread-zelensky-says-airlines-should-avoid-russ",
-    "title": "Putin and Zelenskyy exchange threats amid ongoing strikes between Russia and Ukraine",
-    "category": "安全与冲突",
+    "title": "Norway seizes Russian ship in Svalbard at Ukraine's request",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -661,6 +668,13 @@
         "headline": "Putin and Zelenskyy exchange threats amid ongoing strikes between Russia and Ukraine",
         "summary": "Russian President Vladimir Putin accused Ukrainian President Volodymyr Zelenskyy of terrorism, while Zelenskyy warned foreign airlines against using Russian airspace due to the conflict. Ukraine has escalated its drone operations against Russia, and Moscow said it will increase its attacks on Ukraine. Chinese and Gulf state airlines were reported to still be using Russian airspace. The exchanges o",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260904",
+        "event_cluster_id": "20260904-norway-seizes-russian-ship-01",
+        "headline": "Norway seizes Russian ship in Svalbard at Ukraine's request",
+        "summary": "Norwegian authorities seized the Russian ship Professor Molchanov in Svalbard under a court order obtained by Ukraine's Naftogaz, seeking compensation for damages. Russia protested the seizure, which is connected to its refusal to pay awarded damages to Naftogaz. The action takes place in the Svalbard archipelago, where Russia maintains a settlement in Barentsburg. The incident occurs amid broader",
+        "category": "国际政治"
       }
     ]
   },
@@ -799,8 +813,8 @@
   },
   {
     "thread_id": "thread-us-partners-venezuela-in-massive-oil-dea",
-    "title": "US Partners Venezuela In Massive Oil Deal—Could This Happen In Iran.",
-    "category": "经济与市场",
+    "title": "Venezuela-US oil deal draws criticism over legality and colonialism concerns",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -815,6 +829,13 @@
         "headline": "US Partners Venezuela In Massive Oil Deal—Could This Happen In Iran.",
         "summary": "The oil experiment in Venezuela is about to be tested. If it works, and new oil revenue benefits both countries, could Iran be next?",
         "category": "经济与市场"
+      },
+      {
+        "date": "20260904",
+        "event_cluster_id": "20260904-why-people-calling-venezuela-01",
+        "headline": "Venezuela-US oil deal draws criticism over legality and colonialism concerns",
+        "summary": "The US and Venezuela announced what Trump called the largest oil deal in history, valued at $7 billion, involving Chevron's deepened ties to Venezuela's oil industry. Venezuelan opposition leader and Nobel laureate María Corina Machado stated that Venezuela's interim government, which she called illegitimate, lacks the mandate to negotiate the country's natural resources. Critics across sources la",
+        "category": "国际政治"
       }
     ]
   },
@@ -1002,7 +1023,7 @@
   },
   {
     "thread_id": "thread-imprisoned-in-spain-james-fergie-chamber",
-    "title": "Israel's defence minister says Israel seeking US support to expel Palestinians from Gaza",
+    "title": "Israel's far-right minister proposes multi-year plan to expel Palestinians from Gaza as strikes continue",
     "category": "国际政治",
     "events": [
       {
@@ -1031,6 +1052,13 @@
         "event_cluster_id": "20260903-israel-still-wants-remove-01",
         "headline": "Israel's defence minister says Israel seeking US support to expel Palestinians from Gaza",
         "summary": "Israeli Defence Minister Israel Katz stated that Israel is seeking US President Donald Trump's support for a plan to expel Palestinians from the Gaza Strip. Katz said there was \"no real solution for Gaza in the end without this migration\" and that the Israeli government was \"organised and prepared to get them out by sea, by air, by every way possible.\" He made the remarks at a conference hosted by",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260904",
+        "event_cluster_id": "20260904-israel-kills-3-gaza-01",
+        "headline": "Israel's far-right minister proposes multi-year plan to expel Palestinians from Gaza as strikes continue",
+        "summary": "Israeli far-right National Security Minister Itamar Ben-Gvir outlined a plan to remove Palestinians from the Gaza Strip, starting with 250,000 people in the first year and the remaining approximately 2 million over six years. Ben-Gvir described the proposal as realistic and concrete, made in the period before Israeli elections. Meanwhile, an Israeli drone strike and gunfire killed and injured peop",
         "category": "国际政治"
       }
     ]
@@ -1065,7 +1093,7 @@
   },
   {
     "thread_id": "thread-extreme-heat-expected-on-1st-full-weeken",
-    "title": "Maltese tycoon Yorgen Fenech acquitted in Daphne Caruana Galizia murder trial",
+    "title": "Feminist activist Gloria Steinem dies at age 92",
     "category": "社会与公共政策",
     "events": [
       {
@@ -1122,6 +1150,13 @@
         "event_cluster_id": "20260903-maltese-tycoon-acquitted-killing-01",
         "headline": "Maltese tycoon Yorgen Fenech acquitted in Daphne Caruana Galizia murder trial",
         "summary": "A jury in Malta acquitted Yorgen Fenech, one of Malta's richest businessmen, on charges of orchestrating the 2017 car bomb murder of investigative journalist Daphne Caruana Galizia. Caruana Galizia had reported on alleged corruption and money laundering in Maltese political and business circles before her death at age 53. The prosecution is expected to appeal the verdict, which was the final prose",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260904",
+        "event_cluster_id": "20260904-feminist-trailblazer-gloria-steinem-01",
+        "headline": "Feminist activist Gloria Steinem dies at age 92",
+        "summary": "Gloria Steinem, a US feminist activist and journalist who became a leader of the second-wave feminist movement, died on Wednesday at the age of 92. Her foundation said she passed away peacefully at her home in New York City, surrounded by family and friends. Steinem advocated for the legalization of abortion, same-sex marriage, and equal pay for women throughout her career. Sources confirm her dea",
         "category": "社会与公共政策"
       }
     ]
@@ -1863,8 +1898,8 @@
   },
   {
     "thread_id": "thread-guinea-bissau-voters-approve-new-constit",
-    "title": "Glen Powell主演剧集《Chad Powers》第二季回归流媒体平台",
-    "category": "文化体育",
+    "title": "新闻文章涵盖两项独立议题：2028年总统候选人支持率民调与叙利亚大屠杀遗留问题",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -1900,6 +1935,13 @@
         "headline": "Glen Powell主演剧集《Chad Powers》第二季回归流媒体平台",
         "summary": "Hulu喜剧剧集《Chad Powers》第二季于本周上线,Glen Powell继续担任主演。剧集以大学橄榄球为背景,首季播出后获得观众关注。Forbes报道了该剧第二季的开播时间、集数及评论界反响,New York Post则聚焦播出时间和观看方式。两篇文章均确认该剧第二季已正式回归。",
         "category": "文化体育"
+      },
+      {
+        "date": "20260904",
+        "event_cluster_id": "20260904-vance-aoc-poll-shows-01",
+        "headline": "新闻文章涵盖两项独立议题：2028年总统候选人支持率民调与叙利亚大屠杀遗留问题",
+        "summary": "Forbes报道了一项由Quantus Insights进行的民调，涉及2028年总统大选候选人偏好及总统特朗普的支持率。The New York Times报道了叙利亚大马士革Tadamon社区居民希望新政府挖掘前阿萨德政权时期的大规模坟墓并寻求司法正义。两篇文章报道的是不同事件，在内容、主题和地理范围上没有交叉。",
+        "category": "国际政治"
       }
     ]
   },
@@ -1968,8 +2010,8 @@
   },
   {
     "thread_id": "thread-us-and-iran-exchange-airstrikes-in-middl",
-    "title": "US launches new strikes on IRGC targets in Iran; Iran retaliates against US bases in Middle East",
-    "category": "安全与冲突",
+    "title": "US launches new attacks on Iran military targets; Tehran pledges multi-layered response",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -2033,6 +2075,13 @@
         "headline": "US launches new strikes on IRGC targets in Iran; Iran retaliates against US bases in Middle East",
         "summary": "US Central Command confirmed it began striking Islamic Revolutionary Guard Corps (IRGC) targets in Iran on Tuesday around 12 p.m. ET, citing recent IRGC attacks on commercial shipping in the Strait of Hormuz and against US service members. Iran's Revolutionary Guards reported launching ballistic missile attacks on US positions in Bahrain, Kuwait, Jordan, and Iraq, including an intense missile atta",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260904",
+        "event_cluster_id": "20260904-iran-war-live-us-01",
+        "headline": "US launches new attacks on Iran military targets; Tehran pledges multi-layered response",
+        "summary": "The United States has launched fresh attacks on military targets in Iran. Iran's First Vice President Mohammad Reza Aref stated the country would deliver an asymmetrical and multi-layered response to the US strikes. The US has ruled out talks with Iran until attacks on ships cease. The US strategy aims to prevent Tehran from rebuilding destroyed capabilities but carries the risk of escalating into",
+        "category": "国际政治"
       }
     ]
   },
@@ -2416,8 +2465,8 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-indie-cinema-and-f1",
-    "title": "Premier League breaks transfer record with four top signings",
-    "category": "经济与市场",
+    "title": "Transplanted pig kidney works in US man's body for record 271 days",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -2453,6 +2502,13 @@
         "headline": "Premier League breaks transfer record with four top signings",
         "summary": "Premier League has broken its own transfer record with four of its 11 most expensive signings arriving this summer 2026 window. Separately, Forbes reported on the 2026 F1 Italian Grand Prix schedule. The two articles cover unrelated topics. The sources do not converge on a single event.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20260904",
+        "event_cluster_id": "20260904-transplanted-pig-kidney-works-01",
+        "headline": "Transplanted pig kidney works in US man's body for record 271 days",
+        "summary": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+        "category": "未分类"
       }
     ]
   },
@@ -2675,8 +2731,8 @@
   },
   {
     "thread_id": "thread-乌克兰扎波罗热市一学校在地库开学以规避战争风险",
-    "title": "UN report says world will miss 1.5-degree climate target as other science news includes screwworm fight and dog world record",
-    "category": "科技与AI",
+    "title": "UN warns of supersized El Niño as forecasters predict record-breaking event",
+    "category": "气候与环境",
     "events": [
       {
         "date": "20260902",
@@ -2705,6 +2761,13 @@
         "headline": "UN report says world will miss 1.5-degree climate target as other science news includes screwworm fight and dog world record",
         "summary": "The UN released a report stating the world will miss its 1.5-degree climate target, proposing a new goal of limiting temperature overshoot and eventually reversing temperature gains, a path described as highly uncertain. Separately, efforts continue in Mexico to combat the New World screwworm fly through the release of sterile flies at a facility in Metapa to reduce the wild population. In unrelat",
         "category": "科技与AI"
+      },
+      {
+        "date": "20260904",
+        "event_cluster_id": "20260904-un-warns-supersized-el-01",
+        "headline": "UN warns of supersized El Niño as forecasters predict record-breaking event",
+        "summary": "The World Meteorological Organization warned that the current El Niño weather phenomenon could be \"supersized\" and bring disruption to global economies. Australia's Bureau of Meteorology stated the event is the strongest on record, as Pacific Ocean temperature change exceeded 2C in six months. The UN warned the phenomenon's impact will be felt into 2027 and has brought the world into a \"danger zon",
+        "category": "气候与环境"
       }
     ]
   },
@@ -2892,8 +2955,8 @@
   },
   {
     "thread_id": "thread-以色列在加沙突袭中逮捕哈马斯安全部门高级指挥官",
-    "title": "美国进口委内瑞拉原油与叙利亚寻求霍尔木兹海峡替代航道的应对方案",
-    "category": "经济与市场",
+    "title": "纽约市禁止K-8年级使用AI技术，专家称可能影响美国其他地区政策",
+    "category": "科技与AI",
     "events": [
       {
         "date": "20260902",
@@ -2922,6 +2985,13 @@
         "headline": "美国进口委内瑞拉原油与叙利亚寻求霍尔木兹海峡替代航道的应对方案",
         "summary": "美国正在增加对委内瑞拉原油的采购,但分析师指出委内瑞拉原油开采和提炼困难,可能无法取代被困在霍尔木兹海峡的石油。与此同时,叙利亚正寻求将自己定位为中东运输枢纽,提供绕开霍尔木兹海峡的替代过境路线。霍尔木兹海峡的货物运输因战时封锁而中断,使叙利亚有机会利用对替代石油运输路线的需求。两国应对措施的背景是霍尔木兹海峡的运输中断问题。来源在替代方案的可行性问题上存在分歧。",
         "category": "经济与市场"
+      },
+      {
+        "date": "20260904",
+        "event_cluster_id": "20260904-nyc-s-ai-ban-01",
+        "headline": "纽约市禁止K-8年级使用AI技术，专家称可能影响美国其他地区政策",
+        "summary": "纽约市通过了一项为期一年的禁令，禁止幼儿园至八年级使用人工智能技术，影响约60万名学生。专家表示，该禁令可能为美国其他地区的类似政策开创先例。Al Jazeera报道了此项教育政策，涵盖时间跨度、学生人数和潜在影响范围。与此同时，AI技术在其他领域的发展也在推进，BBC报道了澳大利亚AI数据中心建设热潮，支持者认为将带来就业机会，反对者担忧资源消耗问题。两篇文章涉及不同地区的AI应用议题，但都反映了AI技术在社会中引发的政策讨论。",
+        "category": "科技与AI"
       }
     ]
   },
@@ -3636,6 +3706,132 @@
         "headline": "NBA对快船队违规规避工资帽做出处罚",
         "summary": "NBA对洛杉矶快船队处以罚款并没收选秀权，原因是球队违反了联盟的工资帽规定。具体处罚包括五个首轮选秀权和3000万美元的罚款。消息来自福布斯报道，未提供更多细节。",
         "category": "体育与商业"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-ice-agent-faces-federal-charges-for-lyin",
+    "title": "ICE agent faces federal charges for lying about Minnesota shooting",
+    "category": "社会与公共政策",
+    "events": [
+      {
+        "date": "20260904",
+        "event_cluster_id": "20260904-ice-agent-charged-lying-01",
+        "headline": "ICE agent faces federal charges for lying about Minnesota shooting",
+        "summary": "A federal ICE agent was charged with lying under oath about a shooting in Minnesota that wounded a Venezuelan man. The agent is alleged to have fired into a home and then provided false statements about the circumstances. The incident occurred in January and is connected to a broader immigration enforcement crackdown. The other two sources cover unrelated topics: the detention of a suspect in the ",
+        "category": "社会与公共政策"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-财经与生活方式媒体发布信用卡与居家取现建议榜单",
+    "title": "财经与生活方式媒体发布信用卡与居家取现建议榜单",
+    "category": "经济与市场",
+    "events": [
+      {
+        "date": "20260904",
+        "event_cluster_id": "20260904-experts-best-cash-back-01",
+        "headline": "财经与生活方式媒体发布信用卡与居家取现建议榜单",
+        "summary": "CNN发布了一篇2022年最佳返现信用卡的专家建议文章,以及一篇关于从房屋中提取现金的方案指南。Forbes则发布了2026年9月Netflix新增最佳电影榜单,以及2026年美国各州最佳住宅建筑师评选方法论说明。这些文章覆盖了信用卡、房屋净值变现、娱乐内容和建筑设计等不同主题,彼此之间没有直接的事件关联,可能因数据提取或分类错误被归为同一事件。CNN的两篇文章侧重消费者金融建议,Forbes的两篇文章则侧重娱乐推荐和专业排名方法。",
+        "category": "经济与市场"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-two-palestinian-teenagers-killed-during-",
+    "title": "Two Palestinian teenagers killed during Israeli military raid in West Bank village of al-Mughayyir",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20260904",
+        "event_cluster_id": "20260904-palestinian-teens-killed-during-01",
+        "headline": "Two Palestinian teenagers killed during Israeli military raid in West Bank village of al-Mughayyir",
+        "summary": "Two Palestinian teenagers were shot dead by Israeli forces in the West Bank village of al-Mughayyir, east of Ramallah, during an incident involving Israeli settlers and military troops. The Palestinian village council said the teens were trying to prevent settlers from stealing sheep, while the Israeli military said they threw stones at troops. The victims were identified as 16-year-old Khalil Abu",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-trump-links-uk-falklands-backing-to-iran",
+    "title": "Trump links UK Falklands backing to Iran conflict involvement",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20260904",
+        "event_cluster_id": "20260904-trump-hints-us-not-01",
+        "headline": "Trump links UK Falklands backing to Iran conflict involvement",
+        "summary": "President Trump publicly linked US support for the UK over the Falkland Islands to British support for his war with Iran. Separately, he claimed Commerce Secretary Howard Lutnick erroneously said no Americans died in the Iran conflict because he was thinking about a Venezuela operation, a statement that conflicts with the Pentagon's reported figure of 18 US service member deaths. The remarks come ",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-ipswich-town-vs-liverpool-premier-league",
+    "title": "Ipswich Town vs Liverpool: Premier League – prediction, team news, lineups",
+    "category": "文化体育",
+    "events": [
+      {
+        "date": "20260904",
+        "event_cluster_id": "20260904-ipswich-town-vs-liverpool-01",
+        "headline": "Ipswich Town vs Liverpool: Premier League – prediction, team news, lineups",
+        "summary": "Andoni Iraola is still searching for his first win as Liverpool manager but has Bradley Barcola onboard for Ipswich tie.",
+        "category": "文化体育"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-nyc-mayor-mamdani-bans-ai-use-for-younge",
+    "title": "NYC Mayor Mamdani bans AI use for younger students while launching literacy programs for high schoolers",
+    "category": "社会与公共政策",
+    "events": [
+      {
+        "date": "20260904",
+        "event_cluster_id": "20260904-us-york-city-mayor-01",
+        "headline": "NYC Mayor Mamdani bans AI use for younger students while launching literacy programs for high schoolers",
+        "summary": "New York City Mayor Mamdani announced a ban on generative AI tools for elementary and middle school students for the current school year. High school students will instead receive AI literacy classes and supervised pilot programs. A separate report indicates that the Los Angeles Unified School District (LAUSD) also moved to restrict AI in schools, though the school board did not formally approve t",
+        "category": "社会与公共政策"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-focus-features-may-submit-obsession-as-c",
+    "title": "Focus Features May Submit 'Obsession' as Comedy for Golden Globes Consideration",
+    "category": "文化体育",
+    "events": [
+      {
+        "date": "20260904",
+        "event_cluster_id": "20260904-why-obsession-benefit-comedy-01",
+        "headline": "Focus Features May Submit 'Obsession' as Comedy for Golden Globes Consideration",
+        "summary": "Focus Features is expected to position its film 'Obsession' as a comedy submission for the Golden Globes to generate awards-season attention. The strategy would categorize the film within the Golden Globes' comedy/musical genre, potentially boosting its visibility among voters. No sources diverge on the core fact that a comedy push is under consideration for the film. The second source article dis",
+        "category": "文化体育"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-trump-posts-ai-generated-videos-of-milit",
+    "title": "Trump posts AI-generated videos of military operations; OpenAI announces humanoid robotics project",
+    "category": "other",
+    "events": [
+      {
+        "date": "20260904",
+        "event_cluster_id": "20260904-trump-s-ai-videos-01",
+        "headline": "Trump posts AI-generated videos of military operations; OpenAI announces humanoid robotics project",
+        "summary": "Two separate developments were reported. Al Jazeera reported that President Donald Trump has increasingly posted AI-generated videos depicting fake military strikes in recent months. Forbes reported that OpenAI has committed to developing humanoid robots, with CEO Sam Altman stating that everyone should have one. The articles cover distinct events involving artificial intelligence technology. Sour",
+        "category": "other"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-france-records-hottest-summer-since-reco",
+    "title": "France records hottest summer since records began in 2026",
+    "category": "经济与市场",
+    "events": [
+      {
+        "date": "20260904",
+        "event_cluster_id": "20260904-france-records-hottest-summer-01",
+        "headline": "France records hottest summer since records began in 2026",
+        "summary": "France recorded its hottest summer since measurements began in 2026, joining other European countries in setting high temperature records. Separately, Oracle shares surged, lifting Larry Ellison's net worth above $200 billion and moving him past Jensen Huang to the 7th-richest position. The two events are unrelated and covered by different outlets. No convergence or divergence on these distinct st",
+        "category": "经济与市场"
       }
     ]
   }
