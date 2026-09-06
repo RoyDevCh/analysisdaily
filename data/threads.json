@@ -596,7 +596,7 @@
   },
   {
     "thread_id": "thread-zelensky-says-airlines-should-avoid-russ",
-    "title": "Witkoff and Kushner to travel to Moscow and Kyiv for Ukraine peace talks",
+    "title": "US envoys Witkoff and Kushner meet Putin in Moscow for Ukraine peace talks",
     "category": "国际政治",
     "events": [
       {
@@ -695,6 +695,13 @@
         "event_cluster_id": "20260905-witkoff-kushner-travel-end-01",
         "headline": "Witkoff and Kushner to travel to Moscow and Kyiv for Ukraine peace talks",
         "summary": "Steve Witkoff and Jared Kushner are scheduled to travel to Ukraine and Russia this weekend to help restart peace negotiations aimed at ending the Russia-Ukraine war. The two envoys have been leading US President Donald Trump's diplomatic efforts, though talks have stalled. Trump has also raised the issue of European nations paying the US for military aid to Ukraine, stating he intends to recover f",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260906",
+        "event_cluster_id": "20260906-us-envoys-witkoff-kushner-01",
+        "headline": "US envoys Witkoff and Kushner meet Putin in Moscow for Ukraine peace talks",
+        "summary": "US envoys Steve Witkoff and Jared Kushner met Russian President Vladimir Putin at the Kremlin on Saturday in a push to revive negotiations to end the war in Ukraine. Both Russia and Ukraine have agreed not to strike each other's capitals for three days during the negotiations. The talks come after negotiations had been stalled for nearly eight months, and the envoys were expected to travel to Kyiv",
         "category": "国际政治"
       }
     ]
@@ -939,8 +946,8 @@
   },
   {
     "thread_id": "thread-new-series-goes-inside-investigation-tha",
-    "title": "Mistrial Declared in Lindsay Clancy Murder Case and Yorgen Fenech Acquitted in Daphne Caruana Galizia Murder Trial",
-    "category": "安全与冲突",
+    "title": "Lindsay Clancy murder trial and University of Michigan grading policy spark debate over mental health",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -962,12 +969,19 @@
         "headline": "Mistrial Declared in Lindsay Clancy Murder Case and Yorgen Fenech Acquitted in Daphne Caruana Galizia Murder Trial",
         "summary": "Two separate criminal cases concluded with mixed outcomes. In the United States, a judge declared a mistrial in the case of Lindsay Clancy, who was charged with the murder of her three children, after the jury deadlocked, leaving the question of criminal liability unresolved. In Malta, businessman Yorgen Fenech was acquitted of complicity to murder journalist Daphne Caruana Galizia nearly nine yea",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260906",
+        "event_cluster_id": "20260906-lindsay-clancy-murder-trial-01",
+        "headline": "Lindsay Clancy murder trial and University of Michigan grading policy spark debate over mental health",
+        "summary": "The Lindsay Clancy murder case has divided public opinion in the United States, with some framing it as highlighting mental health struggles of mothers and others arguing mental health does not excuse murder. Separately, the University of Michigan's pilot program to hide student grades as a response to a mental health crisis on college campuses has drawn mixed reactions. The two articles address d",
+        "category": "社会与公共政策"
       }
     ]
   },
   {
     "thread_id": "thread-blue-jays-3-93-era-pitcher-cuts-ties-wit",
-    "title": "Blue Jays’ 3.93 ERA Pitcher Cuts Ties With Team After Just 8 Games",
+    "title": "Through her Stronger Than You Think Foundation 2024 Paralympic medalist Ali Truwit is helping build the next generation",
     "category": "未分类",
     "events": [
       {
@@ -989,6 +1003,13 @@
         "event_cluster_id": "20260902-blue-jays-3-93-01",
         "headline": "Blue Jays’ 3.93 ERA Pitcher Cuts Ties With Team After Just 8 Games",
         "summary": "The Toronto Blue Jays have lost a five-year MLB veteran after a very brief reunion ended in a harsh roster decision.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260906",
+        "event_cluster_id": "20260906-0-intro-apr-until-01",
+        "headline": "Through her Stronger Than You Think Foundation 2024 Paralympic medalist Ali Truwit is helping build the next generation",
+        "summary": "Through her Stronger Than You Think Foundation 2024 Paralympic medalist Ali Truwit is helping build the next generation of Team USA athletes towards the LA28 Games.",
         "category": "未分类"
       }
     ]
@@ -1072,7 +1093,7 @@
   },
   {
     "thread_id": "thread-imprisoned-in-spain-james-fergie-chamber",
-    "title": "Israel's far-right minister proposes multi-year plan to expel Palestinians from Gaza as strikes continue",
+    "title": "Germany's far-right AfD projected to win state election for first time",
     "category": "国际政治",
     "events": [
       {
@@ -1108,6 +1129,13 @@
         "event_cluster_id": "20260904-israel-kills-3-gaza-01",
         "headline": "Israel's far-right minister proposes multi-year plan to expel Palestinians from Gaza as strikes continue",
         "summary": "Israeli far-right National Security Minister Itamar Ben-Gvir outlined a plan to remove Palestinians from the Gaza Strip, starting with 250,000 people in the first year and the remaining approximately 2 million over six years. Ben-Gvir described the proposal as realistic and concrete, made in the period before Israeli elections. Meanwhile, an Israeli drone strike and gunfire killed and injured peop",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260906",
+        "event_cluster_id": "20260906-germany-s-far-right-01",
+        "headline": "Germany's far-right AfD projected to win state election for first time",
+        "summary": "Germany's far-right Alternative for Germany (AfD) party is projected to win a state election in Saxony-Anhalt, potentially becoming the first far-right party to lead a German state since World War II. Ulrich Siegmund is the AfD's main candidate in the state. The two sources differ on the timing and certainty of the projection: Al Jazeera describes the projection as occurring ahead of the vote, whi",
         "category": "国际政治"
       }
     ]
@@ -1723,8 +1751,8 @@
   },
   {
     "thread_id": "thread-search-operations-continue-after-floods-",
-    "title": "A week after the deadly floods in Nepal, rescuers work to find survivors",
-    "category": "气候与环境",
+    "title": "Nepal floods damage over 10% of hydropower capacity and prompt symbolic cremations",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -1739,6 +1767,13 @@
         "headline": "A week after the deadly floods in Nepal, rescuers work to find survivors",
         "summary": "Nearly a week after flash floods devastated parts of Nepal and Tibet, rescuers are still searching for people trapped in hydropower plants. But first they have to find the plants. (Image credit: Ritesh Shukla/Getty Images)",
         "category": "气候与环境"
+      },
+      {
+        "date": "20260906",
+        "event_cluster_id": "20260906-nepal-bet-nearly-everything-01",
+        "headline": "Nepal floods damage over 10% of hydropower capacity and prompt symbolic cremations",
+        "summary": "Floods last week knocked out more than 10% of Nepal's energy generation capacity, according to BBC. The New York Times reports that affected families are turning to symbolic cremation ceremonies, including at Kathmandu's Pashupatinath Temple, to honor victims. Sources overlap on the scale of the disaster's impact on infrastructure and mourning practices but diverge on emphasis, with BBC focusing o",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -1968,8 +2003,8 @@
   },
   {
     "thread_id": "thread-guinea-bissau-voters-approve-new-constit",
-    "title": "新闻文章涵盖两项独立议题：2028年总统候选人支持率民调与叙利亚大屠杀遗留问题",
-    "category": "国际政治",
+    "title": "航空业面临更热、更具风暴性的天空，乘客或将接受更多航班中断",
+    "category": "气候与环境",
     "events": [
       {
         "date": "20260902",
@@ -2012,6 +2047,20 @@
         "headline": "新闻文章涵盖两项独立议题：2028年总统候选人支持率民调与叙利亚大屠杀遗留问题",
         "summary": "Forbes报道了一项由Quantus Insights进行的民调，涉及2028年总统大选候选人偏好及总统特朗普的支持率。The New York Times报道了叙利亚大马士革Tadamon社区居民希望新政府挖掘前阿萨德政权时期的大规模坟墓并寻求司法正义。两篇文章报道的是不同事件，在内容、主题和地理范围上没有交叉。",
         "category": "国际政治"
+      },
+      {
+        "date": "20260906",
+        "event_cluster_id": "20260906-philippines-vice-president-sara-01",
+        "headline": "Philippines Vice President Sara Duterte posts bail after arrest on assassination threat charges",
+        "summary": "Philippines Vice President Sara Duterte posted bail following an arrest order on charges she publicly threatened to arrange the assassination of President Ferdinand Marcos Jr. and two others. The New York Times reported on the case, detailing the charges against her. The New York Post article provided in the source set does not relate to this event, instead covering a separate statement by Hunter ",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260906",
+        "event_cluster_id": "20260906-aviation-faces-hotter-stormier-01",
+        "headline": "航空业面临更热、更具风暴性的天空，乘客或将接受更多航班中断",
+        "summary": "报道指出，气候变化导致气温上升和风暴加剧，航空业面临更多延误和改道。BBC World报道了气候变化对航空运营的影响，而New York Post的文章则讨论了加州大学伯克利分校与加州大学洛杉矶分校之间的体育 rivalry，不属于同一事件，来源之间存在明显偏离。核心信息集中在气候变化对航空旅行的潜在干扰上。",
+        "category": "气候与环境"
       }
     ]
   },
@@ -2675,8 +2724,8 @@
   },
   {
     "thread_id": "thread-尼泊尔洪水灾害致逾千人死亡-救援转向救济与重建",
-    "title": "尼泊尔洪水灾害致逾千人死亡，救援转向救济与重建",
-    "category": "气候与环境",
+    "title": "特朗普确认从巴西和阿根廷进口零关税牛肉，引发质量争议",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260902",
@@ -2684,6 +2733,13 @@
         "headline": "尼泊尔洪水灾害致逾千人死亡，救援转向救济与重建",
         "summary": "尼泊尔近日发生的严重洪水灾害已导致超过1,000人死亡，另有数千人失踪。救援行动持续进行中，救援物资正通过空运方式送达偏远村庄。被困的水电站工人的大规模救援工作仍在进行中，一名工人告诉BBC，他在隧道内被洪水追逐了20分钟。尼泊尔经济在吸收洪水造成的损失方面面临困难，《纽约时报》报道灾区房屋被厚厚泥土掩埋。该事件也波及邻国西藏。",
         "category": "气候与环境"
+      },
+      {
+        "date": "20260906",
+        "event_cluster_id": "20260906-trump-confirms-tariff-free-01",
+        "headline": "特朗普确认从巴西和阿根廷进口零关税牛肉，引发质量争议",
+        "summary": "特朗普确认将允许从巴西和阿根廷进口零关税牛肉。两篇报道关注的焦点不同：《福布斯》报道了牛肉质量问题，包括巴西牛肉因未达到质量标准被欧盟拒绝，以及今年夏天在德克萨斯州和佛罗里达州召回的3万磅阿根廷肉类。《纽约时报》则关注以色列控制的戈兰高地的特朗普高地定居点。文章主要在质量争议和特朗普相关政策的更广泛背景上存在分歧。",
+        "category": "经济与市场"
       }
     ]
   },
@@ -2808,7 +2864,7 @@
   },
   {
     "thread_id": "thread-乌克兰扎波罗热市一学校在地库开学以规避战争风险",
-    "title": "King Oyo, world's youngest traditional king, dies at 34 in the US",
+    "title": "Prince William to represent King Charles at funeral of Norway's King Harald V",
     "category": "国际政治",
     "events": [
       {
@@ -2852,6 +2908,13 @@
         "headline": "King Oyo, world's youngest traditional king, dies at 34 in the US",
         "summary": "King Oyo, the world's youngest traditional king, died in the United States at age 34 after treatment for an aggressive form of cancer. His body was returned to Uganda amid a succession dispute. The sources indicate that the succession row involves competing claims or disagreements over who will assume the throne. Limited additional details are available across the provided coverage.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260906",
+        "event_cluster_id": "20260906-prince-william-attend-king-01",
+        "headline": "Prince William to represent King Charles at funeral of Norway's King Harald V",
+        "summary": "The Prince of Wales will represent King Charles at the funeral of Norway's King Harald V in Oslo next week, Buckingham Palace has announced. Princess Anne will also attend in a personal capacity as godmother to Norway's new king, Haakon VIII. The duty of representing the monarch at such events falls to the heir to the British throne by precedent. Sources differ slightly in detail, with the Guardia",
+        "category": "国际政治"
       }
     ]
   },
@@ -2871,8 +2934,8 @@
   },
   {
     "thread_id": "thread-独立电影与f1意大利大奖赛2026年相关报道概述",
-    "title": "以色列无人机袭击黎巴嫩南部城镇 战事持续升级",
-    "category": "安全与冲突",
+    "title": "特朗普通过超级PAC为共和党参议院候选人投入巨额资金",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -2915,6 +2978,13 @@
         "headline": "以色列无人机袭击黎巴嫩南部城镇 战事持续升级",
         "summary": "以色列军方无人机在黎巴嫩南部Mansouri镇投下炸弹引发多次爆炸。以色列对黎巴嫩南部村庄和城镇的袭击在停火协议与外交努力期间仍在继续。以色列军方表示正在巩固其在黎巴嫩南部的军事存在，并对Ali al-Taher山脊实施打击。以色列方面称已清除通往Hezbollah战略要塞的隧道。各方对袭击的规模与战略意图表述存在差异。",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260906",
+        "event_cluster_id": "20260906-trump-backed-group-announces-01",
+        "headline": "特朗普通过超级PAC为共和党参议院候选人投入巨额资金",
+        "summary": "美国总统特朗普通过其支持的政治行动委员会(MAGA Inc.)宣布将在德克萨斯州参议院中期选举中投入1000万美元广告费用。特朗普总计已承诺通过该超级PAC投入超过4亿美元，以支持共和党候选人。Al Jazeera报道了这一国内政治举措，而The Guardian则关注了特朗普因与英国的分歧可能转而支持阿根廷总统米莱对福克兰群岛的主权声索。",
+        "category": "国际政治"
       }
     ]
   },
@@ -3809,8 +3879,8 @@
   },
   {
     "thread_id": "thread-ice-agent-faces-federal-charges-for-lyin",
-    "title": "ICE agent faces federal charges for lying about Minnesota shooting",
-    "category": "社会与公共政策",
+    "title": "NFL Giants cornerback Greg Newsome II prepares for season opener against Cowboys",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260904",
@@ -3818,6 +3888,13 @@
         "headline": "ICE agent faces federal charges for lying about Minnesota shooting",
         "summary": "A federal ICE agent was charged with lying under oath about a shooting in Minnesota that wounded a Venezuelan man. The agent is alleged to have fired into a home and then provided false statements about the circumstances. The incident occurred in January and is connected to a broader immigration enforcement crackdown. The other two sources cover unrelated topics: the detention of a suspect in the ",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260906",
+        "event_cluster_id": "20260906-experts-best-cash-back-01",
+        "headline": "NFL Giants cornerback Greg Newsome II prepares for season opener against Cowboys",
+        "summary": "New York Giants cornerback Greg Newsome II stated that the Giants have \"the best cornerback room in the league\" ahead of the September 13 season opener against the Dallas Cowboys. The Cowboys feature a receiving tandem of CeeDee Lamb and George Pickens, who combined for 2,500 receiving yards. Newsome faces the challenge of containing this pairing to validate his claim. The other sources in the col",
+        "category": "文化体育"
       }
     ]
   },
@@ -3837,8 +3914,8 @@
   },
   {
     "thread_id": "thread-two-palestinian-teenagers-killed-during-",
-    "title": "Israeli forces and settlers kill two Palestinian teens and raze village in occupied West Bank",
-    "category": "安全与冲突",
+    "title": "US Ambassador Huckabee visits Palestinian town in West Bank amid reports of settler violence and land destruction",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260904",
@@ -3853,6 +3930,13 @@
         "headline": "Israeli forces and settlers kill two Palestinian teens and raze village in occupied West Bank",
         "summary": "Israeli forces and settlers entered the village of al-Mughayyir in the occupied West Bank, where two Palestinian teenagers, Omar al-Nassan, 19, and Khalil Abu Alia, 16, were shot dead. Al Jazeera reports a separate mass demolition of 12 homes in Khirbet al-Tabban, with residents vowing to remain on their land. The Guardian describes the events as part of ongoing Israeli settler attacks and demolit",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260906",
+        "event_cluster_id": "20260906-israeli-campaign-west-bank-01",
+        "headline": "US Ambassador Huckabee visits Palestinian town in West Bank amid reports of settler violence and land destruction",
+        "summary": "U.S. Ambassador to Israel Mike Huckabee visited Turmus Ayya, a Palestinian town near Ramallah in the Israeli-occupied West Bank with many American residents, and condemned attacks on Palestinians there. Al Jazeera reported that an Israeli campaign of demolitions and settler expansion has spread into Area A of the occupied West Bank, with Palestinian farmland being razed. The New York Times focused",
+        "category": "国际政治"
       }
     ]
   },
@@ -3914,7 +3998,7 @@
   },
   {
     "thread_id": "thread-focus-features-may-submit-obsession-as-c",
-    "title": "Focus Features May Submit 'Obsession' as Comedy for Golden Globes Consideration",
+    "title": "Naughty Dog distances itself from upcoming HBO series 'The Last of Us' season 3",
     "category": "文化体育",
     "events": [
       {
@@ -3922,6 +4006,13 @@
         "event_cluster_id": "20260904-why-obsession-benefit-comedy-01",
         "headline": "Focus Features May Submit 'Obsession' as Comedy for Golden Globes Consideration",
         "summary": "Focus Features is expected to position its film 'Obsession' as a comedy submission for the Golden Globes to generate awards-season attention. The strategy would categorize the film within the Golden Globes' comedy/musical genre, potentially boosting its visibility among voters. No sources diverge on the core fact that a comedy push is under consideration for the film. The second source article dis",
+        "category": "文化体育"
+      },
+      {
+        "date": "20260906",
+        "event_cluster_id": "20260906-naughty-dog-distances-itself-01",
+        "headline": "Naughty Dog distances itself from upcoming HBO series 'The Last of Us' season 3",
+        "summary": "HBO is developing a third season of 'The Last of Us' television series. Game developer Naughty Dog and its co-president Neil Druckmann have publicly stated they are not involved with the new season. No release date or production timeline for season 3 was reported in the available sources. The provided sources do not overlap in subject matter beyond this shared event; the New York Post article cove",
         "category": "文化体育"
       }
     ]
@@ -4077,6 +4168,90 @@
         "headline": "Harrison Ford and Michael J. Fox collaborate on Parkinson’s disease PSA",
         "summary": "Harrison Ford and Michael J. Fox filmed a new public service announcement for The Michael J. Fox Foundation for Parkinson's Research, with production help from Ryan Reynolds' Maximum Effort. The collaboration was announced in coverage focused on raising awareness for Parkinson's disease. The two source articles provided describe the same event but do not offer divergent claims beyond different ang",
         "category": "社会与公共政策"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-美国军方称在伊朗袭击美国军舰后打击三艘伊朗油轮",
+    "title": "美国军方称在伊朗袭击美国军舰后打击三艘伊朗油轮",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20260906",
+        "event_cluster_id": "20260906-us-it-hit-three-01",
+        "headline": "美国军方称在伊朗袭击美国军舰后打击三艘伊朗油轮",
+        "summary": "美国中央司令部表示，美军于周六对三艘伊朗原油运输船实施了打击。美军此前称其航母和驱逐舰在波斯湾及阿曼湾地区巡逻时遭到伊朗方面的多次导弹袭击但未造成人员伤亡。据美方消息，被打击的船只分别位于哈尔克岛海岸、贾斯克附近和阿曼湾，部分报道指出其中一艘船靠近伊朗石油出口系统的关键区域。该行动标志着美伊之间围绕霍尔木兹海峡航运的紧张局势再度升级，美方警告如有必要将摧毁伊朗有限且暴露的石油船队。",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-haitian-caregivers-face-job-loss-in-u-s-",
+    "title": "Haitian Caregivers Face Job Loss in U.S. Home-Care Sector",
+    "category": "社会与公共政策",
+    "events": [
+      {
+        "date": "20260906",
+        "event_cluster_id": "20260906-he-lifeline-families-loss-01",
+        "headline": "Haitian Caregivers Face Job Loss in U.S. Home-Care Sector",
+        "summary": "Haitian immigrants constitute a significant share of the U.S. home-care workforce, which is described as overburdened. Families who relied on Haitian caregivers express uncertainty after these workers were let go. The event centers on the impact of caregiver job losses on households dependent on in-home care services. Two CNN articles about home equity loans appear unrelated to this topic and prov",
+        "category": "社会与公共政策"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-egyptian-tv-presenter-sarah-khalifa-sent",
+    "title": "Egyptian TV Presenter Sarah Khalifa Sentenced to Death in Drug Trafficking Case",
+    "category": "社会与公共政策",
+    "events": [
+      {
+        "date": "20260906",
+        "event_cluster_id": "20260906-tv-presenter-among-11-01",
+        "headline": "Egyptian TV Presenter Sarah Khalifa Sentenced to Death in Drug Trafficking Case",
+        "summary": "An Egyptian court sentenced TV presenter Sarah Khalifa and co-defendants to death in a drug manufacturing and trafficking case. Sources differ on the total number of defendants, with BBC reporting 11 and The Guardian reporting 12 sentenced. Khalifa, 39, is known for her programme Mission Impossible, which focused on crime and security issues. She was charged with forming an organised criminal gang",
+        "category": "社会与公共政策"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-oxford-museum-to-repatriate-colonial-era",
+    "title": "Oxford Museum to Repatriate Colonial-Era Human Remains",
+    "category": "文化体育",
+    "events": [
+      {
+        "date": "20260906",
+        "event_cluster_id": "20260906-english-museum-repatriate-colonial-01",
+        "headline": "Oxford Museum to Repatriate Colonial-Era Human Remains",
+        "summary": "The Pitt Rivers Museum in Oxford, England, announced plans to repatriate human remains from its Naga collection. The collection includes remains acquired during the British colonial period. The decision aligns with broader institutional efforts to address colonial-era acquisitions. No specific date for repatriation or receiving communities have been confirmed in available reporting.",
+        "category": "文化体育"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-u-s-consumer-concerns-over-imported-meat",
+    "title": "U.S. consumer concerns over imported meat and Sears' divergent U.S.-Mexico fortunes",
+    "category": "经济与市场",
+    "events": [
+      {
+        "date": "20260906",
+        "event_cluster_id": "20260906-here-s-how-tell-01",
+        "headline": "U.S. consumer concerns over imported meat and Sears' divergent U.S.-Mexico fortunes",
+        "summary": "Consumer anxieties have increased about the safety and origin of beef sold in the U.S. as discounted imported meat has entered the market, according to Forbes. Separately, The Washington Post reports that Sears has declined in the United States while remaining operational in Mexico, where stores continue to operate under the iconic American brand. The two articles cover distinct topics rather than",
+        "category": "经济与市场"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-美俄官员在莫斯科会谈-讨论特朗普提出的乌克兰战争结束方案",
+    "title": "美俄官员在莫斯科会谈，讨论特朗普提出的乌克兰战争结束方案",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20260906",
+        "event_cluster_id": "20260906-russia-s-putin-us-01",
+        "headline": "美俄官员在莫斯科会谈，讨论特朗普提出的乌克兰战争结束方案",
+        "summary": "俄罗斯总统普京与美方特使在莫斯科举行会谈，俄罗斯助手称会谈坦诚且具建设性。克里姆林宫同时强调普京坚持解决冲突根本原因。美方特使计划随后前往基辅。报道指出，普京在乌克兰发动昼夜不停的轰炸。不同来源在会谈成果评估上存在差异：一方强调积极对话，另一方关注美方注意力分散可能使普京更加大胆。",
+        "category": "国际政治"
       }
     ]
   }
