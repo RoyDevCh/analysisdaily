@@ -512,8 +512,8 @@
   },
   {
     "thread_id": "thread-turn-your-rising-home-equity-into-cash-y",
-    "title": "Sabalenka's US Open match paused over cannabis smell; Townsend advances to fourth round",
-    "category": "文化体育",
+    "title": "Articles cover unrelated events: Delhi building collapse and US Open tennis match",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -563,6 +563,20 @@
         "headline": "Sabalenka's US Open match paused over cannabis smell; Townsend advances to fourth round",
         "summary": "World number one Aryna Sabalenka's straight-sets US Open first-round win over Kamilla Rakhimova was briefly interrupted due to a smell of cannabis in the arena. Separately, American player Taylor Townsend advanced to the US Open fourth round. The two articles cover distinct matches in the same tournament.",
         "category": "文化体育"
+      },
+      {
+        "date": "20260907",
+        "event_cluster_id": "20260907-alcaraz-breezes-last-eight-01",
+        "headline": "Alcaraz and Sabalenka advance to US Open quarterfinals; Michelsen records upset",
+        "summary": "Carlos Alcaraz, the defending champion and No. 2 seed, defeated No. 20 Tommy Paul 6-4, 6-3, 6-3 to reach the US Open men's singles quarterfinals. Two-time defending women's champion Aryna Sabalenka advanced to the last eight with a 6-4, 6-3 win over Taylor Townsend. American Alex Michelsen also reached his first Grand Slam quarterfinal via an upset. Sources diverge in which matchups they highlight",
+        "category": "文化体育"
+      },
+      {
+        "date": "20260907",
+        "event_cluster_id": "20260907-dozens-feared-trapped-collapsed-01",
+        "headline": "Articles cover unrelated events: Delhi building collapse and US Open tennis match",
+        "summary": "Two news articles were provided but they cover unrelated events. BBC World reports that dozens of people are feared trapped after a five-storey hostel collapsed in Delhi, with as many as 50 people thought to have been inside. New York Post reports that Aryna Sabalenka defeated Taylor Townsend in Arthur Ashe Stadium, tying Serena Williams with a sixth-straight US Open quarterfinals appearance. The ",
+        "category": "国际政治"
       }
     ]
   },
@@ -596,7 +610,7 @@
   },
   {
     "thread_id": "thread-zelensky-says-airlines-should-avoid-russ",
-    "title": "US envoys Witkoff and Kushner meet Putin in Moscow for Ukraine peace talks",
+    "title": "US-Russia-Ukraine peace talks described as meaningful by US envoy but fundamental differences remain",
     "category": "国际政治",
     "events": [
       {
@@ -702,6 +716,13 @@
         "event_cluster_id": "20260906-us-envoys-witkoff-kushner-01",
         "headline": "US envoys Witkoff and Kushner meet Putin in Moscow for Ukraine peace talks",
         "summary": "US envoys Steve Witkoff and Jared Kushner met Russian President Vladimir Putin at the Kremlin on Saturday in a push to revive negotiations to end the war in Ukraine. Both Russia and Ukraine have agreed not to strike each other's capitals for three days during the negotiations. The talks come after negotiations had been stalled for nearly eight months, and the envoys were expected to travel to Kyiv",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260907",
+        "event_cluster_id": "20260907-witkoff-peace-talks-have-01",
+        "headline": "US-Russia-Ukraine peace talks described as meaningful by US envoy but fundamental differences remain",
+        "summary": "US envoy Steve Witkoff described peace talks regarding Ukraine as \"very meaningful,\" following meetings with both Russian President Vladimir Putin and Ukrainian President Volodymyr Zelensky. A new round of talks is approaching, though fundamental differences between Russia and Ukraine remain unresolved. BBC reporting indicates that expectations in Kyiv are that fighting will continue despite the d",
         "category": "国际政治"
       }
     ]
@@ -1093,7 +1114,7 @@
   },
   {
     "thread_id": "thread-imprisoned-in-spain-james-fergie-chamber",
-    "title": "Germany's far-right AfD projected to win state election for first time",
+    "title": "AfD projected to win Saxony-Anhalt state election, falls short of governing majority",
     "category": "国际政治",
     "events": [
       {
@@ -1136,6 +1157,13 @@
         "event_cluster_id": "20260906-germany-s-far-right-01",
         "headline": "Germany's far-right AfD projected to win state election for first time",
         "summary": "Germany's far-right Alternative for Germany (AfD) party is projected to win a state election in Saxony-Anhalt, potentially becoming the first far-right party to lead a German state since World War II. Ulrich Siegmund is the AfD's main candidate in the state. The two sources differ on the timing and certainty of the projection: Al Jazeera describes the projection as occurring ahead of the vote, whi",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260907",
+        "event_cluster_id": "20260907-afd-form-germany-s-01",
+        "headline": "AfD projected to win Saxony-Anhalt state election, falls short of governing majority",
+        "summary": "Exit polls and projections indicate that the far-right Alternative for Germany (AfD) won the regional election in the eastern German state of Saxony-Anhalt, receiving approximately 44-44.4% of the vote and finishing ahead of the Christian Democrats (CDU) at around 17%. The result constitutes a historic high for the AfD, more than doubling its previous support in the state. Despite finishing first,",
         "category": "国际政治"
       }
     ]
@@ -1660,7 +1688,7 @@
   },
   {
     "thread_id": "thread-us-energy-secretary-signs-oil-deal-in-ve",
-    "title": "US Energy Secretary Signs Oil Deal in Venezuela",
+    "title": "US Energy Secretary Wright says nuclear agreement with Iran 'may not' happen",
     "category": "国际政治",
     "events": [
       {
@@ -1668,6 +1696,13 @@
         "event_cluster_id": "20260902-video-us-energy-chief-01",
         "headline": "US Energy Secretary Signs Oil Deal in Venezuela",
         "summary": "The US Energy Secretary arrived in La Guaira to sign an oil deal involving Venezuelan reserves. The agreement covers 65 billion barrels of crude oil. Former envoys and Venezuelan citizens have expressed opposition to the deal. Donald Trump stated the agreement would lower gas prices. Industry experts suggest production increases may take years.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260907",
+        "event_cluster_id": "20260907-trump-official-there-may-01",
+        "headline": "US Energy Secretary Wright says nuclear agreement with Iran 'may not' happen",
+        "summary": "US Energy Secretary Chris Wright stated on ABC's \"This Week\" that there \"may not\" be a nuclear agreement with Iran that would prevent Iran from acquiring nuclear weapons. Wright also indicated that military action remains necessary to address the threat from Tehran. His comments come amid stalled negotiations and ongoing US-Israel military operations against Iran. The remarks suggest diminishing U",
         "category": "国际政治"
       }
     ]
@@ -1954,8 +1989,8 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-tiger-woods-and-bmw",
-    "title": "USPS mail-in ballot rule blocked as Supreme Court review looms",
-    "category": "安全与冲突",
+    "title": "Trump administration appeals again to US Supreme Court over mail-in voting",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -1998,6 +2033,13 @@
         "headline": "USPS mail-in ballot rule blocked as Supreme Court review looms",
         "summary": "A federal judge ruled that a USPS rule regarding mail-in ballots will remain blocked, prompting the Trump administration to announce it will immediately ask the Supreme Court to let the policy take effect. The dispute centers on a USPS policy affecting mail-in ballot handling ahead of the November election. The Supreme Court has not yet weighed in on the policy, leaving its final fate unresolved. ",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260907",
+        "event_cluster_id": "20260907-trump-administration-appeals-again-01",
+        "headline": "Trump administration appeals again to US Supreme Court over mail-in voting",
+        "summary": "How the nation s highest court rules could have major implications in this year’s midterm elections.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -2318,7 +2360,7 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-murder-investigatio",
-    "title": "Independent cinema gains traction in 2026 while Sen. Jon Ossoff plans Hollywood fundraiser",
+    "title": "2026 SPOTV K-Pop Awards Announces Top Winners",
     "category": "文化体育",
     "events": [
       {
@@ -2340,6 +2382,13 @@
         "event_cluster_id": "20260902-how-indie-cinema-beating-01",
         "headline": "Independent cinema gains traction in 2026 while Sen. Jon Ossoff plans Hollywood fundraiser",
         "summary": "Two separate news items from August 2026 cover different aspects of the film and political landscape. Al Jazeera reports on independent cinema gaining ground over Hollywood in 2026. Separately, the New York Post reports that Senator Jon Ossoff is scheduled to attend a fundraising event in Brentwood, Los Angeles, following recent donor meetings in the Hamptons, amid speculation about a possible pre",
+        "category": "文化体育"
+      },
+      {
+        "date": "20260907",
+        "event_cluster_id": "20260907-and2ble-bts-akmu-kiiikiii-01",
+        "headline": "2026 SPOTV K-Pop Awards Announces Top Winners",
+        "summary": "The 2026 SPOTV K-Pop Awards recognized AND2BLE, BTS, AKMU, and KiiiKiii among the top winners, according to Forbes. ALPHA DRIVE ONE, AND2BLE, CLOSE YOUR EYES, and IDID received new-artist awards. KickFlip was also named a top winner. The New York Post article does not cover the K-Pop Awards and instead discusses the 2026 Los Angeles Lakers roster, indicating the two sources do not share overlappin",
         "category": "文化体育"
       }
     ]
@@ -2444,7 +2493,7 @@
   },
   {
     "thread_id": "thread-u-s-military-strikes-iran",
-    "title": "Trump Responds to Iran's Retaliation With Verbal Warning After U.S. Strikes",
+    "title": "Iran announces new Hormuz shipping route, warns of heavier response to US strikes",
     "category": "安全与冲突",
     "events": [
       {
@@ -2501,6 +2550,13 @@
         "event_cluster_id": "20260903-trump-returns-familiar-playbook-01",
         "headline": "Trump Responds to Iran's Retaliation With Verbal Warning After U.S. Strikes",
         "summary": "U.S. President Trump made social media comments following renewed military action between the United States and Iran. After U.S. strikes, Trump warned that any Iranian retaliation would be met with further attacks, and later stated he couldn't care less about an agreement with Iran. Iran responded to the U.S. strikes with missiles and drones. Both U.S. and Iranian sources confirm the exchange of m",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260907",
+        "event_cluster_id": "20260907-iran-war-live-tehran-01",
+        "headline": "Iran announces new Hormuz shipping route, warns of heavier response to US strikes",
+        "summary": "Iran plans to announce a new shipping route through the Strait of Hormuz in coming days, according to Al Jazeera. BBC reports that Iran's top negotiator warned of a 'faster, heavier, more painful response' to recent US attacks. The warnings follow US strikes on Iranian oil tankers, which Washington said were retaliation for Iranian attacks on US warships in the region. The two sources differ in th",
         "category": "安全与冲突"
       }
     ]
@@ -3732,7 +3788,7 @@
   },
   {
     "thread_id": "thread-active-shooter-drills-and-school-safety-",
-    "title": "Schoolchildren Resume Education Amid Health and Conflict Crises",
+    "title": "Sources discuss Ebola treatment gaps for children in DRC and shipping decarbonization efforts",
     "category": "社会与公共政策",
     "events": [
       {
@@ -3747,6 +3803,13 @@
         "event_cluster_id": "20260903-children-return-school-dr-01",
         "headline": "Schoolchildren Resume Education Amid Health and Conflict Crises",
         "summary": "Children in the Democratic Republic of Congo returned to school amid concerns over an ongoing Ebola outbreak. Separately, in Zaporizhzhia, Ukraine, children at Sichovy Collegium attended their first day of school in an underground facility built to allow continued learning during the war. The two articles address unrelated events in different countries. Both report on disruptions to children's edu",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260907",
+        "event_cluster_id": "20260907-ebola-why-children-last-01",
+        "headline": "Sources discuss Ebola treatment gaps for children in DRC and shipping decarbonization efforts",
+        "summary": "Two of the provided articles do not address the same event. Deutsche Welle reports on the Democratic Republic of Congo's ongoing Ebola outbreak, noting that children face higher mortality rates partly because treatments sized for younger patients are less available. NPR reports that one of the world's largest logistics companies plans to install sails on a cargo ship, part of a growing effort to r",
         "category": "社会与公共政策"
       }
     ]
@@ -4061,7 +4124,7 @@
   },
   {
     "thread_id": "thread-德国极右翼afd在萨克森-安哈尔特州选举中接近执政",
-    "title": "德国极右翼AfD在萨克森-安哈尔特州选举中接近执政",
+    "title": "德国东部萨克森-安哈尔特州选举中民族主义政党AfD取得首位",
     "category": "国际政治",
     "events": [
       {
@@ -4069,6 +4132,13 @@
         "event_cluster_id": "20260905-germany-s-far-right-01",
         "headline": "德国极右翼AfD在萨克森-安哈尔特州选举中接近执政",
         "summary": "德国极右翼政党另类选择党(AfD)有望在萨克森-安哈尔特州议会选举中赢得多数席位,这将是二战以来德国首次出现极右翼政党在州一级执政。该党在该州的崛起得益于TikTok等社交媒体的推广。主要候选人Ulrich Siegmund在马德堡参与竞选活动。若AfD赢得绝对多数,将标志德国政治史上的重大转变,引发对该党与极端主义关联的担忧。",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260907",
+        "event_cluster_id": "20260907-nationalist-afd-party-scores-01",
+        "headline": "德国东部萨克森-安哈尔特州选举中民族主义政党AfD取得首位",
+        "summary": "在德国东部的萨克森-安哈尔特州议会选举中，被德国情报机构列为\"极右翼\"的德国选择党（AfD）获得最高得票率，有望成为二战以来首个在该州赢得议会多数的非主流政党。AfD的反移民立场受到埃隆·马斯克等人物的支持，并因亲俄立场受到批评。由于德国政治中的\"防火墙\"机制，其他主流政党通常拒绝与AfD联合执政，因此该党虽排名第一但可能仍无法控制州政府。",
         "category": "国际政治"
       }
     ]
@@ -4201,7 +4271,7 @@
   },
   {
     "thread_id": "thread-egyptian-tv-presenter-sarah-khalifa-sent",
-    "title": "Egyptian TV Presenter Sarah Khalifa Sentenced to Death in Drug Trafficking Case",
+    "title": "Egyptian court sentences TV presenter and 11 others to death in drugs case",
     "category": "社会与公共政策",
     "events": [
       {
@@ -4209,6 +4279,13 @@
         "event_cluster_id": "20260906-tv-presenter-among-11-01",
         "headline": "Egyptian TV Presenter Sarah Khalifa Sentenced to Death in Drug Trafficking Case",
         "summary": "An Egyptian court sentenced TV presenter Sarah Khalifa and co-defendants to death in a drug manufacturing and trafficking case. Sources differ on the total number of defendants, with BBC reporting 11 and The Guardian reporting 12 sentenced. Khalifa, 39, is known for her programme Mission Impossible, which focused on crime and security issues. She was charged with forming an organised criminal gang",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260907",
+        "event_cluster_id": "20260907-tv-presenter-among-12-01",
+        "headline": "Egyptian court sentences TV presenter and 11 others to death in drugs case",
+        "summary": "An Egyptian court sentenced twelve people, including TV presenter Sarah Khalifa, to death in a drugs case, according to BBC World. Sarah Khalifa is known for her crime-focused programme Mission Impossible. The BBC source focused on the court ruling and the identity of the presenter. The New York Post article concerned an unrelated event about a Monkees member and a Los Angeles radio anniversary, n",
         "category": "社会与公共政策"
       }
     ]
@@ -4252,6 +4329,104 @@
         "headline": "美俄官员在莫斯科会谈，讨论特朗普提出的乌克兰战争结束方案",
         "summary": "俄罗斯总统普京与美方特使在莫斯科举行会谈，俄罗斯助手称会谈坦诚且具建设性。克里姆林宫同时强调普京坚持解决冲突根本原因。美方特使计划随后前往基辅。报道指出，普京在乌克兰发动昼夜不停的轰炸。不同来源在会谈成果评估上存在差异：一方强调积极对话，另一方关注美方注意力分散可能使普京更加大胆。",
         "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-美国特使witkoff与kushner访问基辅与zelenskyy会谈-此前会晤",
+    "title": "美国特使Witkoff与Kushner访问基辅与Zelenskyy会谈，此前会晤普京",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20260907",
+        "event_cluster_id": "20260907-us-envoys-witkoff-kushner-01",
+        "headline": "美国特使Witkoff与Kushner访问基辅与Zelenskyy会谈，此前会晤普京",
+        "summary": "美国特使Steve Witkoff和Jared Kushner于周日访问乌克兰基辅，与乌克兰总统Volodymyr Zelenskyy举行会谈。此前一天，他们刚在莫斯科与俄罗斯总统普京进行了长时间会谈。Zelenskyy表示他预计战争将持续到冬季，并宣布计划扩大和平讨论范围，在近期内纳入欧洲国家。Witkoff表示希望美乌欧三边会谈能在\"短期内\"宣布。各方报道一致认为此次外交努力未取得重大突破。",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-amazon-prime-plane-overruns-runway-at-mi",
+    "title": "Amazon Prime plane overruns runway at Miami Airport",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260907",
+        "event_cluster_id": "20260907-amazon-prime-plane-overruns-01",
+        "headline": "Amazon Prime plane overruns runway at Miami Airport",
+        "summary": "An Amazon Prime Air Boeing 767 overran a runway at Miami International Airport and collided with several vehicles.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-气候变化-冲突与贸易紧张加剧全球粮食系统压力",
+    "title": "气候变化、冲突与贸易紧张加剧全球粮食系统压力",
+    "category": "气候与环境",
+    "events": [
+      {
+        "date": "20260907",
+        "event_cluster_id": "20260907-how-climate-change-food-01",
+        "headline": "气候变化、冲突与贸易紧张加剧全球粮食系统压力",
+        "summary": "研究表明，气候变化、地区冲突及贸易紧张局势对全球粮食系统构成压力。报告指出，最大的风险并非粮食短缺，而是社会能否以和平的方式适应变化。",
+        "category": "气候与环境"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-anak-krakatau-eruptions-disrupt-flights-",
+    "title": "Anak Krakatau eruptions disrupt flights at eight Indonesian airports",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20260907",
+        "event_cluster_id": "20260907-indonesia-volcano-eruption-disrupts-01",
+        "headline": "Anak Krakatau eruptions disrupt flights at eight Indonesian airports",
+        "summary": "Two new eruptions were recorded on Sunday at Indonesia's Anak Krakatau volcano, following Saturday's eruption that produced lava and sounds audible up to 700km away. Indonesia halted operations at eight airports, including Jakarta's main international hub, affecting hundreds of flights. The ash cloud also disrupted some school activities and fishing operations. Both sources confirm the flight disr",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-european-industry-group-warns-of-300-000",
+    "title": "European industry group warns of 300,000 manufacturing job losses due to Chinese competition",
+    "category": "经济与市场",
+    "events": [
+      {
+        "date": "20260907",
+        "event_cluster_id": "20260907-eu-faces-300-000-01",
+        "headline": "European industry group warns of 300,000 manufacturing job losses due to Chinese competition",
+        "summary": "Eurometal, a European industry trade body, warned that the EU could face 300,000 manufacturing job losses in the remainder of 2026 unless Brussels addresses what it described as the colonisation of industry by Chinese component manufacturers. The organisation cited China's record trade surplus of €1 billion per day with the EU and planned protests in Brussels involving 10 coffins symbolising strug",
+        "category": "经济与市场"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-two-separate-plane-crashes-in-the-united",
+    "title": "Two separate plane crashes in the United States result in multiple fatalities",
+    "category": "社会与公共政策",
+    "events": [
+      {
+        "date": "20260907",
+        "event_cluster_id": "20260907-least-five-killed-amazon-01",
+        "headline": "Two separate plane crashes in the United States result in multiple fatalities",
+        "summary": "Two separate plane crashes were reported in the United States, one involving an Amazon cargo plane at a Miami airport and another involving a small aircraft near Fresno, California. In Miami, at least five people were killed and five were injured after an Amazon cargo plane crashed at the airport, with authorities investigating the cause. In Fresno, California, flight instructor Danna Eady and her",
+        "category": "社会与公共政策"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-at-least-five-killed-in-new-delhi-buildi",
+    "title": "At least five killed in New Delhi building collapse",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260907",
+        "event_cluster_id": "20260907-least-five-killed-delhi-01",
+        "headline": "At least five killed in New Delhi building collapse",
+        "summary": "At least five people have been killed and nine rescued after a building housing mostly students collapsed in New Delhi.",
+        "category": "未分类"
       }
     ]
   }
