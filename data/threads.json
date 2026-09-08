@@ -372,8 +372,8 @@
   },
   {
     "thread_id": "thread-mark-carney-tells-us-to-start-being-seri",
-    "title": "Mark Carney tells US to ‘start being serious’ amid escalating trade war",
-    "category": "经济与市场",
+    "title": "Trump Threatens Ban On Canadian Plane Maker Bombardier Unless It Manufactures In U.S.",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -388,6 +388,13 @@
         "headline": "Mark Carney tells US to ‘start being serious’ amid escalating trade war",
         "summary": "Canadian PM is set to retaliate against tariffs levied by Donald Trump and criticized US officials over insults US politics live – latest updates Mark Carney has rebuked Donald Trump’s administration and urged officials in Washington to “start being serious” amid escalating trade tensions between the US and Canada. Days before Canada is due to retaliate against Trump’s sweeping tariffs with its ow",
         "category": "经济与市场"
+      },
+      {
+        "date": "20260908",
+        "event_cluster_id": "20260908-trump-threatens-ban-canadian-01",
+        "headline": "Trump Threatens Ban On Canadian Plane Maker Bombardier Unless It Manufactures In U.S.",
+        "summary": "Canada’s retaliatory tariffs on hundreds of U.S. products is set to take effect Tuesday.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -507,6 +514,13 @@
         "headline": "Experts: this is the best cash back card of 2022",
         "summary": "Every week, The Post will bring you our picks of the best one-liners and stories from satirical site the Babylon Bee to take the edge off Hump Day.",
         "category": "未分类"
+      },
+      {
+        "date": "20260908",
+        "event_cluster_id": "20260908-experts-best-cash-back-01",
+        "headline": "Experts: this is the best cash back card of 2022",
+        "summary": "The country singer's team announced the concerning news on Monday.",
+        "category": "未分类"
       }
     ]
   },
@@ -610,8 +624,8 @@
   },
   {
     "thread_id": "thread-zelensky-says-airlines-should-avoid-russ",
-    "title": "US-Russia-Ukraine peace talks described as meaningful by US envoy but fundamental differences remain",
-    "category": "国际政治",
+    "title": "Kushner and Witkoff visit Ukraine with hopes of restarting peace talks with Russia",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -724,13 +738,20 @@
         "headline": "US-Russia-Ukraine peace talks described as meaningful by US envoy but fundamental differences remain",
         "summary": "US envoy Steve Witkoff described peace talks regarding Ukraine as \"very meaningful,\" following meetings with both Russian President Vladimir Putin and Ukrainian President Volodymyr Zelensky. A new round of talks is approaching, though fundamental differences between Russia and Ukraine remain unresolved. BBC reporting indicates that expectations in Kyiv are that fighting will continue despite the d",
         "category": "国际政治"
+      },
+      {
+        "date": "20260908",
+        "event_cluster_id": "20260908-kushner-witkoff-visit-ukraine-01",
+        "headline": "Kushner and Witkoff visit Ukraine with hopes of restarting peace talks with Russia",
+        "summary": "For the first time, Trump's top envoys take their peace push to Kyiv — after talks with Putin in Moscow.",
+        "category": "未分类"
       }
     ]
   },
   {
     "thread_id": "thread-guinea-bissau-referendum-approves-new-co",
-    "title": "Guinea-Bissau referendum approves new constitution that expands president's powers",
-    "category": "国际政治",
+    "title": "French winemakers forecast 30-year low harvest after severe drought and heat",
+    "category": "气候与环境",
     "events": [
       {
         "date": "20260902",
@@ -745,6 +766,13 @@
         "headline": "Guinea-Bissau referendum approves new constitution that expands president's powers",
         "summary": "The sweeping reforms come in the wake of last year's coup and ahead of a proposed return to civilian rule.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260908",
+        "event_cluster_id": "20260908-french-winemakers-forecast-30-01",
+        "headline": "French winemakers forecast 30-year low harvest after severe drought and heat",
+        "summary": "Estimates suggest drop in production with vineyards also concerned ‘smoke taint’ from wildfires may affect quality French vineyards hit by severe drought and heatwaves are expected to report a 30-year low in wine production after the country’s hottest ever recorded summer, according to the agriculture ministry. Initial estimates suggest winemakers will produce just under 34m hectolitres from this ",
+        "category": "气候与环境"
       }
     ]
   },
@@ -1114,7 +1142,7 @@
   },
   {
     "thread_id": "thread-imprisoned-in-spain-james-fergie-chamber",
-    "title": "AfD projected to win Saxony-Anhalt state election, falls short of governing majority",
+    "title": "What are the implications of AfD’s electoral rise for Germany and Europe",
     "category": "国际政治",
     "events": [
       {
@@ -1164,6 +1192,34 @@
         "event_cluster_id": "20260907-afd-form-germany-s-01",
         "headline": "AfD projected to win Saxony-Anhalt state election, falls short of governing majority",
         "summary": "Exit polls and projections indicate that the far-right Alternative for Germany (AfD) won the regional election in the eastern German state of Saxony-Anhalt, receiving approximately 44-44.4% of the vote and finishing ahead of the Christian Democrats (CDU) at around 17%. The result constitutes a historic high for the AfD, more than doubling its previous support in the state. Despite finishing first,",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260908",
+        "event_cluster_id": "20260908-germany-s-far-right-01",
+        "headline": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+        "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260908",
+        "event_cluster_id": "20260908-germany-s-firewall-against-01",
+        "headline": "Germany’s ‘Firewall’ Against the Far Right Is Being Tested as Never Before",
+        "summary": "Ulrich Siegmund, an Alternative for Germany candidate, speaking in Magdeburg, Germany, after Saxony-Anhalt state elections on Sunday.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260908",
+        "event_cluster_id": "20260908-how-significant-afd-s-01",
+        "headline": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and tra",
+        "summary": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260908",
+        "event_cluster_id": "20260908-what-implications-afd-s-01",
+        "headline": "What are the implications of AfD’s electoral rise for Germany and Europe",
+        "summary": "The far-right Alternative for Germany is just short of a majority in a regional election.",
         "category": "国际政治"
       }
     ]
@@ -1688,8 +1744,8 @@
   },
   {
     "thread_id": "thread-us-energy-secretary-signs-oil-deal-in-ve",
-    "title": "US Energy Secretary Wright says nuclear agreement with Iran 'may not' happen",
-    "category": "国际政治",
+    "title": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -1704,6 +1760,13 @@
         "headline": "US Energy Secretary Wright says nuclear agreement with Iran 'may not' happen",
         "summary": "US Energy Secretary Chris Wright stated on ABC's \"This Week\" that there \"may not\" be a nuclear agreement with Iran that would prevent Iran from acquiring nuclear weapons. Wright also indicated that military action remains necessary to address the threat from Tehran. His comments come amid stalled negotiations and ongoing US-Israel military operations against Iran. The remarks suggest diminishing U",
         "category": "国际政治"
+      },
+      {
+        "date": "20260908",
+        "event_cluster_id": "20260908-syria-s-assad-era-01",
+        "headline": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
+        "summary": "UN watchdog says material from facility, bombed in 2007, now under IAEA safeguards.",
+        "category": "文化体育"
       }
     ]
   },
@@ -1786,8 +1849,8 @@
   },
   {
     "thread_id": "thread-search-operations-continue-after-floods-",
-    "title": "Nepal floods damage over 10% of hydropower capacity and prompt symbolic cremations",
-    "category": "安全与冲突",
+    "title": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
+    "category": "气候与环境",
     "events": [
       {
         "date": "20260902",
@@ -1809,6 +1872,13 @@
         "headline": "Nepal floods damage over 10% of hydropower capacity and prompt symbolic cremations",
         "summary": "Floods last week knocked out more than 10% of Nepal's energy generation capacity, according to BBC. The New York Times reports that affected families are turning to symbolic cremation ceremonies, including at Kathmandu's Pashupatinath Temple, to honor victims. Sources overlap on the scale of the disaster's impact on infrastructure and mourning practices but diverge on emphasis, with BBC focusing o",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260908",
+        "event_cluster_id": "20260908-nepal-identifies-killed-floods-01",
+        "headline": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
+        "summary": "One week after the deadly floods, very little is known about China's dead or missing. China's control over media and digital censorship is in stark contrast to open reporting in Nepal. (Image credit: Dar Yasin)",
+        "category": "气候与环境"
       }
     ]
   },
@@ -1877,8 +1947,8 @@
   },
   {
     "thread_id": "thread-u-s-and-iran-exchange-military-strikes",
-    "title": "US-Venezuela oil deals and Syria transit routes emerge as Hormuz alternatives amid Middle East disruption",
-    "category": "国际政治",
+    "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -1921,6 +1991,13 @@
         "headline": "US-Venezuela oil deals and Syria transit routes emerge as Hormuz alternatives amid Middle East disruption",
         "summary": "Analysts report that the United States is increasing imports of Venezuelan crude oil, though its difficult extraction and refining process may limit its ability to replace oil shipments disrupted in the Strait of Hormuz. Separately, Syria is positioning itself as a potential transit hub for Middle East oil cargo seeking to bypass the Strait of Hormuz. The Al Jazeera report focuses on the limitatio",
         "category": "国际政治"
+      },
+      {
+        "date": "20260908",
+        "event_cluster_id": "20260908-oil-prices-surge-us-01",
+        "headline": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
+        "summary": "Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -2647,8 +2724,8 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-indie-cinema-and-f1",
-    "title": "Transplanted pig kidney works in US man's body for record 271 days",
-    "category": "未分类",
+    "title": "When A.I. Starts Scheming",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -2691,6 +2768,13 @@
         "headline": "Transplanted pig kidney works in US man's body for record 271 days",
         "summary": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
         "category": "未分类"
+      },
+      {
+        "date": "20260908",
+        "event_cluster_id": "20260908-when-i-starts-scheming-01",
+        "headline": "When A.I. Starts Scheming",
+        "summary": "An unreleased model escaped human control and formed a swarm of A.I. agents. It was the kind of breach that could cause chaos next time.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -4215,8 +4299,8 @@
   },
   {
     "thread_id": "thread-argentina-escalates-falklands-dispute-wi",
-    "title": "Argentina escalates Falklands dispute with UK, imposing sanctions on oil project companies",
-    "category": "国际政治",
+    "title": "Hawaii braces for Hurricane Lowell",
+    "category": "未分类",
     "events": [
       {
         "date": "20260905",
@@ -4224,6 +4308,13 @@
         "headline": "Argentina escalates Falklands dispute with UK, imposing sanctions on oil project companies",
         "summary": "Argentine President Javier Milei is intensifying the long-standing sovereignty dispute with the United Kingdom over the Falkland Islands by imposing tougher sanctions on companies involved in a major offshore oil project near the islands. Argentina has renewed its claim to the Falklands, citing President Trump's recent comments about the islands as reported in the sources. The dispute dates back t",
         "category": "国际政治"
+      },
+      {
+        "date": "20260908",
+        "event_cluster_id": "20260908-hawaii-braces-hurricane-lowell-01",
+        "headline": "Hawaii braces for Hurricane Lowell",
+        "summary": "Threats of cyclones and deadly surf as the Category 3 storm path approaches Hawaiian islands on Monday night.",
+        "category": "未分类"
       }
     ]
   },
@@ -4348,7 +4439,7 @@
   },
   {
     "thread_id": "thread-amazon-prime-plane-overruns-runway-at-mi",
-    "title": "Amazon Prime plane overruns runway at Miami Airport",
+    "title": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami Internati",
     "category": "未分类",
     "events": [
       {
@@ -4356,6 +4447,13 @@
         "event_cluster_id": "20260907-amazon-prime-plane-overruns-01",
         "headline": "Amazon Prime plane overruns runway at Miami Airport",
         "summary": "An Amazon Prime Air Boeing 767 overran a runway at Miami International Airport and collided with several vehicles.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260908",
+        "event_cluster_id": "20260908-flight-recorders-recovered-devastating-01",
+        "headline": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami Internati",
+        "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
         "category": "未分类"
       }
     ]
@@ -4427,6 +4525,76 @@
         "headline": "At least five killed in New Delhi building collapse",
         "summary": "At least five people have been killed and nine rescued after a building housing mostly students collapsed in New Delhi.",
         "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-thousands-turn-out-in-serbia-for-funeral",
+    "title": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić.",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20260908",
+        "event_cluster_id": "20260908-thousands-attend-funeral-war-01",
+        "headline": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić.",
+        "summary": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-how-725-game-show-winnings-kick-started-",
+    "title": "How £725 game-show winnings kick-started Champions League coach's career",
+    "category": "文化体育",
+    "events": [
+      {
+        "date": "20260908",
+        "event_cluster_id": "20260908-how-725-game-show-01",
+        "headline": "How £725 game-show winnings kick-started Champions League coach's career",
+        "summary": "Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.",
+        "category": "文化体育"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-aaron-judge-on-verge-of-returning-to-the",
+    "title": "Aaron Judge On Verge Of Returning To The Yankees From A Fractured Rib",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260908",
+        "event_cluster_id": "20260908-aaron-judge-verge-returning-01",
+        "headline": "Aaron Judge On Verge Of Returning To The Yankees From A Fractured Rib",
+        "summary": "Aaron Judge has just come off a six-game road trip with the Yankees where he took batting practice. He's a few live high-velocity pitching sessions away from his return.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-eiffel-tower-shut-by-staff-protest-after",
+    "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
+    "category": "社会与公共政策",
+    "events": [
+      {
+        "date": "20260908",
+        "event_cluster_id": "20260908-eiffel-tower-shut-staff-01",
+        "headline": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
+        "summary": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative.",
+        "category": "社会与公共政策"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-israeli-strikes-in-southern-lebanese-vil",
+    "title": "Israeli strikes in southern Lebanese village kill 12",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20260908",
+        "event_cluster_id": "20260908-israeli-strikes-southern-lebanese-01",
+        "headline": "Israeli strikes in southern Lebanese village kill 12",
+        "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+        "category": "安全与冲突"
       }
     ]
   }
