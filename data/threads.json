@@ -750,8 +750,8 @@
   },
   {
     "thread_id": "thread-guinea-bissau-referendum-approves-new-co",
-    "title": "French winemakers forecast 30-year low harvest after severe drought and heat",
-    "category": "气候与环境",
+    "title": "Philippines Lawmaker, Cousin of Marcos, Charged With Taking Kickbacks",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -773,6 +773,13 @@
         "headline": "French winemakers forecast 30-year low harvest after severe drought and heat",
         "summary": "Estimates suggest drop in production with vineyards also concerned ‘smoke taint’ from wildfires may affect quality French vineyards hit by severe drought and heatwaves are expected to report a 30-year low in wine production after the country’s hottest ever recorded summer, according to the agriculture ministry. Initial estimates suggest winemakers will produce just under 34m hectolitres from this ",
         "category": "气候与环境"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-philippines-lawmaker-cousin-marcos-01",
+        "headline": "Philippines Lawmaker, Cousin of Marcos, Charged With Taking Kickbacks",
+        "summary": "Martin Romualdez, at the House of Representatives in Manila last year.",
+        "category": "未分类"
       }
     ]
   },
@@ -939,7 +946,7 @@
   },
   {
     "thread_id": "thread-us-and-iran-exchange-more-airstrikes-fue",
-    "title": "Iran accuses US of war crime after strike hits wedding in southern Iran, killing four",
+    "title": "Gulf nations race to bypass Hormuz and build defenses as Iran war drags on",
     "category": "安全与冲突",
     "events": [
       {
@@ -961,6 +968,13 @@
         "event_cluster_id": "20260903-iran-us-strike-killed-01",
         "headline": "Iran accuses US of war crime after strike hits wedding in southern Iran, killing four",
         "summary": "Iranian state media reported that a US strike caused an explosion at a wedding at a private home in Kuhestak, Hormozgan province, in southern Iran late on Tuesday, killing at least four people and injuring 68. Iranian officials said two children were among the dead and accused the US of committing a war crime. The US denied targeting civilians. Iran subsequently launched missiles and drones at US ",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-gulf-nations-race-bypass-01",
+        "headline": "Gulf nations race to bypass Hormuz and build defenses as Iran war drags on",
+        "summary": "In the wealthy countries that have borne the brunt of Iran's retaliation, the war is no longer seen as a temporary crisis with an end date. Having a Plan B is essential.",
         "category": "安全与冲突"
       }
     ]
@@ -1142,8 +1156,8 @@
   },
   {
     "thread_id": "thread-imprisoned-in-spain-james-fergie-chamber",
-    "title": "What are the implications of AfD’s electoral rise for Germany and Europe",
-    "category": "国际政治",
+    "title": "AfD’s Far Right Win Puts New Pressure on Germany’s Leader Merz",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -1221,6 +1235,20 @@
         "headline": "What are the implications of AfD’s electoral rise for Germany and Europe",
         "summary": "The far-right Alternative for Germany is just short of a majority in a regional election.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-anti-afd-protesters-rally-01",
+        "headline": "Anti-AfD protesters rally in Cologne after far-right election win",
+        "summary": "Thousands of protesters rallied in Cologne against the AfD after the far-right group s election victory.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-afd-s-far-right-01",
+        "headline": "AfD’s Far Right Win Puts New Pressure on Germany’s Leader Merz",
+        "summary": "Friedrich Merz, Germany’s chancellor and the Christian Democratic Union party leader, at a press briefing in Berlin on Monday.",
+        "category": "未分类"
       }
     ]
   },
@@ -1324,8 +1352,8 @@
   },
   {
     "thread_id": "thread-how-indie-cinema-is-beating-hollywood-in",
-    "title": "Independent cinema outpaces Hollywood in 2026 amid backlash over $5,000 San Francisco rental listing",
-    "category": "文化体育",
+    "title": "Dembele, Mbappe, Kane and Yamal top Ballon d’Or shortlist",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -1354,6 +1382,13 @@
         "headline": "Independent cinema outpaces Hollywood in 2026 amid backlash over $5,000 San Francisco rental listing",
         "summary": "Two unrelated topics were covered: independent cinema surpassing Hollywood in 2026, and a backlash against a $5,000 rental listing in San Francisco. The San Francisco listing drew criticism from prospective tenants who called the landlords \"literal demons.\" Sources did not provide further overlapping details on either subject. The two stories are not connected to each other.",
         "category": "文化体育"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-dembele-mbappe-kane-yamal-01",
+        "headline": "Dembele, Mbappe, Kane and Yamal top Ballon d’Or shortlist",
+        "summary": "Ballon d Or Ousmane Dembele among favourites, with Kylian Mbappe, Lamine Yamal and Harry Kane, as 2026 shortlist named.",
+        "category": "未分类"
       }
     ]
   },
@@ -1716,8 +1751,8 @@
   },
   {
     "thread_id": "thread-apple-and-google-rename-lake-ontario-to-",
-    "title": "Apple和Google将Lake Ontario更名为Lake America，MapQuest拒绝后登顶下载榜",
-    "category": "国际政治",
+    "title": "Marco Rubio says US seeks more economic and security ties in Latin America",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -1739,6 +1774,13 @@
         "headline": "Apple和Google将Lake Ontario更名为Lake America，MapQuest拒绝后登顶下载榜",
         "summary": "Apple Maps将Lake Ontario更名为Lake America，加入Google Maps行列。MapQuest公开拒绝遵守Trump 8月27日签署的行政令，在社交媒体上表示不会更改名称，随后在Apple应用商店下载榜超越Google Maps和Apple Maps升至第一。各报道一致确认Trump以与加拿大的贸易争端为由签署行政令，要求联邦机构将安大略湖称为Lake America。",
         "category": "国际政治"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-marco-rubio-us-seeks-01",
+        "headline": "Marco Rubio says US seeks more economic and security ties in Latin America",
+        "summary": "The US secretary of state visits Colombia, Ecuador and Peru in a bid to enhance cooperation with right-wing allies.",
+        "category": "未分类"
       }
     ]
   },
@@ -1772,8 +1814,8 @@
   },
   {
     "thread_id": "thread-canadian-prime-minister-mark-carney-resp",
-    "title": "Carney rebukes US officials over trade insults ahead of Canadian retaliation tariffs",
-    "category": "经济与市场",
+    "title": "Canada’s Carney Doubles Down on Pivot Away from the United States",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -1844,13 +1886,34 @@
         "headline": "Carney rebukes US officials over trade insults ahead of Canadian retaliation tariffs",
         "summary": "Canadian Prime Minister Mark Carney criticized US officials for insulting Canada and urged Washington to \"start being serious\" as trade tensions between the two countries escalate. Carney stated the insults are \"beneath their office.\" Canada is set to retaliate against sweeping US tariffs with its own duties on US goods within days. The Guardian frames the dispute as a \"trade war,\" while The New Y",
         "category": "经济与市场"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-chrystia-freeland-negotiated-trump-01",
+        "headline": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold",
+        "summary": "Chrystia Freeland understands the U.S.-Canada relationship from her time at the negotiating table. Here's what she sees now. (Image credit: Kevin Dietsch)",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-us-canada-tariff-dispute-01",
+        "headline": "US-Canada tariff dispute weighs on cross-border ties",
+        "summary": "As Canada's retaliatory tariffs take effect, Canadian and US car industries fear the trade war will hit them hard, while Canadians are cutting back on travel.",
+        "category": "经济与市场"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-canada-s-carney-doubles-01",
+        "headline": "Canada’s Carney Doubles Down on Pivot Away from the United States",
+        "summary": "Prime Minister Mark Carney, a former investment banker and central bank governor, is working to draw global investors to Canada.",
+        "category": "国际政治"
       }
     ]
   },
   {
     "thread_id": "thread-search-operations-continue-after-floods-",
-    "title": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
-    "category": "气候与环境",
+    "title": "Fifty years after Mao’s death, China has transformed. DW looks at why his political legacy still matters.",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -1879,6 +1942,13 @@
         "headline": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
         "summary": "One week after the deadly floods, very little is known about China's dead or missing. China's control over media and digital censorship is in stark contrast to open reporting in Nepal. (Image credit: Dar Yasin)",
         "category": "气候与环境"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-fifty-mao-s-death-01",
+        "headline": "Fifty years after Mao’s death, China has transformed. DW looks at why his political legacy still matters.",
+        "summary": "Mao Zedong was perhaps the most influential, and certainly one of the most controversial, figures in 20th-century China. Even five decades after his death, the legacy of his era continues to influence China today.",
+        "category": "未分类"
       }
     ]
   },
@@ -2325,8 +2395,8 @@
   },
   {
     "thread_id": "thread-developments-regarding-west-bank-settlem",
-    "title": "West Bank mosque incidents and UK foreign secretary announces policy reset toward Israel",
-    "category": "安全与冲突",
+    "title": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -2376,6 +2446,13 @@
         "headline": "West Bank mosque incidents and UK foreign secretary announces policy reset toward Israel",
         "summary": "Palestinian authorities reported that Israeli forces and settlers violated 13 West Bank mosques in 2025, with worshippers tear-gassed during the incidents, according to Al Jazeera. In a separate development, UK Foreign Secretary Ed Miliband told Parliament he would pursue a comprehensive reset of British policy toward Israel, including measures to stop UK companies from contributing to projects su",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-uk-announces-sanctions-west-01",
+        "headline": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds",
+        "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+        "category": "国际政治"
       }
     ]
   },
@@ -2500,8 +2577,8 @@
   },
   {
     "thread_id": "thread-germany-attributes-leipzig-airport-drone",
-    "title": "European authorities suspect Russia behind series of sabotage incidents",
-    "category": "安全与冲突",
+    "title": "Hungary expels 10 Russian diplomats as relations worsen",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -2537,6 +2614,13 @@
         "headline": "European authorities suspect Russia behind series of sabotage incidents",
         "summary": "Germany has blamed Russia for an attack on Leipzig airport, according to the BBC. The BBC reports a series of suspicious incidents have occurred elsewhere in Europe as part of what it describes as a spiralling campaign of sabotage. The New York Times reports that Russian President Vladimir V. Putin has denied Russia's involvement in European sabotage, and that Putin has long viewed Russia as being",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-hungary-expels-10-russian-01",
+        "headline": "Hungary expels 10 Russian diplomats as relations worsen",
+        "summary": "For years, Hungary was viewed as Russia's closest ally in the EU, but the new government has dropped the pro-Kremlin stance.",
+        "category": "国际政治"
       }
     ]
   },
@@ -2570,7 +2654,7 @@
   },
   {
     "thread_id": "thread-u-s-military-strikes-iran",
-    "title": "Iran announces new Hormuz shipping route, warns of heavier response to US strikes",
+    "title": "US attacks 5 Iranian oil tankers, Tehran retaliates with strikes on Jordan",
     "category": "安全与冲突",
     "events": [
       {
@@ -2634,6 +2718,13 @@
         "event_cluster_id": "20260907-iran-war-live-tehran-01",
         "headline": "Iran announces new Hormuz shipping route, warns of heavier response to US strikes",
         "summary": "Iran plans to announce a new shipping route through the Strait of Hormuz in coming days, according to Al Jazeera. BBC reports that Iran's top negotiator warned of a 'faster, heavier, more painful response' to recent US attacks. The warnings follow US strikes on Iranian oil tankers, which Washington said were retaliation for Iranian attacks on US warships in the region. The two sources differ in th",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-us-attacks-5-iranian-01",
+        "headline": "US attacks 5 Iranian oil tankers, Tehran retaliates with strikes on Jordan",
+        "summary": "US military says it struck the five Iranian tankers after the IRGC targeted a US warship twice in two days.",
         "category": "安全与冲突"
       }
     ]
@@ -2724,8 +2815,8 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-indie-cinema-and-f1",
-    "title": "When A.I. Starts Scheming",
-    "category": "安全与冲突",
+    "title": "Hundreds of flights delayed, cancelled after UK air traffic control glitch",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -2775,6 +2866,13 @@
         "headline": "When A.I. Starts Scheming",
         "summary": "An unreleased model escaped human control and formed a swarm of A.I. agents. It was the kind of breach that could cause chaos next time.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-hundreds-flights-delayed-cancelled-01",
+        "headline": "Hundreds of flights delayed, cancelled after UK air traffic control glitch",
+        "summary": "Air traffic control provider NATS under scrutiny after technical fault disrupts UK air traffic.",
+        "category": "未分类"
       }
     ]
   },
@@ -2976,8 +3074,8 @@
   },
   {
     "thread_id": "thread-bosnian-serb-war-criminal-ratko-mladic-d",
-    "title": "Bosnian Serb war criminal Ratko Mladic dies; reactions highlight unfinished reconciliation in the Balkans",
-    "category": "国际政治",
+    "title": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -2985,6 +3083,13 @@
         "headline": "Bosnian Serb war criminal Ratko Mladic dies; reactions highlight unfinished reconciliation in the Balkans",
         "summary": "Ratko Mladic, the former Bosnian Serb military commander convicted of genocide and war crimes during the 1990s Bosnian War, has died, prompting renewed discussion of reconciliation in Bosnia and the wider Balkans. DW World framed his death as reopening old wounds and argued that the ideology behind the conflict persists despite the Dayton peace agreement. BBC World coverage focused on a separate l",
         "category": "国际政治"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-sudan-s-healthcare-system-01",
+        "headline": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
+        "summary": "Médecins Sans Frontières is urging world leaders to increase funding to help the millions who need aid.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -3186,7 +3291,7 @@
   },
   {
     "thread_id": "thread-nigeria-anti-corruption-agency-dismisses",
-    "title": "Five of the dismissed Nigerian staff are facing prosecution, according to Nigerian media reports.",
+    "title": "Suspected smugglers on trial over deadliest migrant tragedy in France",
     "category": "社会与公共政策",
     "events": [
       {
@@ -3208,6 +3313,13 @@
         "event_cluster_id": "20260902-nigerian-anticorruption-agency-sacks-01",
         "headline": "Five of the dismissed Nigerian staff are facing prosecution, according to Nigerian media reports.",
         "summary": "Two separate news events were presented as one. Nigeria's anti-corruption agency dismissed 40 staff members over misconduct allegations, with five facing prosecution. In Australia, thousands of University of Sydney staff held a 24-hour strike over AI use and job security concerns, with an internal survey showing zero trust in the university's leadership. The sources do not cover the same event, an",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-suspected-smugglers-trial-deadliest-01",
+        "headline": "Suspected smugglers on trial over deadliest migrant tragedy in France",
+        "summary": "Paris trial begins over deadly Channel tragedy, with 14 facing charges for manslaughter.",
         "category": "社会与公共政策"
       }
     ]
@@ -3578,7 +3690,7 @@
   },
   {
     "thread_id": "thread-long-lines-at-fuel-stations-are-spreadin",
-    "title": "Long lines at fuel stations are spreading across Iran as supplies tighten.",
+    "title": "US increases pressure on Iran with sanctions targeting aviation sector",
     "category": "国际政治",
     "events": [
       {
@@ -3586,6 +3698,13 @@
         "event_cluster_id": "20260902-iran-fuel-crisis-deepens-01",
         "headline": "Long lines at fuel stations are spreading across Iran as supplies tighten.",
         "summary": "Long lines at fuel stations are spreading across Iran as war damage, import constraints and new US sanctions squeeze supplies. A separate report indicates that US sanctions are also cutting off Iranian university students from standardized tests required for study abroad. The two reports address different sectors affected by overlapping US sanctions and the ongoing war, with DW World focusing on t",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-us-increases-pressure-iran-01",
+        "headline": "US increases pressure on Iran with sanctions targeting aviation sector",
+        "summary": "Trump administration has sought to isolate Tehran through a raft of measures meant to squeeze the country s economy.",
         "category": "国际政治"
       }
     ]
@@ -3837,8 +3956,8 @@
   },
   {
     "thread_id": "thread-japan-reduces-urban-speed-limits-and-see",
-    "title": "Articles cover two unrelated events: US birthright citizenship ruling and Japan speed limit reduction",
-    "category": "安全与冲突",
+    "title": "Japan's empty temples seek new ways to survive",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -3853,6 +3972,13 @@
         "headline": "Articles cover two unrelated events: US birthright citizenship ruling and Japan speed limit reduction",
         "summary": "The provided sources discuss two separate events. A US judge blocked Trump's effort to limit birthright citizenship, following a 6-3 Supreme Court decision finding the effort illegal. Separately, Japan reduced the speed limit on narrow residential streets from 60km/h to 30km/h, effective Tuesday, covering approximately 70% of general roads, in an effort to reduce pedestrian deaths and injuries. Th",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-japan-s-empty-temples-01",
+        "headline": "Japan's empty temples seek new ways to survive",
+        "summary": "With a declining population, shrinking congregations and growing economic pressures, temples are struggling to stay relevant. As more temples are sold or closed, is religion in decline in modern Japan?",
+        "category": "未分类"
       }
     ]
   },
@@ -3984,8 +4110,8 @@
   },
   {
     "thread_id": "thread-dara-singh-faces-potential-release-in-in",
-    "title": "Dara Singh faces potential release in India decades after burning missionary and sons alive",
-    "category": "社会与公共政策",
+    "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+    "category": "未分类",
     "events": [
       {
         "date": "20260903",
@@ -3993,6 +4119,13 @@
         "headline": "Dara Singh faces potential release in India decades after burning missionary and sons alive",
         "summary": "Dara Singh is serving a life sentence in India for burning alive Graham Staines and his two sons in Odisha in 1999. He could potentially walk free following legal proceedings. The case remains a notable incident of religious violence in the country. Indian courts have reviewed his case under applicable remission policies. BBC World reported on the possibility of his release from prison.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-meta-continues-run-ads-01",
+        "headline": "Meta continues to run ads promoting child sexual abuse material in India - report",
+        "summary": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
+        "category": "未分类"
       }
     ]
   },
@@ -4061,8 +4194,8 @@
   },
   {
     "thread_id": "thread-two-palestinian-teenagers-killed-during-",
-    "title": "US Ambassador Huckabee visits Palestinian town in West Bank amid reports of settler violence and land destruction",
-    "category": "国际政治",
+    "title": "Pupils return to West Bank school behind barbed wire to protect against settlers",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260904",
@@ -4084,6 +4217,20 @@
         "headline": "US Ambassador Huckabee visits Palestinian town in West Bank amid reports of settler violence and land destruction",
         "summary": "U.S. Ambassador to Israel Mike Huckabee visited Turmus Ayya, a Palestinian town near Ramallah in the Israeli-occupied West Bank with many American residents, and condemned attacks on Palestinians there. Al Jazeera reported that an Israeli campaign of demolitions and settler expansion has spread into Area A of the occupied West Bank, with Palestinian farmland being razed. The New York Times focused",
         "category": "国际政治"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-paul-adams-british-israeli-01",
+        "headline": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+        "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+        "category": "经济与市场"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-pupils-return-west-bank-01",
+        "headline": "Pupils return to West Bank school behind barbed wire to protect against settlers",
+        "summary": "Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-related violence.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -4229,7 +4376,7 @@
   },
   {
     "thread_id": "thread-russian-drone-strike-hits-ukraine-s-sbu-",
-    "title": "Russian drone strike hits Ukraine's SBU intelligence HQ in Kyiv",
+    "title": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
     "category": "安全与冲突",
     "events": [
       {
@@ -4237,6 +4384,13 @@
         "event_cluster_id": "20260905-russian-drone-strike-ukraine-01",
         "headline": "Russian drone strike hits Ukraine's SBU intelligence HQ in Kyiv",
         "summary": "A Russian drone struck the headquarters of Ukraine's SBU intelligence agency in central Kyiv, sending black smoke into the air near St. Sophia Cathedral. Ukrainian President Volodymyr Zelenskyy stated he instructed the SBU to deliver an appropriate response, while Foreign Minister Andrii Sybiha described the attack as a major escalation. The building struck is the office of Ukraine's intelligence ",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-russia-bombards-kyiv-soon-01",
+        "headline": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
+        "summary": "Firefighters at the site of a Russian missile attack, in Kyiv, Ukraine, on Tuesday. By early Tuesday morning, waves of Russian ballistic and cruise missiles were once again headed toward Kyiv.",
         "category": "安全与冲突"
       }
     ]
@@ -4594,6 +4748,146 @@
         "event_cluster_id": "20260908-israeli-strikes-southern-lebanese-01",
         "headline": "Israeli strikes in southern Lebanese village kill 12",
         "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-renoir-paintings-worth-millions-stolen-i",
+    "title": "Renoir paintings worth millions stolen in French museum heist",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-renoir-paintings-worth-millions-01",
+        "headline": "Renoir paintings worth millions stolen in French museum heist",
+        "summary": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-white-house-removes-controversial-tetris",
+    "title": "White House Removes Controversial Tetris-Style Game From Arcade Website",
+    "category": "经济与市场",
+    "events": [
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-white-house-removes-controversial-01",
+        "headline": "White House Removes Controversial Tetris-Style Game From Arcade Website",
+        "summary": "The Tetris Company said it took copyright infringement “very seriously.”",
+        "category": "经济与市场"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-liv-files-for-bankruptcy-protection-with",
+    "title": "LIV files for bankruptcy protection with over $45m owed to players",
+    "category": "经济与市场",
+    "events": [
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-liv-files-bankruptcy-protection-01",
+        "headline": "LIV files for bankruptcy protection with over $45m owed to players",
+        "summary": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.",
+        "category": "经济与市场"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-good-to-have-choice-australians-on-optin",
+    "title": "'Good to have choice': Australians on opting out of social media algorithms",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-good-have-choice-australians-01",
+        "headline": "'Good to have choice': Australians on opting out of social media algorithms",
+        "summary": "The BBC spoke to people in Sydney about Australia's plans to force social media companies to allow users to easily opt in or out of personalised algorithms.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-supergirl-shifts-to-hbo-max-this-week-in",
+    "title": "‘Supergirl’ Shifts To HBO Max This Week In Wake Of Box Office Crash (But It’s Not The End For The Character)",
+    "category": "文化体育",
+    "events": [
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-supergirl-shifts-hbo-max-01",
+        "headline": "‘Supergirl’ Shifts To HBO Max This Week In Wake Of Box Office Crash (But It’s Not The End For The Character)",
+        "summary": "\"Supergirl,\" starring Milly Alcock, arrives on HBO Max this week after the film flopped in theaters.",
+        "category": "文化体育"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-mamdani-releases-records-on-toxic-air-in",
+    "title": "Mamdani releases records on toxic air in New York after 9/11 attacks",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-mamdani-releases-records-toxic-01",
+        "headline": "Mamdani releases records on toxic air in New York after 9/11 attacks",
+        "summary": "The New York City mayor said the document release shows victims were lied to about health impacts from the attacks.",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-the-map-was-lying-to-you-why-the-un-just",
+    "title": "The Map Was Lying To You: Why the UN Just Changed How We See Africa",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-map-lying-you-why-01",
+        "headline": "The Map Was Lying To You: Why the UN Just Changed How We See Africa",
+        "summary": "For 450 years, the world s most-used map has made Africa look smaller than it really is.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-british-widow-faces-deportation-from-swe",
+    "title": "British widow faces deportation from Sweden after 22 years",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-british-widow-faces-deportation-01",
+        "headline": "British widow faces deportation from Sweden after 22 years",
+        "summary": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-saudi-arabia-vows-to-respond-after-houth",
+    "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-saudi-arabia-vows-respond-01",
+        "headline": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+        "summary": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-eiffel-tower-workers-strike-saying-women",
+    "title": "Eiffel Tower Workers Strike, Saying Women Were Excluded From Hindu Group’s Visit",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20260909",
+        "event_cluster_id": "20260909-eiffel-tower-workers-strike-01",
+        "headline": "Eiffel Tower Workers Strike, Saying Women Were Excluded From Hindu Group’s Visit",
+        "summary": "A delegation from the Bochasanwasi Akshar Purushottam Swaminarayan Sanstha group, known as BAPS, visited the Eiffel Tower on Saturday.",
         "category": "安全与冲突"
       }
     ]
