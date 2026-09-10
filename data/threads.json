@@ -57,7 +57,7 @@
   },
   {
     "thread_id": "thread-germany-says-russia-preparing-hybrid-att",
-    "title": "Germany says Russia preparing ‘hybrid’ attacks over Ukraine support",
+    "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
     "category": "安全与冲突",
     "events": [
       {
@@ -72,6 +72,13 @@
         "event_cluster_id": "20260902-germany-russia-preparing-hybrid-01",
         "headline": "Germany says Russia preparing ‘hybrid’ attacks over Ukraine support",
         "summary": "Germany says an attempted drone attack at Leipzig Airport showed hallmarks of Russian hybrid operations against Ukraine.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-two-die-moldovan-border-01",
+        "headline": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+        "summary": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
         "category": "安全与冲突"
       }
     ]
@@ -372,7 +379,7 @@
   },
   {
     "thread_id": "thread-mark-carney-tells-us-to-start-being-seri",
-    "title": "Trump Threatens Ban On Canadian Plane Maker Bombardier Unless It Manufactures In U.S.",
+    "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
     "category": "安全与冲突",
     "events": [
       {
@@ -394,6 +401,13 @@
         "event_cluster_id": "20260908-trump-threatens-ban-canadian-01",
         "headline": "Trump Threatens Ban On Canadian Plane Maker Bombardier Unless It Manufactures In U.S.",
         "summary": "Canada’s retaliatory tariffs on hundreds of U.S. products is set to take effect Tuesday.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-us-ban-imports-some-01",
+        "headline": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+        "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
         "category": "安全与冲突"
       }
     ]
@@ -946,7 +960,7 @@
   },
   {
     "thread_id": "thread-us-and-iran-exchange-more-airstrikes-fue",
-    "title": "Gulf nations race to bypass Hormuz and build defenses as Iran war drags on",
+    "title": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
     "category": "安全与冲突",
     "events": [
       {
@@ -975,6 +989,13 @@
         "event_cluster_id": "20260909-gulf-nations-race-bypass-01",
         "headline": "Gulf nations race to bypass Hormuz and build defenses as Iran war drags on",
         "summary": "In the wealthy countries that have borne the brunt of Iran's retaliation, the war is no longer seen as a temporary crisis with an end date. Having a Plan B is essential.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-iran-signals-readiness-escalate-01",
+        "headline": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
+        "summary": "Iranians are feeling the strain of the war, which has made a longstanding economic crisis worse.",
         "category": "安全与冲突"
       }
     ]
@@ -1156,8 +1177,8 @@
   },
   {
     "thread_id": "thread-imprisoned-in-spain-james-fergie-chamber",
-    "title": "AfD’s Far Right Win Puts New Pressure on Germany’s Leader Merz",
-    "category": "未分类",
+    "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -1249,6 +1270,13 @@
         "headline": "AfD’s Far Right Win Puts New Pressure on Germany’s Leader Merz",
         "summary": "Friedrich Merz, Germany’s chancellor and the Christian Democratic Union party leader, at a press briefing in Berlin on Monday.",
         "category": "未分类"
+      },
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-germany-s-merz-attacks-01",
+        "headline": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+        "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+        "category": "国际政治"
       }
     ]
   },
@@ -2192,8 +2220,8 @@
   },
   {
     "thread_id": "thread-guinea-bissau-voters-approve-new-constit",
-    "title": "航空业面临更热、更具风暴性的天空，乘客或将接受更多航班中断",
-    "category": "气候与环境",
+    "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260902",
@@ -2250,6 +2278,13 @@
         "headline": "航空业面临更热、更具风暴性的天空，乘客或将接受更多航班中断",
         "summary": "报道指出，气候变化导致气温上升和风暴加剧，航空业面临更多延误和改道。BBC World报道了气候变化对航空运营的影响，而New York Post的文章则讨论了加州大学伯克利分校与加州大学洛杉矶分校之间的体育 rivalry，不属于同一事件，来源之间存在明显偏离。核心信息集中在气候变化对航空旅行的潜在干扰上。",
         "category": "气候与环境"
+      },
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-land-limbo-bbc-visits-01",
+        "headline": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+        "summary": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
+        "category": "经济与市场"
       }
     ]
   },
@@ -2815,7 +2850,7 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-indie-cinema-and-f1",
-    "title": "Hundreds of flights delayed, cancelled after UK air traffic control glitch",
+    "title": "The UK s independent aerospace regulator has been instructed to review an air traffic control system outage on Tuesday.",
     "category": "未分类",
     "events": [
       {
@@ -2872,6 +2907,13 @@
         "event_cluster_id": "20260909-hundreds-flights-delayed-cancelled-01",
         "headline": "Hundreds of flights delayed, cancelled after UK air traffic control glitch",
         "summary": "Air traffic control provider NATS under scrutiny after technical fault disrupts UK air traffic.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-everyone-s-had-their-01",
+        "headline": "The UK s independent aerospace regulator has been instructed to review an air traffic control system outage on Tuesday.",
+        "summary": "The UK s independent aerospace regulator has been instructed to review an air traffic control system outage on Tuesday.",
         "category": "未分类"
       }
     ]
@@ -2948,8 +2990,8 @@
   },
   {
     "thread_id": "thread-scotus-allows-trump-s-ballroom-project-t",
-    "title": "SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns",
-    "category": "国际政治",
+    "title": "Republicans divided over Trump’s economy as RNC begins",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260902",
@@ -2957,6 +2999,13 @@
         "headline": "SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns",
         "summary": "The Supreme Court has ruled that President Trump's ballroom project may continue. And, Army Secretary Dan Driscoll resigns after 18 months on the job. (Image credit: Andrew Harnik)",
         "category": "国际政治"
+      },
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-republicans-divided-trump-s-01",
+        "headline": "Republicans divided over Trump’s economy as RNC begins",
+        "summary": "Republican strategist Adolfo Franco and GOP adviser Rina Shah clash over Trump’s handling of the economy.",
+        "category": "经济与市场"
       }
     ]
   },
@@ -3074,8 +3123,8 @@
   },
   {
     "thread_id": "thread-bosnian-serb-war-criminal-ratko-mladic-d",
-    "title": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
-    "category": "安全与冲突",
+    "title": "Coco Gauff Rebounds To Reach U.S. Open Semis, Elena Rybakina Takes Over World No. 1",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -3090,6 +3139,13 @@
         "headline": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
         "summary": "Médecins Sans Frontières is urging world leaders to increase funding to help the millions who need aid.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-coco-gauff-rebounds-reach-01",
+        "headline": "Coco Gauff Rebounds To Reach U.S. Open Semis, Elena Rybakina Takes Over World No. 1",
+        "summary": "The other semifinal will feature No. 1 Aryna Sabalenka, the two-time defending champion, against No. 3 American Jessica Pegula.",
+        "category": "未分类"
       }
     ]
   },
@@ -3109,8 +3165,8 @@
   },
   {
     "thread_id": "thread-乌克兰扎波罗热市一学校在地库开学以规避战争风险",
-    "title": "Prince William to represent King Charles at funeral of Norway's King Harald V",
-    "category": "国际政治",
+    "title": "Europe's royalty pay respects to King Harald V in Norway",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -3160,6 +3216,13 @@
         "headline": "Prince William to represent King Charles at funeral of Norway's King Harald V",
         "summary": "The Prince of Wales will represent King Charles at the funeral of Norway's King Harald V in Oslo next week, Buckingham Palace has announced. Princess Anne will also attend in a personal capacity as godmother to Norway's new king, Haakon VIII. The duty of representing the monarch at such events falls to the heir to the British throne by precedent. Sources differ slightly in detail, with the Guardia",
         "category": "国际政治"
+      },
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-europe-s-royalty-pay-01",
+        "headline": "Europe's royalty pay respects to King Harald V in Norway",
+        "summary": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
+        "category": "未分类"
       }
     ]
   },
@@ -3690,8 +3753,8 @@
   },
   {
     "thread_id": "thread-long-lines-at-fuel-stations-are-spreadin",
-    "title": "US increases pressure on Iran with sanctions targeting aviation sector",
-    "category": "国际政治",
+    "title": "Trump administration proposes excluding certain immigrants from US census",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -3706,6 +3769,20 @@
         "headline": "US increases pressure on Iran with sanctions targeting aviation sector",
         "summary": "Trump administration has sought to isolate Tehran through a raft of measures meant to squeeze the country s economy.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-notorious-ecuadorian-crime-gang-01",
+        "headline": "Notorious Ecuadorian crime gang designated a terrorist group by US",
+        "summary": "Trump administration to seek extra funding from Congress to ‘dismantle’ Los Tiguerones over narcotics trafficking The US has designated Ecuador’s Los Tiguerones gang, which stormed a television station during a live broadcast in 2024, as a terrorist organisation as the Trump administration expands its campaign against narcotics traffickers it says are destabilising Latin America. The US secretary ",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-trump-administration-proposes-excluding-01",
+        "headline": "Trump administration proposes excluding certain immigrants from US census",
+        "summary": "The proposal aims to exclude some legal and undocumented immigrants from the count used to determine US House seats.",
+        "category": "未分类"
       }
     ]
   },
@@ -4439,7 +4516,7 @@
   },
   {
     "thread_id": "thread-nigel-farage-heckled-at-reform-uk-confer",
-    "title": "Nigel Farage heckled at Reform UK conference in Birmingham amid scrutiny over party finances",
+    "title": "Ethiopia's constitutional reform: What does it mean — especially for Abiy",
     "category": "国际政治",
     "events": [
       {
@@ -4447,6 +4524,13 @@
         "event_cluster_id": "20260905-nigel-farage-heckled-he-01",
         "headline": "Nigel Farage heckled at Reform UK conference in Birmingham amid scrutiny over party finances",
         "summary": "Reform UK leader Nigel Farage was heckled by protesters on Friday as he addressed the party's conference in Birmingham, denying allegations that Reform UK received illegal funding. The event took place amid broader scrutiny over the party's finances, with British law requiring all donations to be disclosed and prohibiting political contributions from foreign sources. Farage appeared alongside his ",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-ethiopia-s-constitutional-reform-01",
+        "headline": "Ethiopia's constitutional reform: What does it mean — especially for Abiy",
+        "summary": "Does Ethiopian Prime Minister Abiy Ahmed stand to benefit from a planned constitutional reform in the country? A new presidential system would reshape political power — and could give him even more power in office.",
         "category": "国际政治"
       }
     ]
@@ -4698,7 +4782,7 @@
   },
   {
     "thread_id": "thread-how-725-game-show-winnings-kick-started-",
-    "title": "How £725 game-show winnings kick-started Champions League coach's career",
+    "title": "Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League",
     "category": "文化体育",
     "events": [
       {
@@ -4706,6 +4790,13 @@
         "event_cluster_id": "20260908-how-725-game-show-01",
         "headline": "How £725 game-show winnings kick-started Champions League coach's career",
         "summary": "Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.",
+        "category": "文化体育"
+      },
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-misfiring-arsenal-beat-napoli-01",
+        "headline": "Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League",
+        "summary": "Arsenal dominated play but needed a screamer from Martin Odegaard to seal three points in Napoli to open league phase.",
         "category": "文化体育"
       }
     ]
@@ -4888,6 +4979,132 @@
         "event_cluster_id": "20260909-eiffel-tower-workers-strike-01",
         "headline": "Eiffel Tower Workers Strike, Saying Women Were Excluded From Hindu Group’s Visit",
         "summary": "A delegation from the Bochasanwasi Akshar Purushottam Swaminarayan Sanstha group, known as BAPS, visited the Eiffel Tower on Saturday.",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-trump-gave-45-000-cash-gifts-to-natalie-",
+    "title": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-trump-gave-45-000-01",
+        "headline": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
+        "summary": "The White House has described the cash gifts to Harp and three others as personal - and legal.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-6-facts-about-grandparents-in-the-u-s",
+    "title": "6 facts about grandparents in the U.S.",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-6-facts-about-grandparents-01",
+        "headline": "6 facts about grandparents in the U.S.",
+        "summary": "Two-thirds of U.S. adults ages 65 and older were grandparents in 2024.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-sinkhole-appears-outside-malibu-home-tho",
+    "title": "Sinkhole appears outside Malibu home thought to belong to Nicolas Cage",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-sinkhole-appears-outside-malibu-01",
+        "headline": "Sinkhole appears outside Malibu home thought to belong to Nicolas Cage",
+        "summary": "The driveway of the beach-front house collapsed on Tuesday morning, according to local authorities.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-california-bets-on-a-non-ultra-processed",
+    "title": "California Bets On A Non-Ultra-Processed Food Label. Will It Work",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-california-bets-non-ultra-01",
+        "headline": "California Bets On A Non-Ultra-Processed Food Label. Will It Work",
+        "summary": "California’s AB 2244 would create the nation’s first government-backed non-ultra-processed food certification. Three tests could determine if it works.",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-victoria-s-koalas-in-chronically-poor-he",
+    "title": "Victoria’s koalas in chronically poor health and population is half what was previously estimated",
+    "category": "社会与公共政策",
+    "events": [
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-victoria-s-koalas-chronically-01",
+        "headline": "Victoria’s koalas in chronically poor health and population is half what was previously estimated",
+        "summary": "Exclusive: State government delayed releasing major report into the health of the koala population for more than 12 months Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Victorian government sat on a report for more than 12 months that found the state’s koala population was in chronically poor health. The review of the state’",
+        "category": "社会与公共政策"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-burnham-defends-uk-ban-on-israeli-settle",
+    "title": "Burnham defends UK ban on Israeli settlement trade",
+    "category": "经济与市场",
+    "events": [
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-burnham-defends-uk-ban-01",
+        "headline": "Burnham defends UK ban on Israeli settlement trade",
+        "summary": "UK Prime Minister Andy Burnham defended a ban on trade with Israeli settlements in the occupied West Bank",
+        "category": "经济与市场"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-how-a-driver-s-sudden-death-triggered-eb",
+    "title": "How a Driver’s Sudden Death Triggered Ebola Panic in Congo",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-how-driver-s-sudden-01",
+        "headline": "How a Driver’s Sudden Death Triggered Ebola Panic in Congo",
+        "summary": "When a truck driver unexpectedly collapsed and died in a remote village, frontline medical staff scrambled to safely isolate his body, triggering a standoff.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-emergency-slide-deployed-on-trump-s-qata",
+    "title": "Emergency Slide Deployed On Trump’s Qatari Jet Just Before Takeoff For ‘Check’",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-emergency-slide-deployed-trump-01",
+        "headline": "Emergency Slide Deployed On Trump’s Qatari Jet Just Before Takeoff For ‘Check’",
+        "summary": "Trump is traveling to Dallas Wednesday for the GOP’s midterm convention.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-peter-thiel-backed-firm-to-make-low-cost",
+    "title": "Peter Thiel-backed firm to make low-cost missiles amid U.S. shortage",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20260910",
+        "event_cluster_id": "20260910-peter-thiel-backed-firm-01",
+        "headline": "Peter Thiel-backed firm to make low-cost missiles amid U.S. shortage",
+        "summary": "Defense start-up Covenant said it has inked about $150 million in orders to start being delivered in 2027.",
         "category": "安全与冲突"
       }
     ]
