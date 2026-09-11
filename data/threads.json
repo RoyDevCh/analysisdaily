@@ -379,7 +379,7 @@
   },
   {
     "thread_id": "thread-mark-carney-tells-us-to-start-being-seri",
-    "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+    "title": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’",
     "category": "安全与冲突",
     "events": [
       {
@@ -408,6 +408,13 @@
         "event_cluster_id": "20260910-us-ban-imports-some-01",
         "headline": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
         "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260911",
+        "event_cluster_id": "20260911-un-envoy-warns-security-01",
+        "headline": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’",
+        "summary": "Envoy for Yemen Hans Grundberg demands urgent steps to protect civilians and trade routes amid Houthi escalation.",
         "category": "安全与冲突"
       }
     ]
@@ -638,8 +645,8 @@
   },
   {
     "thread_id": "thread-zelensky-says-airlines-should-avoid-russ",
-    "title": "Kushner and Witkoff visit Ukraine with hopes of restarting peace talks with Russia",
-    "category": "未分类",
+    "title": "Trump Says Putin Wants 'To Make A Deal' To End Russia-Ukraine War—Does He? Expert Weighs In",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -759,6 +766,13 @@
         "headline": "Kushner and Witkoff visit Ukraine with hopes of restarting peace talks with Russia",
         "summary": "For the first time, Trump's top envoys take their peace push to Kyiv — after talks with Putin in Moscow.",
         "category": "未分类"
+      },
+      {
+        "date": "20260911",
+        "event_cluster_id": "20260911-trump-putin-wants-make-01",
+        "headline": "Trump Says Putin Wants 'To Make A Deal' To End Russia-Ukraine War—Does He? Expert Weighs In",
+        "summary": "John Hardie, the deputy director of the FDD’s Russia program, discussed on “Forbes Newsroom” U.S. envoys Steve Witkoff and Jared Kushner’s visits to Moscow and Kyiv.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -1177,8 +1191,8 @@
   },
   {
     "thread_id": "thread-imprisoned-in-spain-james-fergie-chamber",
-    "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-    "category": "国际政治",
+    "title": "Germany’s Goethe-Institut is closing in Russia. Russians tell DW how canceled exams are upending their plans",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -1277,6 +1291,13 @@
         "headline": "Germany's Merz attacks AfD in stormy debate after far-right election win",
         "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260911",
+        "event_cluster_id": "20260911-germany-s-goethe-institut-01",
+        "headline": "Germany’s Goethe-Institut is closing in Russia. Russians tell DW how canceled exams are upending their plans",
+        "summary": "Canceled language exams, disrupted plans to study in Germany and the disappearance of an important cultural link: DW users shared how the closure of Germany's Goethe-Institut in Russia affects their lives.",
+        "category": "未分类"
       }
     ]
   },
@@ -2990,8 +3011,8 @@
   },
   {
     "thread_id": "thread-scotus-allows-trump-s-ballroom-project-t",
-    "title": "Republicans divided over Trump’s economy as RNC begins",
-    "category": "经济与市场",
+    "title": "Will Trump pay all US adults $5,000? Some Trump supporters are sceptical",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -3006,6 +3027,13 @@
         "headline": "Republicans divided over Trump’s economy as RNC begins",
         "summary": "Republican strategist Adolfo Franco and GOP adviser Rina Shah clash over Trump’s handling of the economy.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20260911",
+        "event_cluster_id": "20260911-trump-pay-all-us-01",
+        "headline": "Will Trump pay all US adults $5,000? Some Trump supporters are sceptical",
+        "summary": "Observers on both sides of the political divide express concern about Trump s pledge to pay dividend for midterm wins.",
+        "category": "未分类"
       }
     ]
   },
@@ -3242,8 +3270,8 @@
   },
   {
     "thread_id": "thread-独立电影与f1意大利大奖赛2026年相关报道概述",
-    "title": "特朗普通过超级PAC为共和党参议院候选人投入巨额资金",
-    "category": "国际政治",
+    "title": "25 years after 9/11: Al-Qaeda weakened but not gone",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -3293,6 +3321,20 @@
         "headline": "特朗普通过超级PAC为共和党参议院候选人投入巨额资金",
         "summary": "美国总统特朗普通过其支持的政治行动委员会(MAGA Inc.)宣布将在德克萨斯州参议院中期选举中投入1000万美元广告费用。特朗普总计已承诺通过该超级PAC投入超过4亿美元，以支持共和党候选人。Al Jazeera报道了这一国内政治举措，而The Guardian则关注了特朗普因与英国的分歧可能转而支持阿根廷总统米莱对福克兰群岛的主权声索。",
         "category": "国际政治"
+      },
+      {
+        "date": "20260911",
+        "event_cluster_id": "20260911-yemen-s-houthis-reportedly-01",
+        "headline": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shippin",
+        "summary": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260911",
+        "event_cluster_id": "20260911-25-9-11-al-01",
+        "headline": "25 years after 9/11: Al-Qaeda weakened but not gone",
+        "summary": "25 years after 9/11, the terrorist group al-Qaeda is no longer the global terrorist organization it once was. Its central leadership has been weakened, but offshoots remain strong across Africa and Asia.",
+        "category": "未分类"
       }
     ]
   },
@@ -4173,8 +4215,8 @@
   },
   {
     "thread_id": "thread-south-african-airline-cancels-flyby-amid",
-    "title": "South African airline cancels flyby amid aviation authority investigation",
-    "category": "社会与公共政策",
+    "title": "African Parks: when conservation becomes a question of power",
+    "category": "未分类",
     "events": [
       {
         "date": "20260903",
@@ -4182,6 +4224,13 @@
         "headline": "South African airline cancels flyby amid aviation authority investigation",
         "summary": "The South African civil aviation authority is investigating an aerial display performed over a stadium by a South African airline last Saturday. The airline has cancelled its next scheduled flyby in response to the inquiry. Separately, the United Nations reported that the world will miss its 1.5-degree climate target, according to The New York Times. The two articles cover distinct events.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260911",
+        "event_cluster_id": "20260911-african-parks-when-conservation-01",
+        "headline": "African Parks: when conservation becomes a question of power",
+        "summary": "African Parks is dedicated to protecting wildlife on the continent across some vast areas. But the organization faces allegations of human rights abuses by rangers. Now Prince Harry is stepping down from its board.",
+        "category": "未分类"
       }
     ]
   },
@@ -4768,7 +4817,7 @@
   },
   {
     "thread_id": "thread-thousands-turn-out-in-serbia-for-funeral",
-    "title": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić.",
+    "title": "'I'll never trust them again': Some Afghans who helped the U.S. post-9/11 regret it",
     "category": "安全与冲突",
     "events": [
       {
@@ -4777,13 +4826,20 @@
         "headline": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić.",
         "summary": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260911",
+        "event_cluster_id": "20260911-i-ll-never-trust-01",
+        "headline": "'I'll never trust them again': Some Afghans who helped the U.S. post-9/11 regret it",
+        "summary": "Soon after the Sept. 11 attacks, the U.S. launched what would become a 20-year war in Afghanistan. Some Afghans who helped the U.S. prosecute that war regret it.",
+        "category": "安全与冲突"
       }
     ]
   },
   {
     "thread_id": "thread-how-725-game-show-winnings-kick-started-",
-    "title": "Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League",
-    "category": "文化体育",
+    "title": "Aryna Sabalenka Now One Victory From A Three-Peat At U.S. Open",
+    "category": "未分类",
     "events": [
       {
         "date": "20260908",
@@ -4798,6 +4854,13 @@
         "headline": "Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League",
         "summary": "Arsenal dominated play but needed a screamer from Martin Odegaard to seal three points in Napoli to open league phase.",
         "category": "文化体育"
+      },
+      {
+        "date": "20260911",
+        "event_cluster_id": "20260911-aryna-sabalenka-now-one-01",
+        "headline": "Aryna Sabalenka Now One Victory From A Three-Peat At U.S. Open",
+        "summary": "It marked the third straight year the two women have squared off in Flushing Meadows.",
+        "category": "未分类"
       }
     ]
   },
@@ -4831,7 +4894,7 @@
   },
   {
     "thread_id": "thread-israeli-strikes-in-southern-lebanese-vil",
-    "title": "Israeli strikes in southern Lebanese village kill 12",
+    "title": "UN peacekeepers give NPR a rare look behind Israeli lines",
     "category": "安全与冲突",
     "events": [
       {
@@ -4839,6 +4902,20 @@
         "event_cluster_id": "20260908-israeli-strikes-southern-lebanese-01",
         "headline": "Israeli strikes in southern Lebanese village kill 12",
         "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260911",
+        "event_cluster_id": "20260911-israeli-film-gaza-receives-01",
+        "headline": "Israeli film on Gaza receives 25-minute ovation at Venice premiere",
+        "summary": "Venice Film Festival honours NAZA, an expose on Israel s use of AI systems in Gaza.",
+        "category": "文化体育"
+      },
+      {
+        "date": "20260911",
+        "event_cluster_id": "20260911-un-peacekeepers-give-npr-01",
+        "headline": "UN peacekeepers give NPR a rare look behind Israeli lines",
+        "summary": "NPR accompanies UN peacekeepers behind Israeli lines as Israel expands its occupation of South Lebanon following a U.S.-brokered ceasefire.",
         "category": "安全与冲突"
       }
     ]
@@ -4887,7 +4964,7 @@
   },
   {
     "thread_id": "thread-good-to-have-choice-australians-on-optin",
-    "title": "'Good to have choice': Australians on opting out of social media algorithms",
+    "title": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
     "category": "未分类",
     "events": [
       {
@@ -4895,6 +4972,13 @@
         "event_cluster_id": "20260909-good-have-choice-australians-01",
         "headline": "'Good to have choice': Australians on opting out of social media algorithms",
         "summary": "The BBC spoke to people in Sydney about Australia's plans to force social media companies to allow users to easily opt in or out of personalised algorithms.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260911",
+        "event_cluster_id": "20260911-people-trampling-me-philippine-01",
+        "headline": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
+        "summary": "A survivor has told the BBC of the chaos onboard as the ferry caught fire near the popular tourist spot of Coron.",
         "category": "未分类"
       }
     ]
@@ -4929,8 +5013,8 @@
   },
   {
     "thread_id": "thread-the-map-was-lying-to-you-why-the-un-just",
-    "title": "The Map Was Lying To You: Why the UN Just Changed How We See Africa",
-    "category": "未分类",
+    "title": "Why is Uber pulling out of some African markets",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260909",
@@ -4938,6 +5022,13 @@
         "headline": "The Map Was Lying To You: Why the UN Just Changed How We See Africa",
         "summary": "For 450 years, the world s most-used map has made Africa look smaller than it really is.",
         "category": "未分类"
+      },
+      {
+        "date": "20260911",
+        "event_cluster_id": "20260911-why-uber-pulling-out-01",
+        "headline": "Why is Uber pulling out of some African markets",
+        "summary": "Uber’s exits from Nigeria and Uganda highlight the growing challenges of making ride-hailing work in Africa.",
+        "category": "经济与市场"
       }
     ]
   },
@@ -4957,8 +5048,8 @@
   },
   {
     "thread_id": "thread-saudi-arabia-vows-to-respond-after-houth",
-    "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-    "category": "安全与冲突",
+    "title": "Maduro’s wife seeks home detention as heart condition worsens in US custody",
+    "category": "未分类",
     "events": [
       {
         "date": "20260909",
@@ -4966,6 +5057,13 @@
         "headline": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
         "summary": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260911",
+        "event_cluster_id": "20260911-maduro-s-wife-seeks-01",
+        "headline": "Maduro’s wife seeks home detention as heart condition worsens in US custody",
+        "summary": "Her lawyers say Flores needs cardiac treatment and recovery facilities a detention centre cannot provide.",
+        "category": "未分类"
       }
     ]
   },
@@ -4985,8 +5083,8 @@
   },
   {
     "thread_id": "thread-trump-gave-45-000-cash-gifts-to-natalie-",
-    "title": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
-    "category": "未分类",
+    "title": "Can Trump really pay $5,000 to every American adult",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260910",
@@ -4994,6 +5092,13 @@
         "headline": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
         "summary": "The White House has described the cash gifts to Harp and three others as personal - and legal.",
         "category": "未分类"
+      },
+      {
+        "date": "20260911",
+        "event_cluster_id": "20260911-trump-really-pay-5-01",
+        "headline": "Can Trump really pay $5,000 to every American adult",
+        "summary": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+        "category": "国际政治"
       }
     ]
   },
@@ -5106,6 +5211,90 @@
         "headline": "Peter Thiel-backed firm to make low-cost missiles amid U.S. shortage",
         "summary": "Defense start-up Covenant said it has inked about $150 million in orders to start being delivered in 2027.",
         "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-china-cargo-ship-fire-kills-at-least-25",
+    "title": "China: Cargo ship fire kills at least 25",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260911",
+        "event_cluster_id": "20260911-china-cargo-ship-fire-01",
+        "headline": "China: Cargo ship fire kills at least 25",
+        "summary": "At least five people are missing after a cargo ship caught fire at the port of Qingdao. The cause remains unclear.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-man-jailed-after-threatening-to-kill-son",
+    "title": "Man jailed after threatening to kill son's teacher in French village",
+    "category": "社会与公共政策",
+    "events": [
+      {
+        "date": "20260911",
+        "event_cluster_id": "20260911-man-jailed-threatening-kill-01",
+        "headline": "Man jailed after threatening to kill son's teacher in French village",
+        "summary": "The father had threatened to behead a female primary school teacher near Toulouse.",
+        "category": "社会与公共政策"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-royal-family-rift-after-popular-tv-news-",
+    "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260911",
+        "event_cluster_id": "20260911-royal-family-rift-popular-01",
+        "headline": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+        "summary": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-scientists-say-august-was-earth-s-hottes",
+    "title": "Scientists say August was Earth's hottest month they've measured",
+    "category": "气候与环境",
+    "events": [
+      {
+        "date": "20260911",
+        "event_cluster_id": "20260911-scientists-say-august-earth-01",
+        "headline": "Scientists say August was Earth's hottest month they've measured",
+        "summary": "The European climate service Copernicus said the Earth just sweltered through its hottest month on record in August. Scientists said the heat surge is mostly due to human-caused climate change. (Image credit: Ahn Young-joon)",
+        "category": "气候与环境"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-manchester-united-beat-sabah-4-0-on-cham",
+    "title": "Manchester United beat Sabah 4-0 on Champions League return",
+    "category": "文化体育",
+    "events": [
+      {
+        "date": "20260911",
+        "event_cluster_id": "20260911-manchester-united-beat-sabah-01",
+        "headline": "Manchester United beat Sabah 4-0 on Champions League return",
+        "summary": "Goals from Matheus Cunha, Bruno Fernandes, Benjamin Sesko and Lisandro Martinez seal a winning UCL return for United.",
+        "category": "文化体育"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-lg-defends-smart-tv-features-amid-audio-",
+    "title": "LG defends smart-TV features amid audio surveillance allegations",
+    "category": "经济与市场",
+    "events": [
+      {
+        "date": "20260911",
+        "event_cluster_id": "20260911-lg-defends-smart-tv-01",
+        "headline": "LG defends smart-TV features amid audio surveillance allegations",
+        "summary": "Recent accusations against the electronics company have raised new questions about the nonconsensual data it harvests.",
+        "category": "经济与市场"
       }
     ]
   }
