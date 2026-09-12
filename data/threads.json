@@ -253,8 +253,8 @@
   },
   {
     "thread_id": "thread-bus-crash-in-egypt-s-south-sinai-kills-a",
-    "title": "Bus crash on Egypt's Red Sea coast kills 22",
-    "category": "社会与公共政策",
+    "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -311,6 +311,13 @@
         "headline": "Bus crash on Egypt's Red Sea coast kills 22",
         "summary": "A passenger bus crashed on Egypt's Red Sea coast in the South Sinai governorate, killing at least 22 people. The bus was traveling between Dahab and Nuweiba when the accident occurred on Wednesday. Reports indicate that Jordanian nationals were among those killed. Both sources report a death toll of 22 and do not diverge on major details of the incident.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-iran-war-live-houthis-01",
+        "headline": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
+        "summary": "Houthi forces seize Yemen s Red Sea coast while Saudi Arabia suspends crucial oil pipeline following drone attack.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -379,7 +386,7 @@
   },
   {
     "thread_id": "thread-mark-carney-tells-us-to-start-being-seri",
-    "title": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’",
+    "title": "Iran war: Saudi-Houthi escalation intensifies Yemen conflict",
     "category": "安全与冲突",
     "events": [
       {
@@ -415,6 +422,20 @@
         "event_cluster_id": "20260911-un-envoy-warns-security-01",
         "headline": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’",
         "summary": "Envoy for Yemen Hans Grundberg demands urgent steps to protect civilians and trade routes amid Houthi escalation.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-how-global-trade-oil-01",
+        "headline": "How global trade and oil prices could be hit by Houthi advance",
+        "summary": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
+        "category": "经济与市场"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-iran-war-saudi-houthi-01",
+        "headline": "Iran war: Saudi-Houthi escalation intensifies Yemen conflict",
+        "summary": "The Houthi takeovers of Mokha, Dhubab and Perim in the Bab el-Mandeb Strait threaten to push Yemen deeper into the Middle East war. The Iran-backed group has made advances against Yemen's government and Saudi Arabia.",
         "category": "安全与冲突"
       }
     ]
@@ -645,8 +666,8 @@
   },
   {
     "thread_id": "thread-zelensky-says-airlines-should-avoid-russ",
-    "title": "Trump Says Putin Wants 'To Make A Deal' To End Russia-Ukraine War—Does He? Expert Weighs In",
-    "category": "安全与冲突",
+    "title": "Why North Korea's Kim Jong Un doesn't need a US deal",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -773,6 +794,13 @@
         "headline": "Trump Says Putin Wants 'To Make A Deal' To End Russia-Ukraine War—Does He? Expert Weighs In",
         "summary": "John Hardie, the deputy director of the FDD’s Russia program, discussed on “Forbes Newsroom” U.S. envoys Steve Witkoff and Jared Kushner’s visits to Moscow and Kyiv.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-why-north-korea-s-01",
+        "headline": "Why North Korea's Kim Jong Un doesn't need a US deal",
+        "summary": "Donald Trump's overtures to North Korea's dictator have gone nowhere, with an emboldened Pyongyang accelerating its nuclear program and solidifying alliances with Russia and China.",
+        "category": "未分类"
       }
     ]
   },
@@ -1016,7 +1044,7 @@
   },
   {
     "thread_id": "thread-worshippers-in-west-bank-tear-gassed-as-",
-    "title": "荷兰央行将86吨黄金储备从美国和加拿大转移至伦敦",
+    "title": "Hot pursuit: Man who robbed Indian bank using chilli powder arrested",
     "category": "经济与市场",
     "events": [
       {
@@ -1038,6 +1066,13 @@
         "event_cluster_id": "20260903-netherlands-moves-billions-gold-01",
         "headline": "荷兰央行将86吨黄金储备从美国和加拿大转移至伦敦",
         "summary": "荷兰央行（De Nederlandsche Bank）将86吨黄金储备从美国纽约和加拿大渥太华转移至英国伦敦，作为危机准备措施。两家媒体报道均援引荷兰央行说法，称此举是由于\"地缘政治紧张局势加剧\"。荷兰央行表示，存放于伦敦的黄金储备比存放于纽约和渥太华的更容易交易，并能在\"危机情况\"下更快地作出反应。此次转移涉及的黄金总量和具体地点在两篇报道中表述一致。",
+        "category": "经济与市场"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-hot-pursuit-man-who-01",
+        "headline": "Hot pursuit: Man who robbed Indian bank using chilli powder arrested",
+        "summary": "A man posing as a customer threw chilli powder into the eyes of employees at a bank in Nagpur city, western India.",
         "category": "经济与市场"
       }
     ]
@@ -1443,8 +1478,8 @@
   },
   {
     "thread_id": "thread-faster-homework-poor-exam-results-what-a",
-    "title": "After the Earthquake, They Used A.I. to Mobilize Aid",
-    "category": "科技与AI",
+    "title": "Colombia to Start Aerial Spraying of Coca Crops Despite Health Worries",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -1480,6 +1515,13 @@
         "headline": "After the Earthquake, They Used A.I. to Mobilize Aid",
         "summary": "As volunteers struggled to get supplies to quake victims in Colombia, a few tech workers built an app to map and organize the sprawling relief effort.",
         "category": "科技与AI"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-colombia-start-aerial-spraying-01",
+        "headline": "Colombia to Start Aerial Spraying of Coca Crops Despite Health Worries",
+        "summary": "An airplane spraying coca plants in El Catatumbo, a region in the Norte de Santander department of Colombia, in 2008.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -1548,8 +1590,8 @@
   },
   {
     "thread_id": "thread-joshua-wong-pleads-guilty-in-hong-kong-n",
-    "title": "Hong Kong pro-democracy activist Joshua Wong pleads guilty in second national security case",
-    "category": "安全与冲突",
+    "title": "Hong Kong Tiananmen activists jailed for up to 7 years",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -1634,6 +1676,13 @@
         "headline": "Hong Kong pro-democracy activist Joshua Wong pleads guilty in second national security case",
         "summary": "Joshua Wong, a Hong Kong pro-democracy activist, pleaded guilty on Wednesday to a charge of conspiring to collude with foreign powers, which carries a maximum life sentence. Prosecutors allege that Wong, 29, worked with exiled activist Nathan Law to urge foreign powers to impose sanctions, blockades or other hostile measures against China and Hong Kong. The case is his second brought under the nat",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-hong-kong-tiananmen-activists-01",
+        "headline": "Hong Kong Tiananmen activists jailed for up to 7 years",
+        "summary": "Three pro-democracy activists who organized annual commemorations of China's deadly 1989 Tiananmen crackdown were charged under Hong Kong's Beijing-backed national security law.",
+        "category": "未分类"
       }
     ]
   },
@@ -1835,7 +1884,7 @@
   },
   {
     "thread_id": "thread-us-energy-secretary-signs-oil-deal-in-ve",
-    "title": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
+    "title": "Reflecting Pool Contractor Says Issues Were Linked To Its Own Work, Not Vandals, Report Says",
     "category": "文化体育",
     "events": [
       {
@@ -1857,6 +1906,13 @@
         "event_cluster_id": "20260908-syria-s-assad-era-01",
         "headline": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
         "summary": "UN watchdog says material from facility, bombed in 2007, now under IAEA safeguards.",
+        "category": "文化体育"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-reflecting-pool-contractor-issues-01",
+        "headline": "Reflecting Pool Contractor Says Issues Were Linked To Its Own Work, Not Vandals, Report Says",
+        "summary": "U.S. Attorney for the District of Columbia Jeanine Pirro found after an investigation last month the pool’s renovation “indicated a rushed and flawed installation process.”",
         "category": "文化体育"
       }
     ]
@@ -2185,7 +2241,7 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-tiger-woods-and-bmw",
-    "title": "Trump administration appeals again to US Supreme Court over mail-in voting",
+    "title": "State supreme court fined the attorney and held him in contempt for not verifying facts in a court filing.",
     "category": "社会与公共政策",
     "events": [
       {
@@ -2235,6 +2291,13 @@
         "event_cluster_id": "20260907-trump-administration-appeals-again-01",
         "headline": "Trump administration appeals again to US Supreme Court over mail-in voting",
         "summary": "How the nation s highest court rules could have major implications in this year’s midterm elections.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-us-lawyer-cites-fake-01",
+        "headline": "State supreme court fined the attorney and held him in contempt for not verifying facts in a court filing.",
+        "summary": "State supreme court fined the attorney and held him in contempt for not verifying facts in a court filing.",
         "category": "社会与公共政策"
       }
     ]
@@ -2374,8 +2437,8 @@
   },
   {
     "thread_id": "thread-us-and-iran-exchange-airstrikes-in-middl",
-    "title": "US launches new attacks on Iran military targets; Tehran pledges multi-layered response",
-    "category": "国际政治",
+    "title": "Passenger train derails in France, leaving 44 injured, 1 critical",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -2446,6 +2509,13 @@
         "headline": "US launches new attacks on Iran military targets; Tehran pledges multi-layered response",
         "summary": "The United States has launched fresh attacks on military targets in Iran. Iran's First Vice President Mohammad Reza Aref stated the country would deliver an asymmetrical and multi-layered response to the US strikes. The US has ruled out talks with Iran until attacks on ships cease. The US strategy aims to prevent Tehran from rebuilding destroyed capabilities but carries the risk of escalating into",
         "category": "国际政治"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-passenger-train-derails-france-01",
+        "headline": "Passenger train derails in France, leaving 44 injured, 1 critical",
+        "summary": "French train derailment sparks emergency response, with 130 firefighters and five medical teams dispatched to the scene.",
+        "category": "未分类"
       }
     ]
   },
@@ -3011,8 +3081,8 @@
   },
   {
     "thread_id": "thread-scotus-allows-trump-s-ballroom-project-t",
-    "title": "Will Trump pay all US adults $5,000? Some Trump supporters are sceptical",
-    "category": "未分类",
+    "title": "How Canadians are bracing for the impact of Trump’s trade war",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260902",
@@ -3034,6 +3104,13 @@
         "headline": "Will Trump pay all US adults $5,000? Some Trump supporters are sceptical",
         "summary": "Observers on both sides of the political divide express concern about Trump s pledge to pay dividend for midterm wins.",
         "category": "未分类"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-how-canadians-bracing-impact-01",
+        "headline": "How Canadians are bracing for the impact of Trump’s trade war",
+        "summary": "Canada’s buy-local movement remains strong, but new tariffs could test how much more shoppers are willing to pay.",
+        "category": "经济与市场"
       }
     ]
   },
@@ -3270,8 +3347,8 @@
   },
   {
     "thread_id": "thread-独立电影与f1意大利大奖赛2026年相关报道概述",
-    "title": "25 years after 9/11: Al-Qaeda weakened but not gone",
-    "category": "未分类",
+    "title": "US holds memorials for the 9/11 attacks, 25 years later",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -3335,6 +3412,20 @@
         "headline": "25 years after 9/11: Al-Qaeda weakened but not gone",
         "summary": "25 years after 9/11, the terrorist group al-Qaeda is no longer the global terrorist organization it once was. Its central leadership has been weakened, but offshoots remain strong across Africa and Asia.",
         "category": "未分类"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-other-side-9-11-01",
+        "headline": "The other side of 9/11: Afghans reckon with America's long shadow",
+        "summary": "It's been nearly 25 years since the start of the U.S- led invasion of Afghanistan. NPR returns to Kabul to see how Afghans, now back under Taliban rule, are coping with the legacy of that 20 year war.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-us-holds-memorials-9-01",
+        "headline": "US holds memorials for the 9/11 attacks, 25 years later",
+        "summary": "In New York, Virginia and Pennsylvania, mourners gathered to remember nearly 3,000 people killed during the hijackings.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -4054,7 +4145,7 @@
   },
   {
     "thread_id": "thread-india-rejects-hague-arbitration-ruling-o",
-    "title": "India rejects Hague ruling on Indus waters: What's next",
+    "title": "Can BRICS help reshape global order by strengthening emerging economies",
     "category": "国际政治",
     "events": [
       {
@@ -4069,6 +4160,13 @@
         "event_cluster_id": "20260902-india-rejects-hague-ruling-01",
         "headline": "India rejects Hague ruling on Indus waters: What's next",
         "summary": "By rejecting an international arbitration panel's ruling, New Delhi has cast fresh doubt on the future of the 1960 Indus Waters Treaty.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-brics-help-reshape-global-01",
+        "headline": "Can BRICS help reshape global order by strengthening emerging economies",
+        "summary": "Leaders of BRICS member states are meeting at a summit in New Delhi, India.",
         "category": "国际政治"
       }
     ]
@@ -4215,7 +4313,7 @@
   },
   {
     "thread_id": "thread-south-african-airline-cancels-flyby-amid",
-    "title": "African Parks: when conservation becomes a question of power",
+    "title": "Six Nigerians accused of romance scams to be extradited to the US",
     "category": "未分类",
     "events": [
       {
@@ -4230,6 +4328,13 @@
         "event_cluster_id": "20260911-african-parks-when-conservation-01",
         "headline": "African Parks: when conservation becomes a question of power",
         "summary": "African Parks is dedicated to protecting wildlife on the continent across some vast areas. But the organization faces allegations of human rights abuses by rangers. Now Prince Harry is stepping down from its board.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-six-nigerians-accused-romance-01",
+        "headline": "Six Nigerians accused of romance scams to be extradited to the US",
+        "summary": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
         "category": "未分类"
       }
     ]
@@ -4404,8 +4509,8 @@
   },
   {
     "thread_id": "thread-nyc-mayor-mamdani-bans-ai-use-for-younge",
-    "title": "NYC Mayor Mamdani bans AI use for younger students while launching literacy programs for high schoolers",
-    "category": "社会与公共政策",
+    "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+    "category": "科技与AI",
     "events": [
       {
         "date": "20260904",
@@ -4413,6 +4518,13 @@
         "headline": "NYC Mayor Mamdani bans AI use for younger students while launching literacy programs for high schoolers",
         "summary": "New York City Mayor Mamdani announced a ban on generative AI tools for elementary and middle school students for the current school year. High school students will instead receive AI literacy classes and supervised pilot programs. A separate report indicates that the Los Angeles Unified School District (LAUSD) also moved to restrict AI in schools, though the school board did not formally approve t",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-anthropic-blocks-possible-attempt-01",
+        "headline": "Anthropic blocks possible attempt to use AI to make biological weapons",
+        "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+        "category": "科技与AI"
       }
     ]
   },
@@ -4502,8 +4614,8 @@
   },
   {
     "thread_id": "thread-russian-drone-strike-hits-ukraine-s-sbu-",
-    "title": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
-    "category": "安全与冲突",
+    "title": "How Ukraine’s Judgment Became Norway’s Weapon Against Russia In Svalbard",
+    "category": "未分类",
     "events": [
       {
         "date": "20260905",
@@ -4518,6 +4630,13 @@
         "headline": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
         "summary": "Firefighters at the site of a Russian missile attack, in Kyiv, Ukraine, on Tuesday. By early Tuesday morning, waves of Russian ballistic and cruise missiles were once again headed toward Kyiv.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-how-ukraine-s-judgment-01",
+        "headline": "How Ukraine’s Judgment Became Norway’s Weapon Against Russia In Svalbard",
+        "summary": "Norway seized a Russian ship in to enforce Ukraine's $4.22B judgment. Ukraine's lawfare campaign puts Russian global assets at risk and bolsters Norway's sovereignty.",
+        "category": "未分类"
       }
     ]
   },
@@ -4635,8 +4754,8 @@
   },
   {
     "thread_id": "thread-haitian-caregivers-face-job-loss-in-u-s-",
-    "title": "Haitian Caregivers Face Job Loss in U.S. Home-Care Sector",
-    "category": "社会与公共政策",
+    "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+    "category": "未分类",
     "events": [
       {
         "date": "20260906",
@@ -4644,6 +4763,13 @@
         "headline": "Haitian Caregivers Face Job Loss in U.S. Home-Care Sector",
         "summary": "Haitian immigrants constitute a significant share of the U.S. home-care workforce, which is described as overburdened. Families who relied on Haitian caregivers express uncertainty after these workers were let go. The event centers on the impact of caregiver job losses on households dependent on in-home care services. Two CNN articles about home equity loans appear unrelated to this topic and prov",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-arrest-made-death-black-01",
+        "headline": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+        "summary": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
+        "category": "未分类"
       }
     ]
   },
@@ -4817,7 +4943,7 @@
   },
   {
     "thread_id": "thread-thousands-turn-out-in-serbia-for-funeral",
-    "title": "'I'll never trust them again': Some Afghans who helped the U.S. post-9/11 regret it",
+    "title": "Former top US diplomat reveals mistakes made after 9/11 attacks",
     "category": "安全与冲突",
     "events": [
       {
@@ -4832,6 +4958,20 @@
         "event_cluster_id": "20260911-i-ll-never-trust-01",
         "headline": "'I'll never trust them again': Some Afghans who helped the U.S. post-9/11 regret it",
         "summary": "Soon after the Sept. 11 attacks, the U.S. launched what would become a 20-year war in Afghanistan. Some Afghans who helped the U.S. prosecute that war regret it.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-somber-tributes-us-marks-01",
+        "headline": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
+        "summary": "Families are remembering the loved ones they lost in the September 11, 2001 attacks on the US.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-former-top-us-diplomat-01",
+        "headline": "Former top US diplomat reveals mistakes made after 9/11 attacks",
+        "summary": "Ambassador Zalmay Khalilzad describes misgivings about the US handling of the Afghanistan and Iraq wars.",
         "category": "安全与冲突"
       }
     ]
@@ -4880,8 +5020,8 @@
   },
   {
     "thread_id": "thread-eiffel-tower-shut-by-staff-protest-after",
-    "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
-    "category": "社会与公共政策",
+    "title": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260908",
@@ -4889,6 +5029,13 @@
         "headline": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
         "summary": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-buddhist-monk-arrested-suspected-01",
+        "headline": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed",
+        "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
+        "category": "文化体育"
       }
     ]
   },
@@ -4999,8 +5146,8 @@
   },
   {
     "thread_id": "thread-mamdani-releases-records-on-toxic-air-in",
-    "title": "Mamdani releases records on toxic air in New York after 9/11 attacks",
-    "category": "安全与冲突",
+    "title": "Brother of Muslim police cadet killed in 9/11 'disappointed' by calls for Mamdani to sit out memorial",
+    "category": "未分类",
     "events": [
       {
         "date": "20260909",
@@ -5008,6 +5155,20 @@
         "headline": "Mamdani releases records on toxic air in New York after 9/11 attacks",
         "summary": "The New York City mayor said the document release shows victims were lied to about health impacts from the attacks.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-zohran-mamdani-commemorates-9-01",
+        "headline": "Zohran Mamdani commemorates 9/11 amid widespread criticism",
+        "summary": "NYC Mayor Zohran Mamdani commemorated the 25th anniversary of 9/11, calling it the “darkest day” in the city s history.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-brother-muslim-police-cadet-01",
+        "headline": "Brother of Muslim police cadet killed in 9/11 'disappointed' by calls for Mamdani to sit out memorial",
+        "summary": "Zeshan Hamdani speaks out after push back against New York Mayor Zohran Mamdani, who is Muslim, attending 9/11 events.",
+        "category": "未分类"
       }
     ]
   },
@@ -5160,8 +5321,8 @@
   },
   {
     "thread_id": "thread-burnham-defends-uk-ban-on-israeli-settle",
-    "title": "Burnham defends UK ban on Israeli settlement trade",
-    "category": "经济与市场",
+    "title": "Declassified documents show UK aware of Israeli war crimes for 24 years",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260910",
@@ -5169,6 +5330,13 @@
         "headline": "Burnham defends UK ban on Israeli settlement trade",
         "summary": "UK Prime Minister Andy Burnham defended a ban on trade with Israeli settlements in the occupied West Bank",
         "category": "经济与市场"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-declassified-documents-show-uk-01",
+        "headline": "Declassified documents show UK aware of Israeli war crimes for 24 years",
+        "summary": "UK Foreign Office files, public since 2024, record warnings about Israeli violence and rights abuses since 2002.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -5286,8 +5454,8 @@
   },
   {
     "thread_id": "thread-lg-defends-smart-tv-features-amid-audio-",
-    "title": "LG defends smart-TV features amid audio surveillance allegations",
-    "category": "经济与市场",
+    "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260911",
@@ -5295,6 +5463,83 @@
         "headline": "LG defends smart-TV features amid audio surveillance allegations",
         "summary": "Recent accusations against the electronics company have raised new questions about the nonconsensual data it harvests.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-what-watch-weekend-shows-01",
+        "headline": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+        "summary": "Looking for something new to stream this weekend? Here’s every major new movie and show hitting Netflix, Hulu, Prime Video, Apple TV and more.",
+        "category": "文化体育"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-dell-shares-hit-all-time-high-as-michael",
+    "title": "Dell Shares Hit All-Time High As Michael Dell And Jeff Bezos Jockey For Third-Wealthiest Billionaire",
+    "category": "经济与市场",
+    "events": [
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-dell-shares-hit-all-01",
+        "headline": "Dell Shares Hit All-Time High As Michael Dell And Jeff Bezos Jockey For Third-Wealthiest Billionaire",
+        "summary": "Michael Dell has surged on Forbes’ real-time billionaires list as Dell shares have rocketed on the AI boom.",
+        "category": "经济与市场"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-houthi-advance-in-yemen-is-about-more-th",
+    "title": "Houthi advance in Yemen is about more than just the Red Sea",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-houthi-advance-yemen-about-01",
+        "headline": "Houthi advance in Yemen is about more than just the Red Sea",
+        "summary": "Houthis were already able to disrupt shipping - their advance consolidates that power, and exposes government weakness.",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-philippines-ferry-fire-search-continues-",
+    "title": "Philippines ferry fire: Search continues for dozens missing",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-philippines-ferry-fire-search-01",
+        "headline": "Philippines ferry fire: Search continues for dozens missing",
+        "summary": "Firefighters searching for survivors combed through the smoking remains of a ferry off the coast of Coron island in the Philippines. Dozens of people have died, and more than 40 have been rescued.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-15m-fund-launched-to-create-unstoppable-",
+    "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-15m-fund-launched-create-01",
+        "headline": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
+        "summary": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally Frontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide , have welcomed an unprecedented $15.5m (£11.4m) fund aimed at creating “unstoppable momentum” to finally end the practice. The launch of the fund comes as women’s right",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-us-legislators-push-ai-safety-laws-amid-",
+    "title": "US legislators push AI safety laws amid human extinction warnings",
+    "category": "科技与AI",
+    "events": [
+      {
+        "date": "20260912",
+        "event_cluster_id": "20260912-us-legislators-push-ai-01",
+        "headline": "US legislators push AI safety laws amid human extinction warnings",
+        "summary": "Concerns over AI s dangers grow as US legislators introduce bills to ensure human oversight and prevent rogue systems.",
+        "category": "科技与AI"
       }
     ]
   }
