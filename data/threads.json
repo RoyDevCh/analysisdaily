@@ -29,8 +29,8 @@
   },
   {
     "thread_id": "thread-nearly-200-nations-agree-to-phase-down-c",
-    "title": "Nearly 200 Nations Agree to Phase Down Coal Use by 2035",
-    "category": "气候与环境",
+    "title": "Turn Your Rising Home Equity Into Cash You Can Use",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -52,6 +52,13 @@
         "headline": "Nearly 200 Nations Agree to Phase Down Coal Use by 2035",
         "summary": "Nearly 200 countries signed a climate pact on Tuesday to phase down coal use by 2035. The agreement followed two weeks of negotiations. The deal establishes a timeline and specific targets for reducing emissions. Both sources report the same deadline and participant count.",
         "category": "气候与环境"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-turn-your-rising-home-01",
+        "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
+        "summary": "Are there everyday activities that you can turn into a walk?",
+        "category": "未分类"
       }
     ]
   },
@@ -253,7 +260,7 @@
   },
   {
     "thread_id": "thread-bus-crash-in-egypt-s-south-sinai-kills-a",
-    "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
+    "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
     "category": "安全与冲突",
     "events": [
       {
@@ -317,6 +324,27 @@
         "event_cluster_id": "20260912-iran-war-live-houthis-01",
         "headline": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
         "summary": "Houthi forces seize Yemen s Red Sea coast while Saudi Arabia suspends crucial oil pipeline following drone attack.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-saudi-arabia-shuts-key-01",
+        "headline": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+        "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-yemen-s-houthis-capture-01",
+        "headline": "Yemen's Houthis capture a Red Sea island in threat to shipping",
+        "summary": "Iranian-backed Houthi rebels in Yemen have captured a strategic island in the Bab el-Mandeb Strait. The move threatens Saudi oil exports through a key commercial lane. And Saudi Arabia said it shut down a major oil pipeline as a precaution after it came under attack. (Image credit: STR)",
+        "category": "未分类"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-iran-war-live-saudi-01",
+        "headline": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
+        "summary": "Houthis accuse Saudi Arabia of launching 129 strikes in 48 hours as fears grow over impact on Riyadh’s oil industry.",
         "category": "安全与冲突"
       }
     ]
@@ -666,8 +694,8 @@
   },
   {
     "thread_id": "thread-zelensky-says-airlines-should-avoid-russ",
-    "title": "Why North Korea's Kim Jong Un doesn't need a US deal",
-    "category": "未分类",
+    "title": "US President Donald Trump's trip to Ireland to watch a golf tournament has also included meetings with leaders there.",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -801,6 +829,13 @@
         "headline": "Why North Korea's Kim Jong Un doesn't need a US deal",
         "summary": "Donald Trump's overtures to North Korea's dictator have gone nowhere, with an emboldened Pyongyang accelerating its nuclear program and solidifying alliances with Russia and China.",
         "category": "未分类"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-trump-visits-ireland-unification-01",
+        "headline": "US President Donald Trump's trip to Ireland to watch a golf tournament has also included meetings with leaders there.",
+        "summary": "US President Donald Trump's trip to Ireland to watch a golf tournament has also included meetings with leaders there.",
+        "category": "国际政治"
       }
     ]
   },
@@ -1226,7 +1261,7 @@
   },
   {
     "thread_id": "thread-imprisoned-in-spain-james-fergie-chamber",
-    "title": "Germany’s Goethe-Institut is closing in Russia. Russians tell DW how canceled exams are upending their plans",
+    "title": "Tens of thousands march across Germany to protest far-right party AfD",
     "category": "未分类",
     "events": [
       {
@@ -1333,13 +1368,20 @@
         "headline": "Germany’s Goethe-Institut is closing in Russia. Russians tell DW how canceled exams are upending their plans",
         "summary": "Canceled language exams, disrupted plans to study in Germany and the disappearance of an important cultural link: DW users shared how the closure of Germany's Goethe-Institut in Russia affects their lives.",
         "category": "未分类"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-tens-thousands-march-across-01",
+        "headline": "Tens of thousands march across Germany to protest far-right party AfD",
+        "summary": "Protesters in about 20 cities, including Berlin, Hamburg and Munich, demand the banning of the Alternative for Germany.",
+        "category": "未分类"
       }
     ]
   },
   {
     "thread_id": "thread-we-had-an-ordinary-life-iran-fisherwoman",
-    "title": "‘We had an ordinary life’: Iran fisherwoman navigates uncertainty of war",
-    "category": "安全与冲突",
+    "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -1361,6 +1403,13 @@
         "headline": "‘We had an ordinary life’: Iran fisherwoman navigates uncertainty of war",
         "summary": "An Iranian fisherwoman explains how her idyllic seaside life was shattered when the US and Israel began their bombing.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-iran-uae-hold-first-01",
+        "headline": "Iran, UAE hold first talks at BRICS summit since conflict began",
+        "summary": "Iran’s President has met Abu Dhabi’s Crown Prince at the BRICS summit for their highest-level talks since the war began.",
+        "category": "国际政治"
       }
     ]
   },
@@ -1478,8 +1527,8 @@
   },
   {
     "thread_id": "thread-faster-homework-poor-exam-results-what-a",
-    "title": "Colombia to Start Aerial Spraying of Coca Crops Despite Health Worries",
-    "category": "社会与公共政策",
+    "title": "Dream Big with a Home Equity Loan",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -1522,6 +1571,13 @@
         "headline": "Colombia to Start Aerial Spraying of Coca Crops Despite Health Worries",
         "summary": "An airplane spraying coca plants in El Catatumbo, a region in the Norte de Santander department of Colombia, in 2008.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-dream-big-home-equity-01",
+        "headline": "Dream Big with a Home Equity Loan",
+        "summary": "Antonia Hylton and her crew were reporting from Texas' remote Big Bend region for the debut of \"The Assignment\" when their Jeep Wagoneer bottomed out.",
+        "category": "未分类"
       }
     ]
   },
@@ -2241,7 +2297,7 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-tiger-woods-and-bmw",
-    "title": "State supreme court fined the attorney and held him in contempt for not verifying facts in a court filing.",
+    "title": "Afghan woman deported in first use of US Alien Terrorist Removal Court",
     "category": "社会与公共政策",
     "events": [
       {
@@ -2299,12 +2355,19 @@
         "headline": "State supreme court fined the attorney and held him in contempt for not verifying facts in a court filing.",
         "summary": "State supreme court fined the attorney and held him in contempt for not verifying facts in a court filing.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-afghan-woman-deported-first-01",
+        "headline": "Afghan woman deported in first use of US Alien Terrorist Removal Court",
+        "summary": "Court was created in 1996, but had never been used before Nazira Haji Zada’s case.",
+        "category": "社会与公共政策"
       }
     ]
   },
   {
     "thread_id": "thread-guinea-bissau-voters-approve-new-constit",
-    "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+    "title": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
     "category": "经济与市场",
     "events": [
       {
@@ -2368,6 +2431,13 @@
         "event_cluster_id": "20260910-land-limbo-bbc-visits-01",
         "headline": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
         "summary": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
+        "category": "经济与市场"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-secret-quest-preserve-palestinian-01",
+        "headline": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
+        "summary": "Leading Palestinian writer Raja Shehadeh has documented Israel's occupation of the West Bank since day one. Fearing the occupation might consume his archive, he secretly moved it to Scotland (Image credit: Yazeed Abu Khdeir)",
         "category": "经济与市场"
       }
     ]
@@ -3431,8 +3501,8 @@
   },
   {
     "thread_id": "thread-马达加斯加前参议院主席因镇压z世代抗议被判强迫劳动-丹麦农民因化肥限令抗议",
-    "title": "Colombian President De La Espriella Posts Video Posing With Bodies Labeled as Guerrillas",
-    "category": "国际政治",
+    "title": "Mbappe double helps Real Madrid thump Rayo Vallecano 4–1 in La Liga",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -3468,6 +3538,13 @@
         "headline": "Colombian President De La Espriella Posts Video Posing With Bodies Labeled as Guerrillas",
         "summary": "Colombian President Abelardo De La Espriella posted a video on social media on Thursday showing himself walking among rows of white body bags containing the remains of 23 individuals he described as \"neutralised\" guerrillas. De La Espriella took office last month and had pledged an \"all-out war\" against illegal armed groups. The footage drew criticism in The Guardian's reporting, which characteriz",
         "category": "国际政治"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-mbappe-double-helps-real-01",
+        "headline": "Mbappe double helps Real Madrid thump Rayo Vallecano 4–1 in La Liga",
+        "summary": "Goals from Bellingham and Carreras ease pressure on Madrid manager Mourinho after they lost their last league game.",
+        "category": "文化体育"
       }
     ]
   },
@@ -3487,8 +3564,8 @@
   },
   {
     "thread_id": "thread-nigeria-anti-corruption-agency-dismisses",
-    "title": "Suspected smugglers on trial over deadliest migrant tragedy in France",
-    "category": "社会与公共政策",
+    "title": "USA edge Spain to book Women’s Basketball World Cup final against France",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -3517,6 +3594,13 @@
         "headline": "Suspected smugglers on trial over deadliest migrant tragedy in France",
         "summary": "Paris trial begins over deadly Channel tragedy, with 14 facing charges for manslaughter.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-usa-edge-spain-book-01",
+        "headline": "USA edge Spain to book Women’s Basketball World Cup final against France",
+        "summary": "USA emerged 76-66 winners in a tense semifinal after Gabby Williams-led France powered past hosts Germany 86-64.",
+        "category": "未分类"
       }
     ]
   },
@@ -4145,7 +4229,7 @@
   },
   {
     "thread_id": "thread-india-rejects-hague-arbitration-ruling-o",
-    "title": "Can BRICS help reshape global order by strengthening emerging economies",
+    "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
     "category": "国际政治",
     "events": [
       {
@@ -4167,6 +4251,13 @@
         "event_cluster_id": "20260912-brics-help-reshape-global-01",
         "headline": "Can BRICS help reshape global order by strengthening emerging economies",
         "summary": "Leaders of BRICS member states are meeting at a summit in New Delhi, India.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-brics-leaders-meet-india-01",
+        "headline": "BRICS leaders meet in India as wars and US tensions test the bloc",
+        "summary": "Indian Prime Minister Narendra Modi hosts Russian President Vladimir Putin, Chinese President Xi Jinping and other leaders of the BRICS nations for a summit on trade, investment, and global conflicts. (Image credit: Indian Foreign Ministry via AP)",
         "category": "国际政治"
       }
     ]
@@ -4390,8 +4481,8 @@
   },
   {
     "thread_id": "thread-ice-agent-faces-federal-charges-for-lyin",
-    "title": "NFL Giants cornerback Greg Newsome II prepares for season opener against Cowboys",
-    "category": "文化体育",
+    "title": "Arteta seethes at Sunderland penalty decision despite Arsenal win",
+    "category": "未分类",
     "events": [
       {
         "date": "20260904",
@@ -4406,6 +4497,13 @@
         "headline": "NFL Giants cornerback Greg Newsome II prepares for season opener against Cowboys",
         "summary": "New York Giants cornerback Greg Newsome II stated that the Giants have \"the best cornerback room in the league\" ahead of the September 13 season opener against the Dallas Cowboys. The Cowboys feature a receiving tandem of CeeDee Lamb and George Pickens, who combined for 2,500 receiving yards. Newsome faces the challenge of containing this pairing to validate his claim. The other sources in the col",
         "category": "文化体育"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-arteta-seethes-sunderland-penalty-01",
+        "headline": "Arteta seethes at Sunderland penalty decision despite Arsenal win",
+        "summary": "Arsenal maintain perfect start to the season with their fourth win, thanks to goals from Guimaraes and Saka.",
+        "category": "未分类"
       }
     ]
   },
@@ -4530,8 +4628,8 @@
   },
   {
     "thread_id": "thread-focus-features-may-submit-obsession-as-c",
-    "title": "Naughty Dog distances itself from upcoming HBO series 'The Last of Us' season 3",
-    "category": "文化体育",
+    "title": "Good And Bad News About The ‘Pluribus’ Season 2 Release Date",
+    "category": "未分类",
     "events": [
       {
         "date": "20260904",
@@ -4546,6 +4644,13 @@
         "headline": "Naughty Dog distances itself from upcoming HBO series 'The Last of Us' season 3",
         "summary": "HBO is developing a third season of 'The Last of Us' television series. Game developer Naughty Dog and its co-president Neil Druckmann have publicly stated they are not involved with the new season. No release date or production timeline for season 3 was reported in the available sources. The provided sources do not overlap in subject matter beyond this shared event; the New York Post article cove",
         "category": "文化体育"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-good-bad-about-pluribus-01",
+        "headline": "Good And Bad News About The ‘Pluribus’ Season 2 Release Date",
+        "summary": "There's a new update on the 'Pluribus' season 2 release date, due to some news from Vince Gilligan. There's good and bad news.",
+        "category": "未分类"
       }
     ]
   },
@@ -4978,7 +5083,7 @@
   },
   {
     "thread_id": "thread-how-725-game-show-winnings-kick-started-",
-    "title": "Aryna Sabalenka Now One Victory From A Three-Peat At U.S. Open",
+    "title": "Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final",
     "category": "未分类",
     "events": [
       {
@@ -5000,6 +5105,13 @@
         "event_cluster_id": "20260911-aryna-sabalenka-now-one-01",
         "headline": "Aryna Sabalenka Now One Victory From A Three-Peat At U.S. Open",
         "summary": "It marked the third straight year the two women have squared off in Flushing Meadows.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-elena-rybakina-defeats-aryna-01",
+        "headline": "Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final",
+        "summary": "The cool Kazakh lifts the trophy after frustrating Sabalenka in a 6-4, 5-7, 6-2 win in New York as the new world No 1.",
         "category": "未分类"
       }
     ]
@@ -5209,7 +5321,7 @@
   },
   {
     "thread_id": "thread-saudi-arabia-vows-to-respond-after-houth",
-    "title": "Maduro’s wife seeks home detention as heart condition worsens in US custody",
+    "title": "Fire at nursing home in Chile kills 16 elderly residents",
     "category": "未分类",
     "events": [
       {
@@ -5224,6 +5336,13 @@
         "event_cluster_id": "20260911-maduro-s-wife-seeks-01",
         "headline": "Maduro’s wife seeks home detention as heart condition worsens in US custody",
         "summary": "Her lawyers say Flores needs cardiac treatment and recovery facilities a detention centre cannot provide.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-fire-nursing-home-chile-01",
+        "headline": "Fire at nursing home in Chile kills 16 elderly residents",
+        "summary": "The facility had faced fines and enforcement proceedings over regulatory violations since 2019.",
         "category": "未分类"
       }
     ]
@@ -5265,8 +5384,8 @@
   },
   {
     "thread_id": "thread-6-facts-about-grandparents-in-the-u-s",
-    "title": "6 facts about grandparents in the U.S.",
-    "category": "未分类",
+    "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260910",
@@ -5274,6 +5393,13 @@
         "headline": "6 facts about grandparents in the U.S.",
         "summary": "Two-thirds of U.S. adults ages 65 and older were grandparents in 2024.",
         "category": "未分类"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-grammy-winning-us-rapper-01",
+        "headline": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+        "summary": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -5356,8 +5482,8 @@
   },
   {
     "thread_id": "thread-emergency-slide-deployed-on-trump-s-qata",
-    "title": "Emergency Slide Deployed On Trump’s Qatari Jet Just Before Takeoff For ‘Check’",
-    "category": "未分类",
+    "title": "Trump says he would ‘love to see’ a united Ireland during Irish visit",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260910",
@@ -5365,6 +5491,13 @@
         "headline": "Emergency Slide Deployed On Trump’s Qatari Jet Just Before Takeoff For ‘Check’",
         "summary": "Trump is traveling to Dallas Wednesday for the GOP’s midterm convention.",
         "category": "未分类"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-trump-he-love-see-01",
+        "headline": "Trump says he would ‘love to see’ a united Ireland during Irish visit",
+        "summary": "US President Donald Trump said he would ‘love to see’ a united Ireland.",
+        "category": "国际政治"
       }
     ]
   },
@@ -5412,7 +5545,7 @@
   },
   {
     "thread_id": "thread-royal-family-rift-after-popular-tv-news-",
-    "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+    "title": "Uganda's King Oyo buried amid calls for unity over his successor",
     "category": "未分类",
     "events": [
       {
@@ -5420,6 +5553,13 @@
         "event_cluster_id": "20260911-royal-family-rift-popular-01",
         "headline": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
         "summary": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-uganda-s-king-oyo-01",
+        "headline": "Uganda's King Oyo buried amid calls for unity over his successor",
+        "summary": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
         "category": "未分类"
       }
     ]
@@ -5489,8 +5629,8 @@
   },
   {
     "thread_id": "thread-houthi-advance-in-yemen-is-about-more-th",
-    "title": "Houthi advance in Yemen is about more than just the Red Sea",
-    "category": "国际政治",
+    "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260912",
@@ -5498,12 +5638,19 @@
         "headline": "Houthi advance in Yemen is about more than just the Red Sea",
         "summary": "Houthis were already able to disrupt shipping - their advance consolidates that power, and exposes government weakness.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-houthi-advances-yemen-give-01",
+        "headline": "Will Houthi advances in Yemen give Iran leverage in its war with the US",
+        "summary": "The Iranian ally seizes Yemen s Red Sea coast, cementing their hold on the Bab al-Mandeb strait.",
+        "category": "安全与冲突"
       }
     ]
   },
   {
     "thread_id": "thread-philippines-ferry-fire-search-continues-",
-    "title": "Philippines ferry fire: Search continues for dozens missing",
+    "title": "Death toll from Philippine ferry fire rises to 76",
     "category": "未分类",
     "events": [
       {
@@ -5511,6 +5658,13 @@
         "event_cluster_id": "20260912-philippines-ferry-fire-search-01",
         "headline": "Philippines ferry fire: Search continues for dozens missing",
         "summary": "Firefighters searching for survivors combed through the smoking remains of a ferry off the coast of Coron island in the Philippines. Dozens of people have died, and more than 40 have been rescued.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-death-toll-philippine-ferry-01",
+        "headline": "Death toll from Philippine ferry fire rises to 76",
+        "summary": "The Philippine Coast Guard says 41 more bodies have been recovered from the M/V June Aster, with 13 people still missing",
         "category": "未分类"
       }
     ]
@@ -5531,7 +5685,7 @@
   },
   {
     "thread_id": "thread-us-legislators-push-ai-safety-laws-amid-",
-    "title": "US legislators push AI safety laws amid human extinction warnings",
+    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
     "category": "科技与AI",
     "events": [
       {
@@ -5540,6 +5694,55 @@
         "headline": "US legislators push AI safety laws amid human extinction warnings",
         "summary": "Concerns over AI s dangers grow as US legislators introduce bills to ensure human oversight and prevent rogue systems.",
         "category": "科技与AI"
+      },
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-anthropic-boss-dario-amodei-01",
+        "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
+        "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+        "category": "科技与AI"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-best-friends-for-decades-until-a-dna-tes",
+    "title": "Best friends for decades - until a DNA test revealed they were sisters",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-best-friends-decades-until-01",
+        "headline": "Best friends for decades - until a DNA test revealed they were sisters",
+        "summary": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-six-nigerians-extradited-to-us-over-6m-o",
+    "title": "Six Nigerians extradited to US over $6m online romance scam",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-six-nigerians-extradited-us-01",
+        "headline": "Six Nigerians extradited to US over $6m online romance scam",
+        "summary": "Alleged members of Black Axe criminal network that swindled US women out of $6m flown from South Africa Six Nigerian nationals linked to an organized criminal network that allegedly swindled American women out of more than $6m through online romance scams were extradited to the United States on Friday. South African police confirmed they were to be extradited earlier on Friday, while local news in",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-alexander-zverev-vs-ben-shelton-us-open-",
+    "title": "Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260913",
+        "event_cluster_id": "20260913-alexander-zverev-vs-ben-01",
+        "headline": "Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know",
+        "summary": "Ben Shelton faces Alexander Zverev in the US final, hoping to end a 23-year drought in Grand Slams for American men.",
+        "category": "未分类"
       }
     ]
   }
