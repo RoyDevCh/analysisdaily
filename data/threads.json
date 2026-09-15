@@ -64,8 +64,8 @@
   },
   {
     "thread_id": "thread-germany-says-russia-preparing-hybrid-att",
-    "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-    "category": "安全与冲突",
+    "title": "Ukraine, Russia set for new round of US-mediated talks",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -87,6 +87,20 @@
         "headline": "Two die at Moldovan border as Russia-Ukraine drone war rages",
         "summary": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-eu-leaders-urge-unity-01",
+        "headline": "EU leaders urge unity after Russian strike on train",
+        "summary": "Russia's drone attack on a train near the Ukraine-Poland border has triggered EU calls to up support for Kyiv. Allies of Ukraine should show they \"are not scared,\" said the bloc's top diplomat, Kaja Kallas.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-ukraine-russia-set-round-01",
+        "headline": "Ukraine, Russia set for new round of US-mediated talks",
+        "summary": "New trilateral talks between Ukraine, Russia and the US could begin in October, according to Kyiv and Moscow. Few expect a breakthrough, but Ukraine is seeking a partial de-escalation to help it get through the winter.",
+        "category": "未分类"
       }
     ]
   },
@@ -260,7 +274,7 @@
   },
   {
     "thread_id": "thread-bus-crash-in-egypt-s-south-sinai-kills-a",
-    "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
+    "title": "Trump says he will consider releasing more 9/11 records after families’ request",
     "category": "安全与冲突",
     "events": [
       {
@@ -345,6 +359,13 @@
         "event_cluster_id": "20260913-iran-war-live-saudi-01",
         "headline": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
         "summary": "Houthis accuse Saudi Arabia of launching 129 strikes in 48 hours as fears grow over impact on Riyadh’s oil industry.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-trump-he-consider-releasing-01",
+        "headline": "Trump says he will consider releasing more 9/11 records after families’ request",
+        "summary": "Families have asked Trump to declassify records that could shed light on Saudi Arabia’s alleged role in the 2001 attacks Donald Trump said on Sunday that he will look into requests from families of 9/11 victims to release records that could shed light on Saudi Arabia’s alleged role in the attacks 25 years ago. Several families have long alleged that a group of extremist religious leaders in Saudi ",
         "category": "安全与冲突"
       }
     ]
@@ -694,7 +715,7 @@
   },
   {
     "thread_id": "thread-zelensky-says-airlines-should-avoid-russ",
-    "title": "US President Donald Trump's trip to Ireland to watch a golf tournament has also included meetings with leaders there.",
+    "title": "Scotland, Wales and Northern Ireland join in Celtic independence push",
     "category": "国际政治",
     "events": [
       {
@@ -836,13 +857,20 @@
         "headline": "US President Donald Trump's trip to Ireland to watch a golf tournament has also included meetings with leaders there.",
         "summary": "US President Donald Trump's trip to Ireland to watch a golf tournament has also included meetings with leaders there.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-scotland-wales-northern-ireland-01",
+        "headline": "Scotland, Wales and Northern Ireland join in Celtic independence push",
+        "summary": "President Donald Trump said Saturday he would “love to see” Irish reunification.",
+        "category": "国际政治"
       }
     ]
   },
   {
     "thread_id": "thread-guinea-bissau-referendum-approves-new-co",
-    "title": "Philippines Lawmaker, Cousin of Marcos, Charged With Taking Kickbacks",
-    "category": "未分类",
+    "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -871,13 +899,20 @@
         "headline": "Philippines Lawmaker, Cousin of Marcos, Charged With Taking Kickbacks",
         "summary": "Martin Romualdez, at the House of Representatives in Manila last year.",
         "category": "未分类"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-malaysian-boy-acquitted-murder-01",
+        "headline": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+        "summary": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
+        "category": "社会与公共政策"
       }
     ]
   },
   {
     "thread_id": "thread-norway-s-new-king-haakon-viii-takes-oath",
-    "title": "Morocco's ruling coalition fractures ahead of election campaign; unrelated Alaska gubernatorial primary update",
-    "category": "other",
+    "title": "Sweden election is too close to call as far right loses ground",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -927,6 +962,13 @@
         "headline": "Morocco's ruling coalition fractures ahead of election campaign; unrelated Alaska gubernatorial primary update",
         "summary": "Two distinct articles describe unrelated political developments. Al Jazeera reports that Morocco's ruling allies are publicly turning on each other days before the official election campaign begins, with political tensions rising among Moroccans ahead of the polls. Forbes reports that Bernadette Wilson secured enough votes in Alaska's gubernatorial primary to advance to the general election and di",
         "category": "other"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-sweden-election-too-close-01",
+        "headline": "Sweden election is too close to call as far right loses ground",
+        "summary": "Opposition bloc leads in tight Swedish election with 95% counted.",
+        "category": "国际政治"
       }
     ]
   },
@@ -1079,8 +1121,8 @@
   },
   {
     "thread_id": "thread-worshippers-in-west-bank-tear-gassed-as-",
-    "title": "Hot pursuit: Man who robbed Indian bank using chilli powder arrested",
-    "category": "经济与市场",
+    "title": "Bali police investigate after Australian man and children found dead in home",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -1109,6 +1151,13 @@
         "headline": "Hot pursuit: Man who robbed Indian bank using chilli powder arrested",
         "summary": "A man posing as a customer threw chilli powder into the eyes of employees at a bank in Nagpur city, western India.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-bali-police-investigate-australian-01",
+        "headline": "Bali police investigate after Australian man and children found dead in home",
+        "summary": "Police were called after the man's wife became concerned and asked neighbours to check on her family.",
+        "category": "未分类"
       }
     ]
   },
@@ -1380,8 +1429,8 @@
   },
   {
     "thread_id": "thread-we-had-an-ordinary-life-iran-fisherwoman",
-    "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
-    "category": "国际政治",
+    "title": "Why talks in Oman between Iran and Gulf Arab states were postponed",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -1410,6 +1459,13 @@
         "headline": "Iran, UAE hold first talks at BRICS summit since conflict began",
         "summary": "Iran’s President has met Abu Dhabi’s Crown Prince at the BRICS summit for their highest-level talks since the war began.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-why-talks-oman-between-01",
+        "headline": "Why talks in Oman between Iran and Gulf Arab states were postponed",
+        "summary": "Hopes for a breakthrough on the Iran war have taken a hit after talks in Oman between Iran-Gulf nations were postponed.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -1485,8 +1541,8 @@
   },
   {
     "thread_id": "thread-how-indie-cinema-is-beating-hollywood-in",
-    "title": "Dembele, Mbappe, Kane and Yamal top Ballon d’Or shortlist",
-    "category": "未分类",
+    "title": "2026 Emmys: ‘The Pitt’s’ Noah Wyle Wins Lead Actor In A Drama Series",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -1522,6 +1578,13 @@
         "headline": "Dembele, Mbappe, Kane and Yamal top Ballon d’Or shortlist",
         "summary": "Ballon d Or Ousmane Dembele among favourites, with Kylian Mbappe, Lamine Yamal and Harry Kane, as 2026 shortlist named.",
         "category": "未分类"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-2026-emmys-pitt-s-01",
+        "headline": "2026 Emmys: ‘The Pitt’s’ Noah Wyle Wins Lead Actor In A Drama Series",
+        "summary": "Noah Wyle takes home the Emmy Award for Outstanding Lead Actor in a Drama Series — which he won also won last year.",
+        "category": "文化体育"
       }
     ]
   },
@@ -1940,8 +2003,8 @@
   },
   {
     "thread_id": "thread-us-energy-secretary-signs-oil-deal-in-ve",
-    "title": "Reflecting Pool Contractor Says Issues Were Linked To Its Own Work, Not Vandals, Report Says",
-    "category": "文化体育",
+    "title": "Africa's richest man launches continent's biggest share sale",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -1970,6 +2033,13 @@
         "headline": "Reflecting Pool Contractor Says Issues Were Linked To Its Own Work, Not Vandals, Report Says",
         "summary": "U.S. Attorney for the District of Columbia Jeanine Pirro found after an investigation last month the pool’s renovation “indicated a rushed and flawed installation process.”",
         "category": "文化体育"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-africa-s-richest-man-01",
+        "headline": "Africa's richest man launches continent's biggest share sale",
+        "summary": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
+        "category": "未分类"
       }
     ]
   },
@@ -2115,7 +2185,7 @@
   },
   {
     "thread_id": "thread-keir-starmer-announces-departure-from-pa",
-    "title": "Two separate political developments in Israel and the United Kingdom",
+    "title": "Israeli minister accuses 'NAZA' filmmakers of 'treason'",
     "category": "国际政治",
     "events": [
       {
@@ -2173,12 +2243,19 @@
         "headline": "Two separate political developments in Israel and the United Kingdom",
         "summary": "Two distinct political stories were reported: one concerning Israeli Prime Minister Benjamin Netanyahu's political situation ahead of upcoming elections, and another concerning former UK Prime Minister Keir Starmer's departure from Parliament. The New York Times article focuses on Netanyahu trailing in polls ahead of Israel's October elections and suggests Israel is seeking confrontation on multip",
         "category": "国际政治"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-israeli-minister-accuses-naza-01",
+        "headline": "Israeli minister accuses 'NAZA' filmmakers of 'treason'",
+        "summary": "Israel's culture minister wants to strip the makers of a documentary on Israel's Gaza offensive of their citizenship. He accused the two of seeking \"applause from antisemites around the world.\"",
+        "category": "国际政治"
       }
     ]
   },
   {
     "thread_id": "thread-u-s-and-iran-exchange-military-strikes",
-    "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
+    "title": "Iran war live: CENTCOM disputes IRGC claim supertanker struck by Hormuz nav",
     "category": "安全与冲突",
     "events": [
       {
@@ -2228,6 +2305,20 @@
         "event_cluster_id": "20260908-oil-prices-surge-us-01",
         "headline": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
         "summary": "Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-talks-between-iran-gulf-01",
+        "headline": "Talks between Iran and Gulf states to discuss Strait of Hormuz postponed",
+        "summary": "Iranian officials say a meeting with Gulf states to discuss the Strait of Hormuz has been postponed, dealing a blow to efforts to reopen the strait.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-iran-war-live-centcom-01",
+        "headline": "Iran war live: CENTCOM disputes IRGC claim supertanker struck by Hormuz nav",
+        "summary": "CENTCOM disputes the IRGC claim that the Panama-flagged oil tanker El Gaia hit naval mines in the Strait of Hormuz.",
         "category": "安全与冲突"
       }
     ]
@@ -2591,8 +2682,8 @@
   },
   {
     "thread_id": "thread-developments-regarding-west-bank-settlem",
-    "title": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds",
-    "category": "国际政治",
+    "title": "Israel probing Naza film on Gaza for treason, inciting anti-Semitism",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -2649,6 +2740,13 @@
         "headline": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds",
         "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-israel-probing-naza-film-01",
+        "headline": "Israel probing Naza film on Gaza for treason, inciting anti-Semitism",
+        "summary": "Film alleges mass ⁠civilian deaths routinely built into military decisions amid Israel s genocidal war on Gaza.",
+        "category": "文化体育"
       }
     ]
   },
@@ -2773,8 +2871,8 @@
   },
   {
     "thread_id": "thread-germany-attributes-leipzig-airport-drone",
-    "title": "Hungary expels 10 Russian diplomats as relations worsen",
-    "category": "国际政治",
+    "title": "Arctic power plays: EU searches for a new strategy",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -2817,6 +2915,13 @@
         "headline": "Hungary expels 10 Russian diplomats as relations worsen",
         "summary": "For years, Hungary was viewed as Russia's closest ally in the EU, but the new government has dropped the pro-Kremlin stance.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-arctic-power-plays-eu-01",
+        "headline": "Arctic power plays: EU searches for a new strategy",
+        "summary": "Russia’s aggression, Trump’s threats against Greenland and the race for critical raw materials are pushing the Arctic to the top of Europe’s agenda.",
+        "category": "未分类"
       }
     ]
   },
@@ -4117,8 +4222,8 @@
   },
   {
     "thread_id": "thread-2026年美国初选-马萨诸塞州马克伊获民主党提名-德州民主党民调微弱领先",
-    "title": "2026年美国初选：马萨诸塞州马克伊获民主党提名，德州民主党民调微弱领先",
-    "category": "社会与公共政策",
+    "title": "Macklemore cut from Ed Sheeran tour for pro-Palestine stance",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -4126,6 +4231,13 @@
         "headline": "2026年美国初选：马萨诸塞州马克伊获民主党提名，德州民主党民调微弱领先",
         "summary": "2025年9月/10月美国初选中，马萨诸塞州民主党参议员爱德·马基（Ed Markey）赢得该州民主党提名，长期在职的州议员获得选民支持。同日发布的得克萨斯州参议员竞选民调显示，民主党候选人詹姆斯·塔拉里科（James Talarico）在可能选民中以0.6个百分点的微弱优势领先丑闻缠身的共和党现任州检察长肯·帕克斯顿（Ken Paxton）。两篇报道分别聚焦不同州的初选或预选动态，反映民主党在马萨诸塞州的稳固地位与得克萨斯州竞争激烈的态势。消息源对各自州的政治走向持不同立场，但均聚焦于候选人提名与民调数字的客观呈现。",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-macklemore-cut-ed-sheeran-01",
+        "headline": "Macklemore cut from Ed Sheeran tour for pro-Palestine stance",
+        "summary": "Macklemore says he was dropped from Ed Sheeran’s US tour over his pro-Palestinian stance.",
+        "category": "未分类"
       }
     ]
   },
@@ -4264,7 +4376,7 @@
   },
   {
     "thread_id": "thread-japan-reduces-urban-speed-limits-and-see",
-    "title": "Japan's empty temples seek new ways to survive",
+    "title": "Pay to ghost your boss: Japan's resignation business",
     "category": "未分类",
     "events": [
       {
@@ -4286,6 +4398,13 @@
         "event_cluster_id": "20260909-japan-s-empty-temples-01",
         "headline": "Japan's empty temples seek new ways to survive",
         "summary": "With a declining population, shrinking congregations and growing economic pressures, temples are struggling to stay relevant. As more temples are sold or closed, is religion in decline in modern Japan?",
+        "category": "未分类"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-pay-ghost-your-boss-01",
+        "headline": "Pay to ghost your boss: Japan's resignation business",
+        "summary": "Resignation agencies in Japan help employees leave their jobs seamlessly in just 15 minutes. Young people are especially eager to use their services.",
         "category": "未分类"
       }
     ]
@@ -4404,8 +4523,8 @@
   },
   {
     "thread_id": "thread-south-african-airline-cancels-flyby-amid",
-    "title": "Six Nigerians accused of romance scams to be extradited to the US",
-    "category": "未分类",
+    "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260903",
@@ -4427,6 +4546,13 @@
         "headline": "Six Nigerians accused of romance scams to be extradited to the US",
         "summary": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
         "category": "未分类"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-immigrants-held-small-outdoor-01",
+        "headline": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+        "summary": "DHS inspectors say they found the immigration-detention centre violated basic standards for hygiene, medical care, food and safety.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -4586,7 +4712,7 @@
   },
   {
     "thread_id": "thread-ipswich-town-vs-liverpool-premier-league",
-    "title": "Mock Republican convention website tops Google, redirects to Epstein files",
+    "title": "The U.S. Constitution is among the hardest in the world to amend",
     "category": "未分类",
     "events": [
       {
@@ -4601,6 +4727,13 @@
         "event_cluster_id": "20260905-mock-republican-convention-website-01",
         "headline": "Mock Republican convention website tops Google, redirects to Epstein files",
         "summary": "Democratic lawmakers poke fun at prank website, while Republicans slam fake news and redirect users to real one.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-u-s-constitution-among-01",
+        "headline": "The U.S. Constitution is among the hardest in the world to amend",
+        "summary": "Of all 101 democratic constitutions we examined, the U.S. Constitution has the second-most onerous amendment process.",
         "category": "未分类"
       }
     ]
@@ -5083,8 +5216,8 @@
   },
   {
     "thread_id": "thread-how-725-game-show-winnings-kick-started-",
-    "title": "Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final",
-    "category": "未分类",
+    "title": "Rihanna’s Dance Bangers Climb To New Chart Peaks Together",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260908",
@@ -5113,6 +5246,13 @@
         "headline": "Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final",
         "summary": "The cool Kazakh lifts the trophy after frustrating Sabalenka in a 6-4, 5-7, 6-2 win in New York as the new world No 1.",
         "category": "未分类"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-rihanna-s-dance-bangers-01",
+        "headline": "Rihanna’s Dance Bangers Climb To New Chart Peaks Together",
+        "summary": "Rihanna’s “Don’t Stop the Music” and “S M” both reach new peaks on the Billboard Global Excl. U.S. as her catalog continues to surge worldwide.",
+        "category": "文化体育"
       }
     ]
   },
@@ -5307,8 +5447,8 @@
   },
   {
     "thread_id": "thread-british-widow-faces-deportation-from-swe",
-    "title": "British widow faces deportation from Sweden after 22 years",
-    "category": "未分类",
+    "title": "British Man Pleads Guilty to Drugging and Raping Wife Over 20 Years",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260909",
@@ -5316,6 +5456,13 @@
         "headline": "British widow faces deportation from Sweden after 22 years",
         "summary": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
         "category": "未分类"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-british-man-pleads-guilty-01",
+        "headline": "British Man Pleads Guilty to Drugging and Raping Wife Over 20 Years",
+        "summary": "Manchester Minshull Street Crown Court, in Manchester, England, where a British man stood trial on charges of drugging and raping his wife.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -5503,8 +5650,8 @@
   },
   {
     "thread_id": "thread-peter-thiel-backed-firm-to-make-low-cost",
-    "title": "Peter Thiel-backed firm to make low-cost missiles amid U.S. shortage",
-    "category": "安全与冲突",
+    "title": "Abbott Settles Baby Formula Claims For $385 Million",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260910",
@@ -5512,6 +5659,13 @@
         "headline": "Peter Thiel-backed firm to make low-cost missiles amid U.S. shortage",
         "summary": "Defense start-up Covenant said it has inked about $150 million in orders to start being delivered in 2027.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-abbott-settles-baby-formula-01",
+        "headline": "Abbott Settles Baby Formula Claims For $385 Million",
+        "summary": "Abbott will pay $385 million to settle state, federal, and civil lawsuits stemming from contamination issues at its Michigan baby formula plant in early 2022.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -5594,8 +5748,8 @@
   },
   {
     "thread_id": "thread-lg-defends-smart-tv-features-amid-audio-",
-    "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
-    "category": "文化体育",
+    "title": "Elon Musk’s X Corp and SpaceXAI drop antitrust lawsuit against Apple",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260911",
@@ -5610,6 +5764,13 @@
         "headline": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
         "summary": "Looking for something new to stream this weekend? Here’s every major new movie and show hitting Netflix, Hulu, Prime Video, Apple TV and more.",
         "category": "文化体育"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-elon-musk-s-x-01",
+        "headline": "Elon Musk’s X Corp and SpaceXAI drop antitrust lawsuit against Apple",
+        "summary": "The companies had accused Apple of favouring OpenAI’s ChatGPT over rival AI chatbots.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -5629,8 +5790,8 @@
   },
   {
     "thread_id": "thread-houthi-advance-in-yemen-is-about-more-th",
-    "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US",
-    "category": "安全与冲突",
+    "title": "Inside the Houthis’ expanding war economy in Yemen",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260912",
@@ -5645,12 +5806,19 @@
         "headline": "Will Houthi advances in Yemen give Iran leverage in its war with the US",
         "summary": "The Iranian ally seizes Yemen s Red Sea coast, cementing their hold on the Bab al-Mandeb strait.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-inside-houthis-expanding-war-01",
+        "headline": "Inside the Houthis’ expanding war economy in Yemen",
+        "summary": "The Houthis have restructured Yemen s commercial sector, securing billions in revenue amid a humanitarian crisis.",
+        "category": "经济与市场"
       }
     ]
   },
   {
     "thread_id": "thread-philippines-ferry-fire-search-continues-",
-    "title": "Death toll from Philippine ferry fire rises to 76",
+    "title": "Body of missing runner found in South Africa",
     "category": "未分类",
     "events": [
       {
@@ -5665,6 +5833,13 @@
         "event_cluster_id": "20260913-death-toll-philippine-ferry-01",
         "headline": "Death toll from Philippine ferry fire rises to 76",
         "summary": "The Philippine Coast Guard says 41 more bodies have been recovered from the M/V June Aster, with 13 people still missing",
+        "category": "未分类"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-body-missing-runner-found-01",
+        "headline": "Body of missing runner found in South Africa",
+        "summary": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
         "category": "未分类"
       }
     ]
@@ -5685,7 +5860,7 @@
   },
   {
     "thread_id": "thread-us-legislators-push-ai-safety-laws-amid-",
-    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+    "title": "Crowdstrike Skyrockets 14% As AI Fears Send Cybersecurity Stocks Surging",
     "category": "科技与AI",
     "events": [
       {
@@ -5700,6 +5875,20 @@
         "event_cluster_id": "20260913-anthropic-boss-dario-amodei-01",
         "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
         "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+        "category": "科技与AI"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-china-criticises-idea-it-01",
+        "headline": "China criticises idea it is in 'malicious competition' over AI",
+        "summary": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+        "category": "科技与AI"
+      },
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-crowdstrike-skyrockets-14-ai-01",
+        "headline": "Crowdstrike Skyrockets 14% As AI Fears Send Cybersecurity Stocks Surging",
+        "summary": "Leaders in artificial intelligence have called for a slowdown to AI development amid fears the technology could lead to human extinction.",
         "category": "科技与AI"
       }
     ]
@@ -5743,6 +5932,48 @@
         "headline": "Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know",
         "summary": "Ben Shelton faces Alexander Zverev in the US final, hoping to end a 23-year drought in Grand Slams for American men.",
         "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-taylor-swift-broke-her-longstanding-emmy",
+    "title": "Taylor Swift Broke Her Longstanding Emmy Tradition — Somewhat",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-taylor-swift-broke-her-01",
+        "headline": "Taylor Swift Broke Her Longstanding Emmy Tradition — Somewhat",
+        "summary": "Swift has never attended an Emmy Award ceremony yet. Until now.",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-construction-robots-just-took-a-giant-le",
+    "title": "Construction Robots Just Took A Giant Leap Forward: Hello Holy Grail Of Robotics",
+    "category": "科技与AI",
+    "events": [
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-construction-robots-just-took-01",
+        "headline": "Construction Robots Just Took A Giant Leap Forward: Hello Holy Grail Of Robotics",
+        "summary": "Zinova makes physical AI called \"Tool Intelligence\" for construction robots. It might just be a giant leap forward in a space where robots have generally disappointed.",
+        "category": "科技与AI"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-flash-flooding-interrupts-half-marathon-",
+    "title": "Flash flooding interrupts half-marathon, submerges cars",
+    "category": "气候与环境",
+    "events": [
+      {
+        "date": "20260915",
+        "event_cluster_id": "20260915-flash-flooding-interrupts-half-01",
+        "headline": "Flash flooding interrupts half-marathon, submerges cars",
+        "summary": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the floodwaters.",
+        "category": "气候与环境"
       }
     ]
   }
