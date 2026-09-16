@@ -435,7 +435,7 @@
   },
   {
     "thread_id": "thread-mark-carney-tells-us-to-start-being-seri",
-    "title": "Iran war: Saudi-Houthi escalation intensifies Yemen conflict",
+    "title": "The seizure of the islands of Greater and Lesser Hanish is the latest in the militant group’s swift advance across Yemen",
     "category": "安全与冲突",
     "events": [
       {
@@ -485,6 +485,20 @@
         "event_cluster_id": "20260912-iran-war-saudi-houthi-01",
         "headline": "Iran war: Saudi-Houthi escalation intensifies Yemen conflict",
         "summary": "The Houthi takeovers of Mokha, Dhubab and Perim in the Bab el-Mandeb Strait threaten to push Yemen deeper into the Middle East war. The Iran-backed group has made advances against Yemen's government and Saudi Arabia.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-saudi-arabia-faces-hard-01",
+        "headline": "Saudi Arabia faces hard choices as Houthis gain in Yemen",
+        "summary": "Saudi Arabia faces growing security and economic problems as it seeks to balance deterrence and diplomacy during its escalating conflict with the Iran-backed Houthis in neighboring Yemen.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-houthis-threaten-more-saudi-01",
+        "headline": "The seizure of the islands of Greater and Lesser Hanish is the latest in the militant group’s swift advance across Yemen",
+        "summary": "Estimated 100,000 Yemenis displaced amid renewed fighting as Qatar sounds alarm over Bab al-Mandab strait Saudi cities faced the threat of a second day of Houthi attacks as fighting across Yemen led the UN to warn of a humanitarian crisis with 100,000 Yemenis already displaced. As oil prices remained well over $100 (£74) a barrel, Qatar warned of a catastrophe if the Iran-backed Houthi militants w",
         "category": "安全与冲突"
       }
     ]
@@ -589,8 +603,8 @@
   },
   {
     "thread_id": "thread-experts-this-is-the-best-cash-back-card-",
-    "title": "Experts: this is the best cash back card of 2022",
-    "category": "未分类",
+    "title": "How Americans view the relationship between the government and the news media",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -612,13 +626,20 @@
         "headline": "Experts: this is the best cash back card of 2022",
         "summary": "The country singer's team announced the concerning news on Monday.",
         "category": "未分类"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-how-americans-view-relationship-01",
+        "headline": "How Americans view the relationship between the government and the news media",
+        "summary": "Republicans and Democrats largely agree that the Trump administration and the U.S. news media have a bad relationship.",
+        "category": "国际政治"
       }
     ]
   },
   {
     "thread_id": "thread-turn-your-rising-home-equity-into-cash-y",
-    "title": "Articles cover unrelated events: Delhi building collapse and US Open tennis match",
-    "category": "国际政治",
+    "title": "Sources Cover Unrelated Events: Chrisean Rock Boxing Debut and California Tech Company Threats",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -682,6 +703,20 @@
         "headline": "Articles cover unrelated events: Delhi building collapse and US Open tennis match",
         "summary": "Two news articles were provided but they cover unrelated events. BBC World reports that dozens of people are feared trapped after a five-storey hostel collapsed in Delhi, with as many as 50 people thought to have been inside. New York Post reports that Aryna Sabalenka defeated Taylor Townsend in Arthur Ashe Stadium, tying Serena Williams with a sixth-straight US Open quarterfinals appearance. The ",
         "category": "国际政治"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-blue-jays-92-million-01",
+        "headline": "Sources cover two unrelated events: Blue Jays player injury and Connecticut OnlyFans model tax evasion",
+        "summary": "The provided sources describe two distinct events rather than one. Forbes reports that Toronto Blue Jays outfielder Anthony Santander, signed to a $92 million contract, suffered another injury setback in his attempt to make his season debut. The New York Post reports that a Connecticut-based OnlyFans content creator from Stamford failed to pay taxes on approximately $3 million in earnings over fou",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-chrisean-rock-won-her-01",
+        "headline": "Sources Cover Unrelated Events: Chrisean Rock Boxing Debut and California Tech Company Threats",
+        "summary": "The provided sources do not cover the same event. Forbes reports that Chrisean Rock will make her professional boxing debut against Ku'Shiyah Williams on September 19 in Baltimore. The New York Post reports on threats directed at California tech companies that could force office closures. No synthesis of a single event is possible from these sources.",
+        "category": "文化体育"
       }
     ]
   },
@@ -715,8 +750,8 @@
   },
   {
     "thread_id": "thread-zelensky-says-airlines-should-avoid-russ",
-    "title": "Scotland, Wales and Northern Ireland join in Celtic independence push",
-    "category": "国际政治",
+    "title": "The Kennedy Center’s board of trustees voted to close immediately for renovations, shortly after a judge ruled the venue",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -864,6 +899,13 @@
         "headline": "Scotland, Wales and Northern Ireland join in Celtic independence push",
         "summary": "President Donald Trump said Saturday he would “love to see” Irish reunification.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-kennedy-center-closes-financial-01",
+        "headline": "The Kennedy Center’s board of trustees voted to close immediately for renovations, shortly after a judge ruled the venue",
+        "summary": "The president said renovations would not move forward unless his name was added to the building.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -1429,7 +1471,7 @@
   },
   {
     "thread_id": "thread-we-had-an-ordinary-life-iran-fisherwoman",
-    "title": "Why talks in Oman between Iran and Gulf Arab states were postponed",
+    "title": "Iran War's Price Tag Is Around $40B—Is It Worth It? Analyst Weighs In",
     "category": "安全与冲突",
     "events": [
       {
@@ -1465,6 +1507,13 @@
         "event_cluster_id": "20260915-why-talks-oman-between-01",
         "headline": "Why talks in Oman between Iran and Gulf Arab states were postponed",
         "summary": "Hopes for a breakthrough on the Iran war have taken a hit after talks in Oman between Iran-Gulf nations were postponed.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-iran-war-s-price-01",
+        "headline": "Iran War's Price Tag Is Around $40B—Is It Worth It? Analyst Weighs In",
+        "summary": "The CBO also estimated that as of Aug. 1, the war has cost the DoD around $38 billion, and that number could increase by up to $3 billion per month.",
         "category": "安全与冲突"
       }
     ]
@@ -1541,7 +1590,7 @@
   },
   {
     "thread_id": "thread-how-indie-cinema-is-beating-hollywood-in",
-    "title": "2026 Emmys: ‘The Pitt’s’ Noah Wyle Wins Lead Actor In A Drama Series",
+    "title": "Indy 500 Winner Will Be Hailed As A Hero At Celebration In Sweden",
     "category": "文化体育",
     "events": [
       {
@@ -1584,6 +1633,13 @@
         "event_cluster_id": "20260915-2026-emmys-pitt-s-01",
         "headline": "2026 Emmys: ‘The Pitt’s’ Noah Wyle Wins Lead Actor In A Drama Series",
         "summary": "Noah Wyle takes home the Emmy Award for Outstanding Lead Actor in a Drama Series — which he won also won last year.",
+        "category": "文化体育"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-indy-500-winner-hailed-01",
+        "headline": "Indy 500 Winner Will Be Hailed As A Hero At Celebration In Sweden",
+        "summary": "This year's Indianapolis 500 winner, Felix Rosenqvist, will be honored in his hometown of Värnamo, Sweden on December 5, 2026. SportsMoney has details on the celebration.",
         "category": "文化体育"
       }
     ]
@@ -2003,8 +2059,8 @@
   },
   {
     "thread_id": "thread-us-energy-secretary-signs-oil-deal-in-ve",
-    "title": "Africa's richest man launches continent's biggest share sale",
-    "category": "未分类",
+    "title": "Argentina intensifies campaign against Falklands oil companies",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -2040,6 +2096,13 @@
         "headline": "Africa's richest man launches continent's biggest share sale",
         "summary": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
         "category": "未分类"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-argentina-intensifies-campaign-against-01",
+        "headline": "Argentina intensifies campaign against Falklands oil companies",
+        "summary": "Government says new legal complaints to be filed against firms exploring for oil near the Falkland Islands.",
+        "category": "国际政治"
       }
     ]
   },
@@ -2955,8 +3018,8 @@
   },
   {
     "thread_id": "thread-u-s-military-strikes-iran",
-    "title": "US attacks 5 Iranian oil tankers, Tehran retaliates with strikes on Jordan",
-    "category": "安全与冲突",
+    "title": "Panic on board Iranian plane as violent shaking rips cabin apart",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -3027,6 +3090,13 @@
         "headline": "US attacks 5 Iranian oil tankers, Tehran retaliates with strikes on Jordan",
         "summary": "US military says it struck the five Iranian tankers after the IRGC targeted a US warship twice in two days.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-panic-board-iranian-plane-01",
+        "headline": "Panic on board Iranian plane as violent shaking rips cabin apart",
+        "summary": "A Sepehran Airlines Boeing 737 cabin rips apart after an emergency landing in Mashhad, Iran.",
+        "category": "未分类"
       }
     ]
   },
@@ -3186,8 +3256,8 @@
   },
   {
     "thread_id": "thread-impacts-of-ai-on-education-and-persuasio",
-    "title": "Pew Research Center发布关于AI说服力的研究报告",
-    "category": "科技与AI",
+    "title": "Acknowledgments",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -3251,13 +3321,20 @@
         "headline": "Pew Research Center发布关于AI说服力的研究报告",
         "summary": "Pew Research Center发布了一份关于AI说服力的研究报告。研究显示AI在说服力方面可能超过人类专家。该研究由Luis Noé-Bustamante、Ziyao Tian、Carolyne Im和Sahana Mukherjee撰写。Forbes报道了该研究的核心发现。两份来源在研究内容上基本一致，但Pew Research Center作为研究中心提供了更详细的方法论说明。",
         "category": "科技与AI"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-acknowledgments-01",
+        "headline": "Acknowledgments",
+        "summary": "This report is a collaborative effort based on the input and analysis of the following individuals. Maria Smerkovich, Research AssociateKirsten Lesage, Research AssociateJulia Armeli, Research Assistant Janakee Chavda, Associate Digital ProducerLaura Clancy, Research AnalystAlan Cooperman, Director, Religion ResearchShifra Dayak, Editorial SpecialistJonathan Evans, Senior ResearcherMoira Fagan, Se",
+        "category": "未分类"
       }
     ]
   },
   {
     "thread_id": "thread-scotus-allows-trump-s-ballroom-project-t",
-    "title": "How Canadians are bracing for the impact of Trump’s trade war",
-    "category": "经济与市场",
+    "title": "Five takeaways from Canada's push to woo the world's richest investors",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -3286,6 +3363,13 @@
         "headline": "How Canadians are bracing for the impact of Trump’s trade war",
         "summary": "Canada’s buy-local movement remains strong, but new tariffs could test how much more shoppers are willing to pay.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-five-takeaways-canada-s-01",
+        "headline": "Five takeaways from Canada's push to woo the world's richest investors",
+        "summary": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US - takeaways from the first Canada Investment Summit.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -4075,7 +4159,7 @@
   },
   {
     "thread_id": "thread-long-lines-at-fuel-stations-are-spreadin",
-    "title": "Trump administration proposes excluding certain immigrants from US census",
+    "title": "Billionaire Leon Black Should Face Contempt For Not Testifying About Epstein, House Committee Rules",
     "category": "未分类",
     "events": [
       {
@@ -4104,6 +4188,13 @@
         "event_cluster_id": "20260910-trump-administration-proposes-excluding-01",
         "headline": "Trump administration proposes excluding certain immigrants from US census",
         "summary": "The proposal aims to exclude some legal and undocumented immigrants from the count used to determine US House seats.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-billionaire-leon-black-face-01",
+        "headline": "Billionaire Leon Black Should Face Contempt For Not Testifying About Epstein, House Committee Rules",
+        "summary": "The billionaire walked out of his first interview with the House Oversight Committee, and failed to show up for his second one.",
         "category": "未分类"
       }
     ]
@@ -4222,8 +4313,8 @@
   },
   {
     "thread_id": "thread-2026年美国初选-马萨诸塞州马克伊获民主党提名-德州民主党民调微弱领先",
-    "title": "Macklemore cut from Ed Sheeran tour for pro-Palestine stance",
-    "category": "未分类",
+    "title": "Ed Sheeran blames US tour promoter for dropping Macklemore",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -4238,6 +4329,13 @@
         "headline": "Macklemore cut from Ed Sheeran tour for pro-Palestine stance",
         "summary": "Macklemore says he was dropped from Ed Sheeran’s US tour over his pro-Palestinian stance.",
         "category": "未分类"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-ed-sheeran-blames-us-01",
+        "headline": "Ed Sheeran blames US tour promoter for dropping Macklemore",
+        "summary": "The British musician said it was important to set out some facts after US rapper voiced support for Palestine.",
+        "category": "文化体育"
       }
     ]
   },
@@ -4376,7 +4474,7 @@
   },
   {
     "thread_id": "thread-japan-reduces-urban-speed-limits-and-see",
-    "title": "Pay to ghost your boss: Japan's resignation business",
+    "title": "More than 100,000 people in Japan are now aged 100 or older",
     "category": "未分类",
     "events": [
       {
@@ -4405,6 +4503,13 @@
         "event_cluster_id": "20260915-pay-ghost-your-boss-01",
         "headline": "Pay to ghost your boss: Japan's resignation business",
         "summary": "Resignation agencies in Japan help employees leave their jobs seamlessly in just 15 minutes. Young people are especially eager to use their services.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-more-than-100-000-01",
+        "headline": "More than 100,000 people in Japan are now aged 100 or older",
+        "summary": "Figures show 88% of the centenarians are women as the population continues to age and shrink.",
         "category": "未分类"
       }
     ]
@@ -4558,8 +4663,8 @@
   },
   {
     "thread_id": "thread-dara-singh-faces-potential-release-in-in",
-    "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
-    "category": "未分类",
+    "title": "Iran war increasing inflation, straining US munitions: congressional report",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260903",
@@ -4574,6 +4679,13 @@
         "headline": "Meta continues to run ads promoting child sexual abuse material in India - report",
         "summary": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
         "category": "未分类"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-iran-war-increasing-inflation-01",
+        "headline": "Iran war increasing inflation, straining US munitions: congressional report",
+        "summary": "Report by nonpartisan research body finds that replenishing depleted munitions stockpiles could take up to five years.",
+        "category": "经济与市场"
       }
     ]
   },
@@ -4607,8 +4719,8 @@
   },
   {
     "thread_id": "thread-ice-agent-faces-federal-charges-for-lyin",
-    "title": "Arteta seethes at Sunderland penalty decision despite Arsenal win",
-    "category": "未分类",
+    "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260904",
@@ -4630,6 +4742,13 @@
         "headline": "Arteta seethes at Sunderland penalty decision despite Arsenal win",
         "summary": "Arsenal maintain perfect start to the season with their fourth win, thanks to goals from Guimaraes and Saka.",
         "category": "未分类"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-welsh-actor-matthew-rhys-01",
+        "headline": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
+        "summary": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -4922,8 +5041,8 @@
   },
   {
     "thread_id": "thread-nigel-farage-heckled-at-reform-uk-confer",
-    "title": "Ethiopia's constitutional reform: What does it mean — especially for Abiy",
-    "category": "国际政治",
+    "title": "Denmark says Russian warship fired flares at military helicopter",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260905",
@@ -4938,6 +5057,13 @@
         "headline": "Ethiopia's constitutional reform: What does it mean — especially for Abiy",
         "summary": "Does Ethiopian Prime Minister Abiy Ahmed stand to benefit from a planned constitutional reform in the country? A new presidential system would reshape political power — and could give him even more power in office.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-denmark-russian-warship-fired-01",
+        "headline": "Denmark says Russian warship fired flares at military helicopter",
+        "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -5125,8 +5251,8 @@
   },
   {
     "thread_id": "thread-anak-krakatau-eruptions-disrupt-flights-",
-    "title": "Anak Krakatau eruptions disrupt flights at eight Indonesian airports",
-    "category": "安全与冲突",
+    "title": "Ash from Mount Etna grounds flights at Sicily airport",
+    "category": "未分类",
     "events": [
       {
         "date": "20260907",
@@ -5134,12 +5260,19 @@
         "headline": "Anak Krakatau eruptions disrupt flights at eight Indonesian airports",
         "summary": "Two new eruptions were recorded on Sunday at Indonesia's Anak Krakatau volcano, following Saturday's eruption that produced lava and sounds audible up to 700km away. Indonesia halted operations at eight airports, including Jakarta's main international hub, affecting hundreds of flights. The ash cloud also disrupted some school activities and fishing operations. Both sources confirm the flight disr",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-ash-mount-etna-grounds-01",
+        "headline": "Ash from Mount Etna grounds flights at Sicily airport",
+        "summary": "All flights are suspended from one of Italy's busiest airports until Tuesday night.",
+        "category": "未分类"
       }
     ]
   },
   {
     "thread_id": "thread-european-industry-group-warns-of-300-000",
-    "title": "European industry group warns of 300,000 manufacturing job losses due to Chinese competition",
+    "title": "US Senate crypto bill collapses in blow to industry",
     "category": "经济与市场",
     "events": [
       {
@@ -5147,6 +5280,13 @@
         "event_cluster_id": "20260907-eu-faces-300-000-01",
         "headline": "European industry group warns of 300,000 manufacturing job losses due to Chinese competition",
         "summary": "Eurometal, a European industry trade body, warned that the EU could face 300,000 manufacturing job losses in the remainder of 2026 unless Brussels addresses what it described as the colonisation of industry by Chinese component manufacturers. The organisation cited China's record trade surplus of €1 billion per day with the EU and planned protests in Brussels involving 10 coffins symbolising strug",
+        "category": "经济与市场"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-us-senate-crypto-bill-01",
+        "headline": "US Senate crypto bill collapses in blow to industry",
+        "summary": "The defeat dealt a major blow to efforts to establish the first comprehensive federal framework for digital-asset market",
         "category": "经济与市场"
       }
     ]
@@ -5335,8 +5475,8 @@
   },
   {
     "thread_id": "thread-white-house-removes-controversial-tetris",
-    "title": "White House Removes Controversial Tetris-Style Game From Arcade Website",
-    "category": "经济与市场",
+    "title": "How Electric Cars Took Hold in Australia",
+    "category": "未分类",
     "events": [
       {
         "date": "20260909",
@@ -5344,6 +5484,13 @@
         "headline": "White House Removes Controversial Tetris-Style Game From Arcade Website",
         "summary": "The Tetris Company said it took copyright infringement “very seriously.”",
         "category": "经济与市场"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-how-electric-cars-took-01",
+        "headline": "How Electric Cars Took Hold in Australia",
+        "summary": "Australians have been buying more electric cars over the past few years.",
+        "category": "未分类"
       }
     ]
   },
@@ -5363,8 +5510,8 @@
   },
   {
     "thread_id": "thread-good-to-have-choice-australians-on-optin",
-    "title": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
-    "category": "未分类",
+    "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260909",
@@ -5379,6 +5526,13 @@
         "headline": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
         "summary": "A survivor has told the BBC of the chaos onboard as the ferry caught fire near the popular tourist spot of Coron.",
         "category": "未分类"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-warning-space-arms-race-01",
+        "headline": "Warning of space arms race as US confirms weapons in Earth's orbit",
+        "summary": "The BBC's defence correspondent Jonathan Beale explains what an arms race in space might look like - and what it could mean for us on the ground.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -5426,8 +5580,8 @@
   },
   {
     "thread_id": "thread-the-map-was-lying-to-you-why-the-un-just",
-    "title": "Why is Uber pulling out of some African markets",
-    "category": "经济与市场",
+    "title": "Criticism of LGBTQ+ raids in Turkey is growing",
+    "category": "未分类",
     "events": [
       {
         "date": "20260909",
@@ -5442,6 +5596,13 @@
         "headline": "Why is Uber pulling out of some African markets",
         "summary": "Uber’s exits from Nigeria and Uganda highlight the growing challenges of making ride-hailing work in Africa.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-criticism-lgbtq-raids-turkey-01",
+        "headline": "Criticism of LGBTQ+ raids in Turkey is growing",
+        "summary": "Several raids and arrests of LGBTQ+ persons in Turkey have triggered sharp criticism from numerous Turkish organizations — and also from Brussels.",
+        "category": "未分类"
       }
     ]
   },
@@ -5937,7 +6098,7 @@
   },
   {
     "thread_id": "thread-taylor-swift-broke-her-longstanding-emmy",
-    "title": "Taylor Swift Broke Her Longstanding Emmy Tradition — Somewhat",
+    "title": "Superstars and broken records: 2026 Emmy highlights",
     "category": "安全与冲突",
     "events": [
       {
@@ -5945,6 +6106,13 @@
         "event_cluster_id": "20260915-taylor-swift-broke-her-01",
         "headline": "Taylor Swift Broke Her Longstanding Emmy Tradition — Somewhat",
         "summary": "Swift has never attended an Emmy Award ceremony yet. Until now.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-superstars-broken-records-2026-01",
+        "headline": "Superstars and broken records: 2026 Emmy highlights",
+        "summary": "The 78th Primetime Emmy Awards were hosted by Law & Order star Mariska Hargitay at the Peacock Theatre in Los Angeles.",
         "category": "安全与冲突"
       }
     ]
@@ -5974,6 +6142,48 @@
         "headline": "Flash flooding interrupts half-marathon, submerges cars",
         "summary": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the floodwaters.",
         "category": "气候与环境"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-nato-jets-down-drone-that-entered-lithua",
+    "title": "Nato jets down drone that entered Lithuanian airspace",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-nato-jets-down-drone-01",
+        "headline": "Nato jets down drone that entered Lithuanian airspace",
+        "summary": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-hundreds-protest-in-dr-congo-against-thi",
+    "title": "Hundreds protest in DR Congo against third presidential term",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-hundreds-protest-dr-congo-01",
+        "headline": "Hundreds protest in DR Congo against third presidential term",
+        "summary": "Hundreds protest in DR Congo against third presidential term",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-harry-and-meghan-change-children-s-schoo",
+    "title": "Harry and Meghan Change Children’s School After Talks With Security Team",
+    "category": "社会与公共政策",
+    "events": [
+      {
+        "date": "20260916",
+        "event_cluster_id": "20260916-harry-meghan-change-children-01",
+        "headline": "Harry and Meghan Change Children’s School After Talks With Security Team",
+        "summary": "Prince Harry and Meghan, the Duke and Duchess of Sussex, in Bondi Beach, Australia, in April. The couple recently moved back to Britain from the United States with their children, Archie, 7, and Lilibet, 5.",
+        "category": "社会与公共政策"
       }
     ]
   }
