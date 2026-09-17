@@ -274,7 +274,7 @@
   },
   {
     "thread_id": "thread-bus-crash-in-egypt-s-south-sinai-kills-a",
-    "title": "Trump says he will consider releasing more 9/11 records after families’ request",
+    "title": "Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did it",
     "category": "安全与冲突",
     "events": [
       {
@@ -367,6 +367,13 @@
         "headline": "Trump says he will consider releasing more 9/11 records after families’ request",
         "summary": "Families have asked Trump to declassify records that could shed light on Saudi Arabia’s alleged role in the 2001 attacks Donald Trump said on Sunday that he will look into requests from families of 9/11 victims to release records that could shed light on Saudi Arabia’s alleged role in the attacks 25 years ago. Several families have long alleged that a group of extremist religious leaders in Saudi ",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-saudi-arabia-calls-attempted-01",
+        "headline": "Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did it",
+        "summary": "Saudi Arabia accused Yemen's Iran-backed Houthi rebels overnight of trying to attack Islam's holiest city, prompting condemnation from countries in the region but no sign of military support. (Image credit: Marzouq Al Jabri)",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -435,8 +442,8 @@
   },
   {
     "thread_id": "thread-mark-carney-tells-us-to-start-being-seri",
-    "title": "The seizure of the islands of Greater and Lesser Hanish is the latest in the militant group’s swift advance across Yemen",
-    "category": "安全与冲突",
+    "title": "Displaced Syrians dig through hills of garbage to make a living",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -500,6 +507,13 @@
         "headline": "The seizure of the islands of Greater and Lesser Hanish is the latest in the militant group’s swift advance across Yemen",
         "summary": "Estimated 100,000 Yemenis displaced amid renewed fighting as Qatar sounds alarm over Bab al-Mandab strait Saudi cities faced the threat of a second day of Houthi attacks as fighting across Yemen led the UN to warn of a humanitarian crisis with 100,000 Yemenis already displaced. As oil prices remained well over $100 (£74) a barrel, Qatar warned of a catastrophe if the Iran-backed Houthi militants w",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-displaced-syrians-dig-through-01",
+        "headline": "Displaced Syrians dig through hills of garbage to make a living",
+        "summary": "Displaced Syrians are digging through mountains of burning garbage searching for recyclable materials to make a living.",
+        "category": "未分类"
       }
     ]
   },
@@ -638,8 +652,8 @@
   },
   {
     "thread_id": "thread-turn-your-rising-home-equity-into-cash-y",
-    "title": "Sources Cover Unrelated Events: Chrisean Rock Boxing Debut and California Tech Company Threats",
-    "category": "文化体育",
+    "title": "Sources Cover Unrelated Events: Latin Music Marketing and Himalayan Floods",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -717,6 +731,13 @@
         "headline": "Sources Cover Unrelated Events: Chrisean Rock Boxing Debut and California Tech Company Threats",
         "summary": "The provided sources do not cover the same event. Forbes reports that Chrisean Rock will make her professional boxing debut against Ku'Shiyah Williams on September 19 in Baltimore. The New York Post reports on threats directed at California tech companies that could force office closures. No synthesis of a single event is possible from these sources.",
         "category": "文化体育"
+      },
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-hispanic-heritage-month-top-01",
+        "headline": "Sources Cover Unrelated Events: Latin Music Marketing and Himalayan Floods",
+        "summary": "The provided sources do not address the same event. Forbes published an article about Latin music marketing executives discussing campaign strategies during Hispanic Heritage Month. The New York Times reported on a study finding that human-caused warming played a significant role in flash floods along the Bhote Koshi River in Nepal last month. The sources diverge entirely in subject matter, geogra",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -953,7 +974,7 @@
   },
   {
     "thread_id": "thread-norway-s-new-king-haakon-viii-takes-oath",
-    "title": "Sweden election is too close to call as far right loses ground",
+    "title": "Sweden voted against more power for the far right – but are centrists listening",
     "category": "国际政治",
     "events": [
       {
@@ -1010,6 +1031,13 @@
         "event_cluster_id": "20260915-sweden-election-too-close-01",
         "headline": "Sweden election is too close to call as far right loses ground",
         "summary": "Opposition bloc leads in tight Swedish election with 95% counted.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-sweden-voted-against-more-01",
+        "headline": "Sweden voted against more power for the far right – but are centrists listening",
+        "summary": "Even as the ‘extremist’ AfD seeks further election gains in Germany, Europe’s leaders can learn from Sweden’s dangerous embrace with far-right ideology Don’t get This Is Europe delivered to your inbox? Sign up here Europe’s focus turned nervously to Sweden on Sunday, after an explosive election in Germany just a week earlier placed a far-right party, officially classed as “extremist”, on the brink",
         "category": "国际政治"
       }
     ]
@@ -2024,8 +2052,8 @@
   },
   {
     "thread_id": "thread-apple-and-google-rename-lake-ontario-to-",
-    "title": "Marco Rubio says US seeks more economic and security ties in Latin America",
-    "category": "未分类",
+    "title": "The World Economy Is Becoming Wary of the U.S.",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -2054,6 +2082,20 @@
         "headline": "Marco Rubio says US seeks more economic and security ties in Latin America",
         "summary": "The US secretary of state visits Colombia, Ecuador and Peru in a bid to enhance cooperation with right-wing allies.",
         "category": "未分类"
+      },
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-us-limits-visas-south-01",
+        "headline": "US limits visas for South African officials over alleged anti-white discrimination",
+        "summary": "Secretary of State Marco Rubio says South Africa has not addressed US concerns over racial inequality.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-world-economy-becoming-wary-01",
+        "headline": "The World Economy Is Becoming Wary of the U.S.",
+        "summary": "America’s position of global economic stability is starting to look shakier as the Trump administration piles on debt and doubles down on sanctions.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -3018,8 +3060,8 @@
   },
   {
     "thread_id": "thread-u-s-military-strikes-iran",
-    "title": "Panic on board Iranian plane as violent shaking rips cabin apart",
-    "category": "未分类",
+    "title": "Iran Conflict And Inflation: The Corporate Winners And Losers",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -3097,6 +3139,13 @@
         "headline": "Panic on board Iranian plane as violent shaking rips cabin apart",
         "summary": "A Sepehran Airlines Boeing 737 cabin rips apart after an emergency landing in Mashhad, Iran.",
         "category": "未分类"
+      },
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-iran-conflict-inflation-corporate-01",
+        "headline": "Iran Conflict And Inflation: The Corporate Winners And Losers",
+        "summary": "As long as the Iran war continues, the impact on corporations and financial institutions will get worse.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -3487,7 +3536,7 @@
   },
   {
     "thread_id": "thread-bosnian-serb-war-criminal-ratko-mladic-d",
-    "title": "Coco Gauff Rebounds To Reach U.S. Open Semis, Elena Rybakina Takes Over World No. 1",
+    "title": "Lisa Hits One Chart For The First Time As She Proves Her Rapping Skills Again",
     "category": "未分类",
     "events": [
       {
@@ -3509,6 +3558,13 @@
         "event_cluster_id": "20260910-coco-gauff-rebounds-reach-01",
         "headline": "Coco Gauff Rebounds To Reach U.S. Open Semis, Elena Rybakina Takes Over World No. 1",
         "summary": "The other semifinal will feature No. 1 Aryna Sabalenka, the two-time defending champion, against No. 3 American Jessica Pegula.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-lisa-hits-one-chart-01",
+        "headline": "Lisa Hits One Chart For The First Time As She Proves Her Rapping Skills Again",
+        "summary": "Blackpink's Lisa reaches the Official Hip Hop and R B Singles chart for the first time as “Sawadika” opens at No. 20 and becomes a top 40 hit on other tallies as well.",
         "category": "未分类"
       }
     ]
@@ -4313,8 +4369,8 @@
   },
   {
     "thread_id": "thread-2026年美国初选-马萨诸塞州马克伊获民主党提名-德州民主党民调微弱领先",
-    "title": "Ed Sheeran blames US tour promoter for dropping Macklemore",
-    "category": "文化体育",
+    "title": "Macklemore pledges $1m in tour earnings to Palestinian groups",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260902",
@@ -4336,6 +4392,13 @@
         "headline": "Ed Sheeran blames US tour promoter for dropping Macklemore",
         "summary": "The British musician said it was important to set out some facts after US rapper voiced support for Palestine.",
         "category": "文化体育"
+      },
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-macklemore-pledges-1m-tour-01",
+        "headline": "Macklemore pledges $1m in tour earnings to Palestinian groups",
+        "summary": "The rapper also challenged Robert Kraft to match the donation as fallout from his removal from Ed Sheeran’s tour grows.",
+        "category": "经济与市场"
       }
     ]
   },
@@ -4439,7 +4502,7 @@
   },
   {
     "thread_id": "thread-india-rejects-hague-arbitration-ruling-o",
-    "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
+    "title": "The conviction in The Hague of former President Hashim Thaci and three former Kosovo Liberation Army leaders has caused",
     "category": "国际政治",
     "events": [
       {
@@ -4469,12 +4532,19 @@
         "headline": "BRICS leaders meet in India as wars and US tensions test the bloc",
         "summary": "Indian Prime Minister Narendra Modi hosts Russian President Vladimir Putin, Chinese President Xi Jinping and other leaders of the BRICS nations for a summit on trade, investment, and global conflicts. (Image credit: Indian Foreign Ministry via AP)",
         "category": "国际政治"
+      },
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-shock-kosovo-hague-convicts-01",
+        "headline": "The conviction in The Hague of former President Hashim Thaci and three former Kosovo Liberation Army leaders has caused",
+        "summary": "The conviction in The Hague of former President Hashim Thaci and three former Kosovo Liberation Army leaders has caused consternation in Kosovo — both among political leaders and on the streets. DW reports from Pristina.",
+        "category": "国际政治"
       }
     ]
   },
   {
     "thread_id": "thread-japan-reduces-urban-speed-limits-and-see",
-    "title": "More than 100,000 people in Japan are now aged 100 or older",
+    "title": "Japan Reaches a Unique Milestone, With More Than 100,000 People Aged 100 or Over.",
     "category": "未分类",
     "events": [
       {
@@ -4510,6 +4580,13 @@
         "event_cluster_id": "20260916-more-than-100-000-01",
         "headline": "More than 100,000 people in Japan are now aged 100 or older",
         "summary": "Figures show 88% of the centenarians are women as the population continues to age and shrink.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-0-intro-apr-until-01",
+        "headline": "Japan Reaches a Unique Milestone, With More Than 100,000 People Aged 100 or Over.",
+        "summary": "Tomeyo Ono, right, a centenarian in Soma, Fukushima, last year.",
         "category": "未分类"
       }
     ]
@@ -5307,8 +5384,8 @@
   },
   {
     "thread_id": "thread-at-least-five-killed-in-new-delhi-buildi",
-    "title": "At least five killed in New Delhi building collapse",
-    "category": "未分类",
+    "title": "Gaza City Building Collapse Kills at Least 21, Including Eight Children",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260907",
@@ -5316,6 +5393,13 @@
         "headline": "At least five killed in New Delhi building collapse",
         "summary": "At least five people have been killed and nine rescued after a building housing mostly students collapsed in New Delhi.",
         "category": "未分类"
+      },
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-eight-children-among-21-01",
+        "headline": "Gaza City Building Collapse Kills at Least 21, Including Eight Children",
+        "summary": "A six-storey building in Gaza City collapsed on Wednesday, killing at least 21 people, including eight children, according to rescuers and officials. The building had reportedly been damaged by an Israeli strike last year and was housing approximately 10 families. Rescue teams excavated rubble to recover bodies. All available sources are left-leaning; no right-leaning coverage was provided for com",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -5398,7 +5482,7 @@
   },
   {
     "thread_id": "thread-aaron-judge-on-verge-of-returning-to-the",
-    "title": "Aaron Judge On Verge Of Returning To The Yankees From A Fractured Rib",
+    "title": "Dream Big with a Home Equity Loan",
     "category": "未分类",
     "events": [
       {
@@ -5407,13 +5491,20 @@
         "headline": "Aaron Judge On Verge Of Returning To The Yankees From A Fractured Rib",
         "summary": "Aaron Judge has just come off a six-game road trip with the Yankees where he took batting practice. He's a few live high-velocity pitching sessions away from his return.",
         "category": "未分类"
+      },
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-dream-big-home-equity-01",
+        "headline": "Dream Big with a Home Equity Loan",
+        "summary": "For a few teasing moments Wednesday, it looked as if the Yankees might sneak away with a sweep that was overshadowed by Aaron Judge's injury.",
+        "category": "未分类"
       }
     ]
   },
   {
     "thread_id": "thread-eiffel-tower-shut-by-staff-protest-after",
-    "title": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed",
-    "category": "文化体育",
+    "title": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
+    "category": "未分类",
     "events": [
       {
         "date": "20260908",
@@ -5428,6 +5519,13 @@
         "headline": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed",
         "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
         "category": "文化体育"
+      },
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-inside-singapore-s-fort-01",
+        "headline": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
+        "summary": "The BBC goes inside a fortified storage facility to view luxury goods seized by police that are now up for auction.",
+        "category": "未分类"
       }
     ]
   },
@@ -5790,8 +5888,8 @@
   },
   {
     "thread_id": "thread-emergency-slide-deployed-on-trump-s-qata",
-    "title": "Trump says he would ‘love to see’ a united Ireland during Irish visit",
-    "category": "国际政治",
+    "title": "Trump says Canada becoming EU ‘associate member’ could be ‘hostile act’",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260910",
@@ -5806,6 +5904,13 @@
         "headline": "Trump says he would ‘love to see’ a united Ireland during Irish visit",
         "summary": "US President Donald Trump said he would ‘love to see’ a united Ireland.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-trump-canada-becoming-eu-01",
+        "headline": "Trump says Canada becoming EU ‘associate member’ could be ‘hostile act’",
+        "summary": "The US president threatened heavy tariffs and said the US could cut some trade with Europe over the proposed status.",
+        "category": "经济与市场"
       }
     ]
   },
@@ -5951,8 +6056,8 @@
   },
   {
     "thread_id": "thread-houthi-advance-in-yemen-is-about-more-th",
-    "title": "Inside the Houthis’ expanding war economy in Yemen",
-    "category": "经济与市场",
+    "title": "How the Houthis are also putting Egypt under pressure",
+    "category": "未分类",
     "events": [
       {
         "date": "20260912",
@@ -5974,6 +6079,20 @@
         "headline": "Inside the Houthis’ expanding war economy in Yemen",
         "summary": "The Houthis have restructured Yemen s commercial sector, securing billions in revenue amid a humanitarian crisis.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-video-claims-show-saudi-01",
+        "headline": "New video claims to show Saudi fighter jet Houthis say they shot down",
+        "summary": "Houthi forces have released a video claiming to show a Saudi fighter jet the group says was shot down in Yemen’s Marib.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-how-houthis-also-putting-01",
+        "headline": "How the Houthis are also putting Egypt under pressure",
+        "summary": "The Houthis, a Yemeni rebel group, are expanding their control of maritime corridors in the Red Sea area. Their target is their avowed enemy Saudi Arabia. But the military moves also endanger Egypt.",
+        "category": "未分类"
       }
     ]
   },
@@ -6084,7 +6203,7 @@
   },
   {
     "thread_id": "thread-alexander-zverev-vs-ben-shelton-us-open-",
-    "title": "Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know",
+    "title": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
     "category": "未分类",
     "events": [
       {
@@ -6092,6 +6211,13 @@
         "event_cluster_id": "20260913-alexander-zverev-vs-ben-01",
         "headline": "Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know",
         "summary": "Ben Shelton faces Alexander Zverev in the US final, hoping to end a 23-year drought in Grand Slams for American men.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-israel-morocco-agree-open-01",
+        "headline": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
+        "summary": "Both sides agreed to expand air travel and resume direct commercial flights.",
         "category": "未分类"
       }
     ]
@@ -6184,6 +6310,76 @@
         "headline": "Harry and Meghan Change Children’s School After Talks With Security Team",
         "summary": "Prince Harry and Meghan, the Duke and Duchess of Sussex, in Bondi Beach, Australia, in April. The couple recently moved back to Britain from the United States with their children, Archie, 7, and Lilibet, 5.",
         "category": "社会与公共政策"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-what-to-know-about-us-federal-reserve-s-",
+    "title": "What to know about US Federal Reserve’s first interest rate hike in 3 years",
+    "category": "经济与市场",
+    "events": [
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-what-know-about-us-01",
+        "headline": "What to know about US Federal Reserve’s first interest rate hike in 3 years",
+        "summary": "The unanimous decision comes as prices have remained stubbornly high and despite Trump s demands for lower rates.",
+        "category": "经济与市场"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-lost-on-mount-fuji-off-season-you-ll-hav",
+    "title": "Lost on Mount Fuji off-season? You'll have to pay for your rescue",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-lost-mount-fuji-off-01",
+        "headline": "Lost on Mount Fuji off-season? You'll have to pay for your rescue",
+        "summary": "The fee will be imposed on those who get lost on Japan's most famous mountain during the off-peak seasons.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-rescue-workers-search-for-survivors-afte",
+    "title": "Rescue workers search for survivors after Gaza building collapse",
+    "category": "社会与公共政策",
+    "events": [
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-rescue-workers-search-survivors-01",
+        "headline": "Rescue workers search for survivors after Gaza building collapse",
+        "summary": "Rescue workers search for survivors after Gaza building collapse",
+        "category": "社会与公共政策"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-iran-activists-sound-alarm-as-regime-sei",
+    "title": "Iran: Activists sound alarm as regime seizes Baha'i assets",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-iran-activists-sound-alarm-01",
+        "headline": "Iran: Activists sound alarm as regime seizes Baha'i assets",
+        "summary": "Rights groups warn Iran is increasingly confiscating assets from government critics and members of the country's Baha'i faith, but also actors, athletes and journalists living abroad.",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-three-dead-after-flooding-inundates-nava",
+    "title": "Three dead after flooding inundates Navajo Nation in New Mexico",
+    "category": "气候与环境",
+    "events": [
+      {
+        "date": "20260917",
+        "event_cluster_id": "20260917-three-dead-flooding-inundates-01",
+        "headline": "Three dead after flooding inundates Navajo Nation in New Mexico",
+        "summary": "Indigenous authorities issue condolences after two adults and a child swept away by floodwaters in southwestern state.",
+        "category": "气候与环境"
       }
     ]
   }
