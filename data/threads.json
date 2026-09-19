@@ -71,8 +71,8 @@
   },
   {
     "thread_id": "thread-germany-says-russia-preparing-hybrid-att",
-    "title": "Ukraine, Russia set for new round of US-mediated talks",
-    "category": "未分类",
+    "title": "Trump signs sweeping Russia sanctions over Ukraine war",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -108,6 +108,13 @@
         "headline": "Ukraine, Russia set for new round of US-mediated talks",
         "summary": "New trilateral talks between Ukraine, Russia and the US could begin in October, according to Kyiv and Moscow. Few expect a breakthrough, but Ukraine is seeking a partial de-escalation to help it get through the winter.",
         "category": "未分类"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-trump-signs-sweeping-russia-01",
+        "headline": "Trump signs sweeping Russia sanctions over Ukraine war",
+        "summary": "New US law imposes harsh measures on Russia, aims to weaken the Kremlin s war funding and push for Ukraine negotiations.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -281,7 +288,7 @@
   },
   {
     "thread_id": "thread-bus-crash-in-egypt-s-south-sinai-kills-a",
-    "title": "Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did it",
+    "title": "Houthis accuse Saudi Arabia of launching 26 strikes in 24 hours",
     "category": "安全与冲突",
     "events": [
       {
@@ -381,6 +388,13 @@
         "headline": "Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did it",
         "summary": "Saudi Arabia accused Yemen's Iran-backed Houthi rebels overnight of trying to attack Islam's holiest city, prompting condemnation from countries in the region but no sign of military support. (Image credit: Marzouq Al Jabri)",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-houthis-accuse-saudi-arabia-01",
+        "headline": "Houthis accuse Saudi Arabia of launching 26 strikes in 24 hours",
+        "summary": "The war in Yemen intensifies with mounting clashes and reciprocal attacks between Saudi forces and the Houthis.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -449,7 +463,7 @@
   },
   {
     "thread_id": "thread-mark-carney-tells-us-to-start-being-seri",
-    "title": "Displaced Syrians dig through hills of garbage to make a living",
+    "title": "New cat species found, first in more than 100 years",
     "category": "未分类",
     "events": [
       {
@@ -521,6 +535,13 @@
         "headline": "Displaced Syrians dig through hills of garbage to make a living",
         "summary": "Displaced Syrians are digging through mountains of burning garbage searching for recyclable materials to make a living.",
         "category": "未分类"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-cat-species-found-first-01",
+        "headline": "New cat species found, first in more than 100 years",
+        "summary": "A new species of living cat has been identified for the first time in more than a century.",
+        "category": "未分类"
       }
     ]
   },
@@ -561,8 +582,8 @@
   },
   {
     "thread_id": "thread-keir-starmer-former-uk-prime-minister-sa",
-    "title": "Spanish PM denies Morocco facilitated Ceuta migrant surge as protests erupt nationwide",
-    "category": "国际政治",
+    "title": "Police clear Ceuta migrants off beaches in Spanish enclave",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -591,13 +612,20 @@
         "headline": "Spanish PM denies Morocco facilitated Ceuta migrant surge as protests erupt nationwide",
         "summary": "Spanish Prime Minister Pedro Sánchez told parliament on Thursday that Spain has seen no evidence \"whatsoever\" that Morocco planned or facilitated the mass border breach into the Spanish North African enclave of Ceuta in late July. A police report commissioned by a judge, widely quoted in media, claimed Moroccan border forces actively aided approximately 70,000 people to cross the border. On Wednes",
         "category": "国际政治"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-police-clear-ceuta-migrants-01",
+        "headline": "Police clear Ceuta migrants off beaches in Spanish enclave",
+        "summary": "At least 10,000 of the 72,000 migrants who broke through fence from Morocco in July remain in the Spanish enclave.",
+        "category": "未分类"
       }
     ]
   },
   {
     "thread_id": "thread-palestinian-artist-saint-levant-delays-t",
-    "title": "Fresh activity emerges at Iran’s deeply buried nuclear site as Trump warns Iran not to ‘get cute’",
-    "category": "安全与冲突",
+    "title": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -633,6 +661,13 @@
         "headline": "Fresh activity emerges at Iran’s deeply buried nuclear site as Trump warns Iran not to ‘get cute’",
         "summary": "New satellite imagery shows Iran has added new defenses around tunnel entrances at Pickaxe Mountain, the deeply buried nuclear-linked site President Donald Trump has repeatedly threatened to strike, as Russia and China on Thursday vetoed a U.S.-drafted Security Council resolution aimed at preserving international monitoring of sanctions on Tehran. The Institute for Science and International Securi",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-iran-war-live-trump-01",
+        "headline": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
+        "summary": "Thousands take to the streets in support of Houthis in Sanaa, Trump extends sanctions on Iran.",
+        "category": "国际政治"
       }
     ]
   },
@@ -673,7 +708,7 @@
   },
   {
     "thread_id": "thread-turn-your-rising-home-equity-into-cash-y",
-    "title": "Sources cover unrelated events: EU social media age restriction and Pat McAfee ESPN controversy",
+    "title": "Sources cover unrelated events; no shared event identified",
     "category": "社会与公共政策",
     "events": [
       {
@@ -786,6 +821,20 @@
         "event_cluster_id": "20260918-eu-announces-plan-restrict-01",
         "headline": "Sources cover unrelated events: EU social media age restriction and Pat McAfee ESPN controversy",
         "summary": "The provided sources do not cover the same event. BBC World reports that the EU announced a plan to restrict social media access for children under 15, meaning only those over 15 could set up their own accounts. New York Post reports on Pat McAfee and a clip from his ESPN show involving a lit item in an ashtray, raising questions about his behavior given his contract value. The sources diverge ent",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-we-have-something-kill-01",
+        "headline": "Sources cover unrelated events: NSW ICAC inquiry and Kawhi Leonard Clippers departure",
+        "summary": "The provided sources do not cover the same event. The Guardian reports on an ICAC hearing where former Labor councillor Sharangan Maheswaran was questioned about a message concerning NSW Liberal minister David Elliott. The New York Post reports on Kawhi Leonard sending a farewell message to Clippers fans after six seasons. No synthesis of a single event is possible.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-two-friends-complete-game-01",
+        "headline": "Sources cover unrelated events; no shared event identified",
+        "summary": "The provided sources do not describe the same event. The New York Times reports on two friends attempting to complete a complex board game called Campaign for North Africa. The New York Post publishes an opinion piece defending Israel against accusations regarding civilian casualties. No common subject, event, or timeframe exists between the two articles.",
         "category": "社会与公共政策"
       }
     ]
@@ -3046,8 +3095,8 @@
   },
   {
     "thread_id": "thread-germany-attributes-leipzig-airport-drone",
-    "title": "Arctic power plays: EU searches for a new strategy",
-    "category": "未分类",
+    "title": "Trump announces security deal with Denmark over Greenland",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -3097,6 +3146,13 @@
         "headline": "Arctic power plays: EU searches for a new strategy",
         "summary": "Russia’s aggression, Trump’s threats against Greenland and the race for critical raw materials are pushing the Arctic to the top of Europe’s agenda.",
         "category": "未分类"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-trump-denmark-deal-gives-01",
+        "headline": "Trump announces security deal with Denmark over Greenland",
+        "summary": "Donald Trump announced on Friday that the US reached a security pact with Denmark and Greenland regarding the semi-autonomous Danish territory. Trump stated the agreement gives the US \"permanent control\" over security in Greenland, though Danish and Greenlandic officials have not confirmed the full specifics. Denmark and Greenland issued statements saying the deal preserves their sovereignty and r",
+        "category": "国际政治"
       }
     ]
   },
@@ -3228,8 +3284,8 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-us-open-and-grand-c",
-    "title": "Asian Games 2026 cricket venue to offer top accommodation despite cricket's minor status in Japan",
-    "category": "社会与公共政策",
+    "title": "North Korean anthem played for South Korea at Asian Games",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -3293,6 +3349,13 @@
         "headline": "Asian Games 2026 cricket venue to offer top accommodation despite cricket's minor status in Japan",
         "summary": "A Japanese official stated that cricket teams participating in the 2026 Asian Games will receive the best rooms among all competitors, despite cricket being a minor sport in Japan. The announcement was made by an official involved in organizing the event. The two provided sources diverge in topic: Al Jazeera covered the Asian Games 2026 cricket accommodation story, while CNN's article focused on a",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-north-korean-anthem-played-01",
+        "headline": "North Korean anthem played for South Korea at Asian Games",
+        "summary": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
+        "category": "未分类"
       }
     ]
   },
@@ -3459,8 +3522,8 @@
   },
   {
     "thread_id": "thread-scotus-allows-trump-s-ballroom-project-t",
-    "title": "Canada welcomes EU proposal to become 'associate member'",
-    "category": "国际政治",
+    "title": "Canada and EU: A look at the bloc's special relationships",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -3503,6 +3566,13 @@
         "headline": "Canada welcomes EU proposal to become 'associate member'",
         "summary": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
         "category": "国际政治"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-canada-eu-look-bloc-01",
+        "headline": "Canada and EU: A look at the bloc's special relationships",
+        "summary": "Though Canada may be some distance from Europe geographically, closer political ties are in the cards. With talk of an associate membership, DW takes a look at other arrangements the EU has with particular countries.",
+        "category": "未分类"
       }
     ]
   },
@@ -3620,8 +3690,8 @@
   },
   {
     "thread_id": "thread-bosnian-serb-war-criminal-ratko-mladic-d",
-    "title": "Lisa Hits One Chart For The First Time As She Proves Her Rapping Skills Again",
-    "category": "未分类",
+    "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -3650,6 +3720,13 @@
         "headline": "Lisa Hits One Chart For The First Time As She Proves Her Rapping Skills Again",
         "summary": "Blackpink's Lisa reaches the Official Hip Hop and R B Singles chart for the first time as “Sawadika” opens at No. 20 and becomes a top 40 hit on other tallies as well.",
         "category": "未分类"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-warren-buffett-steps-down-01",
+        "headline": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+        "summary": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -3830,7 +3907,7 @@
   },
   {
     "thread_id": "thread-马达加斯加前参议院主席因镇压z世代抗议被判强迫劳动-丹麦农民因化肥限令抗议",
-    "title": "Mbappe double helps Real Madrid thump Rayo Vallecano 4–1 in La Liga",
+    "title": "Brighton vs Arsenal: Premier League – predictions, teams, lineups",
     "category": "文化体育",
     "events": [
       {
@@ -3873,6 +3950,13 @@
         "event_cluster_id": "20260913-mbappe-double-helps-real-01",
         "headline": "Mbappe double helps Real Madrid thump Rayo Vallecano 4–1 in La Liga",
         "summary": "Goals from Bellingham and Carreras ease pressure on Madrid manager Mourinho after they lost their last league game.",
+        "category": "文化体育"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-brighton-vs-arsenal-premier-01",
+        "headline": "Brighton vs Arsenal: Premier League – predictions, teams, lineups",
+        "summary": "Premier League holders Arsenal have won all seven of their matches to start the new season.",
         "category": "文化体育"
       }
     ]
@@ -4299,8 +4383,8 @@
   },
   {
     "thread_id": "thread-long-lines-at-fuel-stations-are-spreadin",
-    "title": "Billionaire Leon Black Should Face Contempt For Not Testifying About Epstein, House Committee Rules",
-    "category": "未分类",
+    "title": "The US president insists media outlets report fiction and lies as he announces new bans on White House access.",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -4336,6 +4420,13 @@
         "headline": "Billionaire Leon Black Should Face Contempt For Not Testifying About Epstein, House Committee Rules",
         "summary": "The billionaire walked out of his first interview with the House Oversight Committee, and failed to show up for his second one.",
         "category": "未分类"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-trump-bans-cnn-ms-01",
+        "headline": "The US president insists media outlets report fiction and lies as he announces new bans on White House access.",
+        "summary": "The US president insists media outlets report fiction and lies as he announces new bans on White House access.",
+        "category": "国际政治"
       }
     ]
   },
@@ -4635,8 +4726,8 @@
   },
   {
     "thread_id": "thread-japan-reduces-urban-speed-limits-and-see",
-    "title": "Japan Reaches a Unique Milestone, With More Than 100,000 People Aged 100 or Over.",
-    "category": "未分类",
+    "title": "‘Daughter of Damascus’ Assala performs in Syria after 15-year exile",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -4679,6 +4770,13 @@
         "headline": "Japan Reaches a Unique Milestone, With More Than 100,000 People Aged 100 or Over.",
         "summary": "Tomeyo Ono, right, a centenarian in Soma, Fukushima, last year.",
         "category": "未分类"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-daughter-damascus-assala-performs-01",
+        "headline": "‘Daughter of Damascus’ Assala performs in Syria after 15-year exile",
+        "summary": "Thousands of people cheered as they welcomed Syrian icon Assala Nasri back at a sold-out concert in Damascus.",
+        "category": "文化体育"
       }
     ]
   },
@@ -4936,7 +5034,7 @@
   },
   {
     "thread_id": "thread-two-palestinian-teenagers-killed-during-",
-    "title": "Pupils return to West Bank school behind barbed wire to protect against settlers",
+    "title": "Three dead and eight injured in Philippines school shooting",
     "category": "社会与公共政策",
     "events": [
       {
@@ -4972,6 +5070,13 @@
         "event_cluster_id": "20260909-pupils-return-west-bank-01",
         "headline": "Pupils return to West Bank school behind barbed wire to protect against settlers",
         "summary": "Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-related violence.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-three-dead-eight-injured-01",
+        "headline": "Three dead and eight injured in Philippines school shooting",
+        "summary": "The gunman is among the dead in what is the third school shooting in the country since June.",
         "category": "社会与公共政策"
       }
     ]
@@ -5104,8 +5209,8 @@
   },
   {
     "thread_id": "thread-france-records-hottest-summer-since-reco",
-    "title": "France records hottest summer since records began in 2026",
-    "category": "经济与市场",
+    "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260904",
@@ -5113,6 +5218,13 @@
         "headline": "France records hottest summer since records began in 2026",
         "summary": "France recorded its hottest summer since measurements began in 2026, joining other European countries in setting high temperature records. Separately, Oracle shares surged, lifting Larry Ellison's net worth above $200 billion and moving him past Jensen Huang to the 7th-richest position. The two events are unrelated and covered by different outlets. No convergence or divergence on these distinct st",
         "category": "经济与市场"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-kennedy-center-losing-hundreds-01",
+        "headline": "Is the Kennedy Center losing 'hundreds of millions of dollars'",
+        "summary": "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in.",
+        "category": "文化体育"
       }
     ]
   },
@@ -5230,8 +5342,8 @@
   },
   {
     "thread_id": "thread-nigel-farage-heckled-at-reform-uk-confer",
-    "title": "Denmark says Russian warship fired flares at military helicopter",
-    "category": "安全与冲突",
+    "title": "Poland's prime minister warns of Russian 'accidental' attacks on Ukraine's allies",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260905",
@@ -5253,6 +5365,13 @@
         "headline": "Denmark says Russian warship fired flares at military helicopter",
         "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-poland-s-prime-minister-01",
+        "headline": "Poland's prime minister warns of Russian 'accidental' attacks on Ukraine's allies",
+        "summary": "Polish Prime Minister Donald Tusk said that these potential strikes \"intend to paralyze NATO\" in an attempt to demonstrate that Article 5 \"exists only in theory.\" (Image credit: Wojtek Radwanski)",
+        "category": "国际政治"
       }
     ]
   },
@@ -5685,8 +5804,8 @@
   },
   {
     "thread_id": "thread-white-house-removes-controversial-tetris",
-    "title": "Former Assad officer sentenced to 60 years in US for torture",
-    "category": "未分类",
+    "title": "Syrian regime planned American journalist's kidnapping for weeks",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260909",
@@ -5708,6 +5827,13 @@
         "headline": "Former Assad officer sentenced to 60 years in US for torture",
         "summary": "Former Syrian official sentenced to 60 years in US prison for torturing prisoners under al-Assad s regime.",
         "category": "未分类"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-syrian-regime-planned-american-01",
+        "headline": "Syrian regime planned American journalist's kidnapping for weeks",
+        "summary": "New reporting finds the abduction of journalist Austin Tice was planned by the Syrian government for weeks.",
+        "category": "国际政治"
       }
     ]
   },
@@ -5874,8 +6000,8 @@
   },
   {
     "thread_id": "thread-eiffel-tower-workers-strike-saying-women",
-    "title": "Eiffel Tower Workers Strike, Saying Women Were Excluded From Hindu Group’s Visit",
-    "category": "安全与冲突",
+    "title": "Meet The Women Who Make The Most Traceable Chocolate Across The U.S.",
+    "category": "未分类",
     "events": [
       {
         "date": "20260909",
@@ -5883,6 +6009,13 @@
         "headline": "Eiffel Tower Workers Strike, Saying Women Were Excluded From Hindu Group’s Visit",
         "summary": "A delegation from the Bochasanwasi Akshar Purushottam Swaminarayan Sanstha group, known as BAPS, visited the Eiffel Tower on Saturday.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-meet-women-who-make-01",
+        "headline": "Meet The Women Who Make The Most Traceable Chocolate Across The U.S.",
+        "summary": "Beyond Good prioritizes traceability in its ultra-premium Microbatch chocolate",
+        "category": "未分类"
       }
     ]
   },
@@ -6238,7 +6371,7 @@
   },
   {
     "thread_id": "thread-philippines-ferry-fire-search-continues-",
-    "title": "Body of missing runner found in South Africa",
+    "title": "Grim discoveries of murdered women spark fear in South Africa",
     "category": "未分类",
     "events": [
       {
@@ -6261,6 +6394,13 @@
         "headline": "Body of missing runner found in South Africa",
         "summary": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
         "category": "未分类"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-grim-discoveries-murdered-women-01",
+        "headline": "Grim discoveries of murdered women spark fear in South Africa",
+        "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+        "category": "未分类"
       }
     ]
   },
@@ -6280,8 +6420,8 @@
   },
   {
     "thread_id": "thread-us-legislators-push-ai-safety-laws-amid-",
-    "title": "Crowdstrike Skyrockets 14% As AI Fears Send Cybersecurity Stocks Surging",
-    "category": "科技与AI",
+    "title": "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
+    "category": "未分类",
     "events": [
       {
         "date": "20260912",
@@ -6310,6 +6450,13 @@
         "headline": "Crowdstrike Skyrockets 14% As AI Fears Send Cybersecurity Stocks Surging",
         "summary": "Leaders in artificial intelligence have called for a slowdown to AI development amid fears the technology could lead to human extinction.",
         "category": "科技与AI"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-when-trump-xi-meet-01",
+        "headline": "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
+        "summary": "An informal network of dialogues at think tanks and universities is bringing together experts from the U.S. and China to talk about the shared perils of AI — and possible paths forward.",
+        "category": "未分类"
       }
     ]
   },
@@ -6392,8 +6539,8 @@
   },
   {
     "thread_id": "thread-construction-robots-just-took-a-giant-le",
-    "title": "Construction Robots Just Took A Giant Leap Forward: Hello Holy Grail Of Robotics",
-    "category": "科技与AI",
+    "title": "The Emmys Offer A Lesson In The Payoff Of Preparation.",
+    "category": "未分类",
     "events": [
       {
         "date": "20260915",
@@ -6401,6 +6548,13 @@
         "headline": "Construction Robots Just Took A Giant Leap Forward: Hello Holy Grail Of Robotics",
         "summary": "Zinova makes physical AI called \"Tool Intelligence\" for construction robots. It might just be a giant leap forward in a space where robots have generally disappointed.",
         "category": "科技与AI"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-emmys-offer-lesson-payoff-01",
+        "headline": "The Emmys Offer A Lesson In The Payoff Of Preparation.",
+        "summary": "The Emmys offer a reminder that the payoff of preparation isn't always just the outcome. Sometimes, the preparation itself is valuable.",
+        "category": "未分类"
       }
     ]
   },
@@ -6518,8 +6672,8 @@
   },
   {
     "thread_id": "thread-three-dead-after-flooding-inundates-nava",
-    "title": "Three dead after flooding inundates Navajo Nation in New Mexico",
-    "category": "气候与环境",
+    "title": "Aztec manuscript returns to Mexico after two centuries, on loan",
+    "category": "未分类",
     "events": [
       {
         "date": "20260917",
@@ -6527,6 +6681,13 @@
         "headline": "Three dead after flooding inundates Navajo Nation in New Mexico",
         "summary": "Indigenous authorities issue condolences after two adults and a child swept away by floodwaters in southwestern state.",
         "category": "气候与环境"
+      },
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-aztec-manuscript-returns-mexico-01",
+        "headline": "Aztec manuscript returns to Mexico after two centuries, on loan",
+        "summary": "For years, Mexico has demanded the return of a treasured manuscript. Now the Aztec relic is back home from France — but on loan.",
+        "category": "未分类"
       }
     ]
   },
@@ -6555,6 +6716,62 @@
         "headline": "Banning Corporate Medicine: Stopping Private Equity's Debt Trap",
         "summary": "The \"Stop Corporate Takeovers of Physicians Act,\" has been introduced by Senators Warren, Merkley, Wyden, and Representatives Ocasio-Cortez, Hoyle, and Subramanyam.",
         "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-men-deported-from-us-bound-and-beaten-in",
+    "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-men-deported-us-bound-01",
+        "headline": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
+        "summary": "Group trapped at Hotel Bamy after US removal as rights groups sound alarm over poor conditions and violence Two men that the Trump administration expelled to Equatorial Guinea were bound, fitted with bags over their heads, beaten and pushed down a flight of stairs, all in plain view of other US deportees, according to witnesses and human rights lawyers. The men – one from Egypt and one from Eritre",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-putin-s-grip-on-power-remains-strong-ahe",
+    "title": "Putin's Grip on Power Remains Strong Ahead of Parliamentary Election",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-why-autocrats-care-what-01",
+        "headline": "Putin's Grip on Power Remains Strong Ahead of Parliamentary Election",
+        "summary": "Ahead of a parliamentary election in Russia, President Vladimir Putin's grip on power remains strong. While The Washington Post explores potential successors to Putin, The New York Times examines why autocrats care about public opinion.",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-malaria-outbreak-linked-to-frankfurt-air",
+    "title": "Malaria outbreak linked to Frankfurt Airport reported in Germany",
+    "category": "社会与公共政策",
+    "events": [
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-airport-malaria-germany-remains-01",
+        "headline": "Malaria outbreak linked to Frankfurt Airport reported in Germany",
+        "summary": "An outbreak of malaria occurred near Frankfurt Airport this summer, with cases reported among individuals who had not traveled to malaria-endemic regions. Fox News reports three deaths, including an airport worker in August and a resident of Schwanheim, while DW World does not mention any fatalities and characterizes the phenomenon as infrequent. Sources diverge on the likely transmission route, w",
+        "category": "社会与公共政策"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-super-macklemore-64-video-game-mocks-she",
+    "title": "Super Macklemore 64: Video game mocks Sheeran concert controversy",
+    "category": "文化体育",
+    "events": [
+      {
+        "date": "20260919",
+        "event_cluster_id": "20260919-super-macklemore-64-video-01",
+        "headline": "Super Macklemore 64: Video game mocks Sheeran concert controversy",
+        "summary": "In Super Macklemore 64, players are chased by a giant Ed Sheeran, dodge tiny billionaire Robert Krafts.",
+        "category": "文化体育"
       }
     ]
   }
