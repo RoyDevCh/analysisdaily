@@ -71,7 +71,7 @@
   },
   {
     "thread_id": "thread-germany-says-russia-preparing-hybrid-att",
-    "title": "Trump signs sweeping Russia sanctions over Ukraine war",
+    "title": "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
     "category": "安全与冲突",
     "events": [
       {
@@ -114,6 +114,13 @@
         "event_cluster_id": "20260919-trump-signs-sweeping-russia-01",
         "headline": "Trump signs sweeping Russia sanctions over Ukraine war",
         "summary": "New US law imposes harsh measures on Russia, aims to weaken the Kremlin s war funding and push for Ukraine negotiations.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260920",
+        "event_cluster_id": "20260920-russia-powerful-cyberattacks-second-01",
+        "headline": "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
+        "summary": "This is Russia s first election since it invaded Ukraine, and is expected to gauge public support for the ongoing war.",
         "category": "安全与冲突"
       }
     ]
@@ -288,7 +295,7 @@
   },
   {
     "thread_id": "thread-bus-crash-in-egypt-s-south-sinai-kills-a",
-    "title": "Houthis accuse Saudi Arabia of launching 26 strikes in 24 hours",
+    "title": "Thick smoke seen near Riyadh airport as Houthis claim attack on Saudi capital",
     "category": "安全与冲突",
     "events": [
       {
@@ -394,6 +401,27 @@
         "event_cluster_id": "20260919-houthis-accuse-saudi-arabia-01",
         "headline": "Houthis accuse Saudi Arabia of launching 26 strikes in 24 hours",
         "summary": "The war in Yemen intensifies with mounting clashes and reciprocal attacks between Saudi forces and the Houthis.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260920",
+        "event_cluster_id": "20260920-iran-war-live-tehran-01",
+        "headline": "Iran Sets Peace Conditions via Qatar; Saudi Forces Foil Riyadh Attack",
+        "summary": "Iran's Supreme National Security Council secretary Mohsen Rezaei told Al Jazeera that Tehran has sent conditions for re-engaging in talks and ending the war to the US via Qatar, and is awaiting a response from President Trump. The conditions include an end to war on all fronts and the lifting of the US naval blockade. Saudi forces reported foiling an attack on Riyadh. The Washington Post reports t",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260920",
+        "event_cluster_id": "20260920-houthis-say-they-targeted-01",
+        "headline": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260920",
+        "event_cluster_id": "20260920-thick-smoke-seen-near-01",
+        "headline": "Thick smoke seen near Riyadh airport as Houthis claim attack on Saudi capital",
+        "summary": "Authorities issued warnings for city in first such alerts for Riyadh since fighting with Iran-backed Houthis escalated in July Yemen’s Houthis said they attacked “sensitive” sites in the Saudi capital with missiles and drones, hours after flames and a large plume of black smoke were seen rising above Riyadh airport on Saturday. The Saudi government sent air raid alerts to citizens by phone overnig",
         "category": "安全与冲突"
       }
     ]
@@ -708,8 +736,8 @@
   },
   {
     "thread_id": "thread-turn-your-rising-home-equity-into-cash-y",
-    "title": "Sources cover unrelated events; no shared event identified",
-    "category": "社会与公共政策",
+    "title": "Sources Cover Unrelated Sporting Events: PGA Tour Caddie Resignation and Cycling Championship Return to Montreal",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -836,6 +864,27 @@
         "headline": "Sources cover unrelated events; no shared event identified",
         "summary": "The provided sources do not describe the same event. The New York Times reports on two friends attempting to complete a complex board game called Campaign for North Africa. The New York Post publishes an opinion piece defending Israel against accusations regarding civilian casualties. No common subject, event, or timeframe exists between the two articles.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260920",
+        "event_cluster_id": "20260920-mum-s-viral-barefoot-01",
+        "headline": "Sources describe two unrelated incidents involving mothers and daughters",
+        "summary": "The provided sources do not cover the same event. BBC World reports on a 47-year-old widow in India who ran 3km in flip-flops to secure her daughter's future, sparking debate over India's education crisis. New York Post reports on the funeral of Lovay Williams, a mother beaten to death in front of her 7-year-old daughter in Harlem, New York. The sources diverge entirely as they describe different ",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260920",
+        "event_cluster_id": "20260920-nepal-s-gen-z-01",
+        "headline": "Sources cover unrelated events: Nepal climate activism and NYC attempted kidnapping",
+        "summary": "The provided sources do not describe the same event. The New York Times reports on Nepalese Gen Z climate activists confronting polluters over climate-related disasters. The New York Post reports on a woman arrested in New York City for attempting to kidnap a four-year-old boy from his grandmother, who is an off-duty police officer. No synthesis of a single event is possible.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260920",
+        "event_cluster_id": "20260920-professional-caddie-quits-midway-01",
+        "headline": "Sources Cover Unrelated Sporting Events: PGA Tour Caddie Resignation and Cycling Championship Return to Montreal",
+        "summary": "The provided sources describe two unrelated sporting events. Forbes reports that PGA Tour caddie Cliff Ellis quit mid-round after a verbal disagreement with golfer Alejandro Tosti. The New York Times reports that cycling's World Championship returns to Montreal for the first time in approximately fifty years, noting that since 2010 Montreal and Quebec City have hosted the only two North American r",
+        "category": "文化体育"
       }
     ]
   },
@@ -1079,7 +1128,7 @@
   },
   {
     "thread_id": "thread-norway-s-new-king-haakon-viii-takes-oath",
-    "title": "Sweden voted against more power for the far right – but are centrists listening",
+    "title": "Dutch riot police break up violent far-right protest in The Hague",
     "category": "国际政治",
     "events": [
       {
@@ -1143,6 +1192,13 @@
         "event_cluster_id": "20260917-sweden-voted-against-more-01",
         "headline": "Sweden voted against more power for the far right – but are centrists listening",
         "summary": "Even as the ‘extremist’ AfD seeks further election gains in Germany, Europe’s leaders can learn from Sweden’s dangerous embrace with far-right ideology Don’t get This Is Europe delivered to your inbox? Sign up here Europe’s focus turned nervously to Sweden on Sunday, after an explosive election in Germany just a week earlier placed a far-right party, officially classed as “extremist”, on the brink",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260920",
+        "event_cluster_id": "20260920-dutch-riot-police-break-01",
+        "headline": "Dutch riot police break up violent far-right protest in The Hague",
+        "summary": "Justice minister condemns Hitler salutes, antisemitic slogans, violence at the anti-immigration rally.",
         "category": "国际政治"
       }
     ]
@@ -2682,8 +2738,8 @@
   },
   {
     "thread_id": "thread-guinea-bissau-voters-approve-new-constit",
-    "title": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
-    "category": "经济与市场",
+    "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -2754,6 +2810,13 @@
         "headline": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
         "summary": "Leading Palestinian writer Raja Shehadeh has documented Israel's occupation of the West Bank since day one. Fearing the occupation might consume his archive, he secretly moved it to Scotland (Image credit: Yazeed Abu Khdeir)",
         "category": "经济与市场"
+      },
+      {
+        "date": "20260920",
+        "event_cluster_id": "20260920-israel-s-president-pardons-01",
+        "headline": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
+        "summary": "Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case.",
+        "category": "国际政治"
       }
     ]
   },
@@ -3095,8 +3158,8 @@
   },
   {
     "thread_id": "thread-germany-attributes-leipzig-airport-drone",
-    "title": "Trump announces security deal with Denmark over Greenland",
-    "category": "国际政治",
+    "title": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -3153,6 +3216,13 @@
         "headline": "Trump announces security deal with Denmark over Greenland",
         "summary": "Donald Trump announced on Friday that the US reached a security pact with Denmark and Greenland regarding the semi-autonomous Danish territory. Trump stated the agreement gives the US \"permanent control\" over security in Greenland, though Danish and Greenlandic officials have not confirmed the full specifics. Denmark and Greenland issued statements saying the deal preserves their sovereignty and r",
         "category": "国际政治"
+      },
+      {
+        "date": "20260920",
+        "event_cluster_id": "20260920-denmark-binding-us-deal-01",
+        "headline": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
+        "summary": "Trump has wanted a foothold in Greenland for some time, as a strategic battle unfolds for supremacy in warming Arctic.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -3907,8 +3977,8 @@
   },
   {
     "thread_id": "thread-马达加斯加前参议院主席因镇压z世代抗议被判强迫劳动-丹麦农民因化肥限令抗议",
-    "title": "Brighton vs Arsenal: Premier League – predictions, teams, lineups",
-    "category": "文化体育",
+    "title": "‘MobLand’ Season 2 Premiere Review: No Rest For The Wicked",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -3958,6 +4028,13 @@
         "headline": "Brighton vs Arsenal: Premier League – predictions, teams, lineups",
         "summary": "Premier League holders Arsenal have won all seven of their matches to start the new season.",
         "category": "文化体育"
+      },
+      {
+        "date": "20260920",
+        "event_cluster_id": "20260920-mobland-season-2-premiere-01",
+        "headline": "‘MobLand’ Season 2 Premiere Review: No Rest For The Wicked",
+        "summary": "MobLand Season 2 returns with an explosive premiere as Harry scrambles to clean up the Harrigans’ latest mess and a dangerous new rival emerges.",
+        "category": "未分类"
       }
     ]
   },
@@ -4383,8 +4460,8 @@
   },
   {
     "thread_id": "thread-long-lines-at-fuel-stations-are-spreadin",
-    "title": "The US president insists media outlets report fiction and lies as he announces new bans on White House access.",
-    "category": "国际政治",
+    "title": "A ‘ban on the free press’: White House bars journalists from three outlets",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -4427,6 +4504,13 @@
         "headline": "The US president insists media outlets report fiction and lies as he announces new bans on White House access.",
         "summary": "The US president insists media outlets report fiction and lies as he announces new bans on White House access.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260920",
+        "event_cluster_id": "20260920-ban-free-press-white-01",
+        "headline": "A ‘ban on the free press’: White House bars journalists from three outlets",
+        "summary": "Reporters from CNN, MS NOW, and Politico were denied access to White House on Saturday.",
+        "category": "未分类"
       }
     ]
   },
@@ -5671,8 +5755,8 @@
   },
   {
     "thread_id": "thread-how-725-game-show-winnings-kick-started-",
-    "title": "Rihanna’s Dance Bangers Climb To New Chart Peaks Together",
-    "category": "文化体育",
+    "title": "Dave Winfield Expounds On His Life And George Steinbrenner In New Book",
+    "category": "未分类",
     "events": [
       {
         "date": "20260908",
@@ -5708,6 +5792,13 @@
         "headline": "Rihanna’s Dance Bangers Climb To New Chart Peaks Together",
         "summary": "Rihanna’s “Don’t Stop the Music” and “S M” both reach new peaks on the Billboard Global Excl. U.S. as her catalog continues to surge worldwide.",
         "category": "文化体育"
+      },
+      {
+        "date": "20260920",
+        "event_cluster_id": "20260920-dave-winfield-expounds-his-01",
+        "headline": "Dave Winfield Expounds On His Life And George Steinbrenner In New Book",
+        "summary": "Dave Winfield pulls no punches in his new book explaining his problems with the late George Steinbrenner after signing the richest contract in history with the Yankees.",
+        "category": "未分类"
       }
     ]
   },
@@ -5881,7 +5972,7 @@
   },
   {
     "thread_id": "thread-supergirl-shifts-to-hbo-max-this-week-in",
-    "title": "‘Supergirl’ Shifts To HBO Max This Week In Wake Of Box Office Crash (But It’s Not The End For The Character)",
+    "title": "NFL Week 2: DraftKings Fantasy Plays and Jets vs Packers Preview",
     "category": "文化体育",
     "events": [
       {
@@ -5889,6 +5980,13 @@
         "event_cluster_id": "20260909-supergirl-shifts-hbo-max-01",
         "headline": "‘Supergirl’ Shifts To HBO Max This Week In Wake Of Box Office Crash (But It’s Not The End For The Character)",
         "summary": "\"Supergirl,\" starring Milly Alcock, arrives on HBO Max this week after the film flopped in theaters.",
+        "category": "文化体育"
+      },
+      {
+        "date": "20260920",
+        "event_cluster_id": "20260920-nfl-2026-2-draftkings-01",
+        "headline": "NFL Week 2: DraftKings Fantasy Plays and Jets vs Packers Preview",
+        "summary": "Forbes provided DraftKings main slate stacking and contrarian play recommendations for NFL Week 2. The New York Post reported on the Jets preparing for a Week 2 test against the Packers, following a competent offensive performance in Week 1. The sources cover different aspects of Week 2, with Forbes focusing on fantasy lineup strategy and the New York Post focusing on the Jets' offensive outlook.",
         "category": "文化体育"
       }
     ]
@@ -5972,7 +6070,7 @@
   },
   {
     "thread_id": "thread-saudi-arabia-vows-to-respond-after-houth",
-    "title": "Fire at nursing home in Chile kills 16 elderly residents",
+    "title": "Turn Your Rising Home Equity Into Cash You Can Use",
     "category": "未分类",
     "events": [
       {
@@ -5994,6 +6092,13 @@
         "event_cluster_id": "20260913-fire-nursing-home-chile-01",
         "headline": "Fire at nursing home in Chile kills 16 elderly residents",
         "summary": "The facility had faced fines and enforcement proceedings over regulatory violations since 2019.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260920",
+        "event_cluster_id": "20260920-turn-your-rising-home-01",
+        "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
+        "summary": "Mentmore Towers in Buckinghamshire, in the English countryside, in 1977.",
         "category": "未分类"
       }
     ]
@@ -6168,7 +6273,7 @@
   },
   {
     "thread_id": "thread-peter-thiel-backed-firm-to-make-low-cost",
-    "title": "Abbott Settles Baby Formula Claims For $385 Million",
+    "title": "Starbucks Settles Florida DEI Lawsuit, Denies Wrongdoing And Pays $1 Million",
     "category": "社会与公共政策",
     "events": [
       {
@@ -6183,6 +6288,13 @@
         "event_cluster_id": "20260915-abbott-settles-baby-formula-01",
         "headline": "Abbott Settles Baby Formula Claims For $385 Million",
         "summary": "Abbott will pay $385 million to settle state, federal, and civil lawsuits stemming from contamination issues at its Michigan baby formula plant in early 2022.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260920",
+        "event_cluster_id": "20260920-starbucks-settles-florida-dei-01",
+        "headline": "Starbucks Settles Florida DEI Lawsuit, Denies Wrongdoing And Pays $1 Million",
+        "summary": "Starbucks has resolved a Florida DEI lawsuit, agreeing to pay $1 million without admitting wrongdoing. Yet it highlights ongoing legal challenges regarding DEI policies.",
         "category": "社会与公共政策"
       }
     ]
@@ -6259,8 +6371,8 @@
   },
   {
     "thread_id": "thread-manchester-united-beat-sabah-4-0-on-cham",
-    "title": "Manchester United beat Sabah 4-0 on Champions League return",
-    "category": "文化体育",
+    "title": "Cuba works to restore power after another major nationwide blackout",
+    "category": "气候与环境",
     "events": [
       {
         "date": "20260911",
@@ -6268,6 +6380,13 @@
         "headline": "Manchester United beat Sabah 4-0 on Champions League return",
         "summary": "Goals from Matheus Cunha, Bruno Fernandes, Benjamin Sesko and Lisandro Martinez seal a winning UCL return for United.",
         "category": "文化体育"
+      },
+      {
+        "date": "20260920",
+        "event_cluster_id": "20260920-cuba-works-restore-power-01",
+        "headline": "Cuba works to restore power after another major nationwide blackout",
+        "summary": "The outage marks at least the sixth one this year after a United States-imposed energy blockade went into effect.",
+        "category": "气候与环境"
       }
     ]
   },
@@ -6420,8 +6539,8 @@
   },
   {
     "thread_id": "thread-us-legislators-push-ai-safety-laws-amid-",
-    "title": "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
-    "category": "未分类",
+    "title": "Trump says he will create ‘AI Force’ with new ‘AI czar’",
+    "category": "科技与AI",
     "events": [
       {
         "date": "20260912",
@@ -6457,6 +6576,13 @@
         "headline": "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
         "summary": "An informal network of dialogues at think tanks and universities is bringing together experts from the U.S. and China to talk about the shared perils of AI — and possible paths forward.",
         "category": "未分类"
+      },
+      {
+        "date": "20260920",
+        "event_cluster_id": "20260920-trump-he-create-ai-01",
+        "headline": "Trump says he will create ‘AI Force’ with new ‘AI czar’",
+        "summary": "The announcements come as AI faces mounting concerns from populations across the United States.",
+        "category": "科技与AI"
       }
     ]
   },
@@ -6476,8 +6602,8 @@
   },
   {
     "thread_id": "thread-six-nigerians-extradited-to-us-over-6m-o",
-    "title": "Ninth woman's body found as South African police investigate string of deaths",
-    "category": "未分类",
+    "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260913",
@@ -6492,6 +6618,13 @@
         "headline": "Ninth woman's body found as South African police investigate string of deaths",
         "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
         "category": "未分类"
+      },
+      {
+        "date": "20260920",
+        "event_cluster_id": "20260920-shark-attack-prompts-rare-01",
+        "headline": "Shark attack prompts rare kill order in Western Australia as victim named",
+        "summary": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -6763,7 +6896,7 @@
   },
   {
     "thread_id": "thread-super-macklemore-64-video-game-mocks-she",
-    "title": "Super Macklemore 64: Video game mocks Sheeran concert controversy",
+    "title": "Ed Sheeran concert set to go ahead after outcry over Gaza",
     "category": "文化体育",
     "events": [
       {
@@ -6772,6 +6905,27 @@
         "headline": "Super Macklemore 64: Video game mocks Sheeran concert controversy",
         "summary": "In Super Macklemore 64, players are chased by a giant Ed Sheeran, dodge tiny billionaire Robert Krafts.",
         "category": "文化体育"
+      },
+      {
+        "date": "20260920",
+        "event_cluster_id": "20260920-ed-sheeran-concert-set-01",
+        "headline": "Ed Sheeran concert set to go ahead after outcry over Gaza",
+        "summary": "Sheeran may perform solo after musicians dropped out of tour over expulsion of Macklemore for supporting Palestine.",
+        "category": "文化体育"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-israeli-airstrikes-target-paramedics-in-",
+    "title": "Israeli airstrikes target paramedics in southern Lebanon amid ongoing conflict",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20260920",
+        "event_cluster_id": "20260920-israel-targets-paramedics-southern-01",
+        "headline": "Israeli airstrikes target paramedics in southern Lebanon amid ongoing conflict",
+        "summary": "Israeli air strikes hit Nabatieh in southern Lebanon, including a strike on an ambulance team. The strikes occur in the context of ongoing fighting between Israel and Hezbollah, a militant group established in 1982. The United Nations Interim Force in Lebanon has monitored ceasefire adherence in the region since its mandate was expanded 20 years ago.",
+        "category": "安全与冲突"
       }
     ]
   }
