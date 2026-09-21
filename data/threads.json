@@ -71,7 +71,7 @@
   },
   {
     "thread_id": "thread-germany-says-russia-preparing-hybrid-att",
-    "title": "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
+    "title": "Ukraine targets Moscow with hundreds of drones on final day of Russian election",
     "category": "安全与冲突",
     "events": [
       {
@@ -121,6 +121,13 @@
         "event_cluster_id": "20260920-russia-powerful-cyberattacks-second-01",
         "headline": "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
         "summary": "This is Russia s first election since it invaded Ukraine, and is expected to gauge public support for the ongoing war.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260921",
+        "event_cluster_id": "20260921-ukraine-targets-moscow-hundreds-01",
+        "headline": "Ukraine targets Moscow with hundreds of drones on final day of Russian election",
+        "summary": "At least three people killed and oil refinery damaged as doubts cast over initial reports of ballistic missile use Ukraine has targeted Moscow and the surrounding region in a large-scale attack that involved hundreds of drones. The attack killed at least three people and damaged what Ukraine’s president, Volodymyr Zelenskyy, said was one of Russia’s “key oil industry facilities” on the final day o",
         "category": "安全与冲突"
       }
     ]
@@ -295,7 +302,7 @@
   },
   {
     "thread_id": "thread-bus-crash-in-egypt-s-south-sinai-kills-a",
-    "title": "Thick smoke seen near Riyadh airport as Houthis claim attack on Saudi capital",
+    "title": "Houthis Launch Missile and Drone Attack on Saudi Capital Riyadh",
     "category": "安全与冲突",
     "events": [
       {
@@ -422,6 +429,13 @@
         "event_cluster_id": "20260920-thick-smoke-seen-near-01",
         "headline": "Thick smoke seen near Riyadh airport as Houthis claim attack on Saudi capital",
         "summary": "Authorities issued warnings for city in first such alerts for Riyadh since fighting with Iran-backed Houthis escalated in July Yemen’s Houthis said they attacked “sensitive” sites in the Saudi capital with missiles and drones, hours after flames and a large plume of black smoke were seen rising above Riyadh airport on Saturday. The Saudi government sent air raid alerts to citizens by phone overnig",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260921",
+        "event_cluster_id": "20260921-saudi-arabia-houthis-tried-01",
+        "headline": "Houthis Launch Missile and Drone Attack on Saudi Capital Riyadh",
+        "summary": "Yemen's Houthi rebels launched missiles and drones at Riyadh, Saudi Arabia's capital, on Saturday. Saudi Arabia stated that Houthis attempted to attack Riyadh with a ballistic missile. Smoke was reported rising from the fuel storage depot at King Khalid International Airport. This marks the first time Riyadh has been targeted since the escalation in fighting with the Iran-backed rebels. All source",
         "category": "安全与冲突"
       }
     ]
@@ -652,8 +666,8 @@
   },
   {
     "thread_id": "thread-palestinian-artist-saint-levant-delays-t",
-    "title": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
-    "category": "国际政治",
+    "title": "Trump’s ambassador to U.N. says there’s no timeline on Iran war’s end",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -696,6 +710,13 @@
         "headline": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
         "summary": "Thousands take to the streets in support of Houthis in Sanaa, Trump extends sanctions on Iran.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260921",
+        "event_cluster_id": "20260921-trump-s-ambassador-u-01",
+        "headline": "Trump’s ambassador to U.N. says there’s no timeline on Iran war’s end",
+        "summary": "Mike Waltz said the U.S. naval blockade was having the intended effect of pressuring Iran's economy, but Tehran has said it is not backing down.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -1086,7 +1107,7 @@
   },
   {
     "thread_id": "thread-guinea-bissau-referendum-approves-new-co",
-    "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+    "title": "82-year-old man dies after fight with 76-year-old over sunlounger on Greek beach",
     "category": "社会与公共政策",
     "events": [
       {
@@ -1122,6 +1143,13 @@
         "event_cluster_id": "20260915-malaysian-boy-acquitted-murder-01",
         "headline": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
         "summary": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260921",
+        "event_cluster_id": "20260921-man-82-dies-beach-01",
+        "headline": "82-year-old man dies after fight with 76-year-old over sunlounger on Greek beach",
+        "summary": "An 82-year-old man died after a physical altercation with a 76-year-old man over a sunlounger at a beach on the Athenian riviera in Greece. The incident occurred at the popular bathing spot of Vouliagmeni on Sunday morning before 10am, when a shortage of loungers reportedly led to the argument. Greek police are investigating the death. BBC World reports an eyewitness described the scene as chaotic",
         "category": "社会与公共政策"
       }
     ]
@@ -2423,8 +2451,8 @@
   },
   {
     "thread_id": "thread-search-operations-continue-after-floods-",
-    "title": "Fifty years after Mao’s death, China has transformed. DW looks at why his political legacy still matters.",
-    "category": "未分类",
+    "title": "US, China open high-level talks ahead of Trump-Xi summit",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -2460,6 +2488,13 @@
         "headline": "Fifty years after Mao’s death, China has transformed. DW looks at why his political legacy still matters.",
         "summary": "Mao Zedong was perhaps the most influential, and certainly one of the most controversial, figures in 20th-century China. Even five decades after his death, the legacy of his era continues to influence China today.",
         "category": "未分类"
+      },
+      {
+        "date": "20260921",
+        "event_cluster_id": "20260921-us-china-open-high-01",
+        "headline": "US, China open high-level talks ahead of Trump-Xi summit",
+        "summary": "Scott Bessent and He Lifeng meet in New York for US-China talks ahead of the Trump-Xi meeting later this week.",
+        "category": "国际政治"
       }
     ]
   },
@@ -2668,8 +2703,8 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-tiger-woods-and-bmw",
-    "title": "Afghan woman deported in first use of US Alien Terrorist Removal Court",
-    "category": "社会与公共政策",
+    "title": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -2733,6 +2768,13 @@
         "headline": "Afghan woman deported in first use of US Alien Terrorist Removal Court",
         "summary": "Court was created in 1996, but had never been used before Nazira Haji Zada’s case.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260921",
+        "event_cluster_id": "20260921-eighteen-suspects-extradited-us-01",
+        "headline": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
+        "summary": "Federal court in Florida to try men accused of orchestrating the transnational plot to kill Jovenel Moise from US soil.",
+        "category": "国际政治"
       }
     ]
   },
@@ -3354,7 +3396,7 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-us-open-and-grand-c",
-    "title": "North Korean anthem played for South Korea at Asian Games",
+    "title": "Experts: this is the best cash back card of 2022",
     "category": "未分类",
     "events": [
       {
@@ -3425,6 +3467,13 @@
         "event_cluster_id": "20260919-north-korean-anthem-played-01",
         "headline": "North Korean anthem played for South Korea at Asian Games",
         "summary": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260921",
+        "event_cluster_id": "20260921-experts-best-cash-back-01",
+        "headline": "Experts: this is the best cash back card of 2022",
+        "summary": "Netflix's dive into the world of South Asian dance competitions carves out a story many young South Asians might recognize, but also one that anyone can connect with..",
         "category": "未分类"
       }
     ]
@@ -3592,8 +3641,8 @@
   },
   {
     "thread_id": "thread-scotus-allows-trump-s-ballroom-project-t",
-    "title": "Canada and EU: A look at the bloc's special relationships",
-    "category": "未分类",
+    "title": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -3643,6 +3692,13 @@
         "headline": "Canada and EU: A look at the bloc's special relationships",
         "summary": "Though Canada may be some distance from Europe geographically, closer political ties are in the cards. With talk of an associate membership, DW takes a look at other arrangements the EU has with particular countries.",
         "category": "未分类"
+      },
+      {
+        "date": "20260921",
+        "event_cluster_id": "20260921-france-s-macron-canada-01",
+        "headline": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
+        "summary": "Announcement comes as Canada seeks a closer relationship with the EU amid a trade war with the US.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -4768,8 +4824,8 @@
   },
   {
     "thread_id": "thread-india-rejects-hague-arbitration-ruling-o",
-    "title": "The conviction in The Hague of former President Hashim Thaci and three former Kosovo Liberation Army leaders has caused",
-    "category": "国际政治",
+    "title": "Kevin Warsh’s Rate Hikes Revive The Paul Volcker Myth",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -4805,6 +4861,13 @@
         "headline": "The conviction in The Hague of former President Hashim Thaci and three former Kosovo Liberation Army leaders has caused",
         "summary": "The conviction in The Hague of former President Hashim Thaci and three former Kosovo Liberation Army leaders has caused consternation in Kosovo — both among political leaders and on the streets. DW reports from Pristina.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260921",
+        "event_cluster_id": "20260921-kevin-warsh-s-rate-01",
+        "headline": "Kevin Warsh’s Rate Hikes Revive The Paul Volcker Myth",
+        "summary": "Breaking inflation is easy. It involves electing a president who believes in a dollar rendered strong by its stability. Alas, Donald Trump is not that president.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -5069,8 +5132,8 @@
   },
   {
     "thread_id": "thread-ice-agent-faces-federal-charges-for-lyin",
-    "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-    "category": "安全与冲突",
+    "title": "The Good, Bad And Ugly From The Packers’ Win Over The Jets",
+    "category": "未分类",
     "events": [
       {
         "date": "20260904",
@@ -5099,6 +5162,13 @@
         "headline": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
         "summary": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260921",
+        "event_cluster_id": "20260921-good-bad-ugly-packers-01",
+        "headline": "The Good, Bad And Ugly From The Packers’ Win Over The Jets",
+        "summary": "The Green Bay Packers rallied for a 20-17 overtime win over the New York Jets Sunday.",
+        "category": "未分类"
       }
     ]
   },
@@ -5349,7 +5419,7 @@
   },
   {
     "thread_id": "thread-russian-drone-strike-hits-ukraine-s-sbu-",
-    "title": "Russia’s plans may include strikes against Ukraine’s allies, Poland says",
+    "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
     "category": "安全与冲突",
     "events": [
       {
@@ -5378,6 +5448,13 @@
         "event_cluster_id": "20260918-russia-s-plans-may-01",
         "headline": "Russia’s plans may include strikes against Ukraine’s allies, Poland says",
         "summary": "Warsaw also says it scrambled military planes in response to a Russian attack in western Ukraine, close to its border.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260921",
+        "event_cluster_id": "20260921-largest-attack-moscow-sees-01",
+        "headline": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+        "summary": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
         "category": "安全与冲突"
       }
     ]
@@ -6100,6 +6177,13 @@
         "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
         "summary": "Mentmore Towers in Buckinghamshire, in the English countryside, in 1977.",
         "category": "未分类"
+      },
+      {
+        "date": "20260921",
+        "event_cluster_id": "20260921-turn-your-rising-home-01",
+        "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
+        "summary": "Mentmore Towers in Buckinghamshire, in the English countryside, in 1977.",
+        "category": "未分类"
       }
     ]
   },
@@ -6245,8 +6329,8 @@
   },
   {
     "thread_id": "thread-emergency-slide-deployed-on-trump-s-qata",
-    "title": "Trump says Canada becoming EU ‘associate member’ could be ‘hostile act’",
-    "category": "经济与市场",
+    "title": "Trump says triumphal arch will be military complex with drones and snipers",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260910",
@@ -6268,6 +6352,13 @@
         "headline": "Trump says Canada becoming EU ‘associate member’ could be ‘hostile act’",
         "summary": "The US president threatened heavy tariffs and said the US could cut some trade with Europe over the proposed status.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20260921",
+        "event_cluster_id": "20260921-trump-triumphal-arch-military-01",
+        "headline": "Trump says triumphal arch will be military complex with drones and snipers",
+        "summary": "Trump said the updated plans were at the request of the US military and for national security purposes.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -6651,8 +6742,8 @@
   },
   {
     "thread_id": "thread-taylor-swift-broke-her-longstanding-emmy",
-    "title": "Superstars and broken records: 2026 Emmy highlights",
-    "category": "安全与冲突",
+    "title": "Sources describe unrelated events: Chennai fisherfolk and Los Angeles politics",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260915",
@@ -6667,6 +6758,13 @@
         "headline": "Superstars and broken records: 2026 Emmy highlights",
         "summary": "The 78th Primetime Emmy Awards were hosted by Law & Order star Mariska Hargitay at the Peacock Theatre in Los Angeles.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260921",
+        "event_cluster_id": "20260921-photos-precarious-life-fisherfolk-01",
+        "headline": "Sources describe unrelated events: Chennai fisherfolk and Los Angeles politics",
+        "summary": "The provided sources do not cover the same event. NPR reports on fisherfolk in a market in Chennai, southern India. The New York Post reports on Los Angeles City Councilwoman Nithya Raman and her relationship with the Democratic Socialists of America (DSA). No common event can be synthesized from these two articles.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -6896,8 +6994,8 @@
   },
   {
     "thread_id": "thread-super-macklemore-64-video-game-mocks-she",
-    "title": "Ed Sheeran concert set to go ahead after outcry over Gaza",
-    "category": "文化体育",
+    "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+    "category": "未分类",
     "events": [
       {
         "date": "20260919",
@@ -6912,6 +7010,13 @@
         "headline": "Ed Sheeran concert set to go ahead after outcry over Gaza",
         "summary": "Sheeran may perform solo after musicians dropped out of tour over expulsion of Macklemore for supporting Palestine.",
         "category": "文化体育"
+      },
+      {
+        "date": "20260921",
+        "event_cluster_id": "20260921-ed-sheeran-admits-mistakes-01",
+        "headline": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+        "summary": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
+        "category": "未分类"
       }
     ]
   },
@@ -6926,6 +7031,20 @@
         "headline": "Israeli airstrikes target paramedics in southern Lebanon amid ongoing conflict",
         "summary": "Israeli air strikes hit Nabatieh in southern Lebanon, including a strike on an ambulance team. The strikes occur in the context of ongoing fighting between Israel and Hezbollah, a militant group established in 1982. The United Nations Interim Force in Lebanon has monitored ceasefire adherence in the region since its mandate was expanded 20 years ago.",
         "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-german-chancellor-merz-vows-to-stay-afte",
+    "title": "German Chancellor Merz vows to stay after CDU suffers losses in two state elections",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20260921",
+        "event_cluster_id": "20260921-german-chancellor-merz-calls-01",
+        "headline": "German Chancellor Merz vows to stay after CDU suffers losses in two state elections",
+        "summary": "German Chancellor Friedrich Merz's center-right CDU party suffered heavy losses in state elections in Mecklenburg-Western Pomerania and Berlin. Merz called the results a \"disaster\" but vowed to remain in office and press ahead with reforms. The far-right AfD won in Mecklenburg-Western Pomerania, while the leftwing Die Linke was on course for victory in Berlin. The CDU tallied 4.9% in one state, be",
+        "category": "国际政治"
       }
     ]
   }
