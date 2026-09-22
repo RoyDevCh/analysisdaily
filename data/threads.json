@@ -1380,7 +1380,7 @@
   },
   {
     "thread_id": "thread-worshippers-in-west-bank-tear-gassed-as-",
-    "title": "Bali police investigate after Australian man and children found dead in home",
+    "title": "Man and police officer wounded in exchange of gunfire near Ontario synagogue",
     "category": "未分类",
     "events": [
       {
@@ -1416,6 +1416,13 @@
         "event_cluster_id": "20260915-bali-police-investigate-australian-01",
         "headline": "Bali police investigate after Australian man and children found dead in home",
         "summary": "Police were called after the man's wife became concerned and asked neighbours to check on her family.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-man-police-officer-wounded-01",
+        "headline": "Man and police officer wounded in exchange of gunfire near Ontario synagogue",
+        "summary": "Officials say man was critically injured and officer was wounded in Yom Kippur incident near Belleville synagogue A police officer and a man were wounded in an exchange of gunfire on Sunday near a synagogue in Ontario as members of the Jewish community marked Yom Kippur, authorities said. The man was hospitalized in life-threatening condition. The Canadian province’s special investigations unit sa",
         "category": "未分类"
       }
     ]
@@ -1870,8 +1877,8 @@
   },
   {
     "thread_id": "thread-faster-homework-poor-exam-results-what-a",
-    "title": "Dream Big with a Home Equity Loan",
-    "category": "未分类",
+    "title": "Bollywood Lyricist Gulzar, 92, Continues Writing About Love",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -1921,6 +1928,13 @@
         "headline": "Dream Big with a Home Equity Loan",
         "summary": "Antonia Hylton and her crew were reporting from Texas' remote Big Bend region for the debut of \"The Assignment\" when their Jeep Wagoneer bottomed out.",
         "category": "未分类"
+      },
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-turn-your-rising-home-01",
+        "headline": "Bollywood Lyricist Gulzar, 92, Continues Writing About Love",
+        "summary": "Gulzar, the 92-year-old poet and lyricist known as the Bard of Bollywood, remains active in writing about love from his home in Mumbai. He was photographed at his residence in July. The sources provided do not cover a single unified event; two CNN items concern home equity loan promotions, while the New York Times item profiles Gulzar.",
+        "category": "文化体育"
       }
     ]
   },
@@ -2353,7 +2367,7 @@
   },
   {
     "thread_id": "thread-canadian-prime-minister-mark-carney-resp",
-    "title": "Canada’s Carney Doubles Down on Pivot Away from the United States",
+    "title": "Canadian and European Leaders Discuss New Partnership and Alliance",
     "category": "国际政治",
     "events": [
       {
@@ -2446,12 +2460,19 @@
         "headline": "Canada’s Carney Doubles Down on Pivot Away from the United States",
         "summary": "Prime Minister Mark Carney, a former investment banker and central bank governor, is working to draw global investors to Canada.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-uk-team-up-canada-01",
+        "headline": "Canadian and European Leaders Discuss New Partnership and Alliance",
+        "summary": "Canadian Prime Minister Mark Carney and French President Emmanuel Macron met on Sunday in Miquelon, a French territory off Canada, to discuss partnership. Separately, a Canadian minister told the BBC that the UK should team up with Canada in a new Europe alliance. This follows a proposal by the European Commission President to open the door for Canada to become an associate member of the EU. Both ",
+        "category": "国际政治"
       }
     ]
   },
   {
     "thread_id": "thread-search-operations-continue-after-floods-",
-    "title": "US, China open high-level talks ahead of Trump-Xi summit",
+    "title": "Xi Jinping and Trump Engage Amid US-China Trade and Taiwan Tensions",
     "category": "国际政治",
     "events": [
       {
@@ -2494,6 +2515,20 @@
         "event_cluster_id": "20260921-us-china-open-high-01",
         "headline": "US, China open high-level talks ahead of Trump-Xi summit",
         "summary": "Scott Bessent and He Lifeng meet in New York for US-China talks ahead of the Trump-Xi meeting later this week.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-us-china-discuss-ai-01",
+        "headline": "US and Chinese Officials Hold Talks Ahead of Trump-Xi Summit",
+        "summary": "US and Chinese officials held talks in New York on Sunday ahead of a summit between President Donald Trump and President Xi Jinping expected later this week. BBC World reports the discussions focused on an AI safety plan, while Forbes lists AI, trade, and Taiwan as key topics for the summit. Sources diverge on the summit location, with Forbes specifying Washington, D.C., while BBC World does not s",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-us-china-rivalry-reshaping-01",
+        "headline": "Xi Jinping and Trump Engage Amid US-China Trade and Taiwan Tensions",
+        "summary": "Chinese leader Xi Jinping is traveling to Washington this week for talks with US President Trump. DW World reports that regardless of the outcome, the EU will remain caught between US trade policy and China's export strategy. The New York Times reports that Trump has held off on arms sales to Taiwan as he seeks pragmatic ties with China. Sources diverge on the context and location of Xi-Trump enga",
         "category": "国际政治"
       }
     ]
@@ -2570,7 +2605,7 @@
   },
   {
     "thread_id": "thread-u-s-and-iran-exchange-military-strikes",
-    "title": "Iran war live: CENTCOM disputes IRGC claim supertanker struck by Hormuz nav",
+    "title": "Trump returns to the UN, what will he say",
     "category": "安全与冲突",
     "events": [
       {
@@ -2634,6 +2669,13 @@
         "event_cluster_id": "20260915-iran-war-live-centcom-01",
         "headline": "Iran war live: CENTCOM disputes IRGC claim supertanker struck by Hormuz nav",
         "summary": "CENTCOM disputes the IRGC claim that the Panama-flagged oil tanker El Gaia hit naval mines in the Strait of Hormuz.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-trump-returns-un-what-01",
+        "headline": "Trump returns to the UN, what will he say",
+        "summary": "Trump returns to UNGA amid Iran war he started, Israeli violations of a Gaza ceasefire, and scrutiny of US aims.",
         "category": "安全与冲突"
       }
     ]
@@ -3200,7 +3242,7 @@
   },
   {
     "thread_id": "thread-germany-attributes-leipzig-airport-drone",
-    "title": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
+    "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
     "category": "安全与冲突",
     "events": [
       {
@@ -3264,6 +3306,13 @@
         "event_cluster_id": "20260920-denmark-binding-us-deal-01",
         "headline": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
         "summary": "Trump has wanted a foothold in Greenland for some time, as a strategic battle unfolds for supremacy in warming Arctic.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-us-strikes-alleged-drug-01",
+        "headline": "US strikes on alleged drug boats could be crimes against humanity, says UN",
+        "summary": "A report says the attacks, of which there have been at least 68, were not self-defence.",
         "category": "安全与冲突"
       }
     ]
@@ -3494,8 +3543,8 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-indie-cinema-and-f1",
-    "title": "The UK s independent aerospace regulator has been instructed to review an air traffic control system outage on Tuesday.",
-    "category": "未分类",
+    "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -3559,6 +3608,13 @@
         "headline": "The UK s independent aerospace regulator has been instructed to review an air traffic control system outage on Tuesday.",
         "summary": "The UK s independent aerospace regulator has been instructed to review an air traffic control system outage on Tuesday.",
         "category": "未分类"
+      },
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-airlines-criticise-air-traffic-01",
+        "headline": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
+        "summary": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
+        "category": "国际政治"
       }
     ]
   },
@@ -4516,8 +4572,8 @@
   },
   {
     "thread_id": "thread-long-lines-at-fuel-stations-are-spreadin",
-    "title": "A ‘ban on the free press’: White House bars journalists from three outlets",
-    "category": "未分类",
+    "title": "Trump speech inaudible as US networks boycott White House event",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -4567,6 +4623,13 @@
         "headline": "A ‘ban on the free press’: White House bars journalists from three outlets",
         "summary": "Reporters from CNN, MS NOW, and Politico were denied access to White House on Saturday.",
         "category": "未分类"
+      },
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-trump-speech-inaudible-us-01",
+        "headline": "Trump speech inaudible as US networks boycott White House event",
+        "summary": "US President Trump unveiled a new White House helicopter pad as major US TV networks stayed away in protest.",
+        "category": "国际政治"
       }
     ]
   },
@@ -4684,8 +4747,8 @@
   },
   {
     "thread_id": "thread-2026年美国初选-马萨诸塞州马克伊获民主党提名-德州民主党民调微弱领先",
-    "title": "Trump administration again denies entry visas to Palestinian officials ahead of UN general assembly",
-    "category": "未分类",
+    "title": "World Leaders Convene at UN General Assembly in New York",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -4721,6 +4784,13 @@
         "headline": "Trump administration again denies entry visas to Palestinian officials ahead of UN general assembly",
         "summary": "For the second year in a row, the administration has barred the Palestinian delegation from US travel for the forum The US state department said on Wednesday that it had again denied entry visas to Palestinian officials ahead next week’s United Nations general assembly gathering in New York . The state department said in a statement the Palestinian Authority (PA) and the Palestine Liberation Organ",
         "category": "未分类"
+      },
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-what-know-world-leaders-01",
+        "headline": "World Leaders Convene at UN General Assembly in New York",
+        "summary": "World leaders gathered at the United Nations headquarters in New York this week for the General Assembly. UN Secretary-General António Guterres is attending his final General Assembly as the body faces divisions over wars in Ukraine and the Middle East. For the first time, artificial intelligence is on the agenda of the General Assembly meeting. Sources differ on emphasis, with NPR highlighting di",
+        "category": "国际政治"
       }
     ]
   },
@@ -4824,7 +4894,7 @@
   },
   {
     "thread_id": "thread-india-rejects-hague-arbitration-ruling-o",
-    "title": "Kevin Warsh’s Rate Hikes Revive The Paul Volcker Myth",
+    "title": "Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute",
     "category": "安全与冲突",
     "events": [
       {
@@ -4867,6 +4937,13 @@
         "event_cluster_id": "20260921-kevin-warsh-s-rate-01",
         "headline": "Kevin Warsh’s Rate Hikes Revive The Paul Volcker Myth",
         "summary": "Breaking inflation is easy. It involves electing a president who believes in a dollar rendered strong by its stability. Alas, Donald Trump is not that president.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-houthis-move-seize-strategic-01",
+        "headline": "Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute",
+        "summary": "US president reportedly changed his mind over Saudi Arabia’s pleas for assistance as bombs were being loaded Houthi fighters are moving to seize strategic heights in Yemen that would cut the Red Sea coast off from areas held ​by Saudi-backed forces after Donald Trump called off US strikes on the group at the last minute, reportedly as bombs were being loaded on to aircraft. Amid increasingly heavy",
         "category": "安全与冲突"
       }
     ]
@@ -5503,8 +5580,8 @@
   },
   {
     "thread_id": "thread-nigel-farage-heckled-at-reform-uk-confer",
-    "title": "Poland's prime minister warns of Russian 'accidental' attacks on Ukraine's allies",
-    "category": "国际政治",
+    "title": "UK to refuel Saudi jets to help counter Houthi attacks",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260905",
@@ -5533,6 +5610,13 @@
         "headline": "Poland's prime minister warns of Russian 'accidental' attacks on Ukraine's allies",
         "summary": "Polish Prime Minister Donald Tusk said that these potential strikes \"intend to paralyze NATO\" in an attempt to demonstrate that Article 5 \"exists only in theory.\" (Image credit: Wojtek Radwanski)",
         "category": "国际政治"
+      },
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-uk-refuel-saudi-jets-01",
+        "headline": "UK to refuel Saudi jets to help counter Houthi attacks",
+        "summary": "British Prime Minister Andy Burnham says he has agreed to a request for defensive air-to-air refuelling of Saudi jets.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -5762,8 +5846,8 @@
   },
   {
     "thread_id": "thread-two-separate-plane-crashes-in-the-united",
-    "title": "Two separate plane crashes in the United States result in multiple fatalities",
-    "category": "社会与公共政策",
+    "title": "A plane landing in Tokyo that one passenger called a miracle ended with applause as Typhoon Dujuan battered Japan.",
+    "category": "未分类",
     "events": [
       {
         "date": "20260907",
@@ -5771,6 +5855,13 @@
         "headline": "Two separate plane crashes in the United States result in multiple fatalities",
         "summary": "Two separate plane crashes were reported in the United States, one involving an Amazon cargo plane at a Miami airport and another involving a small aircraft near Fresno, California. In Miami, at least five people were killed and five were injured after an Amazon cargo plane crashed at the airport, with authorities investigating the cause. In Fresno, California, flight instructor Danna Eady and her",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-typhoon-dujuan-kills-two-01",
+        "headline": "A plane landing in Tokyo that one passenger called a miracle ended with applause as Typhoon Dujuan battered Japan.",
+        "summary": "Storm is moving northeast away from Japan s eastern coast into the Pacific, leaving a path of destruction behind.",
+        "category": "未分类"
       }
     ]
   },
@@ -6231,8 +6322,8 @@
   },
   {
     "thread_id": "thread-6-facts-about-grandparents-in-the-u-s",
-    "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
-    "category": "社会与公共政策",
+    "title": "Beaumont Lamarre-Condon has pleaded not guilty to the 2024 murder of his ex-partner and his new boyfriend.",
+    "category": "未分类",
     "events": [
       {
         "date": "20260910",
@@ -6247,6 +6338,13 @@
         "headline": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
         "summary": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-sydney-policeman-allegedly-disguised-01",
+        "headline": "Beaumont Lamarre-Condon has pleaded not guilty to the 2024 murder of his ex-partner and his new boyfriend.",
+        "summary": "Beaumont Lamarre-Condon has pleaded not guilty to the 2024 murder of his ex-partner and his new boyfriend.",
+        "category": "未分类"
       }
     ]
   },
@@ -6266,8 +6364,8 @@
   },
   {
     "thread_id": "thread-california-bets-on-a-non-ultra-processed",
-    "title": "California Bets On A Non-Ultra-Processed Food Label. Will It Work",
-    "category": "国际政治",
+    "title": "Coral Mountain Is California’s Newest Golf And Surf Club In The Desert",
+    "category": "未分类",
     "events": [
       {
         "date": "20260910",
@@ -6275,6 +6373,13 @@
         "headline": "California Bets On A Non-Ultra-Processed Food Label. Will It Work",
         "summary": "California’s AB 2244 would create the nation’s first government-backed non-ultra-processed food certification. Three tests could determine if it works.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-coral-mountain-california-s-01",
+        "headline": "Coral Mountain Is California’s Newest Golf And Surf Club In The Desert",
+        "summary": "Coral Mountain Desert Club is set to open in 2028, bringing with it a David McLay Kidd-designed golf course and a surf lagoon for members.",
+        "category": "未分类"
       }
     ]
   },
@@ -6294,8 +6399,8 @@
   },
   {
     "thread_id": "thread-burnham-defends-uk-ban-on-israeli-settle",
-    "title": "Declassified documents show UK aware of Israeli war crimes for 24 years",
-    "category": "安全与冲突",
+    "title": "UK prosecutors charge first person for Rwanda genocide",
+    "category": "未分类",
     "events": [
       {
         "date": "20260910",
@@ -6310,6 +6415,13 @@
         "headline": "Declassified documents show UK aware of Israeli war crimes for 24 years",
         "summary": "UK Foreign Office files, public since 2024, record warnings about Israeli violence and rights abuses since 2002.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-uk-prosecutors-charge-first-01",
+        "headline": "UK prosecutors charge first person for Rwanda genocide",
+        "summary": "Vincent Brown is alleged to have directed and incited acts of murder and genocide carried out by others .",
+        "category": "未分类"
       }
     ]
   },
@@ -6462,7 +6574,7 @@
   },
   {
     "thread_id": "thread-manchester-united-beat-sabah-4-0-on-cham",
-    "title": "Cuba works to restore power after another major nationwide blackout",
+    "title": "Southeast Asia Reconsiders Nuclear Power Amid Energy Demand and Climate Goals",
     "category": "气候与环境",
     "events": [
       {
@@ -6477,6 +6589,13 @@
         "event_cluster_id": "20260920-cuba-works-restore-power-01",
         "headline": "Cuba works to restore power after another major nationwide blackout",
         "summary": "The outage marks at least the sixth one this year after a United States-imposed energy blockade went into effect.",
+        "category": "气候与环境"
+      },
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-nuclear-power-back-southeast-01",
+        "headline": "Southeast Asia Reconsiders Nuclear Power Amid Energy Demand and Climate Goals",
+        "summary": "Southeast Asian nations are reviving long-stalled nuclear power plans driven by rising electricity demand, energy security concerns, and climate commitments. In the Philippines, the unused Bataan Nuclear Power Plant remains a divisive subject as its fate is debated. Proponents of nuclear energy in the region still face major obstacles.",
         "category": "气候与环境"
       }
     ]
@@ -6693,8 +6812,8 @@
   },
   {
     "thread_id": "thread-six-nigerians-extradited-to-us-over-6m-o",
-    "title": "Shark attack prompts rare kill order in Western Australia as victim named",
-    "category": "安全与冲突",
+    "title": "Two charged with woman's murder as South Africa police investigate eight other body finds",
+    "category": "未分类",
     "events": [
       {
         "date": "20260913",
@@ -6716,6 +6835,13 @@
         "headline": "Shark attack prompts rare kill order in Western Australia as victim named",
         "summary": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-two-charged-woman-s-01",
+        "headline": "Two charged with woman's murder as South Africa police investigate eight other body finds",
+        "summary": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
+        "category": "未分类"
       }
     ]
   },
@@ -6742,7 +6868,7 @@
   },
   {
     "thread_id": "thread-taylor-swift-broke-her-longstanding-emmy",
-    "title": "Sources describe unrelated events: Chennai fisherfolk and Los Angeles politics",
+    "title": "Sources cover unrelated events: British hospital heat wave conditions and Madison Scott's debut with the Liberty",
     "category": "社会与公共政策",
     "events": [
       {
@@ -6764,6 +6890,13 @@
         "event_cluster_id": "20260921-photos-precarious-life-fisherfolk-01",
         "headline": "Sources describe unrelated events: Chennai fisherfolk and Los Angeles politics",
         "summary": "The provided sources do not cover the same event. NPR reports on fisherfolk in a market in Chennai, southern India. The New York Post reports on Los Angeles City Councilwoman Nithya Raman and her relationship with the Democratic Socialists of America (DSA). No common event can be synthesized from these two articles.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-way-too-hot-britain-01",
+        "headline": "Sources cover unrelated events: British hospital heat wave conditions and Madison Scott's debut with the Liberty",
+        "summary": "The provided sources do not describe the same event. The New York Times reports on British hospitals facing high summer temperatures, citing a patient recovering at Queen's Medical Center in Nottingham during a heat wave. The New York Post reports on basketball player Madison Scott joining the Liberty and her performance in a game. The sources diverge entirely in subject matter.",
         "category": "社会与公共政策"
       }
     ]
@@ -6966,7 +7099,7 @@
   },
   {
     "thread_id": "thread-putin-s-grip-on-power-remains-strong-ahe",
-    "title": "Putin's Grip on Power Remains Strong Ahead of Parliamentary Election",
+    "title": "Putin’s party wins supermajority in Russia’s parliamentary election",
     "category": "国际政治",
     "events": [
       {
@@ -6974,6 +7107,13 @@
         "event_cluster_id": "20260919-why-autocrats-care-what-01",
         "headline": "Putin's Grip on Power Remains Strong Ahead of Parliamentary Election",
         "summary": "Ahead of a parliamentary election in Russia, President Vladimir Putin's grip on power remains strong. While The Washington Post explores potential successors to Putin, The New York Times examines why autocrats care about public opinion.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-putin-s-party-wins-01",
+        "headline": "Putin’s party wins supermajority in Russia’s parliamentary election",
+        "summary": "Victory of United Russia party strengthens Putin s hand even as the war with Ukraine grows more unpopular.",
         "category": "国际政治"
       }
     ]
@@ -7036,7 +7176,7 @@
   },
   {
     "thread_id": "thread-german-chancellor-merz-vows-to-stay-afte",
-    "title": "German Chancellor Merz vows to stay after CDU suffers losses in two state elections",
+    "title": "German Chancellor Merz vows to stay on after CDU loses two state elections to AfD",
     "category": "国际政治",
     "events": [
       {
@@ -7045,6 +7185,41 @@
         "headline": "German Chancellor Merz vows to stay after CDU suffers losses in two state elections",
         "summary": "German Chancellor Friedrich Merz's center-right CDU party suffered heavy losses in state elections in Mecklenburg-Western Pomerania and Berlin. Merz called the results a \"disaster\" but vowed to remain in office and press ahead with reforms. The far-right AfD won in Mecklenburg-Western Pomerania, while the leftwing Die Linke was on course for victory in Berlin. The CDU tallied 4.9% in one state, be",
         "category": "国际政治"
+      },
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-merz-vows-keep-coalition-01",
+        "headline": "German Chancellor Merz vows to stay on after CDU loses two state elections to AfD",
+        "summary": "German Chancellor Friedrich Merz vowed to keep his coalition government together for Germany's democratic future after his conservative CDU party lost two state elections in Berlin and Mecklenburg-Western Pomerania. The CDU was ejected from the Mecklenburg-Western Pomerania parliament. Merz delivered a televised speech shortly after polls closed, dismissing speculation about his position and pledg",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-yemenis-flee-across-red-sea-as-houthis-a",
+    "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-yemenis-flee-across-red-01",
+        "headline": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+        "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-ireland-s-data-protection-commission-fin",
+    "title": "Ireland's Data Protection Commission fines Google over €400m for GDPR violations related to location data",
+    "category": "科技与AI",
+    "events": [
+      {
+        "date": "20260922",
+        "event_cluster_id": "20260922-google-hit-403m-fine-01",
+        "headline": "Ireland's Data Protection Commission fines Google over €400m for GDPR violations related to location data",
+        "summary": "Ireland's Data Protection Commission (DPC) fined Google more than €400m for violations of GDPR rules concerning the processing of users' location data. The penalty follows an inquiry launched six years ago after complaints from several European consumer rights organisations. The regulator stated that users may have been unaware their information was used to target adverts or infer their interests.",
+        "category": "科技与AI"
       }
     ]
   }
