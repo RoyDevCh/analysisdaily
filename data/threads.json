@@ -302,7 +302,7 @@
   },
   {
     "thread_id": "thread-bus-crash-in-egypt-s-south-sinai-kills-a",
-    "title": "Houthis Launch Missile and Drone Attack on Saudi Capital Riyadh",
+    "title": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
     "category": "安全与冲突",
     "events": [
       {
@@ -436,6 +436,13 @@
         "event_cluster_id": "20260921-saudi-arabia-houthis-tried-01",
         "headline": "Houthis Launch Missile and Drone Attack on Saudi Capital Riyadh",
         "summary": "Yemen's Houthi rebels launched missiles and drones at Riyadh, Saudi Arabia's capital, on Saturday. Saudi Arabia stated that Houthis attempted to attack Riyadh with a ballistic missile. Smoke was reported rising from the fuel storage depot at King Khalid International Airport. This marks the first time Riyadh has been targeted since the escalation in fighting with the Iran-backed rebels. All source",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-saudi-arabia-s-king-01",
+        "headline": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
+        "summary": "Saudi monarch s rare condemnation hints at sense of urgency in the kingdom amid ramped-up attacks from Yemen.",
         "category": "安全与冲突"
       }
     ]
@@ -624,8 +631,8 @@
   },
   {
     "thread_id": "thread-keir-starmer-former-uk-prime-minister-sa",
-    "title": "Police clear Ceuta migrants off beaches in Spanish enclave",
-    "category": "未分类",
+    "title": "Obamacare Stocks Hit After JD Vance Claims 750,000 Enrolled Via Fraud",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260902",
@@ -661,6 +668,13 @@
         "headline": "Police clear Ceuta migrants off beaches in Spanish enclave",
         "summary": "At least 10,000 of the 72,000 migrants who broke through fence from Morocco in July remain in the Spanish enclave.",
         "category": "未分类"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-obamacare-stocks-hit-jd-01",
+        "headline": "Obamacare Stocks Hit After JD Vance Claims 750,000 Enrolled Via Fraud",
+        "summary": "Stocks of the biggest sellers of Obamacare were hit hard Tuesday after Vice President JD Vance said the Trump administration has yanked coverage of 750,000 due to fraud.",
+        "category": "经济与市场"
       }
     ]
   },
@@ -757,8 +771,8 @@
   },
   {
     "thread_id": "thread-turn-your-rising-home-equity-into-cash-y",
-    "title": "Sources Cover Unrelated Sporting Events: PGA Tour Caddie Resignation and Cycling Championship Return to Montreal",
-    "category": "文化体育",
+    "title": "Sources Cover Unrelated Events: Paul Brothers' Pentagon Visit and X Platform Call Codes",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -906,6 +920,20 @@
         "headline": "Sources Cover Unrelated Sporting Events: PGA Tour Caddie Resignation and Cycling Championship Return to Montreal",
         "summary": "The provided sources describe two unrelated sporting events. Forbes reports that PGA Tour caddie Cliff Ellis quit mid-round after a verbal disagreement with golfer Alejandro Tosti. The New York Times reports that cycling's World Championship returns to Montreal for the first time in approximately fifty years, noting that since 2010 Montreal and Quebec City have hosted the only two North American r",
         "category": "文化体育"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-autopsy-shows-hayden-panettiere-01",
+        "headline": "Sources cover unrelated events: celebrity death, soccer management, and fashion show",
+        "summary": "The provided articles do not cover the same event. BBC World reports on the accidental drug overdose death of a child star whose system contained fentanyl, Xanax, a muscle relaxant, and antipsychotic medication. Forbes profiles former Liverpool player Luis García's transition to CEO of Malaysian club Johor Darul Ta'zim, which broke a world record for consecutive unbeaten league matches. The Guardi",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-celebrities-pentagon-how-unusual-01",
+        "headline": "Sources Cover Unrelated Events: Paul Brothers' Pentagon Visit and X Platform Call Codes",
+        "summary": "The provided sources describe two unrelated events. Al Jazeera reports that Logan and Jake Paul visited the Pentagon with Pete Hegseth and faced social media backlash. Forbes reports that X introduced private codes for calls, stating the codes are not phone numbers and can be refreshed or removed. The sources do not cover the same event.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -1702,7 +1730,7 @@
   },
   {
     "thread_id": "thread-we-had-an-ordinary-life-iran-fisherwoman",
-    "title": "Iran War's Price Tag Is Around $40B—Is It Worth It? Analyst Weighs In",
+    "title": "Is Ethiopia heading towards renewed civil war",
     "category": "安全与冲突",
     "events": [
       {
@@ -1745,6 +1773,13 @@
         "event_cluster_id": "20260916-iran-war-s-price-01",
         "headline": "Iran War's Price Tag Is Around $40B—Is It Worth It? Analyst Weighs In",
         "summary": "The CBO also estimated that as of Aug. 1, the war has cost the DoD around $38 billion, and that number could increase by up to $3 billion per month.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-ethiopia-heading-towards-renewed-01",
+        "headline": "Is Ethiopia heading towards renewed civil war",
+        "summary": "Is Ethiopia heading towards renewed civil war?",
         "category": "安全与冲突"
       }
     ]
@@ -2178,8 +2213,8 @@
   },
   {
     "thread_id": "thread-nepal-flood-death-toll-exceeds-1-000",
-    "title": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
-    "category": "气候与环境",
+    "title": "Djibouti appeals for Yemeni refugee aid; Nepal demands climate justice after floods",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -2264,6 +2299,13 @@
         "headline": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
         "summary": "Recurring floods disrupt daily life in Tunis, raising questions about drainage, transport and flood preparedness.",
         "category": "气候与环境"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-djibouti-minister-appeals-aid-01",
+        "headline": "Djibouti appeals for Yemeni refugee aid; Nepal demands climate justice after floods",
+        "summary": "The provided sources describe two separate events rather than one shared event. Djibouti's Minister of Social Affairs and Solidarity, Ouloufa Ismail Abdo, appealed for aid for Yemeni refugees. Separately, Nepal's Environment Minister Geeta Chaudhary demanded climate justice and sought compensation from the UN-backed Loss and Damage Fund following floods in August. The sources diverge entirely in s",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -3228,8 +3270,8 @@
   },
   {
     "thread_id": "thread-u-s-officials-meet-g20-finance-ministers",
-    "title": "U.S. Officials Meet G20 Finance Ministers in Asheville",
-    "category": "国际政治",
+    "title": "Trump confirms US-Iran meeting at UN to discuss ending war",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -3237,6 +3279,13 @@
         "headline": "U.S. Officials Meet G20 Finance Ministers in Asheville",
         "summary": "Treasury Secretary Scott Bessent and Federal Reserve Chairman Kevin M. Warsh met with G20 finance ministers and central bank governors on Tuesday. The meeting took place in Asheville, North Carolina. Some U.S. allies expressed opposition to the economic approach of Donald Trump. The provided sources diverge as one article discusses a G20 summit while the other discusses an OpenAI product launch.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-iran-war-live-trump-01",
+        "headline": "Trump confirms US-Iran meeting at UN to discuss ending war",
+        "summary": "US President Donald Trump stated that US officials held a three-hour meeting with Iranian officials at the United Nations in New York on Tuesday. Trump described the meeting as \"very good.\" The purpose of the meeting was to discuss ending the ongoing war between the United States and Iran. Sources differ on whether Trump personally attended the meeting or whether US officials conducted it on his b",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -3445,7 +3494,7 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-us-open-and-grand-c",
-    "title": "Experts: this is the best cash back card of 2022",
+    "title": "Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico",
     "category": "未分类",
     "events": [
       {
@@ -3524,6 +3573,13 @@
         "headline": "Experts: this is the best cash back card of 2022",
         "summary": "Netflix's dive into the world of South Asian dance competitions carves out a story many young South Asians might recognize, but also one that anyone can connect with..",
         "category": "未分类"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-hurricane-polo-rapidly-intensifying-01",
+        "headline": "Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico",
+        "summary": "Polo, with sustained winds of 165mph, is churning 215 miles south of Zihuatanejo but is unlikely to directly hit Mexico A tropical storm off the south-west coast of Mexico has intensified into a category 5 monster in fewer than 24 hours, fueled by stronger than usual El Niño weather patterns in the Pacific Ocean. Hurricane Polo was sending out maximum sustained winds of 165mph (266km/h) on Tuesday",
+        "category": "未分类"
       }
     ]
   },
@@ -3543,7 +3599,7 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-indie-cinema-and-f1",
-    "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
+    "title": "UK PM Burnham condemns ‘repulsive’ Russian electoral interference",
     "category": "国际政治",
     "events": [
       {
@@ -3614,6 +3670,13 @@
         "event_cluster_id": "20260922-airlines-criticise-air-traffic-01",
         "headline": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
         "summary": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-uk-pm-burnham-condemns-01",
+        "headline": "UK PM Burnham condemns ‘repulsive’ Russian electoral interference",
+        "summary": "UK Prime Minister Andy Burnham addressed the UN General Assembly, accusing Russia of information warfare.",
         "category": "国际政治"
       }
     ]
@@ -3872,8 +3935,8 @@
   },
   {
     "thread_id": "thread-bosnian-serb-war-criminal-ratko-mladic-d",
-    "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-    "category": "安全与冲突",
+    "title": "Cyclist who dressed as man to avoid Taliban wins silver medal",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -3909,6 +3972,13 @@
         "headline": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
         "summary": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-cyclist-who-dressed-man-01",
+        "headline": "Cyclist who dressed as man to avoid Taliban wins silver medal",
+        "summary": "Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting dream.",
+        "category": "文化体育"
       }
     ]
   },
@@ -4572,8 +4642,8 @@
   },
   {
     "thread_id": "thread-long-lines-at-fuel-stations-are-spreadin",
-    "title": "Trump speech inaudible as US networks boycott White House event",
-    "category": "国际政治",
+    "title": "White House Bars Three News Organizations from Press Pool",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -4630,6 +4700,20 @@
         "headline": "Trump speech inaudible as US networks boycott White House event",
         "summary": "US President Trump unveiled a new White House helicopter pad as major US TV networks stayed away in protest.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-cnn-ms-now-politico-01",
+        "headline": "Paramount Settles Antitrust Case with State Attorneys General Over Warner Bros. Merger; CNN, MSNBC, and Politico Sue Trump Over White House Suspensions",
+        "summary": "Paramount settled an antitrust lawsuit with 12 state attorneys general, clearing the path for its merger with Warner Bros. Discovery. The combined entity will control Warner Bros., HBO, CNN, CBS, DC, and Paramount+. Separately, CNN, MSNBC, and Politico sued President Trump after the networks were suspended from the White House. Sources differ on the framing of the Paramount settlement, with NPR de",
+        "category": "经济与市场"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-what-white-house-pool-01",
+        "headline": "White House Bars Three News Organizations from Press Pool",
+        "summary": "The White House press pool is at the center of a dispute between President Donald Trump and TV networks. Three news organizations have been barred from White House access. Journalist Jim Acosta, who previously experienced a press-pass fight, says the press is showing solidarity that should have come sooner. The White House press pool is a rotating group of journalists who cover the president and s",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -4747,7 +4831,7 @@
   },
   {
     "thread_id": "thread-2026年美国初选-马萨诸塞州马克伊获民主党提名-德州民主党民调微弱领先",
-    "title": "World Leaders Convene at UN General Assembly in New York",
+    "title": "Political scientist on what's at stake as Trump speaks to world leaders at UNGA",
     "category": "国际政治",
     "events": [
       {
@@ -4790,6 +4874,27 @@
         "event_cluster_id": "20260922-what-know-world-leaders-01",
         "headline": "World Leaders Convene at UN General Assembly in New York",
         "summary": "World leaders gathered at the United Nations headquarters in New York this week for the General Assembly. UN Secretary-General António Guterres is attending his final General Assembly as the body faces divisions over wars in Ukraine and the Middle East. For the first time, artificial intelligence is on the agenda of the General Assembly meeting. Sources differ on emphasis, with NPR highlighting di",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-us-signs-tremendous-security-01",
+        "headline": "US Signs Security Deal with Denmark and Greenland at UN General Assembly",
+        "summary": "The United States signed a security agreement with Denmark and Greenland at the UN General Assembly in New York, allowing an expanded US military presence in Greenland, including the construction of two military bases. The deal re-affirms Denmark's sovereignty over the semi-autonomous territory. Reactions among Greenlanders were mixed, with some expressing skepticism and distrust due to lack of tr",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-watch-threats-deals-passionate-01",
+        "headline": "Watch: Threats, deals and passionate speeches at UNGA event",
+        "summary": "Delegations from across the world attended the United Nations General Assembly in New York.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-political-scientist-what-s-01",
+        "headline": "Political scientist on what's at stake as Trump speaks to world leaders at UNGA",
+        "summary": "NPR's Steve Inskeep speaks with political scientist Ian Bremmer of the Eurasia Group about President Trump's diplomatic stakes as he addresses the U.N. General Assembly.",
         "category": "国际政治"
       }
     ]
@@ -4894,8 +4999,8 @@
   },
   {
     "thread_id": "thread-india-rejects-hague-arbitration-ruling-o",
-    "title": "Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute",
-    "category": "安全与冲突",
+    "title": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -4945,6 +5050,13 @@
         "headline": "Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute",
         "summary": "US president reportedly changed his mind over Saudi Arabia’s pleas for assistance as bombs were being loaded Houthi fighters are moving to seize strategic heights in Yemen that would cut the Red Sea coast off from areas held ​by Saudi-backed forces after Donald Trump called off US strikes on the group at the last minute, reportedly as bombs were being loaded on to aircraft. Amid increasingly heavy",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-up-169-killed-yemen-01",
+        "headline": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
+        "summary": "Thousands flee fighting as Iran-aligned group seeks to consolidate territorial gains against Saudi-backed government forces Middle East live – latest updates As many as 169 people have been reportedly killed in Yemen in the last three days as Iran-aligned Houthis battle Saudi-backed government forces for control of strategic heights on the Red Sea coast, while thousands flee the violence. Houthi m",
+        "category": "国际政治"
       }
     ]
   },
@@ -5265,8 +5377,8 @@
   },
   {
     "thread_id": "thread-two-palestinian-teenagers-killed-during-",
-    "title": "Three dead and eight injured in Philippines school shooting",
-    "category": "社会与公共政策",
+    "title": "British Columbia Sues OpenAI Over School Shooting; Separate Shooting Reported in Turkey",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260904",
@@ -5309,6 +5421,13 @@
         "headline": "Three dead and eight injured in Philippines school shooting",
         "summary": "The gunman is among the dead in what is the third school shooting in the country since June.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-british-columbia-sues-openai-01",
+        "headline": "British Columbia Sues OpenAI Over School Shooting; Separate Shooting Reported in Turkey",
+        "summary": "The Canadian province of British Columbia filed a lawsuit in San Francisco federal court on Monday against OpenAI and CEO Sam Altman, alleging that a mass school shooting in Tumbler Ridge could have been prevented if the company had alerted police to the shooter's use of ChatGPT. The suit seeks damages and an order requiring changes to how OpenAI handles conversations that could lead to violence. ",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -5692,7 +5811,7 @@
   },
   {
     "thread_id": "thread-egyptian-tv-presenter-sarah-khalifa-sent",
-    "title": "Egyptian court sentences TV presenter and 11 others to death in drugs case",
+    "title": "Two unrelated court incidents reported: Trump admin challenges scholar's release; man arrested with gun in NYC court",
     "category": "社会与公共政策",
     "events": [
       {
@@ -5707,6 +5826,20 @@
         "event_cluster_id": "20260907-tv-presenter-among-12-01",
         "headline": "Egyptian court sentences TV presenter and 11 others to death in drugs case",
         "summary": "An Egyptian court sentenced twelve people, including TV presenter Sarah Khalifa, to death in a drugs case, according to BBC World. Sarah Khalifa is known for her crime-focused programme Mission Impossible. The BBC source focused on the court ruling and the identity of the presenter. The New York Post article concerned an unrelated event about a Monkees member and a Los Angeles radio anniversary, n",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-lindsay-clancy-s-lawyer-01",
+        "headline": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
+        "summary": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-trump-admin-asks-top-01",
+        "headline": "Two unrelated court incidents reported: Trump admin challenges scholar's release; man arrested with gun in NYC court",
+        "summary": "The provided sources describe two separate events. Al Jazeera reports that the Trump administration asked the US Supreme Court to reverse a lower court ruling that released a pro-Palestinian Georgetown scholar from detention. The New York Post reports that a man entered a New York City court with a loaded handgun in his underwear and resisted arrest. The sources do not cover the same event.",
         "category": "社会与公共政策"
       }
     ]
@@ -5923,7 +6056,7 @@
   },
   {
     "thread_id": "thread-how-725-game-show-winnings-kick-started-",
-    "title": "Dave Winfield Expounds On His Life And George Steinbrenner In New Book",
+    "title": "'Swan Song': New book by Princess Diana's brother drops",
     "category": "未分类",
     "events": [
       {
@@ -5966,6 +6099,13 @@
         "event_cluster_id": "20260920-dave-winfield-expounds-his-01",
         "headline": "Dave Winfield Expounds On His Life And George Steinbrenner In New Book",
         "summary": "Dave Winfield pulls no punches in his new book explaining his problems with the late George Steinbrenner after signing the richest contract in history with the Yankees.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-swan-song-book-princess-01",
+        "headline": "'Swan Song': New book by Princess Diana's brother drops",
+        "summary": "A memoir penned by Charles Spencer on his older sister's life has been released, opening old royal wounds nearly three decades after Princess Diana's death.",
         "category": "未分类"
       }
     ]
@@ -6427,7 +6567,7 @@
   },
   {
     "thread_id": "thread-how-a-driver-s-sudden-death-triggered-eb",
-    "title": "How a Driver’s Sudden Death Triggered Ebola Panic in Congo",
+    "title": "US judge blocks deportation of DoorDash driver shot by ICE",
     "category": "未分类",
     "events": [
       {
@@ -6435,6 +6575,13 @@
         "event_cluster_id": "20260910-how-driver-s-sudden-01",
         "headline": "How a Driver’s Sudden Death Triggered Ebola Panic in Congo",
         "summary": "When a truck driver unexpectedly collapsed and died in a remote village, frontline medical staff scrambled to safely isolate his body, triggering a standoff.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-us-judge-blocks-deportation-01",
+        "headline": "US judge blocks deportation of DoorDash driver shot by ICE",
+        "summary": "The delivery driver was transferred from a hospital to a detention centre after the shooting on Sunday.",
         "category": "未分类"
       }
     ]
@@ -6749,7 +6896,7 @@
   },
   {
     "thread_id": "thread-us-legislators-push-ai-safety-laws-amid-",
-    "title": "Trump says he will create ‘AI Force’ with new ‘AI czar’",
+    "title": "Trump Forms AI Task Force and Special Envoy Amid US-China AI Competition",
     "category": "科技与AI",
     "events": [
       {
@@ -6792,6 +6939,13 @@
         "event_cluster_id": "20260920-trump-he-create-ai-01",
         "headline": "Trump says he will create ‘AI Force’ with new ‘AI czar’",
         "summary": "The announcements come as AI faces mounting concerns from populations across the United States.",
+        "category": "科技与AI"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-us-china-ai-race-01",
+        "headline": "Trump Forms AI Task Force and Special Envoy Amid US-China AI Competition",
+        "summary": "The US is establishing a task force and a special envoy for artificial intelligence, raising questions about whether the Trump administration intends to regulate AI technology, particularly in the context of competition with China. Sources diverge significantly: one focuses on US AI policy and the US-China technology race, while the other reports on China's crackdown on churches and its victims, w",
         "category": "科技与AI"
       }
     ]
@@ -6868,8 +7022,8 @@
   },
   {
     "thread_id": "thread-taylor-swift-broke-her-longstanding-emmy",
-    "title": "Sources cover unrelated events: British hospital heat wave conditions and Madison Scott's debut with the Liberty",
-    "category": "社会与公共政策",
+    "title": "Sources cover unrelated events: German regional elections and WNBA Liberty playoff outlook",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260915",
@@ -6898,6 +7052,20 @@
         "headline": "Sources cover unrelated events: British hospital heat wave conditions and Madison Scott's debut with the Liberty",
         "summary": "The provided sources do not describe the same event. The New York Times reports on British hospitals facing high summer temperatures, citing a patient recovering at Queen's Medical Center in Nottingham during a heat wave. The New York Post reports on basketball player Madison Scott joining the Liberty and her performance in a game. The sources diverge entirely in subject matter.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-kamala-harris-campaigns-abdul-01",
+        "headline": "Sources cover unrelated events: Harris campaign in Detroit and record-strength El Niño",
+        "summary": "The provided sources describe two unrelated events. Al Jazeera reports that Kamala Harris campaigned with Abdul El-Sayed in Detroit to unify Democratic voters in Michigan. BBC World reports that a developing El Niño has become the strongest on record, with weather impacts already being felt globally. The sources diverge entirely in subject matter and share no common event.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-victories-far-left-right-01",
+        "headline": "Sources cover unrelated events: German regional elections and WNBA Liberty playoff outlook",
+        "summary": "The provided sources do not describe the same event. The Washington Post reports on German regional elections where the Left party won in Berlin and the Alternative for Germany won in Mecklenburg-West Pomerania. The New York Post reports on the WNBA Liberty team facing road playoff scenarios. No synthesis of a single event is possible.",
+        "category": "国际政治"
       }
     ]
   },
@@ -7022,8 +7190,8 @@
   },
   {
     "thread_id": "thread-iran-activists-sound-alarm-as-regime-sei",
-    "title": "Iran: Activists sound alarm as regime seizes Baha'i assets",
-    "category": "安全与冲突",
+    "title": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260917",
@@ -7031,6 +7199,20 @@
         "headline": "Iran: Activists sound alarm as regime seizes Baha'i assets",
         "summary": "Rights groups warn Iran is increasingly confiscating assets from government critics and members of the country's Baha'i faith, but also actors, athletes and journalists living abroad.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-trump-threatens-annihilate-iran-01",
+        "headline": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
+        "summary": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-iran-flights-baghdad-muscat-01",
+        "headline": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
+        "summary": "Iran s aviation officials negotiate with Oman and Iraq as US s Bessent targets carriers seven months into the conflict.",
+        "category": "国际政治"
       }
     ]
   },
@@ -7134,8 +7316,8 @@
   },
   {
     "thread_id": "thread-super-macklemore-64-video-game-mocks-she",
-    "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-    "category": "未分类",
+    "title": "Israel-related tensions surface across UN, Moroccan elections, and football",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260919",
@@ -7157,6 +7339,13 @@
         "headline": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
         "summary": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
         "category": "未分类"
+      },
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-erdogan-accuses-israel-genocidal-01",
+        "headline": "Israel-related tensions surface across UN, Moroccan elections, and football",
+        "summary": "Turkish President Erdogan accused Israel of a 'genocidal mindset' at the UN General Assembly. In Morocco, Israel-related rhetoric is being used to court young voters in elections. Separately, a football match between Israel and the Republic of Ireland has become contentious, with neutral venues and no away fans. The sources cover distinct events linked by the theme of Israel-related international ",
+        "category": "国际政治"
       }
     ]
   },
@@ -7220,6 +7409,48 @@
         "headline": "Ireland's Data Protection Commission fines Google over €400m for GDPR violations related to location data",
         "summary": "Ireland's Data Protection Commission (DPC) fined Google more than €400m for violations of GDPR rules concerning the processing of users' location data. The penalty follows an inquiry launched six years ago after complaints from several European consumer rights organisations. The regulator stated that users may have been unaware their information was used to target adverts or infer their interests.",
         "category": "科技与AI"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-sri-lanka-court-convicts-15-over-2019-ea",
+    "title": "Sri Lanka Court Convicts 15 Over 2019 Easter Sunday Bombings",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-sri-lanka-court-convicts-01",
+        "headline": "Sri Lanka Court Convicts 15 Over 2019 Easter Sunday Bombings",
+        "summary": "A court in Sri Lanka convicted 15 men in connection with the 2019 Easter Sunday bombings. The attacks targeted three churches and three luxury hotels, killing 270 people, including 42 foreigners. NPR reports the attacks were inspired by the Islamic State group. All three sources are left-leaning; no right-leaning coverage was provided for comparison.",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-eu-removes-russian-oligarchs-usmanov-and",
+    "title": "EU removes Russian oligarchs Usmanov and Fridman from sanctions list",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-ukraine-anger-eu-removes-01",
+        "headline": "EU removes Russian oligarchs Usmanov and Fridman from sanctions list",
+        "summary": "The EU removed two Russian billionaires, Alisher Usmanov and Mikhail Fridman, from its sanctions list while extending restrictions on nearly 3,000 individuals and companies for three years. The decision came before an end-of-Tuesday deadline to preserve the Russia blacklist and was described by Ireland's EU presidency as a difficult compromise. Ukraine objected to the move, stating it sent Moscow ",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-leaders-set-ambitious-goals-to-better-th",
+    "title": "Leaders set ambitious goals to better the world by 2030. They've made little progress",
+    "category": "社会与公共政策",
+    "events": [
+      {
+        "date": "20260923",
+        "event_cluster_id": "20260923-leaders-set-ambitious-goals-01",
+        "headline": "Leaders set ambitious goals to better the world by 2030. They've made little progress",
+        "summary": "In 2015, global leaders set ambitious goals to reduce inequality, end hunger and boost education. More than a decade later, the world is nowhere near achieving much of what was promised.",
+        "category": "社会与公共政策"
       }
     ]
   }
