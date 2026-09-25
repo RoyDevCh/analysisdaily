@@ -512,7 +512,7 @@
   },
   {
     "thread_id": "thread-mark-carney-tells-us-to-start-being-seri",
-    "title": "New cat species found, first in more than 100 years",
+    "title": "Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll",
     "category": "未分类",
     "events": [
       {
@@ -590,6 +590,13 @@
         "event_cluster_id": "20260919-cat-species-found-first-01",
         "headline": "New cat species found, first in more than 100 years",
         "summary": "A new species of living cat has been identified for the first time in more than a century.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-brazil-s-lula-flavio-01",
+        "headline": "Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll",
+        "summary": "Luiz Inacio Lula da Silva is up two points, but that s still within the poll s margin of error.",
         "category": "未分类"
       }
     ]
@@ -680,7 +687,7 @@
   },
   {
     "thread_id": "thread-palestinian-artist-saint-levant-delays-t",
-    "title": "Trump’s ambassador to U.N. says there’s no timeline on Iran war’s end",
+    "title": "Iran war live: Tehran wants Washington to re-enter MoU before US midterms",
     "category": "安全与冲突",
     "events": [
       {
@@ -731,6 +738,13 @@
         "headline": "Trump’s ambassador to U.N. says there’s no timeline on Iran war’s end",
         "summary": "Mike Waltz said the U.S. naval blockade was having the intended effect of pressuring Iran's economy, but Tehran has said it is not backing down.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-iran-war-live-tehran-01",
+        "headline": "Iran war live: Tehran wants Washington to re-enter MoU before US midterms",
+        "summary": "Iranian President Masoud Pezeshkian says Iran wants the US to return to the MoU by early November.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -771,7 +785,7 @@
   },
   {
     "thread_id": "thread-turn-your-rising-home-equity-into-cash-y",
-    "title": "Sources Cover Unrelated Events: Paul Brothers' Pentagon Visit and X Platform Call Codes",
+    "title": "Sources cover unrelated events: Argentina poverty, Riot Fest 2026, and PWI 500 wrestling list",
     "category": "社会与公共政策",
     "events": [
       {
@@ -933,6 +947,13 @@
         "event_cluster_id": "20260923-celebrities-pentagon-how-unusual-01",
         "headline": "Sources Cover Unrelated Events: Paul Brothers' Pentagon Visit and X Platform Call Codes",
         "summary": "The provided sources describe two unrelated events. Al Jazeera reports that Logan and Jake Paul visited the Pentagon with Pete Hegseth and faced social media backlash. Forbes reports that X introduced private codes for calls, stating the codes are not phone numbers and can be refreshed or removed. The sources do not cover the same event.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-argentina-s-poverty-rises-01",
+        "headline": "Sources cover unrelated events: Argentina poverty, Riot Fest 2026, and PWI 500 wrestling list",
+        "summary": "The provided sources do not describe the same event. Al Jazeera reports that Argentina's poverty rate rose to 32 percent under President Milei in the first half of 2026, with a projected further 4.1-percentage-point increase. Forbes reports that Riot Fest 2026 concluded in Chicago despite muddy conditions, featuring performances by Patti Smith, Elvis Costello, and William Shatner. Forbes separatel",
         "category": "社会与公共政策"
       }
     ]
@@ -1135,7 +1156,7 @@
   },
   {
     "thread_id": "thread-guinea-bissau-referendum-approves-new-co",
-    "title": "82-year-old man dies after fight with 76-year-old over sunlounger on Greek beach",
+    "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
     "category": "社会与公共政策",
     "events": [
       {
@@ -1178,6 +1199,13 @@
         "event_cluster_id": "20260921-man-82-dies-beach-01",
         "headline": "82-year-old man dies after fight with 76-year-old over sunlounger on Greek beach",
         "summary": "An 82-year-old man died after a physical altercation with a 76-year-old man over a sunlounger at a beach on the Athenian riviera in Greece. The incident occurred at the popular bathing spot of Vouliagmeni on Sunday morning before 10am, when a shortage of loungers reportedly led to the argument. Greek police are investigating the death. BBC World reports an eyewitness described the scene as chaotic",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-105-old-investigated-crimes-01",
+        "headline": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+        "summary": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
         "category": "社会与公共政策"
       }
     ]
@@ -1730,7 +1758,7 @@
   },
   {
     "thread_id": "thread-we-had-an-ordinary-life-iran-fisherwoman",
-    "title": "Is Ethiopia heading towards renewed civil war",
+    "title": "Fears of return to war grow in Ethiopia's Tigray region",
     "category": "安全与冲突",
     "events": [
       {
@@ -1780,6 +1808,20 @@
         "event_cluster_id": "20260923-ethiopia-heading-towards-renewed-01",
         "headline": "Is Ethiopia heading towards renewed civil war",
         "summary": "Is Ethiopia heading towards renewed civil war?",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-ethiopian-army-272-tigrayan-01",
+        "headline": "Ethiopian army says 272 Tigrayan fighters killed in Amhara",
+        "summary": "Tigray People’s Liberation Front says in a situation of full-blown war with Ethiopia s government.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-fears-return-war-grow-01",
+        "headline": "Fears of return to war grow in Ethiopia's Tigray region",
+        "summary": "Fears are growing of a return to war in Ethiopia's Tigray region, just four years after a devastating conflict ended in a fragile peace deal.",
         "category": "安全与冲突"
       }
     ]
@@ -2311,8 +2353,8 @@
   },
   {
     "thread_id": "thread-apple-and-google-rename-lake-ontario-to-",
-    "title": "The World Economy Is Becoming Wary of the U.S.",
-    "category": "安全与冲突",
+    "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -2355,6 +2397,13 @@
         "headline": "The World Economy Is Becoming Wary of the U.S.",
         "summary": "America’s position of global economic stability is starting to look shakier as the Trump administration piles on debt and doubles down on sanctions.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-nagaland-path-oscars-indian-01",
+        "headline": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
+        "summary": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
+        "category": "文化体育"
       }
     ]
   },
@@ -2514,8 +2563,8 @@
   },
   {
     "thread_id": "thread-search-operations-continue-after-floods-",
-    "title": "Xi Jinping and Trump Engage Amid US-China Trade and Taiwan Tensions",
-    "category": "国际政治",
+    "title": "China to Send Pandas to Zoo Atlanta, Xi Says",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -2572,13 +2621,27 @@
         "headline": "Xi Jinping and Trump Engage Amid US-China Trade and Taiwan Tensions",
         "summary": "Chinese leader Xi Jinping is traveling to Washington this week for talks with US President Trump. DW World reports that regardless of the outcome, the EU will remain caught between US trade policy and China's export strategy. The New York Times reports that Trump has held off on arms sales to Taiwan as he seeks pragmatic ties with China. Sources diverge on the context and location of Xi-Trump enga",
         "category": "国际政治"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-trump-xi-summit-four-01",
+        "headline": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
+        "summary": "Trump, Xi seek stable US-China ties at the White House, but differences over Iran, Taiwan and trade remain unresolved.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-china-send-pandas-zoo-01",
+        "headline": "China to Send Pandas to Zoo Atlanta, Xi Says",
+        "summary": "Lun Lun, a female panda, in her habitat at Zoo Atlanta in 2006. She was returned to China in 2024.",
+        "category": "未分类"
       }
     ]
   },
   {
     "thread_id": "thread-keir-starmer-announces-departure-from-pa",
-    "title": "Israeli minister accuses 'NAZA' filmmakers of 'treason'",
-    "category": "国际政治",
+    "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -2642,6 +2705,13 @@
         "headline": "Israeli minister accuses 'NAZA' filmmakers of 'treason'",
         "summary": "Israel's culture minister wants to strip the makers of a documentary on Israel's Gaza offensive of their citizenship. He accused the two of seeking \"applause from antisemites around the world.\"",
         "category": "国际政治"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-benjamin-netanyahu-attacks-israel-01",
+        "headline": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
+        "summary": "Israeli prime minister denounces Iran, NYC Mayor Mamdani and critics accusing Israel of crimes against Palestinians.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -2864,8 +2934,8 @@
   },
   {
     "thread_id": "thread-guinea-bissau-voters-approve-new-constit",
-    "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
-    "category": "国际政治",
+    "title": "Israel’s policies threaten ‘very existence’ of Palestinians, Abbas tells UN",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -2943,6 +3013,20 @@
         "headline": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
         "summary": "Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case.",
         "category": "国际政治"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-us-rapper-macklemore-announces-01",
+        "headline": "US rapper Macklemore announces Free Palestine tour after Ed Sheeran fallout",
+        "summary": "Macklemore says being apolitical during a genocide doesn’t work , promises to donate proceeds to Palestinian causes.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-israel-s-policies-threaten-01",
+        "headline": "Israel’s policies threaten ‘very existence’ of Palestinians, Abbas tells UN",
+        "summary": "Mahmoud Abbas says saving two-state solution begins with preserving Palestinian land, protecting those who live on it.",
+        "category": "未分类"
       }
     ]
   },
@@ -3494,7 +3578,7 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-us-open-and-grand-c",
-    "title": "Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico",
+    "title": "An unearthed 2018 clip shows Michigan Senate candidate Abdul El-Sayed clashing with GOP rival Patrick Colbeck over accus",
     "category": "未分类",
     "events": [
       {
@@ -3580,6 +3664,13 @@
         "headline": "Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico",
         "summary": "Polo, with sustained winds of 165mph, is churning 215 miles south of Zihuatanejo but is unlikely to directly hit Mexico A tropical storm off the south-west coast of Mexico has intensified into a category 5 monster in fewer than 24 hours, fueled by stronger than usual El Niño weather patterns in the Pacific Ocean. Hurricane Polo was sending out maximum sustained winds of 165mph (266km/h) on Tuesday",
         "category": "未分类"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-forced-eviction-87-old-01",
+        "headline": "An unearthed 2018 clip shows Michigan Senate candidate Abdul El-Sayed clashing with GOP rival Patrick Colbeck over accus",
+        "summary": "Cientos de manifestantes intentaron detener el desalojo de María del Carmen Abascal, de 87 años, de su casa en Madrid el miércoles.",
+        "category": "未分类"
       }
     ]
   },
@@ -3599,7 +3690,7 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-indie-cinema-and-f1",
-    "title": "UK PM Burnham condemns ‘repulsive’ Russian electoral interference",
+    "title": "Susan Sarandon and Hannah Einbinder arrested at anti-Netanyahu protest in New York",
     "category": "国际政治",
     "events": [
       {
@@ -3677,6 +3768,20 @@
         "event_cluster_id": "20260923-uk-pm-burnham-condemns-01",
         "headline": "UK PM Burnham condemns ‘repulsive’ Russian electoral interference",
         "summary": "UK Prime Minister Andy Burnham addressed the UN General Assembly, accusing Russia of information warfare.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-israel-s-prime-minister-01",
+        "headline": "Israel's prime minister to give an address at the U.N.",
+        "summary": "Iran, Ukraine and Russia took center stage at the U.N. Wednesday, with Israel's prime minister addressing the U.N. General Assembly Thursday.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-susan-sarandon-hannah-einbinder-01",
+        "headline": "Susan Sarandon and Hannah Einbinder arrested at anti-Netanyahu protest in New York",
+        "summary": "Actors detained at Jewish Voice for Peace demonstration against Israeli prime minister’s address to the UN general assembly Oscar-winning actor Susan Sarandon and Hacks star Hannah Einbinder were among people detained by police in New York on Thursday as they moved in to break up a protest against Benjamin Netanyahu. Agence France-Presse footage shows NYPD officers cuffing Thelma Louise star Saran",
         "category": "国际政治"
       }
     ]
@@ -4159,7 +4264,7 @@
   },
   {
     "thread_id": "thread-马达加斯加前参议院主席因镇压z世代抗议被判强迫劳动-丹麦农民因化肥限令抗议",
-    "title": "‘MobLand’ Season 2 Premiere Review: No Rest For The Wicked",
+    "title": "Here’s the latest.",
     "category": "未分类",
     "events": [
       {
@@ -4217,6 +4322,13 @@
         "headline": "‘MobLand’ Season 2 Premiere Review: No Rest For The Wicked",
         "summary": "MobLand Season 2 returns with an explosive premiere as Harry scrambles to clean up the Harrigans’ latest mess and a dangerous new rival emerges.",
         "category": "未分类"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-here-s-latest-01",
+        "headline": "Here’s the latest.",
+        "summary": "The Dodgers have accomplished their latest regular-season objective.",
+        "category": "未分类"
       }
     ]
   },
@@ -4236,8 +4348,8 @@
   },
   {
     "thread_id": "thread-nigeria-anti-corruption-agency-dismisses",
-    "title": "USA edge Spain to book Women’s Basketball World Cup final against France",
-    "category": "未分类",
+    "title": "Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -4273,6 +4385,13 @@
         "headline": "USA edge Spain to book Women’s Basketball World Cup final against France",
         "summary": "USA emerged 76-66 winners in a tense semifinal after Gabby Williams-led France powered past hosts Germany 86-64.",
         "category": "未分类"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-turkiye-vs-france-uefa-01",
+        "headline": "Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups",
+        "summary": "Zinedine Zidane brings aura to his first France game as coach, against Turkiye in Nations League.",
+        "category": "文化体育"
       }
     ]
   },
@@ -4642,8 +4761,8 @@
   },
   {
     "thread_id": "thread-long-lines-at-fuel-stations-are-spreadin",
-    "title": "White House Bars Three News Organizations from Press Pool",
-    "category": "社会与公共政策",
+    "title": "Judge orders White House to restore access for CNN, MS NOW, Politico",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -4714,6 +4833,13 @@
         "headline": "White House Bars Three News Organizations from Press Pool",
         "summary": "The White House press pool is at the center of a dispute between President Donald Trump and TV networks. Three news organizations have been barred from White House access. Journalist Jim Acosta, who previously experienced a press-pass fight, says the press is showing solidarity that should have come sooner. The White House press pool is a rotating group of journalists who cover the president and s",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-judge-orders-white-house-01",
+        "headline": "Judge orders White House to restore access for CNN, MS NOW, Politico",
+        "summary": "The Briefing ☀️ Happy Thursday! The Briefing is your guide to the world of news and information. Sign up here! In today s email: 🔥 Featured story A federal judge ruled today that the Trump administration must temporarily restore White House access to CNN, MS NOW and Politico, which filed a lawsuit after their reporters were [ ]",
+        "category": "未分类"
       }
     ]
   },
@@ -5699,8 +5825,8 @@
   },
   {
     "thread_id": "thread-nigel-farage-heckled-at-reform-uk-confer",
-    "title": "UK to refuel Saudi jets to help counter Houthi attacks",
-    "category": "安全与冲突",
+    "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260905",
@@ -5736,6 +5862,13 @@
         "headline": "UK to refuel Saudi jets to help counter Houthi attacks",
         "summary": "British Prime Minister Andy Burnham says he has agreed to a request for defensive air-to-air refuelling of Saudi jets.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-italy-ministers-agree-ban-01",
+        "headline": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+        "summary": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
+        "category": "国际政治"
       }
     ]
   },
@@ -5846,8 +5979,8 @@
   },
   {
     "thread_id": "thread-oxford-museum-to-repatriate-colonial-era",
-    "title": "Oxford Museum to Repatriate Colonial-Era Human Remains",
-    "category": "文化体育",
+    "title": "Tensions between India and Bangladesh are in focus after Dhaka skipped the BRICS summit in Delhi",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260906",
@@ -5855,6 +5988,13 @@
         "headline": "Oxford Museum to Repatriate Colonial-Era Human Remains",
         "summary": "The Pitt Rivers Museum in Oxford, England, announced plans to repatriate human remains from its Naga collection. The collection includes remains acquired during the British colonial period. The decision aligns with broader institutional efforts to address colonial-era acquisitions. No specific date for repatriation or receiving communities have been confirmed in available reporting.",
         "category": "文化体育"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-tensions-between-india-bangladesh-01",
+        "headline": "Tensions between India and Bangladesh are in focus after Dhaka skipped the BRICS summit in Delhi",
+        "summary": "Bangladesh's absence from the BRICS summit in New Delhi has raised fresh questions about strained ties. Ousted PM Sheikh Hasina's exile in India remains a major obstacle to normalizing relations.",
+        "category": "国际政治"
       }
     ]
   },
@@ -5902,8 +6042,8 @@
   },
   {
     "thread_id": "thread-amazon-prime-plane-overruns-runway-at-mi",
-    "title": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami Internati",
-    "category": "未分类",
+    "title": "Priest killed and four injured in knife attack at Polish abbey",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260907",
@@ -5918,6 +6058,13 @@
         "headline": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami Internati",
         "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
         "category": "未分类"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-priest-killed-four-injured-01",
+        "headline": "Priest killed and four injured in knife attack at Polish abbey",
+        "summary": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -6280,8 +6427,8 @@
   },
   {
     "thread_id": "thread-supergirl-shifts-to-hbo-max-this-week-in",
-    "title": "NFL Week 2: DraftKings Fantasy Plays and Jets vs Packers Preview",
-    "category": "文化体育",
+    "title": "Sen. Tommy Tuberville Says ‘Deranged’ Furry Culture Is Flight Safety Risk",
+    "category": "未分类",
     "events": [
       {
         "date": "20260909",
@@ -6296,6 +6443,13 @@
         "headline": "NFL Week 2: DraftKings Fantasy Plays and Jets vs Packers Preview",
         "summary": "Forbes provided DraftKings main slate stacking and contrarian play recommendations for NFL Week 2. The New York Post reported on the Jets preparing for a Week 2 test against the Packers, following a competent offensive performance in Week 1. The sources cover different aspects of Week 2, with Forbes focusing on fantasy lineup strategy and the New York Post focusing on the Jets' offensive outlook.",
         "category": "文化体育"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-sen-tommy-tuberville-deranged-01",
+        "headline": "Sen. Tommy Tuberville Says ‘Deranged’ Furry Culture Is Flight Safety Risk",
+        "summary": "Tuberville began targeting the furry community this week, criticizing it during a Senate floor speech Tuesday.",
+        "category": "未分类"
       }
     ]
   },
@@ -6357,8 +6511,8 @@
   },
   {
     "thread_id": "thread-british-widow-faces-deportation-from-swe",
-    "title": "British Man Pleads Guilty to Drugging and Raping Wife Over 20 Years",
-    "category": "社会与公共政策",
+    "title": "Nigella Lawson and ‘The Great British Bake Off’ Is a Winning Recipe",
+    "category": "未分类",
     "events": [
       {
         "date": "20260909",
@@ -6373,6 +6527,13 @@
         "headline": "British Man Pleads Guilty to Drugging and Raping Wife Over 20 Years",
         "summary": "Manchester Minshull Street Crown Court, in Manchester, England, where a British man stood trial on charges of drugging and raping his wife.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-nigella-lawson-great-british-01",
+        "headline": "Nigella Lawson and ‘The Great British Bake Off’ Is a Winning Recipe",
+        "summary": "Nigella Lawson, second from right, spiced up the traditional coziness on “The Great British Bake Off,” which just kicked off its 17th season.",
+        "category": "未分类"
       }
     ]
   },
@@ -6414,6 +6575,13 @@
         "event_cluster_id": "20260921-turn-your-rising-home-01",
         "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
         "summary": "Mentmore Towers in Buckinghamshire, in the English countryside, in 1977.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-turn-your-rising-home-01",
+        "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
+        "summary": "When McGilvrey reached out to the National Association of Medical Examiners (N.A.M.E.) — the organization told her the medical examiner was to blame for the disastrous mishap.",
         "category": "未分类"
       }
     ]
@@ -7365,7 +7533,7 @@
   },
   {
     "thread_id": "thread-german-chancellor-merz-vows-to-stay-afte",
-    "title": "German Chancellor Merz vows to stay on after CDU loses two state elections to AfD",
+    "title": "Democratic lawmakers accuse Trump administration of interference in Brazilian elections",
     "category": "国际政治",
     "events": [
       {
@@ -7380,6 +7548,13 @@
         "event_cluster_id": "20260922-merz-vows-keep-coalition-01",
         "headline": "German Chancellor Merz vows to stay on after CDU loses two state elections to AfD",
         "summary": "German Chancellor Friedrich Merz vowed to keep his coalition government together for Germany's democratic future after his conservative CDU party lost two state elections in Berlin and Mecklenburg-Western Pomerania. The CDU was ejected from the Mecklenburg-Western Pomerania parliament. Merz delivered a televised speech shortly after polls closed, dismissing speculation about his position and pledg",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-democratic-lawmakers-accuse-trump-01",
+        "headline": "Democratic lawmakers accuse Trump administration of interference in Brazilian elections",
+        "summary": "Legislators sent letter to Marco Rubio saying US interference is weakening Brazil’s democratic institutions US politics live – latest updates A group of 31 Democratic members of the US Congress has sent a letter to the secretary of state, Marco Rubio , criticising the Trump administration over “an apparent effort to interfere with, and potentially undermine” Brazil ’s elections. Latin America’s la",
         "category": "国际政治"
       }
     ]
@@ -7451,6 +7626,76 @@
         "headline": "Leaders set ambitious goals to better the world by 2030. They've made little progress",
         "summary": "In 2015, global leaders set ambitious goals to reduce inequality, end hunger and boost education. More than a decade later, the world is nowhere near achieving much of what was promised.",
         "category": "社会与公共政策"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-delegates-walk-out-of-netanyahu-s-un-spe",
+    "title": "Delegates walk out of Netanyahu’s UN speech",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-delegates-walk-out-netanyahu-01",
+        "headline": "Delegates walk out of Netanyahu’s UN speech",
+        "summary": "Dozens of delegates walked out of the assembly hall as Israeli Prime Minister Benjamin Netanyahu began his UN speech.",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-openai-agent-hacked-australian-governmen",
+    "title": "OpenAI agent hacked Australian government health portal, PM Albanese announces",
+    "category": "科技与AI",
+    "events": [
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-openai-agent-hacked-australia-01",
+        "headline": "OpenAI agent hacked Australian government health portal, PM Albanese announces",
+        "summary": "Australian Prime Minister Albanese announced that an OpenAI automated agent breached an Australian government health data portal, marking the world's first known AI-led breach of a government website. The breach occurred in June. Australia revealed the incident at the United Nations. Australia criticized OpenAI for taking too long to notify the government about the breach.",
+        "category": "科技与AI"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-susan-sarandon-hannah-einbinder-arrested",
+    "title": "Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-susan-sarandon-hannah-einbinder-02",
+        "headline": "Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest",
+        "summary": "Susan Sarandon and Hannah Einbinder were among about 100 protesters arrested outside the UN ahead of Netanyahu’s speech.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-netanyahu-blames-juvenile-delinquents-fo",
+    "title": "Netanyahu blames ‘juvenile delinquents’ for violence in occupied West Bank",
+    "category": "经济与市场",
+    "events": [
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-netanyahu-blames-juvenile-delinquents-01",
+        "headline": "Netanyahu blames ‘juvenile delinquents’ for violence in occupied West Bank",
+        "summary": "As spoke at the UN, Israeli Prime Minister Benjamin Netanyahu downplayed settler violence in the occupied West Bank.",
+        "category": "经济与市场"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-reporter-s-notebook-call-for-a-free-iran",
+    "title": "Reporter's Notebook: Call for a free Iran echoes at the United Nations",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20260925",
+        "event_cluster_id": "20260925-reporter-s-notebook-call-01",
+        "headline": "Reporter's Notebook: Call for a free Iran echoes at the United Nations",
+        "summary": "UNITED NATIONS, N.Y. — When Iranian President Masoud Pezeshkian addressed the United Nations General Assembly , he portrayed his nation as the victim of American and Israeli terrorism. But outside the hall, several thousand protesters chanted that he should be arrested for being a terrorist. \"They are terrorists. They must go!\" the crowd repeatedly shouted, waving green, white and red flags of the",
+        "category": "国际政治"
       }
     ]
   }
