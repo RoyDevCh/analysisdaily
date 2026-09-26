@@ -302,7 +302,7 @@
   },
   {
     "thread_id": "thread-bus-crash-in-egypt-s-south-sinai-kills-a",
-    "title": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
+    "title": "Pakistan PM calls Houthi threats to Saudi holy sites a ‘red line’",
     "category": "安全与冲突",
     "events": [
       {
@@ -444,6 +444,13 @@
         "headline": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
         "summary": "Saudi monarch s rare condemnation hints at sense of urgency in the kingdom amid ramped-up attacks from Yemen.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-pakistan-pm-calls-houthi-01",
+        "headline": "Pakistan PM calls Houthi threats to Saudi holy sites a ‘red line’",
+        "summary": "Pakistan PM, a signatory to the Mecca Joint Defence Agreement, condemned Houthi attacks on Saudi Arabia at UNGA 81.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -512,8 +519,8 @@
   },
   {
     "thread_id": "thread-mark-carney-tells-us-to-start-being-seri",
-    "title": "Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll",
-    "category": "未分类",
+    "title": "Lula or Bolsonaro as president? Brazil gears up to vote",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -598,6 +605,13 @@
         "headline": "Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll",
         "summary": "Luiz Inacio Lula da Silva is up two points, but that s still within the poll s margin of error.",
         "category": "未分类"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-lula-bolsonaro-president-brazil-01",
+        "headline": "Lula or Bolsonaro as president? Brazil gears up to vote",
+        "summary": "Brazilians go to the polls on October 4. The front-runners are multilateralist incumbent Lula da Silva and former President Jair Bolsonaro's son, Flavio, who wants to bring Brazil closer to the US and away from China.",
+        "category": "国际政治"
       }
     ]
   },
@@ -687,7 +701,7 @@
   },
   {
     "thread_id": "thread-palestinian-artist-saint-levant-delays-t",
-    "title": "Iran war live: Tehran wants Washington to re-enter MoU before US midterms",
+    "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
     "category": "安全与冲突",
     "events": [
       {
@@ -744,6 +758,13 @@
         "event_cluster_id": "20260925-iran-war-live-tehran-01",
         "headline": "Iran war live: Tehran wants Washington to re-enter MoU before US midterms",
         "summary": "Iranian President Masoud Pezeshkian says Iran wants the US to return to the MoU by early November.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-iran-war-live-tehran-01",
+        "headline": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
+        "summary": "Iran s FM says the choice rests with the US to approve the proposed seven-day proposal to reopen Hormuz.",
         "category": "安全与冲突"
       }
     ]
@@ -1436,7 +1457,7 @@
   },
   {
     "thread_id": "thread-worshippers-in-west-bank-tear-gassed-as-",
-    "title": "Man and police officer wounded in exchange of gunfire near Ontario synagogue",
+    "title": "Experts: this is the best cash back card of 2022",
     "category": "未分类",
     "events": [
       {
@@ -1479,6 +1500,13 @@
         "event_cluster_id": "20260922-man-police-officer-wounded-01",
         "headline": "Man and police officer wounded in exchange of gunfire near Ontario synagogue",
         "summary": "Officials say man was critically injured and officer was wounded in Yom Kippur incident near Belleville synagogue A police officer and a man were wounded in an exchange of gunfire on Sunday near a synagogue in Ontario as members of the Jewish community marked Yom Kippur, authorities said. The man was hospitalized in life-threatening condition. The Canadian province’s special investigations unit sa",
+        "category": "未分类"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-experts-best-cash-back-01",
+        "headline": "Experts: this is the best cash back card of 2022",
+        "summary": "The incident involved officers responding to a bank after receiving reports that a masked man \"was making multiple transactions using several different cards and withdrawing large amounts of cash.\"",
         "category": "未分类"
       }
     ]
@@ -1898,8 +1926,8 @@
   },
   {
     "thread_id": "thread-how-indie-cinema-is-beating-hollywood-in",
-    "title": "Indy 500 Winner Will Be Hailed As A Hero At Celebration In Sweden",
-    "category": "文化体育",
+    "title": "Starting Grid For The 2026 F1 Azerbaijan Grand Prix After Penalties",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -1949,6 +1977,13 @@
         "headline": "Indy 500 Winner Will Be Hailed As A Hero At Celebration In Sweden",
         "summary": "This year's Indianapolis 500 winner, Felix Rosenqvist, will be honored in his hometown of Värnamo, Sweden on December 5, 2026. SportsMoney has details on the celebration.",
         "category": "文化体育"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-starting-grid-2026-f1-01",
+        "headline": "Starting Grid For The 2026 F1 Azerbaijan Grand Prix After Penalties",
+        "summary": "Mercedes' George Russell took a dominant pole position in Baku while teammate and title favorite Kimi Antonelli crashed out of Q1. Here's the full starting grid for the Azerbaijan GP with penalties applied.",
+        "category": "未分类"
       }
     ]
   },
@@ -2563,8 +2598,8 @@
   },
   {
     "thread_id": "thread-search-operations-continue-after-floods-",
-    "title": "China to Send Pandas to Zoo Atlanta, Xi Says",
-    "category": "未分类",
+    "title": "Former U.S. ambassador to China on Xi Jinping's visit to Washington",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -2635,6 +2670,13 @@
         "headline": "China to Send Pandas to Zoo Atlanta, Xi Says",
         "summary": "Lun Lun, a female panda, in her habitat at Zoo Atlanta in 2006. She was returned to China in 2024.",
         "category": "未分类"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-former-u-s-ambassador-02",
+        "headline": "Former U.S. ambassador to China on Xi Jinping's visit to Washington",
+        "summary": "NPR's Leila Fadel speaks with former U.S. Ambassador to China Nicholas Burns about Chinese President Xi Jinping's visit to Washington and what has been accomplished.",
+        "category": "国际政治"
       }
     ]
   },
@@ -3375,8 +3417,8 @@
   },
   {
     "thread_id": "thread-germany-attributes-leipzig-airport-drone",
-    "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
-    "category": "安全与冲突",
+    "title": "Jay-Z rape accuser says her allegation was false",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -3447,6 +3489,13 @@
         "headline": "US strikes on alleged drug boats could be crimes against humanity, says UN",
         "summary": "A report says the attacks, of which there have been at least 68, were not self-defence.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-jay-z-rape-accuser-01",
+        "headline": "Jay-Z rape accuser says her allegation was false",
+        "summary": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
+        "category": "未分类"
       }
     ]
   },
@@ -3690,7 +3739,7 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-indie-cinema-and-f1",
-    "title": "Susan Sarandon and Hannah Einbinder arrested at anti-Netanyahu protest in New York",
+    "title": "Iranian President Pezeshkian brought a diplomatic tone to New York for UNGA. What did his remarks signal",
     "category": "国际政治",
     "events": [
       {
@@ -3782,6 +3831,13 @@
         "event_cluster_id": "20260925-susan-sarandon-hannah-einbinder-01",
         "headline": "Susan Sarandon and Hannah Einbinder arrested at anti-Netanyahu protest in New York",
         "summary": "Actors detained at Jewish Voice for Peace demonstration against Israeli prime minister’s address to the UN general assembly Oscar-winning actor Susan Sarandon and Hacks star Hannah Einbinder were among people detained by police in New York on Thursday as they moved in to break up a protest against Benjamin Netanyahu. Agence France-Presse footage shows NYPD officers cuffing Thelma Louise star Saran",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-iranian-president-pezeshkian-brought-01",
+        "headline": "Iranian President Pezeshkian brought a diplomatic tone to New York for UNGA. What did his remarks signal",
+        "summary": "Iran's president used his trip to New York this week for the UN General Assembly to signal openness to talks over the nuclear dispute. However, the chances of a major breakthrough on the war remain low.",
         "category": "国际政治"
       }
     ]
@@ -5188,8 +5244,8 @@
   },
   {
     "thread_id": "thread-japan-reduces-urban-speed-limits-and-see",
-    "title": "‘Daughter of Damascus’ Assala performs in Syria after 15-year exile",
-    "category": "文化体育",
+    "title": "Pope Leo XIV warns AI could undermine humanity during France visit",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -5239,6 +5295,13 @@
         "headline": "‘Daughter of Damascus’ Assala performs in Syria after 15-year exile",
         "summary": "Thousands of people cheered as they welcomed Syrian icon Assala Nasri back at a sold-out concert in Damascus.",
         "category": "文化体育"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-pope-leo-xiv-warns-01",
+        "headline": "Pope Leo XIV warns AI could undermine humanity during France visit",
+        "summary": "Thousands gather in Paris as the pope warns against a paradise of machines at the Elysee Palace.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -5923,7 +5986,7 @@
   },
   {
     "thread_id": "thread-haitian-caregivers-face-job-loss-in-u-s-",
-    "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+    "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
     "category": "未分类",
     "events": [
       {
@@ -5939,12 +6002,19 @@
         "headline": "Arrest made over the death of black woman found hanged from tree in Mississippi",
         "summary": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
         "category": "未分类"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-black-woman-found-hanging-01",
+        "headline": "Black woman found hanging from tree was dead before body was 'staged', police say",
+        "summary": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
+        "category": "未分类"
       }
     ]
   },
   {
     "thread_id": "thread-egyptian-tv-presenter-sarah-khalifa-sent",
-    "title": "Two unrelated court incidents reported: Trump admin challenges scholar's release; man arrested with gun in NYC court",
+    "title": "US court rules against Kalshi, says states can regulate prediction markets",
     "category": "社会与公共政策",
     "events": [
       {
@@ -5973,6 +6043,13 @@
         "event_cluster_id": "20260923-trump-admin-asks-top-01",
         "headline": "Two unrelated court incidents reported: Trump admin challenges scholar's release; man arrested with gun in NYC court",
         "summary": "The provided sources describe two separate events. Al Jazeera reports that the Trump administration asked the US Supreme Court to reverse a lower court ruling that released a pro-Palestinian Georgetown scholar from detention. The New York Post reports that a man entered a New York City court with a loaded handgun in his underwear and resisted arrest. The sources do not cover the same event.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-us-court-rules-against-01",
+        "headline": "US court rules against Kalshi, says states can regulate prediction markets",
+        "summary": "US appeals courts have varied on regulation of prediction markets, opening the door to US Supreme Court debate.",
         "category": "社会与公共政策"
       }
     ]
@@ -6280,7 +6357,7 @@
   },
   {
     "thread_id": "thread-eiffel-tower-shut-by-staff-protest-after",
-    "title": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
+    "title": "Two arrested after people seen mysteriously emerging from various New York City sewers.",
     "category": "未分类",
     "events": [
       {
@@ -6302,6 +6379,13 @@
         "event_cluster_id": "20260917-inside-singapore-s-fort-01",
         "headline": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
         "summary": "The BBC goes inside a fortified storage facility to view luxury goods seized by police that are now up for auction.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-manchester-city-reportedly-found-01",
+        "headline": "Two arrested after people seen mysteriously emerging from various New York City sewers.",
+        "summary": "Manchester City have reportedly been found guilty of almost all 115 financial misconduct charges they were facing.",
         "category": "未分类"
       }
     ]
@@ -6483,8 +6567,8 @@
   },
   {
     "thread_id": "thread-the-map-was-lying-to-you-why-the-un-just",
-    "title": "Criticism of LGBTQ+ raids in Turkey is growing",
-    "category": "未分类",
+    "title": "How Israel’s ‘Blue Line’ team seizes Palestinian land in the West Bank",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260909",
@@ -6506,13 +6590,20 @@
         "headline": "Criticism of LGBTQ+ raids in Turkey is growing",
         "summary": "Several raids and arrests of LGBTQ+ persons in Turkey have triggered sharp criticism from numerous Turkish organizations — and also from Brussels.",
         "category": "未分类"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-how-israel-s-blue-01",
+        "headline": "How Israel’s ‘Blue Line’ team seizes Palestinian land in the West Bank",
+        "summary": "Little-known Israeli map team is redrawing land boundaries as Palestinians face growing illegal settlement expansion.",
+        "category": "经济与市场"
       }
     ]
   },
   {
     "thread_id": "thread-british-widow-faces-deportation-from-swe",
-    "title": "Nigella Lawson and ‘The Great British Bake Off’ Is a Winning Recipe",
-    "category": "未分类",
+    "title": "‘MobLand’ Season 2, Episode 2 Recap And Review: Kiss Kiss, Bang Bang",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260909",
@@ -6534,6 +6625,13 @@
         "headline": "Nigella Lawson and ‘The Great British Bake Off’ Is a Winning Recipe",
         "summary": "Nigella Lawson, second from right, spiced up the traditional coziness on “The Great British Bake Off,” which just kicked off its 17th season.",
         "category": "未分类"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-mobland-season-2-episode-01",
+        "headline": "‘MobLand’ Season 2, Episode 2 Recap And Review: Kiss Kiss, Bang Bang",
+        "summary": "MobLand Season 2, Episode 2 “Song 2” uses the assassination of Henry IV and the gruesome execution of François Ravaillac to foreshadow a brutal attack on the Harrigans.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -6756,7 +6854,7 @@
   },
   {
     "thread_id": "thread-emergency-slide-deployed-on-trump-s-qata",
-    "title": "Trump says triumphal arch will be military complex with drones and snipers",
+    "title": "Trump's plans for massive arch move ahead",
     "category": "安全与冲突",
     "events": [
       {
@@ -6786,13 +6884,20 @@
         "headline": "Trump says triumphal arch will be military complex with drones and snipers",
         "summary": "Trump said the updated plans were at the request of the US military and for national security purposes.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-trump-s-plans-massive-01",
+        "headline": "Trump's plans for massive arch move ahead",
+        "summary": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
+        "category": "安全与冲突"
       }
     ]
   },
   {
     "thread_id": "thread-peter-thiel-backed-firm-to-make-low-cost",
-    "title": "Starbucks Settles Florida DEI Lawsuit, Denies Wrongdoing And Pays $1 Million",
-    "category": "社会与公共政策",
+    "title": "Sprawling New York Castle—With A Taylor Swift Connection—Headed To Auction (Photos)",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260910",
@@ -6814,6 +6919,13 @@
         "headline": "Starbucks Settles Florida DEI Lawsuit, Denies Wrongdoing And Pays $1 Million",
         "summary": "Starbucks has resolved a Florida DEI lawsuit, agreeing to pay $1 million without admitting wrongdoing. Yet it highlights ongoing legal challenges regarding DEI policies.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-sprawling-york-castle-taylor-01",
+        "headline": "Sprawling New York Castle—With A Taylor Swift Connection—Headed To Auction (Photos)",
+        "summary": "The castle's market value sits around $75 million to $95 million.",
+        "category": "经济与市场"
       }
     ]
   },
@@ -6875,7 +6987,7 @@
   },
   {
     "thread_id": "thread-scientists-say-august-was-earth-s-hottes",
-    "title": "Scientists say August was Earth's hottest month they've measured",
+    "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
     "category": "气候与环境",
     "events": [
       {
@@ -6883,6 +6995,13 @@
         "event_cluster_id": "20260911-scientists-say-august-earth-01",
         "headline": "Scientists say August was Earth's hottest month they've measured",
         "summary": "The European climate service Copernicus said the Earth just sweltered through its hottest month on record in August. Scientists said the heat surge is mostly due to human-caused climate change. (Image credit: Ahn Young-joon)",
+        "category": "气候与环境"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-treasured-eternal-snow-tropical-01",
+        "headline": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+        "summary": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
         "category": "气候与环境"
       }
     ]
@@ -7064,7 +7183,7 @@
   },
   {
     "thread_id": "thread-us-legislators-push-ai-safety-laws-amid-",
-    "title": "Trump Forms AI Task Force and Special Envoy Amid US-China AI Competition",
+    "title": "Novelist accused of using AI to write book removed from French prize list",
     "category": "科技与AI",
     "events": [
       {
@@ -7114,6 +7233,20 @@
         "event_cluster_id": "20260923-us-china-ai-race-01",
         "headline": "Trump Forms AI Task Force and Special Envoy Amid US-China AI Competition",
         "summary": "The US is establishing a task force and a special envoy for artificial intelligence, raising questions about whether the Trump administration intends to regulate AI technology, particularly in the context of competition with China. Sources diverge significantly: one focuses on US AI policy and the US-China technology race, while the other reports on China's crackdown on churches and its victims, w",
+        "category": "科技与AI"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-xi-trump-summit-us-01",
+        "headline": "After Xi-Trump summit, US-China rivalry remains frozen. Is this to Beijing's advantage",
+        "summary": "The US president showcased White House construction projects and hosted a lavish dinner with tech CEOs, but the summit made little progress on key issues such as trade tensions and AI regulation.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-novelist-accused-using-ai-01",
+        "headline": "Novelist accused of using AI to write book removed from French prize list",
+        "summary": "Thélyson Orélien had been in the running to win a top literary prize before the AI claim emerged on social media The organisers of France’s most prestigious literary prize said they had removed a critically acclaimed novel by a Canadian-Haitian writer from the longlist after an anonymous online account claimed the book was “almost entirely” written by AI. The Académie Goncourt, a Paris-based liter",
         "category": "科技与AI"
       }
     ]
@@ -7561,7 +7694,7 @@
   },
   {
     "thread_id": "thread-yemenis-flee-across-red-sea-as-houthis-a",
-    "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+    "title": "Why Eritrea matters as fighting returns to Ethiopia's Tigray",
     "category": "安全与冲突",
     "events": [
       {
@@ -7569,6 +7702,13 @@
         "event_cluster_id": "20260922-yemenis-flee-across-red-01",
         "headline": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
         "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-why-eritrea-matters-fighting-01",
+        "headline": "Why Eritrea matters as fighting returns to Ethiopia's Tigray",
+        "summary": "The US has removed key sanctions on Eritrea as Houthi attacks disrupt Red Sea shipping and fighting escalates in Ethiopia's Tigray region. Analysts say Eritrea's strategic value is growing.",
         "category": "安全与冲突"
       }
     ]
@@ -7631,7 +7771,7 @@
   },
   {
     "thread_id": "thread-delegates-walk-out-of-netanyahu-s-un-spe",
-    "title": "Delegates walk out of Netanyahu’s UN speech",
+    "title": "Former U.S. Ambassador to Israel on Netanyahu's speech at UNGA",
     "category": "国际政治",
     "events": [
       {
@@ -7639,6 +7779,13 @@
         "event_cluster_id": "20260925-delegates-walk-out-netanyahu-01",
         "headline": "Delegates walk out of Netanyahu’s UN speech",
         "summary": "Dozens of delegates walked out of the assembly hall as Israeli Prime Minister Benjamin Netanyahu began his UN speech.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-former-u-s-ambassador-01",
+        "headline": "Former U.S. Ambassador to Israel on Netanyahu's speech at UNGA",
+        "summary": "NPR's Leila Fadel speaks with former U.S. Ambassador to Israel Thomas Nides about Israeli Prime Minister Benjamin Netanyahu's speech at the United Nations General Assembly.",
         "category": "国际政治"
       }
     ]
@@ -7673,8 +7820,8 @@
   },
   {
     "thread_id": "thread-netanyahu-blames-juvenile-delinquents-fo",
-    "title": "Netanyahu blames ‘juvenile delinquents’ for violence in occupied West Bank",
-    "category": "经济与市场",
+    "title": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260925",
@@ -7682,6 +7829,13 @@
         "headline": "Netanyahu blames ‘juvenile delinquents’ for violence in occupied West Bank",
         "summary": "As spoke at the UN, Israeli Prime Minister Benjamin Netanyahu downplayed settler violence in the occupied West Bank.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-netanyahu-calls-al-jazeera-01",
+        "headline": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
+        "summary": "Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media outlet.”",
+        "category": "国际政治"
       }
     ]
   },
@@ -7696,6 +7850,48 @@
         "headline": "Reporter's Notebook: Call for a free Iran echoes at the United Nations",
         "summary": "UNITED NATIONS, N.Y. — When Iranian President Masoud Pezeshkian addressed the United Nations General Assembly , he portrayed his nation as the victim of American and Israeli terrorism. But outside the hall, several thousand protesters chanted that he should be arrested for being a terrorist. \"They are terrorists. They must go!\" the crowd repeatedly shouted, waving green, white and red flags of the",
         "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-afghan-taxi-drivers-defy-the-taliban-s-m",
+    "title": "Afghan taxi drivers defy the Taliban’s music ban",
+    "category": "文化体育",
+    "events": [
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-afghan-taxi-drivers-defy-01",
+        "headline": "Afghan taxi drivers defy the Taliban’s music ban",
+        "summary": "Afghan taxi drivers are playing music in their cars despite it being banned by the Taliban.",
+        "category": "文化体育"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-un-expands-list-of-firms-involved-in-ill",
+    "title": "UN expands list of firms involved in illegal Israeli settlement activities",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-un-expands-list-firms-01",
+        "headline": "UN expands list of firms involved in illegal Israeli settlement activities",
+        "summary": "With addition of 61 more companies, the list now includes 214 businesses in 11 countries, most of them Israeli.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-takeaways-from-the-trump-xi-state-visit-",
+    "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260926",
+        "event_cluster_id": "20260926-takeaways-trump-xi-state-01",
+        "headline": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
+        "summary": "The visit comes at an important time for both men. (Image credit: Win McNamee)",
+        "category": "未分类"
       }
     ]
   }
