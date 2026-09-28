@@ -29,8 +29,8 @@
   },
   {
     "thread_id": "thread-nearly-200-nations-agree-to-phase-down-c",
-    "title": "Rising gas prices fuel protests in countries around the world",
-    "category": "安全与冲突",
+    "title": "Serbian President Aleksandar Vucic resigns amid prolonged protests",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -66,6 +66,13 @@
         "headline": "Rising gas prices fuel protests in countries around the world",
         "summary": "Protests over rising fuel protest are happening around the world, a ripple effect as the Us war on Iran is dragging Saudi Arabia in deeper",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260928",
+        "event_cluster_id": "20260928-serbian-president-aleksandar-vucic-01",
+        "headline": "Serbian President Aleksandar Vucic resigns amid prolonged protests",
+        "summary": "Despite student-led protests and political unrest challenging his rule, Vucic intends to run in the snap elections.",
+        "category": "国际政治"
       }
     ]
   },
@@ -701,7 +708,7 @@
   },
   {
     "thread_id": "thread-palestinian-artist-saint-levant-delays-t",
-    "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
+    "title": "UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war",
     "category": "安全与冲突",
     "events": [
       {
@@ -765,6 +772,13 @@
         "event_cluster_id": "20260926-iran-war-live-tehran-01",
         "headline": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
         "summary": "Iran s FM says the choice rests with the US to approve the proposed seven-day proposal to reopen Hormuz.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260928",
+        "event_cluster_id": "20260928-un-ambassador-waltz-iran-01",
+        "headline": "UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war",
+        "summary": "Waltz says Trump rejected Iran’s proposal to end war because they ‘were asking for everything up front’ The Trump administration ’s ambassador to the United Nations said the US rejected Iran ’s proposal to end the ongoing war there because Iranian negotiators “were asking for everything up front”. Echoing comments by Donald Trump on Saturday, the president’s UN ambassador Mike Waltz told CNN’s Sta",
         "category": "安全与冲突"
       }
     ]
@@ -1548,7 +1562,7 @@
   },
   {
     "thread_id": "thread-blue-jays-3-93-era-pitcher-cuts-ties-wit",
-    "title": "Through her Stronger Than You Think Foundation 2024 Paralympic medalist Ali Truwit is helping build the next generation",
+    "title": "It's official: now avoid credit card interest into 2024",
     "category": "未分类",
     "events": [
       {
@@ -1577,6 +1591,13 @@
         "event_cluster_id": "20260906-0-intro-apr-until-01",
         "headline": "Through her Stronger Than You Think Foundation 2024 Paralympic medalist Ali Truwit is helping build the next generation",
         "summary": "Through her Stronger Than You Think Foundation 2024 Paralympic medalist Ali Truwit is helping build the next generation of Team USA athletes towards the LA28 Games.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260928",
+        "event_cluster_id": "20260928-0-intro-apr-until-01",
+        "headline": "It's official: now avoid credit card interest into 2024",
+        "summary": "The lawsuit alleged that the victim, identified only as Jane Doe, was coerced into taking drugs, assaulted, and raped by several men at the Chi Phi fraternity house at Cornell in 2024.",
         "category": "未分类"
       }
     ]
@@ -1625,7 +1646,7 @@
   },
   {
     "thread_id": "thread-u-s-military-strikes-iran-while-trump-vo",
-    "title": "U.S. strikes Iran, Tehran retaliates with missiles and drones across region",
+    "title": "Why has Trump rejected Iran’s peace proposal",
     "category": "安全与冲突",
     "events": [
       {
@@ -1654,6 +1675,13 @@
         "event_cluster_id": "20260902-u-s-military-strikes-01",
         "headline": "U.S. strikes Iran, Tehran retaliates with missiles and drones across region",
         "summary": "The U.S. military conducted strikes against targets in Iran on Tuesday, according to all three sources. Iran responded by firing missiles and drones at various sites across the region, as reported by NPR and The Washington Post. President Donald Trump warned that any retaliation would trigger further U.S. strikes, per The Washington Post. Trump separately stated he could not care less about forcin",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260928",
+        "event_cluster_id": "20260928-why-has-trump-rejected-01",
+        "headline": "Why has Trump rejected Iran’s peace proposal",
+        "summary": "The US president has reportedly threatened to resume strikes on Iran.",
         "category": "安全与冲突"
       }
     ]
@@ -2115,7 +2143,7 @@
   },
   {
     "thread_id": "thread-joshua-wong-pleads-guilty-in-hong-kong-n",
-    "title": "Hong Kong Tiananmen activists jailed for up to 7 years",
+    "title": "UK Foreign Secretary confronted by activists over Palestine Action ban",
     "category": "未分类",
     "events": [
       {
@@ -2207,6 +2235,13 @@
         "event_cluster_id": "20260912-hong-kong-tiananmen-activists-01",
         "headline": "Hong Kong Tiananmen activists jailed for up to 7 years",
         "summary": "Three pro-democracy activists who organized annual commemorations of China's deadly 1989 Tiananmen crackdown were charged under Hong Kong's Beijing-backed national security law.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260928",
+        "event_cluster_id": "20260928-uk-foreign-secretary-confronted-01",
+        "headline": "UK Foreign Secretary confronted by activists over Palestine Action ban",
+        "summary": "UK Foreign Secretary Ed Miliband was confronted by activists at a restaurant over the proscription of Palestine Action.",
         "category": "未分类"
       }
     ]
@@ -2598,7 +2633,7 @@
   },
   {
     "thread_id": "thread-search-operations-continue-after-floods-",
-    "title": "Former U.S. ambassador to China on Xi Jinping's visit to Washington",
+    "title": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says",
     "category": "国际政治",
     "events": [
       {
@@ -2676,6 +2711,13 @@
         "event_cluster_id": "20260926-former-u-s-ambassador-02",
         "headline": "Former U.S. ambassador to China on Xi Jinping's visit to Washington",
         "summary": "NPR's Leila Fadel speaks with former U.S. Ambassador to China Nicholas Burns about Chinese President Xi Jinping's visit to Washington and what has been accomplished.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260928",
+        "event_cluster_id": "20260928-trump-asked-xi-jinping-01",
+        "headline": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says",
+        "summary": "David Perdue’s remarks come after a Taiwanese minister spoke of the ‘severe’ military threat posed by Beijing to the self-ruled island Donald Trump offered to sell weapons to China while hosting its leader, Xi Jinping, last week, the US ambassador to China said on Sunday. David Perdue told Fox News on Sunday: “President Trump continues to say, hey, we sell arms to other people around the world. He",
         "category": "国际政治"
       }
     ]
@@ -2836,8 +2878,8 @@
   },
   {
     "thread_id": "thread-various-impacts-of-us-immigration-and-fo",
-    "title": "Various Impacts of US Immigration and Foreign Policy",
-    "category": "社会与公共政策",
+    "title": "Alleged rape on campus sparks violent protest at Indian university",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -2845,6 +2887,13 @@
         "headline": "Various Impacts of US Immigration and Foreign Policy",
         "summary": "Recent reports detail separate incidents involving US visa and immigration policies. Artist Saint Levant delayed a US tour due to visa complications. A Haitian student in Ohio died by apparent suicide following the loss of his TPS status. Separately, Iran launched missiles and drones in response to US strikes. Sources diverge on the primary cause of the student's death, with family members citing ",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260928",
+        "event_cluster_id": "20260928-alleged-rape-campus-sparks-01",
+        "headline": "Alleged rape on campus sparks violent protest at Indian university",
+        "summary": "Student protests at an Indian university have turned violent following claims that a female student was raped on campus.",
+        "category": "未分类"
       }
     ]
   },
@@ -3347,8 +3396,8 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-murder-investigatio",
-    "title": "2026 SPOTV K-Pop Awards Announces Top Winners",
-    "category": "文化体育",
+    "title": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -3377,6 +3426,13 @@
         "headline": "2026 SPOTV K-Pop Awards Announces Top Winners",
         "summary": "The 2026 SPOTV K-Pop Awards recognized AND2BLE, BTS, AKMU, and KiiiKiii among the top winners, according to Forbes. ALPHA DRIVE ONE, AND2BLE, CLOSE YOUR EYES, and IDID received new-artist awards. KickFlip was also named a top winner. The New York Post article does not cover the K-Pop Awards and instead discusses the 2026 Los Angeles Lakers roster, indicating the two sources do not share overlappin",
         "category": "文化体育"
+      },
+      {
+        "date": "20260928",
+        "event_cluster_id": "20260928-taylor-swift-charli-xcx-01",
+        "headline": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
+        "summary": "Celebrities posed for the cameras ahead of the 2026 MTV Video Music Awards in Los Angeles.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -5244,8 +5300,8 @@
   },
   {
     "thread_id": "thread-japan-reduces-urban-speed-limits-and-see",
-    "title": "Pope Leo XIV warns AI could undermine humanity during France visit",
-    "category": "安全与冲突",
+    "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -5302,6 +5358,13 @@
         "headline": "Pope Leo XIV warns AI could undermine humanity during France visit",
         "summary": "Thousands gather in Paris as the pope warns against a paradise of machines at the Elysee Palace.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260928",
+        "event_cluster_id": "20260928-pope-scourge-abuse-must-01",
+        "headline": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
+        "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+        "category": "未分类"
       }
     ]
   },
@@ -5937,7 +6000,7 @@
   },
   {
     "thread_id": "thread-argentina-escalates-falklands-dispute-wi",
-    "title": "Hawaii braces for Hurricane Lowell",
+    "title": "Watch: Shipwreck uncovered on Nantucket island during nor'easter storm",
     "category": "未分类",
     "events": [
       {
@@ -5952,6 +6015,13 @@
         "event_cluster_id": "20260908-hawaii-braces-hurricane-lowell-01",
         "headline": "Hawaii braces for Hurricane Lowell",
         "summary": "Threats of cyclones and deadly surf as the Category 3 storm path approaches Hawaiian islands on Monday night.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260928",
+        "event_cluster_id": "20260928-watch-shipwreck-uncovered-nantucket-01",
+        "headline": "Watch: Shipwreck uncovered on Nantucket island during nor'easter storm",
+        "summary": "The so-called nor'easter storm has washed up what may be a shipwreck from the 19th century in Massachusetts, local media says.",
         "category": "未分类"
       }
     ]
@@ -6119,8 +6189,8 @@
   },
   {
     "thread_id": "thread-amazon-prime-plane-overruns-runway-at-mi",
-    "title": "Priest killed and four injured in knife attack at Polish abbey",
-    "category": "安全与冲突",
+    "title": "Four killed in helicopter crash near Montreal",
+    "category": "未分类",
     "events": [
       {
         "date": "20260907",
@@ -6142,6 +6212,13 @@
         "headline": "Priest killed and four injured in knife attack at Polish abbey",
         "summary": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260928",
+        "event_cluster_id": "20260928-four-killed-helicopter-crash-01",
+        "headline": "Four killed in helicopter crash near Montreal",
+        "summary": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC.",
+        "category": "未分类"
       }
     ]
   },
@@ -6357,7 +6434,7 @@
   },
   {
     "thread_id": "thread-eiffel-tower-shut-by-staff-protest-after",
-    "title": "Two arrested after people seen mysteriously emerging from various New York City sewers.",
+    "title": "Ukrainian forces airdrop supplies to city where bodies are left to be eaten by dogs because of deadly risk from drones T",
     "category": "未分类",
     "events": [
       {
@@ -6386,6 +6463,20 @@
         "event_cluster_id": "20260926-manchester-city-reportedly-found-01",
         "headline": "Two arrested after people seen mysteriously emerging from various New York City sewers.",
         "summary": "Manchester City have reportedly been found guilty of almost all 115 financial misconduct charges they were facing.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260928",
+        "event_cluster_id": "20260928-powerful-storm-floods-us-01",
+        "headline": "Powerful storm floods US Northeast, causes power outages",
+        "summary": "The nor easter causes another round of flooding in low-lying areas in New Jersey and New York City and knocks out power.",
+        "category": "气候与环境"
+      },
+      {
+        "date": "20260928",
+        "event_cluster_id": "20260928-man-city-s-115-01",
+        "headline": "Ukrainian forces airdrop supplies to city where bodies are left to be eaten by dogs because of deadly risk from drones T",
+        "summary": "Man City just got found guilty on 114 of 115 financial charges — but the story behind it is much more complex.",
         "category": "未分类"
       }
     ]
@@ -6567,8 +6658,8 @@
   },
   {
     "thread_id": "thread-the-map-was-lying-to-you-why-the-un-just",
-    "title": "How Israel’s ‘Blue Line’ team seizes Palestinian land in the West Bank",
-    "category": "经济与市场",
+    "title": "The Race Car Is Just The Start Of Richard Freeman’s NHRA Plan",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260909",
@@ -6597,6 +6688,13 @@
         "headline": "How Israel’s ‘Blue Line’ team seizes Palestinian land in the West Bank",
         "summary": "Little-known Israeli map team is redrawing land boundaries as Palestinians face growing illegal settlement expansion.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20260928",
+        "event_cluster_id": "20260928-race-car-just-start-01",
+        "headline": "The Race Car Is Just The Start Of Richard Freeman’s NHRA Plan",
+        "summary": "Elite Motorsports has become an NHRA powerhouse. Now Richard Freeman is betting that the future of the team depends as much on business as what happens on track.",
+        "category": "文化体育"
       }
     ]
   },
@@ -6805,7 +6903,7 @@
   },
   {
     "thread_id": "thread-burnham-defends-uk-ban-on-israeli-settle",
-    "title": "UK prosecutors charge first person for Rwanda genocide",
+    "title": "Five arrested near UK air base used by U.S.",
     "category": "未分类",
     "events": [
       {
@@ -6827,6 +6925,13 @@
         "event_cluster_id": "20260922-uk-prosecutors-charge-first-01",
         "headline": "UK prosecutors charge first person for Rwanda genocide",
         "summary": "Vincent Brown is alleged to have directed and incited acts of murder and genocide carried out by others .",
+        "category": "未分类"
+      },
+      {
+        "date": "20260928",
+        "event_cluster_id": "20260928-five-arrested-near-uk-01",
+        "headline": "Five arrested near UK air base used by U.S.",
+        "summary": "Five men have been arrested near RAF Fairford in the UK on suspicion of explosives and terrorism offences.",
         "category": "未分类"
       }
     ]
@@ -7183,7 +7288,7 @@
   },
   {
     "thread_id": "thread-us-legislators-push-ai-safety-laws-amid-",
-    "title": "Novelist accused of using AI to write book removed from French prize list",
+    "title": "Bill Gates says AI without regulation is ‘completely irresponsible’",
     "category": "科技与AI",
     "events": [
       {
@@ -7247,6 +7352,13 @@
         "event_cluster_id": "20260926-novelist-accused-using-ai-01",
         "headline": "Novelist accused of using AI to write book removed from French prize list",
         "summary": "Thélyson Orélien had been in the running to win a top literary prize before the AI claim emerged on social media The organisers of France’s most prestigious literary prize said they had removed a critically acclaimed novel by a Canadian-Haitian writer from the longlist after an anonymous online account claimed the book was “almost entirely” written by AI. The Académie Goncourt, a Paris-based liter",
+        "category": "科技与AI"
+      },
+      {
+        "date": "20260928",
+        "event_cluster_id": "20260928-bill-gates-ai-without-01",
+        "headline": "Bill Gates says AI without regulation is ‘completely irresponsible’",
+        "summary": "The billionaire cofounder of Microsoft says, without restrictions, AI could cause a billion deaths .",
         "category": "科技与AI"
       }
     ]
@@ -7617,7 +7729,7 @@
   },
   {
     "thread_id": "thread-super-macklemore-64-video-game-mocks-she",
-    "title": "Israel-related tensions surface across UN, Moroccan elections, and football",
+    "title": "Israel revokes Dutch diplomats’ status over sanctions on settlements",
     "category": "国际政治",
     "events": [
       {
@@ -7646,6 +7758,13 @@
         "event_cluster_id": "20260923-erdogan-accuses-israel-genocidal-01",
         "headline": "Israel-related tensions surface across UN, Moroccan elections, and football",
         "summary": "Turkish President Erdogan accused Israel of a 'genocidal mindset' at the UN General Assembly. In Morocco, Israel-related rhetoric is being used to court young voters in elections. Separately, a football match between Israel and the Republic of Ireland has become contentious, with neutral venues and no away fans. The sources cover distinct events linked by the theme of Israel-related international ",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260928",
+        "event_cluster_id": "20260928-israel-revokes-dutch-diplomats-01",
+        "headline": "Israel revokes Dutch diplomats’ status over sanctions on settlements",
+        "summary": "Israel escalates retaliatory measures as Western sanctions target illegal West Bank settlements.",
         "category": "国际政治"
       }
     ]
@@ -7883,8 +8002,8 @@
   },
   {
     "thread_id": "thread-takeaways-from-the-trump-xi-state-visit-",
-    "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
-    "category": "未分类",
+    "title": "Two giant pandas arrive in Atlanta from China after Xi-Trump summit",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260926",
@@ -7892,6 +8011,55 @@
         "headline": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
         "summary": "The visit comes at an important time for both men. (Image credit: Win McNamee)",
         "category": "未分类"
+      },
+      {
+        "date": "20260928",
+        "event_cluster_id": "20260928-two-giant-pandas-arrive-01",
+        "headline": "Two giant pandas arrive in Atlanta from China after Xi-Trump summit",
+        "summary": "Ping Ping and Fu Shuang to live at Atlanta zoo in Georgia as part of loan deal between Chinese and US governments Two giant pandas from China arrived in Atlanta , Georgia, on Sunday morning as part of an agreement between the Chinese and American governments. While in Washington DC for a three - day summit with Donald Trump , Chinese president Xi Jinping announced that the pandas would arrive in A",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-two-mass-shootings-in-south-africa-leave",
+    "title": "Two mass shootings in South Africa leave 27 dead",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20260928",
+        "event_cluster_id": "20260928-two-mass-shootings-south-01",
+        "headline": "Two mass shootings in South Africa leave 27 dead",
+        "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-deadly-strike-hits-market-in-yemen-s-tai",
+    "title": "Deadly strike hits market in Yemen’s Taiz",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20260928",
+        "event_cluster_id": "20260928-deadly-strike-hits-market-01",
+        "headline": "Deadly strike hits market in Yemen’s Taiz",
+        "summary": "A strike on a market in the Yemeni city of Taiz has killed at least seven people and wounded 40.",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-5-arrested-in-u-k-near-base-used-by-u-s-",
+    "title": "5 arrested in U.K. near base used by U.S. on suspicion of planning terror act",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20260928",
+        "event_cluster_id": "20260928-5-arrested-u-k-01",
+        "headline": "5 arrested in U.K. near base used by U.S. on suspicion of planning terror act",
+        "summary": "President Trump said U.S. and British authorities were working together on the investigation. He said he believed the suspects were “looking to do big damage.”",
+        "category": "国际政治"
       }
     ]
   }
