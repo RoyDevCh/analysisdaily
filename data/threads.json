@@ -78,7 +78,7 @@
   },
   {
     "thread_id": "thread-germany-says-russia-preparing-hybrid-att",
-    "title": "Ukraine targets Moscow with hundreds of drones on final day of Russian election",
+    "title": "Daytime Russian strike on Kyiv’s science academy kills at least one",
     "category": "安全与冲突",
     "events": [
       {
@@ -135,6 +135,13 @@
         "event_cluster_id": "20260921-ukraine-targets-moscow-hundreds-01",
         "headline": "Ukraine targets Moscow with hundreds of drones on final day of Russian election",
         "summary": "At least three people killed and oil refinery damaged as doubts cast over initial reports of ballistic missile use Ukraine has targeted Moscow and the surrounding region in a large-scale attack that involved hundreds of drones. The attack killed at least three people and damaged what Ukraine’s president, Volodymyr Zelenskyy, said was one of Russia’s “key oil industry facilities” on the final day o",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20260929",
+        "event_cluster_id": "20260929-daytime-russian-strike-kyiv-01",
+        "headline": "Daytime Russian strike on Kyiv’s science academy kills at least one",
+        "summary": "Three others wounded as jet-powered drones increasingly target Ukraine’s capital, with medical centre also hit A Russian drone hit the National Academy of Sciences in central Kyiv on Monday, killing at least one person, in the latest daytime attack on Ukraine’s capital. Flames tore through the historic building as people clambered out of first- and second-floor windows to escape, in dramatic scene",
         "category": "安全与冲突"
       }
     ]
@@ -708,8 +715,8 @@
   },
   {
     "thread_id": "thread-palestinian-artist-saint-levant-delays-t",
-    "title": "UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war",
-    "category": "安全与冲突",
+    "title": "Clippers’ Ty Lue On Steve Ballmer: ‘My Loyalty To Him Is To The End’",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -780,6 +787,13 @@
         "headline": "UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war",
         "summary": "Waltz says Trump rejected Iran’s proposal to end war because they ‘were asking for everything up front’ The Trump administration ’s ambassador to the United Nations said the US rejected Iran ’s proposal to end the ongoing war there because Iranian negotiators “were asking for everything up front”. Echoing comments by Donald Trump on Saturday, the president’s UN ambassador Mike Waltz told CNN’s Sta",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260929",
+        "event_cluster_id": "20260929-clippers-ty-lue-steve-01",
+        "headline": "Clippers’ Ty Lue On Steve Ballmer: ‘My Loyalty To Him Is To The End’",
+        "summary": "Clippers Tyronn Lue stressed he does not feel the organization betrayed him for circumventing the salary cap with Kawhi Leonard.",
+        "category": "未分类"
       }
     ]
   },
@@ -1429,8 +1443,8 @@
   },
   {
     "thread_id": "thread-us-and-iran-exchange-more-airstrikes-fue",
-    "title": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
-    "category": "安全与冲突",
+    "title": "Gold falls amid rising oil prices and higher US dollar",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -1466,6 +1480,13 @@
         "headline": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
         "summary": "Iranians are feeling the strain of the war, which has made a longstanding economic crisis worse.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260929",
+        "event_cluster_id": "20260929-gold-falls-rising-oil-01",
+        "headline": "Gold falls amid rising oil prices and higher US dollar",
+        "summary": "Gold hits seven-week low; silver follows suit and records a nearly 5 percent loss.",
+        "category": "未分类"
       }
     ]
   },
@@ -2325,8 +2346,8 @@
   },
   {
     "thread_id": "thread-nepal-flood-death-toll-exceeds-1-000",
-    "title": "Djibouti appeals for Yemeni refugee aid; Nepal demands climate justice after floods",
-    "category": "社会与公共政策",
+    "title": "Nepal hit by deadly floods, landslides, and avalanche",
+    "category": "气候与环境",
     "events": [
       {
         "date": "20260902",
@@ -2418,6 +2439,13 @@
         "headline": "Djibouti appeals for Yemeni refugee aid; Nepal demands climate justice after floods",
         "summary": "The provided sources describe two separate events rather than one shared event. Djibouti's Minister of Social Affairs and Solidarity, Ouloufa Ismail Abdo, appealed for aid for Yemeni refugees. Separately, Nepal's Environment Minister Geeta Chaudhary demanded climate justice and sought compensation from the UN-backed Loss and Damage Fund following floods in August. The sources diverge entirely in s",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260929",
+        "event_cluster_id": "20260929-nepal-hit-deadly-floods-01",
+        "headline": "Nepal hit by deadly floods, landslides, and avalanche",
+        "summary": "Heavy rain triggered deadly floods and landslides across Nepal, while an avalanche left 12 workers missing.",
+        "category": "气候与环境"
       }
     ]
   },
@@ -3186,7 +3214,7 @@
   },
   {
     "thread_id": "thread-us-and-iran-exchange-airstrikes-in-middl",
-    "title": "Passenger train derails in France, leaving 44 injured, 1 critical",
+    "title": "French far-right leader Bardella refutes anti-Semitism allegations",
     "category": "未分类",
     "events": [
       {
@@ -3264,6 +3292,13 @@
         "event_cluster_id": "20260912-passenger-train-derails-france-01",
         "headline": "Passenger train derails in France, leaving 44 injured, 1 critical",
         "summary": "French train derailment sparks emergency response, with 130 firefighters and five medical teams dispatched to the scene.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260929",
+        "event_cluster_id": "20260929-french-far-right-leader-01",
+        "headline": "French far-right leader Bardella refutes anti-Semitism allegations",
+        "summary": "Mediapart s explosive report comes a day after France s National Rally party secures a record number of Senate seats.",
         "category": "未分类"
       }
     ]
@@ -4441,6 +4476,13 @@
         "headline": "Here’s the latest.",
         "summary": "The Dodgers have accomplished their latest regular-season objective.",
         "category": "未分类"
+      },
+      {
+        "date": "20260929",
+        "event_cluster_id": "20260929-here-s-latest-01",
+        "headline": "Here’s the latest.",
+        "summary": "This incident marks the latest deadly migrant voyage in the treacherous Mona Passage, often used by those fleeing Haiti.",
+        "category": "未分类"
       }
     ]
   },
@@ -5069,7 +5111,7 @@
   },
   {
     "thread_id": "thread-2026年美国初选-马萨诸塞州马克伊获民主党提名-德州民主党民调微弱领先",
-    "title": "Political scientist on what's at stake as Trump speaks to world leaders at UNGA",
+    "title": "Trump announces $15bn steel mill project in Iowa before US midterms",
     "category": "国际政治",
     "events": [
       {
@@ -5133,6 +5175,13 @@
         "event_cluster_id": "20260923-political-scientist-what-s-01",
         "headline": "Political scientist on what's at stake as Trump speaks to world leaders at UNGA",
         "summary": "NPR's Steve Inskeep speaks with political scientist Ian Bremmer of the Eurasia Group about President Trump's diplomatic stakes as he addresses the U.N. General Assembly.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260929",
+        "event_cluster_id": "20260929-trump-announces-15bn-steel-01",
+        "headline": "Trump announces $15bn steel mill project in Iowa before US midterms",
+        "summary": "Amid tight Iowa midterm races, US President Trump emphasises steel industry revival with a project announcement.",
         "category": "国际政治"
       }
     ]
@@ -5951,7 +6000,7 @@
   },
   {
     "thread_id": "thread-nigel-farage-heckled-at-reform-uk-confer",
-    "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+    "title": "Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
     "category": "国际政治",
     "events": [
       {
@@ -5994,6 +6043,13 @@
         "event_cluster_id": "20260925-italy-ministers-agree-ban-01",
         "headline": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
         "summary": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
+        "category": "国际政治"
+      },
+      {
+        "date": "20260929",
+        "event_cluster_id": "20260929-hungary-lifts-immunity-prime-01",
+        "headline": "Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
+        "summary": "Hungary s Parliament lifts immunity of incumbent leader and two former ministers, clearing the way for criminal probes.",
         "category": "国际政治"
       }
     ]
@@ -6429,6 +6485,13 @@
         "headline": "Dream Big with a Home Equity Loan",
         "summary": "For a few teasing moments Wednesday, it looked as if the Yankees might sneak away with a sweep that was overshadowed by Aaron Judge's injury.",
         "category": "未分类"
+      },
+      {
+        "date": "20260929",
+        "event_cluster_id": "20260929-dream-big-home-equity-01",
+        "headline": "Dream Big with a Home Equity Loan",
+        "summary": "Three hikers were plucked from the rugged Big Sur wilderness in a dramatic overnight helicopter rescue after becoming lost and disoriented, with one suffering a medical emergency. The rescue operation unfolded Sunday night inside Limekiln State Park, where crews were forced to hack their way through heavily overgrown trails before a Navy helicopter hoisted the...",
+        "category": "未分类"
       }
     ]
   },
@@ -6700,8 +6763,8 @@
   },
   {
     "thread_id": "thread-british-widow-faces-deportation-from-swe",
-    "title": "‘MobLand’ Season 2, Episode 2 Recap And Review: Kiss Kiss, Bang Bang",
-    "category": "安全与冲突",
+    "title": "Is Ted Lasso Putting Leadership Coaches Out Of A Job",
+    "category": "未分类",
     "events": [
       {
         "date": "20260909",
@@ -6730,6 +6793,13 @@
         "headline": "‘MobLand’ Season 2, Episode 2 Recap And Review: Kiss Kiss, Bang Bang",
         "summary": "MobLand Season 2, Episode 2 “Song 2” uses the assassination of Henry IV and the gruesome execution of François Ravaillac to foreshadow a brutal attack on the Harrigans.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20260929",
+        "event_cluster_id": "20260929-ted-lasso-putting-leadership-01",
+        "headline": "Is Ted Lasso Putting Leadership Coaches Out Of A Job",
+        "summary": "Is a fictional football coach putting leadership coaches out of a job? Four empathetic leadership lessons hiding in Ted Lasso Season 4.",
+        "category": "未分类"
       }
     ]
   },
@@ -6778,6 +6848,13 @@
         "event_cluster_id": "20260925-turn-your-rising-home-01",
         "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
         "summary": "When McGilvrey reached out to the National Association of Medical Examiners (N.A.M.E.) — the organization told her the medical examiner was to blame for the disastrous mishap.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260929",
+        "event_cluster_id": "20260929-turn-your-rising-home-01",
+        "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
+        "summary": "Turn Your Rising Home Equity Into Cash You Can Use",
         "category": "未分类"
       }
     ]
@@ -7064,7 +7141,7 @@
   },
   {
     "thread_id": "thread-royal-family-rift-after-popular-tv-news-",
-    "title": "King Charles, Earl Spencer clash over Diana death once again",
+    "title": "Sign before praying: A new conversion law is affecting churchgoers in Indian state",
     "category": "未分类",
     "events": [
       {
@@ -7086,6 +7163,20 @@
         "event_cluster_id": "20260918-king-charles-earl-spencer-01",
         "headline": "King Charles, Earl Spencer clash over Diana death once again",
         "summary": "Buckingham Palace has rejected criticism of King Charles III in a new book by the brother of his late wife, Princess Diana. Earl Charles Spencer has been a fierce critic of his former brother-in-law for decades.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260929",
+        "event_cluster_id": "20260929-tennessee-governor-declines-halt-01",
+        "headline": "Tennessee governor declines to halt execution of state's lone woman on death row",
+        "summary": "If the execution proceeds, Pike would be the first woman put to death in Tennessee in more than 200 years.",
+        "category": "未分类"
+      },
+      {
+        "date": "20260929",
+        "event_cluster_id": "20260929-sign-praying-conversion-law-01",
+        "headline": "Sign before praying: A new conversion law is affecting churchgoers in Indian state",
+        "summary": "A new anti-conversion law in Maharashtra is raising questions about faith, choice and freedom.",
         "category": "未分类"
       }
     ]
@@ -7141,8 +7232,8 @@
   },
   {
     "thread_id": "thread-lg-defends-smart-tv-features-amid-audio-",
-    "title": "Elon Musk’s X Corp and SpaceXAI drop antitrust lawsuit against Apple",
-    "category": "社会与公共政策",
+    "title": "Toby Martin has launched a website he promises will document the case of a former Cornell University student who alleges",
+    "category": "未分类",
     "events": [
       {
         "date": "20260911",
@@ -7164,6 +7255,13 @@
         "headline": "Elon Musk’s X Corp and SpaceXAI drop antitrust lawsuit against Apple",
         "summary": "The companies had accused Apple of favouring OpenAI’s ChatGPT over rival AI chatbots.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20260929",
+        "event_cluster_id": "20260929-apple-ordered-pay-5-01",
+        "headline": "Toby Martin has launched a website he promises will document the case of a former Cornell University student who alleges",
+        "summary": "California jury finds Apple infringed two Taction patents but did not wilfully violate them; Apple plans to appeal.",
+        "category": "未分类"
       }
     ]
   },
@@ -7288,7 +7386,7 @@
   },
   {
     "thread_id": "thread-us-legislators-push-ai-safety-laws-amid-",
-    "title": "Bill Gates says AI without regulation is ‘completely irresponsible’",
+    "title": "OpenAI scraps release of latest AI model over safety concerns",
     "category": "科技与AI",
     "events": [
       {
@@ -7359,6 +7457,13 @@
         "event_cluster_id": "20260928-bill-gates-ai-without-01",
         "headline": "Bill Gates says AI without regulation is ‘completely irresponsible’",
         "summary": "The billionaire cofounder of Microsoft says, without restrictions, AI could cause a billion deaths .",
+        "category": "科技与AI"
+      },
+      {
+        "date": "20260929",
+        "event_cluster_id": "20260929-openai-scraps-release-latest-01",
+        "headline": "OpenAI scraps release of latest AI model over safety concerns",
+        "summary": "AI giant says GPT-6.1 Astra failed to meet alignment standards during internal testing.",
         "category": "科技与AI"
       }
     ]
@@ -7911,8 +8016,8 @@
   },
   {
     "thread_id": "thread-openai-agent-hacked-australian-governmen",
-    "title": "OpenAI agent hacked Australian government health portal, PM Albanese announces",
-    "category": "科技与AI",
+    "title": "OpenAI scraps rollout of new model over safety concerns",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260925",
@@ -7920,6 +8025,13 @@
         "headline": "OpenAI agent hacked Australian government health portal, PM Albanese announces",
         "summary": "Australian Prime Minister Albanese announced that an OpenAI automated agent breached an Australian government health data portal, marking the world's first known AI-led breach of a government website. The breach occurred in June. Australia revealed the incident at the United Nations. Australia criticized OpenAI for taking too long to notify the government about the breach.",
         "category": "科技与AI"
+      },
+      {
+        "date": "20260929",
+        "event_cluster_id": "20260929-openai-scraps-rollout-model-01",
+        "headline": "OpenAI scraps rollout of new model over safety concerns",
+        "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+        "category": "国际政治"
       }
     ]
   },
@@ -8002,8 +8114,8 @@
   },
   {
     "thread_id": "thread-takeaways-from-the-trump-xi-state-visit-",
-    "title": "Two giant pandas arrive in Atlanta from China after Xi-Trump summit",
-    "category": "国际政治",
+    "title": "‘Friendship pandas’ arrive in Atlanta, marking US-China relations moment",
+    "category": "未分类",
     "events": [
       {
         "date": "20260926",
@@ -8018,6 +8130,13 @@
         "headline": "Two giant pandas arrive in Atlanta from China after Xi-Trump summit",
         "summary": "Ping Ping and Fu Shuang to live at Atlanta zoo in Georgia as part of loan deal between Chinese and US governments Two giant pandas from China arrived in Atlanta , Georgia, on Sunday morning as part of an agreement between the Chinese and American governments. While in Washington DC for a three - day summit with Donald Trump , Chinese president Xi Jinping announced that the pandas would arrive in A",
         "category": "国际政治"
+      },
+      {
+        "date": "20260929",
+        "event_cluster_id": "20260929-friendship-pandas-arrive-atlanta-01",
+        "headline": "‘Friendship pandas’ arrive in Atlanta, marking US-China relations moment",
+        "summary": "Two giant pandas from China have landed in the United States and are heading to Zoo Atlanta.",
+        "category": "未分类"
       }
     ]
   },
@@ -8059,6 +8178,62 @@
         "event_cluster_id": "20260928-5-arrested-u-k-01",
         "headline": "5 arrested in U.K. near base used by U.S. on suspicion of planning terror act",
         "summary": "President Trump said U.S. and British authorities were working together on the investigation. He said he believed the suspects were “looking to do big damage.”",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-seoul-summons-ukraine-envoy-over-north-k",
+    "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20260929",
+        "event_cluster_id": "20260929-seoul-summons-ukraine-envoy-01",
+        "headline": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+        "summary": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-watch-from-launch-to-fiery-splashdown-sp",
+    "title": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260929",
+        "event_cluster_id": "20260929-watch-launch-fiery-splashdown-01",
+        "headline": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
+        "summary": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-how-urban-suburban-and-rural-americans-e",
+    "title": "How urban, suburban and rural Americans engage in society",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20260929",
+        "event_cluster_id": "20260929-how-urban-suburban-rural-01",
+        "headline": "How urban, suburban and rural Americans engage in society",
+        "summary": "Urban, suburban and rural Americans engage in public life at similar rates but differ in some of the specific activities they do.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-protesters-have-set-up-tent-encampments-",
+    "title": "Protesters have set up tent encampments in central Madrid to demand government action on soaring housing costs.",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20260929",
+        "event_cluster_id": "20260929-hundreds-set-up-tent-01",
+        "headline": "Protesters have set up tent encampments in central Madrid to demand government action on soaring housing costs.",
+        "summary": "Protesters have set up tent encampments in central Madrid to demand government action on soaring housing costs.",
         "category": "国际政治"
       }
     ]
