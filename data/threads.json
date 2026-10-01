@@ -78,7 +78,7 @@
   },
   {
     "thread_id": "thread-germany-says-russia-preparing-hybrid-att",
-    "title": "Daytime Russian strike on Kyiv’s science academy kills at least one",
+    "title": "Russian drone crashes into Kyiv playground without exploding",
     "category": "安全与冲突",
     "events": [
       {
@@ -143,12 +143,19 @@
         "headline": "Daytime Russian strike on Kyiv’s science academy kills at least one",
         "summary": "Three others wounded as jet-powered drones increasingly target Ukraine’s capital, with medical centre also hit A Russian drone hit the National Academy of Sciences in central Kyiv on Monday, killing at least one person, in the latest daytime attack on Ukraine’s capital. Flames tore through the historic building as people clambered out of first- and second-floor windows to escape, in dramatic scene",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-russian-drone-crashes-kyiv-01",
+        "headline": "Russian drone crashes into Kyiv playground without exploding",
+        "summary": "A Russian attack drone crashed into a children’s playground in Kyiv, Ukraine without exploding.",
+        "category": "安全与冲突"
       }
     ]
   },
   {
     "thread_id": "thread-hong-kong-activist-joshua-wong-pleads-gu",
-    "title": "Iraq begins high-stakes security balancing act as US troops withdraw",
+    "title": "Retired general who led troops in Iraq warns U.S. exit may give Iran, ISIS an opening",
     "category": "安全与冲突",
     "events": [
       {
@@ -170,6 +177,20 @@
         "event_cluster_id": "20260930-iraq-begins-high-stakes-01",
         "headline": "Iraq begins high-stakes security balancing act as US troops withdraw",
         "summary": "Iraq marks national Sovereignty Days as US troops depart, but must navigate risks of new security landscape.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-last-uk-us-troops-01",
+        "headline": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+        "summary": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-retired-general-who-led-01",
+        "headline": "Retired general who led troops in Iraq warns U.S. exit may give Iran, ISIS an opening",
+        "summary": "Retired Lt. Gen. H.R. McMaster, who commanded U.S. troops in Iraq, says the withdrawal could strengthen Iran and leave Iraq more vulnerable to ISIS. (Image credit: Susan Walsh)",
         "category": "安全与冲突"
       }
     ]
@@ -323,7 +344,7 @@
   },
   {
     "thread_id": "thread-bus-crash-in-egypt-s-south-sinai-kills-a",
-    "title": "Pakistan PM calls Houthi threats to Saudi holy sites a ‘red line’",
+    "title": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
     "category": "安全与冲突",
     "events": [
       {
@@ -471,6 +492,13 @@
         "event_cluster_id": "20260926-pakistan-pm-calls-houthi-01",
         "headline": "Pakistan PM calls Houthi threats to Saudi holy sites a ‘red line’",
         "summary": "Pakistan PM, a signatory to the Mecca Joint Defence Agreement, condemned Houthi attacks on Saudi Arabia at UNGA 81.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-hero-pilot-stabbed-other-01",
+        "headline": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
+        "summary": "Passengers and crew overpowered the attacker and safely landed the plane in Saudi Arabia.",
         "category": "安全与冲突"
       }
     ]
@@ -638,8 +666,8 @@
   },
   {
     "thread_id": "thread-nepal-search-operations-continue-a-week-",
-    "title": "Rescuers are searching for people trapped in hydropower plants but first must locate the plants themselves.",
-    "category": "气候与环境",
+    "title": "Gunmen kill 7 on bus in Syria as pipeline blast knocks out 3 power plants",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -668,6 +696,13 @@
         "headline": "Rescuers are searching for people trapped in hydropower plants but first must locate the plants themselves.",
         "summary": "Search operations in Nepal are ongoing approximately one week after catastrophic flash floods struck parts of Nepal and Tibet. Rescuers are working to locate survivors and missing hydropower plants amid the debris. The United Nations estimated the disaster has left at least 2.2 million tonnes of debris, according to a preliminary assessment. Rescue efforts are complicated by the need to first loca",
         "category": "气候与环境"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-gunmen-kill-7-bus-01",
+        "headline": "Gunmen kill 7 on bus in Syria as pipeline blast knocks out 3 power plants",
+        "summary": "Gunmen attack bus in Homs province hours after a pipeline explosion knocked out three power plants near Damascus.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -1044,7 +1079,7 @@
   },
   {
     "thread_id": "thread-zelensky-says-airlines-should-avoid-russ",
-    "title": "Federal Judge Orders 30-Day Notice Before Any Physical Changes to Kennedy Center",
+    "title": "A Hasidic Jew Protested Against an Israeli Flag. He May Be Deported.",
     "category": "社会与公共政策",
     "events": [
       {
@@ -1206,6 +1241,13 @@
         "event_cluster_id": "20260918-us-judge-orders-30-01",
         "headline": "Federal Judge Orders 30-Day Notice Before Any Physical Changes to Kennedy Center",
         "summary": "A federal judge ordered the Kennedy Center to provide 30 days notice before making any physical changes to the institution, including potential demolition. The ruling occurs amid a legal battle over President Donald Trump's changes to the Kennedy Center, which include efforts to rename it. Trump has reportedly threatened demolition of parts of the facility.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-hasidic-jew-protested-against-01",
+        "headline": "A Hasidic Jew Protested Against an Israeli Flag. He May Be Deported.",
+        "summary": "Yehonatan Ovadia, center, at a demonstration against Israel in New York this year. He is in federal immigration detention because of a protest he attended in 2023.",
         "category": "社会与公共政策"
       }
     ]
@@ -2780,8 +2822,8 @@
   },
   {
     "thread_id": "thread-keir-starmer-announces-departure-from-pa",
-    "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
-    "category": "安全与冲突",
+    "title": "Netanyahu calls stabbed Indian pilot a hero; Flydubai halts Israel flights",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -2852,6 +2894,13 @@
         "headline": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
         "summary": "Israeli prime minister denounces Iran, NYC Mayor Mamdani and critics accusing Israel of crimes against Palestinians.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-netanyahu-calls-stabbed-indian-01",
+        "headline": "Netanyahu calls stabbed Indian pilot a hero; Flydubai halts Israel flights",
+        "summary": "Israeli prime minister thanks Captain Smit Machchhar for saving the lives of 174 people on board Tel Aviv-bound flight.",
+        "category": "国际政治"
       }
     ]
   },
@@ -3004,8 +3053,8 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-tiger-woods-and-bmw",
-    "title": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
-    "category": "国际政治",
+    "title": "French court sentences 13 men over deadliest small-boat crossing to UK",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -3076,6 +3125,20 @@
         "headline": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
         "summary": "Federal court in Florida to try men accused of orchestrating the transnational plot to kill Jovenel Moise from US soil.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-us-supreme-court-clears-01",
+        "headline": "US Supreme Court clears way for Christa Pike’s execution in Tennessee",
+        "summary": "Top court s decision overturns last-minute stay that stalled Tennessee s first execution of a woman in 200 years.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-french-court-sentences-13-01",
+        "headline": "French court sentences 13 men over deadliest small-boat crossing to UK",
+        "summary": "Six people smugglers are found guilty of involuntary homicide after 31 migrants died in the English Channel in 2021.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -3466,8 +3529,8 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-murder-investigatio",
-    "title": "Taylor Swift's 'Patient Zero' Gets The Epidemiology Wrong. Her Video Gets It Right",
-    "category": "未分类",
+    "title": "High-profile figures are being arrested and many Hungarians are pushing for swift accountability, but the rule of law ta",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -3510,6 +3573,13 @@
         "headline": "Taylor Swift's 'Patient Zero' Gets The Epidemiology Wrong. Her Video Gets It Right",
         "summary": "Taylor Swift's 'Patient Zero' inverts the term's meaning — and her video goes further. The real history: a misread letter, a scapegoat, a posthumous vindication.",
         "category": "未分类"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-hungary-s-reckoning-orban-01",
+        "headline": "High-profile figures are being arrested and many Hungarians are pushing for swift accountability, but the rule of law ta",
+        "summary": "Hungary's Prime Minister Peter Magyar vowed to dismantle Orban's corrupt networks. High-profile figures are being arrested and many Hungarians are pushing for swift accountability, but the rule of law takes time.",
+        "category": "国际政治"
       }
     ]
   },
@@ -3550,7 +3620,7 @@
   },
   {
     "thread_id": "thread-germany-attributes-leipzig-airport-drone",
-    "title": "Jay-Z rape accuser says her allegation was false",
+    "title": "UK says Iran may be linked to alleged airbase plot, drawing angry denial",
     "category": "未分类",
     "events": [
       {
@@ -3628,6 +3698,13 @@
         "event_cluster_id": "20260926-jay-z-rape-accuser-01",
         "headline": "Jay-Z rape accuser says her allegation was false",
         "summary": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-uk-iran-may-linked-01",
+        "headline": "UK says Iran may be linked to alleged airbase plot, drawing angry denial",
+        "summary": "Andy Burnham says UK has strong indications Iran involved in alleged security incident at RAF base used by US.",
         "category": "未分类"
       }
     ]
@@ -3977,7 +4054,7 @@
   },
   {
     "thread_id": "thread-impacts-of-ai-on-education-and-persuasio",
-    "title": "Acknowledgments",
+    "title": "Acknowledgements",
     "category": "未分类",
     "events": [
       {
@@ -4048,6 +4125,13 @@
         "event_cluster_id": "20260916-acknowledgments-01",
         "headline": "Acknowledgments",
         "summary": "This report is a collaborative effort based on the input and analysis of the following individuals. Maria Smerkovich, Research AssociateKirsten Lesage, Research AssociateJulia Armeli, Research Assistant Janakee Chavda, Associate Digital ProducerLaura Clancy, Research AnalystAlan Cooperman, Director, Religion ResearchShifra Dayak, Editorial SpecialistJonathan Evans, Senior ResearcherMoira Fagan, Se",
+        "category": "未分类"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-acknowledgements-01",
+        "headline": "Acknowledgements",
+        "summary": "This report is a collaborative effort based on the input and analysis of the following individuals: Primary researchers Athena Chapekis, Computational Social Scientist Arnold Lau, Former Research Methodologist Andrew Mercer, Principal Research Methodologist Samuel Bestvater, Associate Director, Data Labs Sono Shah, Former Associate Director, Data Labs Research team Aaron Smith, Director, Data Labs",
         "category": "未分类"
       }
     ]
@@ -5867,8 +5951,8 @@
   },
   {
     "thread_id": "thread-focus-features-may-submit-obsession-as-c",
-    "title": "Good And Bad News About The ‘Pluribus’ Season 2 Release Date",
-    "category": "未分类",
+    "title": "Australia news live: PM says Shoebridge’s ‘replace Labor’ goal ‘somewhat concerning’; Anika Wells named in Time’s ‘influ",
+    "category": "科技与AI",
     "events": [
       {
         "date": "20260904",
@@ -5890,13 +5974,20 @@
         "headline": "Good And Bad News About The ‘Pluribus’ Season 2 Release Date",
         "summary": "There's a new update on the 'Pluribus' season 2 release date, due to some news from Vince Gilligan. There's good and bad news.",
         "category": "未分类"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-australia-live-pm-shoebridge-01",
+        "headline": "Australia news live: PM says Shoebridge’s ‘replace Labor’ goal ‘somewhat concerning’; Anika Wells named in Time’s ‘influ",
+        "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Queensland’s state government has missed a deadline to sign up to the federal government’s Thriving Kids program before its rollout begins today. Under the program, state governments will provide supports to children up to 8 years old with mild to moderate autism or developmental delays. They will be made inel",
+        "category": "科技与AI"
       }
     ]
   },
   {
     "thread_id": "thread-trump-posts-ai-generated-videos-of-milit",
-    "title": "Trump posts AI-generated videos of military operations; OpenAI announces humanoid robotics project",
-    "category": "other",
+    "title": "Is US President Donald Trump right to rename AI as 'Super Intelligence'",
+    "category": "科技与AI",
     "events": [
       {
         "date": "20260904",
@@ -5904,6 +5995,13 @@
         "headline": "Trump posts AI-generated videos of military operations; OpenAI announces humanoid robotics project",
         "summary": "Two separate developments were reported. Al Jazeera reported that President Donald Trump has increasingly posted AI-generated videos depicting fake military strikes in recent months. Forbes reported that OpenAI has committed to developing humanoid robots, with CEO Sam Altman stating that everyone should have one. The articles cover distinct events involving artificial intelligence technology. Sour",
         "category": "other"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-us-president-donald-trump-01",
+        "headline": "Is US President Donald Trump right to rename AI as 'Super Intelligence'",
+        "summary": "Donald Trump thinks the name artificial intelligence sounds \"fake\" and has ordered US agencies to use \"Super Intelligence\" instead. Yet, tech firms and researchers have little reason to play along.",
+        "category": "科技与AI"
       }
     ]
   },
@@ -6245,8 +6343,8 @@
   },
   {
     "thread_id": "thread-oxford-museum-to-repatriate-colonial-era",
-    "title": "Tensions between India and Bangladesh are in focus after Dhaka skipped the BRICS summit in Delhi",
-    "category": "国际政治",
+    "title": "The children dying in India's remote tribal heartland",
+    "category": "未分类",
     "events": [
       {
         "date": "20260906",
@@ -6261,6 +6359,13 @@
         "headline": "Tensions between India and Bangladesh are in focus after Dhaka skipped the BRICS summit in Delhi",
         "summary": "Bangladesh's absence from the BRICS summit in New Delhi has raised fresh questions about strained ties. Ousted PM Sheikh Hasina's exile in India remains a major obstacle to normalizing relations.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-children-dying-india-s-01",
+        "headline": "The children dying in India's remote tribal heartland",
+        "summary": "At least 32 children have died in India's Balaghat district since May amid outbreaks of measles and malaria.",
+        "category": "未分类"
       }
     ]
   },
@@ -6406,7 +6511,7 @@
   },
   {
     "thread_id": "thread-two-separate-plane-crashes-in-the-united",
-    "title": "A plane landing in Tokyo that one passenger called a miracle ended with applause as Typhoon Dujuan battered Japan.",
+    "title": "Sweden must apologise for harm done to Sami people, says state-backed report",
     "category": "未分类",
     "events": [
       {
@@ -6421,6 +6526,13 @@
         "event_cluster_id": "20260922-typhoon-dujuan-kills-two-01",
         "headline": "A plane landing in Tokyo that one passenger called a miracle ended with applause as Typhoon Dujuan battered Japan.",
         "summary": "Storm is moving northeast away from Japan s eastern coast into the Pacific, leaving a path of destruction behind.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-sweden-must-apologise-harm-01",
+        "headline": "Sweden must apologise for harm done to Sami people, says state-backed report",
+        "summary": "Independent commission accuses country of failing Indigenous people, amid rising tensions over land rights An independent commission set up by the Swedish state has called on the country’s government to apologise for the “harm and injustice inflicted upon the Sami people” and to start a national process for “redress and reconciliation”. The Truth Commission for the Sami People also called for a sp",
         "category": "未分类"
       }
     ]
@@ -6448,7 +6560,7 @@
   },
   {
     "thread_id": "thread-thousands-turn-out-in-serbia-for-funeral",
-    "title": "Can Iraq handle future security challenges alone",
+    "title": "The U.S. military withdraws from Iraq over 2 decades after its invasion",
     "category": "安全与冲突",
     "events": [
       {
@@ -6484,6 +6596,13 @@
         "event_cluster_id": "20260930-iraq-handle-future-security-01",
         "headline": "Can Iraq handle future security challenges alone",
         "summary": "More than two decades of US military presence in Iraq comes to an end.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-u-s-military-withdraws-01",
+        "headline": "The U.S. military withdraws from Iraq over 2 decades after its invasion",
+        "summary": "23 years after the United States military invaded Iraq, sparking an insurgency and a civil war, the U.S. has withdrawn its forces, as the country still tries to combat Iranian influence. (Image credit: Ahmad Al-Rubaye)",
         "category": "安全与冲突"
       }
     ]
@@ -6546,7 +6665,7 @@
   },
   {
     "thread_id": "thread-aaron-judge-on-verge-of-returning-to-the",
-    "title": "Dream Big with a Home Equity Loan",
+    "title": "Couple describes relief at rescue after whale destroys their yacht",
     "category": "未分类",
     "events": [
       {
@@ -6568,6 +6687,13 @@
         "event_cluster_id": "20260929-dream-big-home-equity-01",
         "headline": "Dream Big with a Home Equity Loan",
         "summary": "Three hikers were plucked from the rugged Big Sur wilderness in a dramatic overnight helicopter rescue after becoming lost and disoriented, with one suffering a medical emergency. The rescue operation unfolded Sunday night inside Limekiln State Park, where crews were forced to hack their way through heavily overgrown trails before a Navy helicopter hoisted the...",
+        "category": "未分类"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-couple-describes-relief-rescue-01",
+        "headline": "Couple describes relief at rescue after whale destroys their yacht",
+        "summary": "Jeremy and Jemma Cooper were 500 miles off the coast of New Zealand when their yacht, the Tai Tam, collided with a sperm whale.",
         "category": "未分类"
       }
     ]
@@ -6672,8 +6798,8 @@
   },
   {
     "thread_id": "thread-white-house-removes-controversial-tetris",
-    "title": "Syrian regime planned American journalist's kidnapping for weeks",
-    "category": "国际政治",
+    "title": "As a Syrian glassmaker created his wares in Damascus, watching his craft reminded this reporter to slow down and enjoy t",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260909",
@@ -6702,6 +6828,13 @@
         "headline": "Syrian regime planned American journalist's kidnapping for weeks",
         "summary": "New reporting finds the abduction of journalist Austin Tice was planned by the Syrian government for weeks.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-greetings-syria-where-time-01",
+        "headline": "As a Syrian glassmaker created his wares in Damascus, watching his craft reminded this reporter to slow down and enjoy t",
+        "summary": "As a Syrian glassmaker created his wares in Damascus, watching his craft reminded this reporter to slow down and enjoy the moment.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -6847,8 +6980,8 @@
   },
   {
     "thread_id": "thread-british-widow-faces-deportation-from-swe",
-    "title": "‘Slow Horses’ Season 6, Episode 3 Recap And Review: Of Course It’s The Bloody Russians",
-    "category": "未分类",
+    "title": "Pennsylvania confirms fifth measles-associated death as US outbreak grows",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260909",
@@ -6898,6 +7031,13 @@
         "headline": "‘Slow Horses’ Season 6, Episode 3 Recap And Review: Of Course It’s The Bloody Russians",
         "summary": "In which our heroes have several brushes with death, save a former Slow Horse we thought was dead, and go on the run as deadly assassins close in.",
         "category": "未分类"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-pennsylvania-confirms-fifth-measles-01",
+        "headline": "Pennsylvania confirms fifth measles-associated death as US outbreak grows",
+        "summary": "Cases have more than doubled since August as a dispute with federal health officials over the death count continues.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -7078,7 +7218,7 @@
   },
   {
     "thread_id": "thread-burnham-defends-uk-ban-on-israeli-settle",
-    "title": "Five arrested near UK air base used by U.S.",
+    "title": "MI5 China alert will send chill through UK’s cash-strapped universities",
     "category": "未分类",
     "events": [
       {
@@ -7107,6 +7247,13 @@
         "event_cluster_id": "20260928-five-arrested-near-uk-01",
         "headline": "Five arrested near UK air base used by U.S.",
         "summary": "Five men have been arrested near RAF Fairford in the UK on suspicion of explosives and terrorism offences.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-mi5-china-alert-send-01",
+        "headline": "MI5 China alert will send chill through UK’s cash-strapped universities",
+        "summary": "Institutions have for years turned to China for funding opportunities but national security concerns are mounting MI5 issues spy alert to UK universities over Chinese front company stealing research The security alert issued by MI5 regarding a Chinese state-owned conglomerate accused of conducting espionage in the UK reveals the extent to which British intelligence remains concerned about Beijing’",
         "category": "未分类"
       }
     ]
@@ -8079,7 +8226,7 @@
   },
   {
     "thread_id": "thread-ireland-s-data-protection-commission-fin",
-    "title": "Ireland's Data Protection Commission fines Google over €400m for GDPR violations related to location data",
+    "title": "US Senate rejects bill targeting AI data centre electricity costs",
     "category": "科技与AI",
     "events": [
       {
@@ -8087,6 +8234,13 @@
         "event_cluster_id": "20260922-google-hit-403m-fine-01",
         "headline": "Ireland's Data Protection Commission fines Google over €400m for GDPR violations related to location data",
         "summary": "Ireland's Data Protection Commission (DPC) fined Google more than €400m for violations of GDPR rules concerning the processing of users' location data. The penalty follows an inquiry launched six years ago after complaints from several European consumer rights organisations. The regulator stated that users may have been unaware their information was used to target adverts or infer their interests.",
+        "category": "科技与AI"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-us-senate-rejects-bill-01",
+        "headline": "US Senate rejects bill targeting AI data centre electricity costs",
+        "summary": "Democrats criticise bill as lacking teeth and push for mandatory measures to address soaring electricity bills.",
         "category": "科技与AI"
       }
     ]
@@ -8177,8 +8331,8 @@
   },
   {
     "thread_id": "thread-susan-sarandon-hannah-einbinder-arrested",
-    "title": "Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest",
-    "category": "未分类",
+    "title": "Hong Kong journalist arrested on sedition charge",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260925",
@@ -8186,6 +8340,13 @@
         "headline": "Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest",
         "summary": "Susan Sarandon and Hannah Einbinder were among about 100 protesters arrested outside the UN ahead of Netanyahu’s speech.",
         "category": "未分类"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-hong-kong-journalist-arrested-01",
+        "headline": "Hong Kong journalist arrested on sedition charge",
+        "summary": "Authorities detain media founder over Prince Edward station clash video, as press freedom groups voice concern.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -8254,7 +8415,7 @@
   },
   {
     "thread_id": "thread-un-expands-list-of-firms-involved-in-ill",
-    "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
+    "title": "Israeli forces overwhelmed by violent settlers in ‘terrorist attack’ on Palestinian family",
     "category": "安全与冲突",
     "events": [
       {
@@ -8269,6 +8430,13 @@
         "event_cluster_id": "20260930-israeli-settlers-attack-west-01",
         "headline": "Israeli settlers attack West Bank village and block Palestinian family's return home",
         "summary": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-israeli-forces-overwhelmed-violent-01",
+        "headline": "Israeli forces overwhelmed by violent settlers in ‘terrorist attack’ on Palestinian family",
+        "summary": "Settler violence in West Bank makes everyday life ‘untenable’ for Palestinians, says ICRC after assault on family trying to return home in Jalud The International Committee of the Red Cross (ICRC) has said Israeli settler violence in the West Bank has made everyday life for Palestinians “untenable”, as a mob attack on Palestinians trying to return home prompted one of Benjamin Netanyahu’s main riv",
         "category": "安全与冲突"
       }
     ]
@@ -8345,7 +8513,7 @@
   },
   {
     "thread_id": "thread-seoul-summons-ukraine-envoy-over-north-k",
-    "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+    "title": "How Ukraine’s Naval Drones Are Remaking War at Sea",
     "category": "安全与冲突",
     "events": [
       {
@@ -8360,6 +8528,13 @@
         "event_cluster_id": "20260930-ukraine-s-prized-steel-01",
         "headline": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
         "summary": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-how-ukraine-s-naval-01",
+        "headline": "How Ukraine’s Naval Drones Are Remaking War at Sea",
+        "summary": "A Magura sea drone at a test site in central Ukraine in June.",
         "category": "安全与冲突"
       }
     ]
@@ -8380,8 +8555,8 @@
   },
   {
     "thread_id": "thread-how-urban-suburban-and-rural-americans-e",
-    "title": "How urban, suburban and rural Americans engage in society",
-    "category": "未分类",
+    "title": "Internet, Science & Tech – September 28, 2026",
+    "category": "科技与AI",
     "events": [
       {
         "date": "20260929",
@@ -8389,6 +8564,20 @@
         "headline": "How urban, suburban and rural Americans engage in society",
         "summary": "Urban, suburban and rural Americans engage in public life at similar rates but differ in some of the specific activities they do.",
         "category": "未分类"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-cash-credit-how-americans-01",
+        "headline": "From cash to credit, how Americans’ payment methods have changed in the past decade",
+        "summary": "Since 2015, the share of Americans who say they use cash for all or almost all of their purchases in a typical week has fallen by half, from 24% to 12%.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-internet-science-tech-september-01",
+        "headline": "Internet, Science & Tech – September 28, 2026",
+        "summary": "Internet, Science Tech A monthly digest of the Center s latest research on how the internet, science and technology are impacting society · Subscribe ↗ Media mentions Half of Americans Admit to Spending Too Much Time on PhonesToday America s supplement habit: 80 percent of adults are taking at least oneScripps News Most Young Americans Are [ ]",
+        "category": "科技与AI"
       }
     ]
   },
@@ -8422,8 +8611,8 @@
   },
   {
     "thread_id": "thread-yamal-stars-as-spain-thrash-croatia",
-    "title": "Yamal stars as Spain thrash Croatia",
-    "category": "文化体育",
+    "title": "Next Generation Drives Growth At India’s Storied Godrej Industries Group",
+    "category": "未分类",
     "events": [
       {
         "date": "20260930",
@@ -8431,6 +8620,55 @@
         "headline": "Yamal stars as Spain thrash Croatia",
         "summary": "Lamine Yamal scores twice and assists another as Spain beat Croatia 4-1 in UEFA Nations League Group A3",
         "category": "文化体育"
+      },
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-next-generation-drives-growth-01",
+        "headline": "Next Generation Drives Growth At India’s Storied Godrej Industries Group",
+        "summary": "In August, Pirojsha Godrej took on the mantle of chairperson of Godrej Industries Group.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-flydubai-fz1073-timeline-how-the-israel-",
+    "title": "Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-flydubai-fz1073-timeline-how-01",
+        "headline": "Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded",
+        "summary": "Flydubai flight diverts to Saudi Arabia after cockpit emergency, as Netanyahu alleges a crash attempt.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-passengers-tell-of-nightmare-onboard-div",
+    "title": "Passengers tell of ‘nightmare’ onboard diverted Flydubai flight",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-passengers-tell-nightmare-onboard-01",
+        "headline": "Passengers tell of ‘nightmare’ onboard diverted Flydubai flight",
+        "summary": "Israeli passengers tell of the horror onboard the Flydubai flight that was diverted after a pilot was stabbed.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-south-korea-lost-shark-draws-over-half-a",
+    "title": "South Korea: Lost shark draws over half a million visitors",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20261001",
+        "event_cluster_id": "20261001-south-korea-lost-shark-01",
+        "headline": "South Korea: Lost shark draws over half a million visitors",
+        "summary": "The South Korean port of Busan says that a stranded shark has become a major tourist draw. It's also named the ocean predator an honorary ambassador to the city.",
+        "category": "国际政治"
       }
     ]
   }
