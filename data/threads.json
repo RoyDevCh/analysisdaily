@@ -344,7 +344,7 @@
   },
   {
     "thread_id": "thread-bus-crash-in-egypt-s-south-sinai-kills-a",
-    "title": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
+    "title": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
     "category": "安全与冲突",
     "events": [
       {
@@ -500,6 +500,13 @@
         "headline": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
         "summary": "Passengers and crew overpowered the attacker and safely landed the plane in Saudi Arabia.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-netanyahu-flydubai-attacker-had-01",
+        "headline": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+        "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -568,7 +575,7 @@
   },
   {
     "thread_id": "thread-mark-carney-tells-us-to-start-being-seri",
-    "title": "Lula or Bolsonaro as president? Brazil gears up to vote",
+    "title": "Everything you need to know about Brazil’s tight presidential race",
     "category": "国际政治",
     "events": [
       {
@@ -660,6 +667,13 @@
         "event_cluster_id": "20260926-lula-bolsonaro-president-brazil-01",
         "headline": "Lula or Bolsonaro as president? Brazil gears up to vote",
         "summary": "Brazilians go to the polls on October 4. The front-runners are multilateralist incumbent Lula da Silva and former President Jair Bolsonaro's son, Flavio, who wants to bring Brazil closer to the US and away from China.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-everything-you-need-know-01",
+        "headline": "Everything you need to know about Brazil’s tight presidential race",
+        "summary": "Voters will soon decide between President Luiz Inácio Lula da Silva and the son of former President Jair Bolsonaro.",
         "category": "国际政治"
       }
     ]
@@ -2619,8 +2633,8 @@
   },
   {
     "thread_id": "thread-canadian-prime-minister-mark-carney-resp",
-    "title": "US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation",
-    "category": "经济与市场",
+    "title": "Trump says US may ask Europe to release diesel reserves",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -2726,6 +2740,13 @@
         "headline": "US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation",
         "summary": "Trump retaliated against Canada s counter-tariffs on $20bn worth of US imports by banning $1bn of Canadian goods.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-trump-us-may-ask-01",
+        "headline": "Trump says US may ask Europe to release diesel reserves",
+        "summary": "Skyrocketing diesel prices have pushed Washington to weigh an export ban, raising alarm across European economies.",
+        "category": "未分类"
       }
     ]
   },
@@ -2906,7 +2927,7 @@
   },
   {
     "thread_id": "thread-u-s-and-iran-exchange-military-strikes",
-    "title": "Trump returns to the UN, what will he say",
+    "title": "Most Americans say US-Israel war on Iran not worth fighting: Poll",
     "category": "安全与冲突",
     "events": [
       {
@@ -2977,6 +2998,13 @@
         "event_cluster_id": "20260922-trump-returns-un-what-01",
         "headline": "Trump returns to the UN, what will he say",
         "summary": "Trump returns to UNGA amid Iran war he started, Israeli violations of a Gaza ceasefire, and scrutiny of US aims.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-most-americans-say-us-01",
+        "headline": "Most Americans say US-Israel war on Iran not worth fighting: Poll",
+        "summary": "Nearly 70 percent of Americans say the US-Israeli war is not worth fighting, marking a significant spike since July.",
         "category": "安全与冲突"
       }
     ]
@@ -3711,8 +3739,8 @@
   },
   {
     "thread_id": "thread-putin-pledges-support-for-iran",
-    "title": "Putin pledges continued strikes in Ukraine and support for Iran at regional security meeting",
-    "category": "国际政治",
+    "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -3734,6 +3762,13 @@
         "headline": "Putin pledges continued strikes in Ukraine and support for Iran at regional security meeting",
         "summary": "Russian President Vladimir Putin pledged increased strikes on Ukraine and reaffirmed support for Iran at a regional security meeting in Kyrgyzstan, according to multiple reports. The meeting highlighted growing military and political cooperation between Moscow and Tehran. Both sources reported Putin's commitment to backing Iran amid shared opposition to U.S. influence. The New York Times emphasize",
         "category": "国际政治"
+      },
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-russia-s-putin-rules-01",
+        "headline": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
+        "summary": "Putin warned the West he would deploy nuclear weapons if necessary to defend the Russian Baltic exclave of Kaliningrad.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -4628,7 +4663,7 @@
   },
   {
     "thread_id": "thread-nigeria-anti-corruption-agency-dismisses",
-    "title": "Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups",
+    "title": "France vs Italy: UEFA Nations League – Zidane, Olise, Esposito, teams, form",
     "category": "文化体育",
     "events": [
       {
@@ -4671,6 +4706,13 @@
         "event_cluster_id": "20260925-turkiye-vs-france-uefa-01",
         "headline": "Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups",
         "summary": "Zinedine Zidane brings aura to his first France game as coach, against Turkiye in Nations League.",
+        "category": "文化体育"
+      },
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-france-vs-italy-uefa-01",
+        "headline": "France vs Italy: UEFA Nations League – Zidane, Olise, Esposito, teams, form",
+        "summary": "France face neighbours Italy in new coach Zinedine Zidane s first home game, with Mbappe out injured.",
         "category": "文化体育"
       }
     ]
@@ -5237,8 +5279,8 @@
   },
   {
     "thread_id": "thread-2026年美国初选-马萨诸塞州马克伊获民主党提名-德州民主党民调微弱领先",
-    "title": "Trump announces $15bn steel mill project in Iowa before US midterms",
-    "category": "国际政治",
+    "title": "Trump launches midterms campaign blitz amid record low approval ratings",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -5309,6 +5351,13 @@
         "headline": "Trump announces $15bn steel mill project in Iowa before US midterms",
         "summary": "Amid tight Iowa midterm races, US President Trump emphasises steel industry revival with a project announcement.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-trump-launches-midterms-campaign-01",
+        "headline": "Trump launches midterms campaign blitz amid record low approval ratings",
+        "summary": "In a series of campaign-style rallies, Trump seeks to boost Republican odds amid Iran war and rising fuel costs.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -5475,8 +5524,8 @@
   },
   {
     "thread_id": "thread-japan-reduces-urban-speed-limits-and-see",
-    "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
-    "category": "未分类",
+    "title": "K-pop star convicted of violating military service law",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -5540,6 +5589,13 @@
         "headline": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
         "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
         "category": "未分类"
+      },
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-k-pop-star-convicted-01",
+        "headline": "K-pop star convicted of violating military service law",
+        "summary": "The member of K-pop band Winner was given a suspended prison sentence for repeated absences from his national service work.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -6343,7 +6399,7 @@
   },
   {
     "thread_id": "thread-oxford-museum-to-repatriate-colonial-era",
-    "title": "The children dying in India's remote tribal heartland",
+    "title": "A brutal assault reignites fears over women's safety in India",
     "category": "未分类",
     "events": [
       {
@@ -6365,6 +6421,13 @@
         "event_cluster_id": "20261001-children-dying-india-s-01",
         "headline": "The children dying in India's remote tribal heartland",
         "summary": "At least 32 children have died in India's Balaghat district since May amid outbreaks of measles and malaria.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-brutal-assault-reignites-fears-01",
+        "headline": "A brutal assault reignites fears over women's safety in India",
+        "summary": "A string of sexual assault cases has revived questions about women's safety in India, fuelling fear, protests and demands for action.",
         "category": "未分类"
       }
     ]
@@ -6980,8 +7043,8 @@
   },
   {
     "thread_id": "thread-british-widow-faces-deportation-from-swe",
-    "title": "Pennsylvania confirms fifth measles-associated death as US outbreak grows",
-    "category": "社会与公共政策",
+    "title": "Zimbabwe tycoon Wicknell Chivayo dies in helicopter crash",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260909",
@@ -7038,6 +7101,13 @@
         "headline": "Pennsylvania confirms fifth measles-associated death as US outbreak grows",
         "summary": "Cases have more than doubled since August as a dispute with federal health officials over the death count continues.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-zimbabwe-tycoon-wicknell-chivayo-01",
+        "headline": "Zimbabwe tycoon Wicknell Chivayo dies in helicopter crash",
+        "summary": "Zimbabwe's President Emmerson Mnangagwa has confirmed the death of businessman Wicknell Chivayo and his wife in a helicopter crash, calling the high-rollers with a lavish lifestyle \"consummately philanthropic.\"",
+        "category": "国际政治"
       }
     ]
   },
@@ -7094,13 +7164,20 @@
         "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
         "summary": "Turn Your Rising Home Equity Into Cash You Can Use",
         "category": "未分类"
+      },
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-turn-your-rising-home-01",
+        "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
+        "summary": "The Finnish Parliament building in Helsinki. Prime Minister Petteri Orpo said that it was “very possible” there was a foreign actor behind the suspected home entries, the national broadcaster reported.",
+        "category": "未分类"
       }
     ]
   },
   {
     "thread_id": "thread-eiffel-tower-workers-strike-saying-women",
-    "title": "Meet The Women Who Make The Most Traceable Chocolate Across The U.S.",
-    "category": "未分类",
+    "title": "Renee Good's family sues Trump admin over fatal ICE shooting",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260909",
@@ -7115,6 +7192,13 @@
         "headline": "Meet The Women Who Make The Most Traceable Chocolate Across The U.S.",
         "summary": "Beyond Good prioritizes traceability in its ultra-premium Microbatch chocolate",
         "category": "未分类"
+      },
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-renee-good-s-family-01",
+        "headline": "Renee Good's family sues Trump admin over fatal ICE shooting",
+        "summary": "The family of Renee Good, one of two US citizens fatally shot by federal immigration agents in Minneapolis in January, has sued President Donald Trump's administration alleging negligence and civil rights violations.",
+        "category": "国际政治"
       }
     ]
   },
@@ -7519,7 +7603,7 @@
   },
   {
     "thread_id": "thread-dell-shares-hit-all-time-high-as-michael",
-    "title": "Dell Shares Hit All-Time High As Michael Dell And Jeff Bezos Jockey For Third-Wealthiest Billionaire",
+    "title": "Warren Buffett Becomes World's 10th Richest Person, Overtakes Amancio Ortega As Inditex Shares Slip",
     "category": "经济与市场",
     "events": [
       {
@@ -7527,6 +7611,13 @@
         "event_cluster_id": "20260912-dell-shares-hit-all-01",
         "headline": "Dell Shares Hit All-Time High As Michael Dell And Jeff Bezos Jockey For Third-Wealthiest Billionaire",
         "summary": "Michael Dell has surged on Forbes’ real-time billionaires list as Dell shares have rocketed on the AI boom.",
+        "category": "经济与市场"
+      },
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-warren-buffett-becomes-world-01",
+        "headline": "Warren Buffett Becomes World's 10th Richest Person, Overtakes Amancio Ortega As Inditex Shares Slip",
+        "summary": "Berkshire Hathaway shares edged up Thursday afternoon as Inditex shares fell over 1%.",
         "category": "经济与市场"
       }
     ]
@@ -8079,8 +8170,8 @@
   },
   {
     "thread_id": "thread-putin-s-grip-on-power-remains-strong-ahe",
-    "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
-    "category": "经济与市场",
+    "title": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
+    "category": "未分类",
     "events": [
       {
         "date": "20260919",
@@ -8102,6 +8193,13 @@
         "headline": "Estonia blames Russia for arson at defence company supplying Ukraine",
         "summary": "Russia has been accused of launching sabotage attacks across a number of European Nato countries which have been helping Ukraine.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-kanye-west-s-russia-01",
+        "headline": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
+        "summary": "Chaos has surrounded the St Petersburg shows since the stadium said it had not agreed to host the rapper.",
+        "category": "未分类"
       }
     ]
   },
@@ -8205,8 +8303,8 @@
   },
   {
     "thread_id": "thread-yemenis-flee-across-red-sea-as-houthis-a",
-    "title": "Why Eritrea matters as fighting returns to Ethiopia's Tigray",
-    "category": "安全与冲突",
+    "title": "Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260922",
@@ -8221,12 +8319,19 @@
         "headline": "Why Eritrea matters as fighting returns to Ethiopia's Tigray",
         "summary": "The US has removed key sanctions on Eritrea as Houthi attacks disrupt Red Sea shipping and fighting escalates in Ethiopia's Tigray region. Analysts say Eritrea's strategic value is growing.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-eritrea-severs-diplomatic-ties-01",
+        "headline": "Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move",
+        "summary": "Ethiopia says it will shut its embassy in Asmara, declares 10 Eritrean diplomats persona non grata.",
+        "category": "国际政治"
       }
     ]
   },
   {
     "thread_id": "thread-ireland-s-data-protection-commission-fin",
-    "title": "US Senate rejects bill targeting AI data centre electricity costs",
+    "title": "The price Europe pays for keeping AI under control",
     "category": "科技与AI",
     "events": [
       {
@@ -8241,6 +8346,13 @@
         "event_cluster_id": "20261001-us-senate-rejects-bill-01",
         "headline": "US Senate rejects bill targeting AI data centre electricity costs",
         "summary": "Democrats criticise bill as lacking teeth and push for mandatory measures to address soaring electricity bills.",
+        "category": "科技与AI"
+      },
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-price-europe-pays-keeping-01",
+        "headline": "The price Europe pays for keeping AI under control",
+        "summary": "The European Union (EU) has introduced some of the world s strictest Artificial Intelligence (AI) laws.",
         "category": "科技与AI"
       }
     ]
@@ -8415,8 +8527,8 @@
   },
   {
     "thread_id": "thread-un-expands-list-of-firms-involved-in-ill",
-    "title": "Israeli forces overwhelmed by violent settlers in ‘terrorist attack’ on Palestinian family",
-    "category": "安全与冲突",
+    "title": "A topic that has surfaced ahead of the San Francisco 49ers Week 4 game against the Denver Broncos is the return of Talan",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260926",
@@ -8438,6 +8550,13 @@
         "headline": "Israeli forces overwhelmed by violent settlers in ‘terrorist attack’ on Palestinian family",
         "summary": "Settler violence in West Bank makes everyday life ‘untenable’ for Palestinians, says ICRC after assault on family trying to return home in Jalud The International Committee of the Red Cross (ICRC) has said Israeli settler violence in the West Bank has made everyday life for Palestinians “untenable”, as a mob attack on Palestinians trying to return home prompted one of Benjamin Netanyahu’s main riv",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-taylor-swift-s-albums-01",
+        "headline": "A topic that has surfaced ahead of the San Francisco 49ers Week 4 game against the Denver Broncos is the return of Talan",
+        "summary": "All seven Taylor Swift albums on the Billboard 200 rise this week as 'The Life of a Showgirl' prepares for a likely return to No. 1.",
+        "category": "文化体育"
       }
     ]
   },
@@ -8471,8 +8590,8 @@
   },
   {
     "thread_id": "thread-two-mass-shootings-in-south-africa-leave",
-    "title": "Two mass shootings in South Africa leave 27 dead",
-    "category": "安全与冲突",
+    "title": "About 900 demonstrations, blockades and related incidents under way outside high schools around the country A fast-growi",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260928",
@@ -8480,6 +8599,13 @@
         "headline": "Two mass shootings in South Africa leave 27 dead",
         "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-france-school-protests-escalate-01",
+        "headline": "About 900 demonstrations, blockades and related incidents under way outside high schools around the country A fast-growi",
+        "summary": "About 900 demonstrations, blockades and related incidents under way outside high schools around the country A fast-growing protest by high-school students over long hours, teacher shortages and decaying facilities has escalated into “urban violence”, the French government has warned, as it said many schools would switch to online classes to protect teachers and pupils. The prime minister, Sébastie",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -8646,7 +8772,7 @@
   },
   {
     "thread_id": "thread-passengers-tell-of-nightmare-onboard-div",
-    "title": "Passengers tell of ‘nightmare’ onboard diverted Flydubai flight",
+    "title": "Who is Capt. Smit, Machchhar, the pilot of the Flydubai flight",
     "category": "未分类",
     "events": [
       {
@@ -8654,6 +8780,13 @@
         "event_cluster_id": "20261001-passengers-tell-nightmare-onboard-01",
         "headline": "Passengers tell of ‘nightmare’ onboard diverted Flydubai flight",
         "summary": "Israeli passengers tell of the horror onboard the Flydubai flight that was diverted after a pilot was stabbed.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-who-capt-smit-machchhar-01",
+        "headline": "Who is Capt. Smit, Machchhar, the pilot of the Flydubai flight",
+        "summary": "Captain Smit Machchhar from India is recovering from stab wounds he suffered in a Flydubai flight altercation.",
         "category": "未分类"
       }
     ]
@@ -8668,6 +8801,48 @@
         "event_cluster_id": "20261001-south-korea-lost-shark-01",
         "headline": "South Korea: Lost shark draws over half a million visitors",
         "summary": "The South Korean port of Busan says that a stranded shark has become a major tourist draw. It's also named the ocean predator an honorary ambassador to the city.",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-what-a-pearly-king-taught-me-about-cockn",
+    "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-what-pearly-king-taught-01",
+        "headline": "What a Pearly King taught me about Cockney rhyming slang and East London history",
+        "summary": "In mother-of-pearl suits, the Pearly Kings used to canvass East London for charity. The most famous one, George Major, died in August. A look back on this larger-than-life figure and the Pearly King tradition. (Image credit: Tony Kershaw)",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-protesters-halt-game-as-calls-grow-on-ir",
+    "title": "Protesters halt game as calls grow on Ireland to boycott second Israel game",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-protesters-halt-game-calls-01",
+        "headline": "Protesters halt game as calls grow on Ireland to boycott second Israel game",
+        "summary": "Republic of Ireland s game halted by tennis balls thrown and invader with Palestine flags amid Israel boycott demand.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-icc-ends-contract-with-french-insurer-am",
+    "title": "ICC ends contract with French insurer amid US sanctions threat",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20261002",
+        "event_cluster_id": "20261002-icc-ends-contract-french-01",
+        "headline": "ICC ends contract with French insurer amid US sanctions threat",
+        "summary": "ICC and Axa terminate agreement amid mounting US criticism and looming financial restrictions on the court, FT reports.",
         "category": "国际政治"
       }
     ]
