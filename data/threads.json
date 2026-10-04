@@ -155,7 +155,7 @@
   },
   {
     "thread_id": "thread-hong-kong-activist-joshua-wong-pleads-gu",
-    "title": "Retired general who led troops in Iraq warns U.S. exit may give Iran, ISIS an opening",
+    "title": "U.S. withdrawal from Iraq is complete",
     "category": "安全与冲突",
     "events": [
       {
@@ -191,6 +191,13 @@
         "event_cluster_id": "20261001-retired-general-who-led-01",
         "headline": "Retired general who led troops in Iraq warns U.S. exit may give Iran, ISIS an opening",
         "summary": "Retired Lt. Gen. H.R. McMaster, who commanded U.S. troops in Iraq, says the withdrawal could strengthen Iran and leave Iraq more vulnerable to ISIS. (Image credit: Susan Walsh)",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261004",
+        "event_cluster_id": "20261004-u-s-withdrawal-iraq-01",
+        "headline": "U.S. withdrawal from Iraq is complete",
+        "summary": "Twenty-three years after President George W. Bush's campaign of \"shock and awe,\" the U.S. military has completed its withdrawal from Iraq.",
         "category": "安全与冲突"
       }
     ]
@@ -1268,7 +1275,7 @@
   },
   {
     "thread_id": "thread-guinea-bissau-referendum-approves-new-co",
-    "title": "Spain protests: Evicted 87-year-old woman to return to Madrid home",
+    "title": "Australia: Car crashes into rugby fans, 10 injured",
     "category": "未分类",
     "events": [
       {
@@ -1325,6 +1332,13 @@
         "event_cluster_id": "20260930-spain-protests-evicted-87-01",
         "headline": "Spain protests: Evicted 87-year-old woman to return to Madrid home",
         "summary": "The real estate firm backs down and restores her old rent after mass protests over Spain s housing crisis.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261004",
+        "event_cluster_id": "20261004-australia-car-crashes-rugby-01",
+        "headline": "Australia: Car crashes into rugby fans, 10 injured",
+        "summary": "The driver has been identified as an 18-year-old man who is said to have been \"revving\" when he lost control of his car.",
         "category": "未分类"
       }
     ]
@@ -2241,7 +2255,7 @@
   },
   {
     "thread_id": "thread-joshua-wong-pleads-guilty-in-hong-kong-n",
-    "title": "UK Foreign Secretary confronted by activists over Palestine Action ban",
+    "title": "Jon Moxley In Action, And Kofi Kingston Wrestles His First AEW Singles Match",
     "category": "未分类",
     "events": [
       {
@@ -2340,6 +2354,13 @@
         "event_cluster_id": "20260928-uk-foreign-secretary-confronted-01",
         "headline": "UK Foreign Secretary confronted by activists over Palestine Action ban",
         "summary": "UK Foreign Secretary Ed Miliband was confronted by activists at a restaurant over the proscription of Palestine Action.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261004",
+        "event_cluster_id": "20261004-jon-moxley-action-kofi-01",
+        "headline": "Jon Moxley In Action, And Kofi Kingston Wrestles His First AEW Singles Match",
+        "summary": "AEW Collision start time, card and how to watch for Oct. 3: Jon Moxley vs. Jake Doyle, Kofi vs. Lee Moriarty, on TNT and HBO Max at 8 p.m. ET.",
         "category": "未分类"
       }
     ]
@@ -2584,8 +2605,8 @@
   },
   {
     "thread_id": "thread-us-energy-secretary-signs-oil-deal-in-ve",
-    "title": "Argentina intensifies campaign against Falklands oil companies",
-    "category": "国际政治",
+    "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -2628,6 +2649,13 @@
         "headline": "Argentina intensifies campaign against Falklands oil companies",
         "summary": "Government says new legal complaints to be filed against firms exploring for oil near the Falkland Islands.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261004",
+        "event_cluster_id": "20261004-g7-release-millions-barrels-01",
+        "headline": "G7 to release millions of barrels of oil and diesel after Trump threat",
+        "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+        "category": "未分类"
       }
     ]
   },
@@ -4173,7 +4201,7 @@
   },
   {
     "thread_id": "thread-scotus-allows-trump-s-ballroom-project-t",
-    "title": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
+    "title": "Why Canada is preparing for a (long shot) US invasion",
     "category": "安全与冲突",
     "events": [
       {
@@ -4230,6 +4258,13 @@
         "event_cluster_id": "20260921-france-s-macron-canada-01",
         "headline": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
         "summary": "Announcement comes as Canada seeks a closer relationship with the EU amid a trade war with the US.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261004",
+        "event_cluster_id": "20261004-why-canada-preparing-long-01",
+        "headline": "Why Canada is preparing for a (long shot) US invasion",
+        "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
         "category": "安全与冲突"
       }
     ]
@@ -5524,8 +5559,8 @@
   },
   {
     "thread_id": "thread-japan-reduces-urban-speed-limits-and-see",
-    "title": "K-pop star convicted of violating military service law",
-    "category": "安全与冲突",
+    "title": "‘Anna Pigeon’ Episode 9 Sets Up An Intense Battle For Glacier National Park",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -5596,6 +5631,13 @@
         "headline": "K-pop star convicted of violating military service law",
         "summary": "The member of K-pop band Winner was given a suspended prison sentence for repeated absences from his national service work.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261004",
+        "event_cluster_id": "20261004-anna-pigeon-episode-9-01",
+        "headline": "‘Anna Pigeon’ Episode 9 Sets Up An Intense Battle For Glacier National Park",
+        "summary": "Anna Pigeon launches an investigation into who shot Jesse in episode 9 and reveals information that will pit Anna and Jeremiah Paulson against each other in the finale.",
+        "category": "未分类"
       }
     ]
   },
@@ -5811,8 +5853,8 @@
   },
   {
     "thread_id": "thread-ice-agent-faces-federal-charges-for-lyin",
-    "title": "The Good, Bad And Ugly From The Packers’ Win Over The Jets",
-    "category": "未分类",
+    "title": "Brazil’s Lula and Bolsonaro close campaigns ahead of critical election",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260904",
@@ -5848,6 +5890,13 @@
         "headline": "The Good, Bad And Ugly From The Packers’ Win Over The Jets",
         "summary": "The Green Bay Packers rallied for a 20-17 overtime win over the New York Jets Sunday.",
         "category": "未分类"
+      },
+      {
+        "date": "20261004",
+        "event_cluster_id": "20261004-brazil-s-lula-bolsonaro-01",
+        "headline": "Brazil’s Lula and Bolsonaro close campaigns ahead of critical election",
+        "summary": "Latest polls suggest Lula s lead over Bolsonaro is narrowing, with neither candidate likely to win outright on Sunday.",
+        "category": "国际政治"
       }
     ]
   },
@@ -6903,8 +6952,8 @@
   },
   {
     "thread_id": "thread-liv-files-for-bankruptcy-protection-with",
-    "title": "LIV files for bankruptcy protection with over $45m owed to players",
-    "category": "经济与市场",
+    "title": "Despite having the third highest payroll in baseball, it was a slew of players making less than $1 million per year that",
+    "category": "未分类",
     "events": [
       {
         "date": "20260909",
@@ -6912,6 +6961,13 @@
         "headline": "LIV files for bankruptcy protection with over $45m owed to players",
         "summary": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261004",
+        "event_cluster_id": "20261004-yankees-beat-boston-without-01",
+        "headline": "Despite having the third highest payroll in baseball, it was a slew of players making less than $1 million per year that",
+        "summary": "Despite having the third highest payroll in baseball, it was a slew of players making less than $1 million per year that helped the Yankees beat the Red Sox.",
+        "category": "未分类"
       }
     ]
   },
@@ -7456,7 +7512,7 @@
   },
   {
     "thread_id": "thread-man-jailed-after-threatening-to-kill-son",
-    "title": "French students clash with police as protests over education cuts spread",
+    "title": "What to Know About France’s High School Protests",
     "category": "社会与公共政策",
     "events": [
       {
@@ -7471,6 +7527,13 @@
         "event_cluster_id": "20260930-french-students-clash-police-01",
         "headline": "French students clash with police as protests over education cuts spread",
         "summary": "French school students have blocked schools across France, demanding better learning conditions.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20261004",
+        "event_cluster_id": "20261004-what-know-about-france-01",
+        "headline": "What to Know About France’s High School Protests",
+        "summary": "Police officers and student protesters facing off outside a school in Paris on Thursday.",
         "category": "社会与公共政策"
       }
     ]
@@ -7869,8 +7932,8 @@
   },
   {
     "thread_id": "thread-alexander-zverev-vs-ben-shelton-us-open-",
-    "title": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
-    "category": "未分类",
+    "title": "US Air Force Bomb Disposal Personnel Will Now Wear Rust Colored Berets",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260913",
@@ -7885,6 +7948,20 @@
         "headline": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
         "summary": "Both sides agreed to expand air travel and resume direct commercial flights.",
         "category": "未分类"
+      },
+      {
+        "date": "20261004",
+        "event_cluster_id": "20261004-air-ambulance-missing-flight-01",
+        "headline": "Air ambulance missing on flight from Bermuda to Boston",
+        "summary": "The US coastguard says it has dispatched air and surface crews to search for the plane near Nantucket.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261004",
+        "event_cluster_id": "20261004-us-air-force-bomb-01",
+        "headline": "US Air Force Bomb Disposal Personnel Will Now Wear Rust Colored Berets",
+        "summary": "Explosive Ordnance Disposal airmen will be authorized to wear a “rust-colored” berets, as the color is historically associated with explosive hazards",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -8625,8 +8702,8 @@
   },
   {
     "thread_id": "thread-5-arrested-in-u-k-near-base-used-by-u-s-",
-    "title": "5 arrested in U.K. near base used by U.S. on suspicion of planning terror act",
-    "category": "国际政治",
+    "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+    "category": "未分类",
     "events": [
       {
         "date": "20260928",
@@ -8634,6 +8711,13 @@
         "headline": "5 arrested in U.K. near base used by U.S. on suspicion of planning terror act",
         "summary": "President Trump said U.S. and British authorities were working together on the investigation. He said he believed the suspects were “looking to do big damage.”",
         "category": "国际政治"
+      },
+      {
+        "date": "20261004",
+        "event_cluster_id": "20261004-tennessee-prison-chief-resign-01",
+        "headline": "Tennessee prison chief to resign after Christa Pike's failed execution",
+        "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+        "category": "未分类"
       }
     ]
   },
@@ -8758,8 +8842,8 @@
   },
   {
     "thread_id": "thread-flydubai-fz1073-timeline-how-the-israel-",
-    "title": "Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded",
-    "category": "未分类",
+    "title": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament",
+    "category": "国际政治",
     "events": [
       {
         "date": "20261001",
@@ -8767,13 +8851,20 @@
         "headline": "Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded",
         "summary": "Flydubai flight diverts to Saudi Arabia after cockpit emergency, as Netanyahu alleges a crash attempt.",
         "category": "未分类"
+      },
+      {
+        "date": "20261004",
+        "event_cluster_id": "20261004-anger-streets-tens-thousands-01",
+        "headline": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament",
+        "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
+        "category": "国际政治"
       }
     ]
   },
   {
     "thread_id": "thread-passengers-tell-of-nightmare-onboard-div",
-    "title": "Who is Capt. Smit, Machchhar, the pilot of the Flydubai flight",
-    "category": "未分类",
+    "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20261001",
@@ -8788,6 +8879,13 @@
         "headline": "Who is Capt. Smit, Machchhar, the pilot of the Flydubai flight",
         "summary": "Captain Smit Machchhar from India is recovering from stab wounds he suffered in a Flydubai flight altercation.",
         "category": "未分类"
+      },
+      {
+        "date": "20261004",
+        "event_cluster_id": "20261004-jerusalem-daily-uae-flydubai-01",
+        "headline": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+        "summary": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -8843,6 +8941,34 @@
         "event_cluster_id": "20261002-icc-ends-contract-french-01",
         "headline": "ICC ends contract with French insurer amid US sanctions threat",
         "summary": "ICC and Axa terminate agreement amid mounting US criticism and looming financial restrictions on the court, FT reports.",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-russia-hits-second-major-bridge-in-ukrai",
+    "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20261004",
+        "event_cluster_id": "20261004-russia-hits-second-major-01",
+        "headline": "Russia hits second major bridge in Ukraine's capital Kyiv",
+        "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-is-the-cjp-changing-india-s-political-la",
+    "title": "Is the CJP changing India’s political landscape",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20261004",
+        "event_cluster_id": "20261004-cjp-changing-india-s-01",
+        "headline": "Is the CJP changing India’s political landscape",
+        "summary": "Youth-led movement demands resignation of chief election commissioner.",
         "category": "国际政治"
       }
     ]
