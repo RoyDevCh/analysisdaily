@@ -29,8 +29,8 @@
   },
   {
     "thread_id": "thread-nearly-200-nations-agree-to-phase-down-c",
-    "title": "Serbian President Aleksandar Vucic resigns amid prolonged protests",
-    "category": "国际政治",
+    "title": "France to shutter up to 500 schools as more student protests called",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -73,12 +73,19 @@
         "headline": "Serbian President Aleksandar Vucic resigns amid prolonged protests",
         "summary": "Despite student-led protests and political unrest challenging his rule, Vucic intends to run in the snap elections.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-france-shutter-up-500-01",
+        "headline": "France to shutter up to 500 schools as more student protests called",
+        "summary": "Education minister cites safety concerns for closures as organisers call for resumption of protests.",
+        "category": "社会与公共政策"
       }
     ]
   },
   {
     "thread_id": "thread-germany-says-russia-preparing-hybrid-att",
-    "title": "Russian drone crashes into Kyiv playground without exploding",
+    "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
     "category": "安全与冲突",
     "events": [
       {
@@ -149,6 +156,13 @@
         "event_cluster_id": "20261001-russian-drone-crashes-kyiv-01",
         "headline": "Russian drone crashes into Kyiv playground without exploding",
         "summary": "A Russian attack drone crashed into a children’s playground in Kyiv, Ukraine without exploding.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-kyiv-bridge-hit-further-01",
+        "headline": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+        "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
         "category": "安全与冲突"
       }
     ]
@@ -351,8 +365,8 @@
   },
   {
     "thread_id": "thread-bus-crash-in-egypt-s-south-sinai-kills-a",
-    "title": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
-    "category": "安全与冲突",
+    "title": "Australia investigating Flydubai co-pilot's links to country",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -514,6 +528,13 @@
         "headline": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
         "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-australia-investigating-flydubai-co-01",
+        "headline": "Australia investigating Flydubai co-pilot's links to country",
+        "summary": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+        "category": "未分类"
       }
     ]
   },
@@ -582,7 +603,7 @@
   },
   {
     "thread_id": "thread-mark-carney-tells-us-to-start-being-seri",
-    "title": "Everything you need to know about Brazil’s tight presidential race",
+    "title": "Brazil’s presidential race: Three key takeaways from the first round",
     "category": "国际政治",
     "events": [
       {
@@ -681,6 +702,13 @@
         "event_cluster_id": "20261002-everything-you-need-know-01",
         "headline": "Everything you need to know about Brazil’s tight presidential race",
         "summary": "Voters will soon decide between President Luiz Inácio Lula da Silva and the son of former President Jair Bolsonaro.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-brazil-s-presidential-race-01",
+        "headline": "Brazil’s presidential race: Three key takeaways from the first round",
+        "summary": "Flavio Bolsonaro beat polling expectations as Brazil’s right gained ground, setting up October 25 run-off with Lula.",
         "category": "国际政治"
       }
     ]
@@ -2066,7 +2094,7 @@
   },
   {
     "thread_id": "thread-how-indie-cinema-is-beating-hollywood-in",
-    "title": "Starting Grid For The 2026 F1 Azerbaijan Grand Prix After Penalties",
+    "title": "F1 Standings 2026 After The Bahrain Grand Prix In Malaysia",
     "category": "未分类",
     "events": [
       {
@@ -2123,6 +2151,13 @@
         "event_cluster_id": "20260926-starting-grid-2026-f1-01",
         "headline": "Starting Grid For The 2026 F1 Azerbaijan Grand Prix After Penalties",
         "summary": "Mercedes' George Russell took a dominant pole position in Baku while teammate and title favorite Kimi Antonelli crashed out of Q1. Here's the full starting grid for the Azerbaijan GP with penalties applied.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-f1-standings-2026-bahrain-01",
+        "headline": "F1 Standings 2026 After The Bahrain Grand Prix In Malaysia",
+        "summary": "Here's how the F1 standings look after round 16 of the 2026 season at Sepang, Malaysia.",
         "category": "未分类"
       }
     ]
@@ -3361,8 +3396,8 @@
   },
   {
     "thread_id": "thread-us-and-iran-exchange-airstrikes-in-middl",
-    "title": "National Rally’s Jordan Bardella rails at ‘war’ on party after antisemitism claims",
-    "category": "安全与冲突",
+    "title": "Can the KKK find a new foothold in the US",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -3454,6 +3489,13 @@
         "headline": "National Rally’s Jordan Bardella rails at ‘war’ on party after antisemitism claims",
         "summary": "President of Marine Le Pen’s far-right party faces calls to resign over comments he allegedly wrote as a teenager Jordan Bardella , the head of Marine Le Pen’s far-right National Rally (RN), has claimed a “total war” is being waged against his party as he faces a political storm after the publication of antisemitic comments he allegedly wrote as a young party member. Bardella, who is facing calls ",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-kkk-find-foothold-us-01",
+        "headline": "Can the KKK find a new foothold in the US",
+        "summary": "The infamous hate group is trying to rebrand itself as the Knights Party in an attempt to grow its base.",
+        "category": "未分类"
       }
     ]
   },
@@ -4012,8 +4054,8 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-indie-cinema-and-f1",
-    "title": "Iranian President Pezeshkian brought a diplomatic tone to New York for UNGA. What did his remarks signal",
-    "category": "国际政治",
+    "title": "Cornell case puts New York’s progressive image at odds with its rape laws",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -4112,6 +4154,13 @@
         "headline": "Iranian President Pezeshkian brought a diplomatic tone to New York for UNGA. What did his remarks signal",
         "summary": "Iran's president used his trip to New York this week for the UN General Assembly to signal openness to talks over the nuclear dispute. However, the chances of a major breakthrough on the war remain low.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-cornell-case-puts-york-01",
+        "headline": "Cornell case puts New York’s progressive image at odds with its rape laws",
+        "summary": "New York lawmakers will review sexual-assault laws, including voluntary intoxication rule at the heart of Cornell case.",
+        "category": "未分类"
       }
     ]
   },
@@ -5496,8 +5545,8 @@
   },
   {
     "thread_id": "thread-india-rejects-hague-arbitration-ruling-o",
-    "title": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
-    "category": "国际政治",
+    "title": "Yemen’s Saudi-backed government launches military drive to retake all Houthi-held territory",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -5554,6 +5603,20 @@
         "headline": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
         "summary": "Thousands flee fighting as Iran-aligned group seeks to consolidate territorial gains against Saudi-backed government forces Middle East live – latest updates As many as 169 people have been reportedly killed in Yemen in the last three days as Iran-aligned Houthis battle Saudi-backed government forces for control of strategic heights on the Red Sea coast, while thousands flee the violence. Houthi m",
         "category": "国际政治"
+      },
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-iran-war-live-yemen-01",
+        "headline": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
+        "summary": "Yemeni government announces major offensive against Houthis, as Iran says it is ready to defend itself if US attacks.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-yemen-s-saudi-backed-01",
+        "headline": "Yemen’s Saudi-backed government launches military drive to retake all Houthi-held territory",
+        "summary": "The announcement came hours after Iranian-backed Houthis reportedly cut a vital supply route to besieged city of Taiz Yemen’s Saudi-backed government has announced the start of a new military operation to retake all territory held by the Houthis, even as the militant group made fresh gains on the ground, reportedly encircling a government-held city. Rashad al-Alimi, the head of Yemen’s presidentia",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -5853,7 +5916,7 @@
   },
   {
     "thread_id": "thread-ice-agent-faces-federal-charges-for-lyin",
-    "title": "Brazil’s Lula and Bolsonaro close campaigns ahead of critical election",
+    "title": "Brazil election results updates: Lula and Bolsonaro advance to run-off",
     "category": "国际政治",
     "events": [
       {
@@ -5896,6 +5959,20 @@
         "event_cluster_id": "20261004-brazil-s-lula-bolsonaro-01",
         "headline": "Brazil’s Lula and Bolsonaro close campaigns ahead of critical election",
         "summary": "Latest polls suggest Lula s lead over Bolsonaro is narrowing, with neither candidate likely to win outright on Sunday.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-brazil-election-bolsonaro-lula-01",
+        "headline": "Brazil election: Bolsonaro and Lula head to runoff",
+        "summary": "Populist Flavio Bolsonaro has secured a thin lead over incumbent Luiz Inacio Lula da Silva, but the next president of Brazil will be decided in the runoff round, according to the country’s electoral court.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-brazil-election-results-updates-01",
+        "headline": "Brazil election results updates: Lula and Bolsonaro advance to run-off",
+        "summary": "These were the updates on the Brazilian general election for Sunday, October 4, 2026.",
         "category": "国际政治"
       }
     ]
@@ -7232,7 +7309,7 @@
   },
   {
     "thread_id": "thread-eiffel-tower-workers-strike-saying-women",
-    "title": "Renee Good's family sues Trump admin over fatal ICE shooting",
+    "title": "Trump Launches Bizarre Sunday Posting Spree—From 'Crumbling' Kennedy Center To Greenland Memes",
     "category": "国际政治",
     "events": [
       {
@@ -7254,6 +7331,13 @@
         "event_cluster_id": "20261002-renee-good-s-family-01",
         "headline": "Renee Good's family sues Trump admin over fatal ICE shooting",
         "summary": "The family of Renee Good, one of two US citizens fatally shot by federal immigration agents in Minneapolis in January, has sued President Donald Trump's administration alleging negligence and civil rights violations.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-trump-launches-bizarre-sunday-01",
+        "headline": "Trump Launches Bizarre Sunday Posting Spree—From 'Crumbling' Kennedy Center To Greenland Memes",
+        "summary": "In a Sunday afternoon social media blitz, President Donald Trump fired off 23 Truth Social posts in less than an hour, targeting the “grotesque” Kennedy Center and praising Chinese President Xi Jinping.",
         "category": "国际政治"
       }
     ]
@@ -7358,8 +7442,8 @@
   },
   {
     "thread_id": "thread-burnham-defends-uk-ban-on-israeli-settle",
-    "title": "MI5 China alert will send chill through UK’s cash-strapped universities",
-    "category": "未分类",
+    "title": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260910",
@@ -7395,6 +7479,13 @@
         "headline": "MI5 China alert will send chill through UK’s cash-strapped universities",
         "summary": "Institutions have for years turned to China for funding opportunities but national security concerns are mounting MI5 issues spy alert to UK universities over Chinese front company stealing research The security alert issued by MI5 regarding a Chinese state-owned conglomerate accused of conducting espionage in the UK reveals the extent to which British intelligence remains concerned about Beijing’",
         "category": "未分类"
+      },
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-uk-car-industry-faces-01",
+        "headline": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets",
+        "summary": "Britain under pressure to put tariffs on cheap Chinese vehicle imports ahead of protectionist trade measures Britain’s car industry is grappling with a “difficult trade-off” between China and Europe, as manufacturers struggle to balance the benefits of both markets ahead of looming trade measures that could restrict UK exports to the EU. The UK is an outlier in choosing not to put import taxes on ",
+        "category": "经济与市场"
       }
     ]
   },
@@ -7883,7 +7974,7 @@
   },
   {
     "thread_id": "thread-best-friends-for-decades-until-a-dna-tes",
-    "title": "Best friends for decades - until a DNA test revealed they were sisters",
+    "title": "Dodgers Open Three-Peat Quest Just As The World Series Ended: With A Wn",
     "category": "未分类",
     "events": [
       {
@@ -7891,6 +7982,13 @@
         "event_cluster_id": "20260913-best-friends-decades-until-01",
         "headline": "Best friends for decades - until a DNA test revealed they were sisters",
         "summary": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-dodgers-open-three-peat-01",
+        "headline": "Dodgers Open Three-Peat Quest Just As The World Series Ended: With A Wn",
+        "summary": "The Dodgers opened their best-of five NLDS with a 5-3 win over the Braves at Dodger Stadium on Saturday. Tarik Skubal threw six innings of two-hit ball to earn the win.",
         "category": "未分类"
       }
     ]
@@ -8142,7 +8240,7 @@
   },
   {
     "thread_id": "thread-iran-activists-sound-alarm-as-regime-sei",
-    "title": "Indonesia suspends five officials over luxury apartments for inmates",
+    "title": "US Marine arrested over murder of woman in Okinawa, Japan",
     "category": "安全与冲突",
     "events": [
       {
@@ -8171,6 +8269,13 @@
         "event_cluster_id": "20260930-indonesia-suspends-five-officials-01",
         "headline": "Indonesia suspends five officials over luxury apartments for inmates",
         "summary": "Warden among five officials suspended over the discovery of an apartment-style compound for inmates at Cibinong prison.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-us-marine-arrested-murder-01",
+        "headline": "US Marine arrested over murder of woman in Okinawa, Japan",
+        "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
         "category": "安全与冲突"
       }
     ]
@@ -8219,8 +8324,8 @@
   },
   {
     "thread_id": "thread-banning-corporate-medicine-stopping-priv",
-    "title": "Banning Corporate Medicine: Stopping Private Equity's Debt Trap",
-    "category": "安全与冲突",
+    "title": "Regulators Say Private Equity Firm Loaded Atlantic Coast With Private Credit",
+    "category": "未分类",
     "events": [
       {
         "date": "20260918",
@@ -8228,6 +8333,13 @@
         "headline": "Banning Corporate Medicine: Stopping Private Equity's Debt Trap",
         "summary": "The \"Stop Corporate Takeovers of Physicians Act,\" has been introduced by Senators Warren, Merkley, Wyden, and Representatives Ocasio-Cortez, Hoyle, and Subramanyam.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-regulators-say-private-equity-01",
+        "headline": "Regulators Say Private Equity Firm Loaded Atlantic Coast With Private Credit",
+        "summary": "Regulators allege that the private equity firm owning Atlantic Coast Life moved retirees’ annuity money into illiquid private credit, including loans tied to collapsed investor 777 Partners.",
+        "category": "未分类"
       }
     ]
   },
@@ -8380,8 +8492,8 @@
   },
   {
     "thread_id": "thread-yemenis-flee-across-red-sea-as-houthis-a",
-    "title": "Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move",
-    "category": "国际政治",
+    "title": "Ethiopia’s forces retake Mekelle amid renewed Tigray fighting",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260922",
@@ -8403,6 +8515,13 @@
         "headline": "Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move",
         "summary": "Ethiopia says it will shut its embassy in Asmara, declares 10 Eritrean diplomats persona non grata.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-ethiopia-s-forces-retake-01",
+        "headline": "Ethiopia’s forces retake Mekelle amid renewed Tigray fighting",
+        "summary": "The capture of Tigray’s regional capital revives fears of another prolonged conflict, displacement and crisis.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -8576,7 +8695,7 @@
   },
   {
     "thread_id": "thread-afghan-taxi-drivers-defy-the-taliban-s-m",
-    "title": "Malaysia repatriates Myanmar migrants despite UN warnings",
+    "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
     "category": "安全与冲突",
     "events": [
       {
@@ -8598,6 +8717,13 @@
         "event_cluster_id": "20260930-malaysia-repatriates-myanmar-migrants-01",
         "headline": "Malaysia repatriates Myanmar migrants despite UN warnings",
         "summary": "Malaysia has started repatriating about 1,500 Myanmar nationals, defying warnings from the UN and rights groups. Malaysia, facing an uptick in anti-migrant sentiment, says the program is strictly voluntary.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-nearly-1-500-migrants-01",
+        "headline": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
+        "summary": "Malaysia continues mass refugee deportations despite warnings from the UN about unsafe conditions in an active war zone.",
         "category": "安全与冲突"
       }
     ]
@@ -8891,8 +9017,8 @@
   },
   {
     "thread_id": "thread-south-korea-lost-shark-draws-over-half-a",
-    "title": "South Korea: Lost shark draws over half a million visitors",
-    "category": "国际政治",
+    "title": "Rare tornado whips through small Australian town",
+    "category": "未分类",
     "events": [
       {
         "date": "20261001",
@@ -8900,6 +9026,13 @@
         "headline": "South Korea: Lost shark draws over half a million visitors",
         "summary": "The South Korean port of Busan says that a stranded shark has become a major tourist draw. It's also named the ocean predator an honorary ambassador to the city.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-rare-tornado-whips-through-01",
+        "headline": "Rare tornado whips through small Australian town",
+        "summary": "The twister was caught on camera in Ulladulla, New South Wales, damaging property and downing trees.",
+        "category": "未分类"
       }
     ]
   },
@@ -8970,6 +9103,48 @@
         "headline": "Is the CJP changing India’s political landscape",
         "summary": "Youth-led movement demands resignation of chief election commissioner.",
         "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-rescuers-suspend-search-for-survivors-af",
+    "title": "Rescuers suspend search for survivors after plane went missing off US coast",
+    "category": "科技与AI",
+    "events": [
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-rescuers-suspend-search-survivors-01",
+        "headline": "Rescuers suspend search for survivors after plane went missing off US coast",
+        "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+        "category": "科技与AI"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-former-bachelor-star-sam-wood-charged-wi",
+    "title": "Former Bachelor star Sam Wood charged with domestic violence",
+    "category": "文化体育",
+    "events": [
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-former-bachelor-star-sam-01",
+        "headline": "Former Bachelor star Sam Wood charged with domestic violence",
+        "summary": "Fitness influencer, 46, faces court on Monday after his arrest in Noosa at the weekend The fitness influencer and reality TV star Sam Wood has been charged in Queensland with domestic violence offences. The personal trainer and star of the third season of the Australian version of the reality TV show The Bachelor was charged on Sunday and spent the weekend in police custody after an alleged incide",
+        "category": "文化体育"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-it-s-official-now-avoid-credit-card-inte",
+    "title": "It's official: now avoid credit card interest into 2024",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20261005",
+        "event_cluster_id": "20261005-it-s-official-now-01",
+        "headline": "It's official: now avoid credit card interest into 2024",
+        "summary": "The State Department is monitoring reports of a suspected fatal pneumonic plague case in Russia and is urging Moscow to share accurate information quickly as details remain unconfirmed. A State Department official told Fox News that the U.S. is aware of reports of a death in Irkutsk Oblast, a region in southeastern Siberia, and is watching the situation closely with the Centers for Disease Control",
+        "category": "未分类"
       }
     ]
   }
