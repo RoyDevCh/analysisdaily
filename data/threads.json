@@ -372,8 +372,8 @@
   },
   {
     "thread_id": "thread-bus-crash-in-egypt-s-south-sinai-kills-a",
-    "title": "Australia investigating Flydubai co-pilot's links to country",
-    "category": "未分类",
+    "title": "Flydubai co-pilot planned suicide attack on Israeli airport, UAE prosecutors say",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -542,6 +542,13 @@
         "headline": "Australia investigating Flydubai co-pilot's links to country",
         "summary": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
         "category": "未分类"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-flydubai-co-pilot-planned-01",
+        "headline": "Flydubai co-pilot planned suicide attack on Israeli airport, UAE prosecutors say",
+        "summary": "Hammam al-Hammami is believed to have been targeting the passenger terminal at Ben Gurion airport near Tel Aviv The co-pilot who tried to seize control of a passenger jet flying from Dubai to Tel Aviv last week was planning to launch a suicide attack targeting the passenger terminal at Israel’s international airport, prosecutors in the United Arab Emirates said on Friday. Hammam al-Hammami attacke",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -1135,8 +1142,8 @@
   },
   {
     "thread_id": "thread-zelensky-says-airlines-should-avoid-russ",
-    "title": "A Hasidic Jew Protested Against an Israeli Flag. He May Be Deported.",
-    "category": "社会与公共政策",
+    "title": "A federal judge ruled against the Justice Department s use of voter data to cross-reference an immigration database.",
+    "category": "科技与AI",
     "events": [
       {
         "date": "20260902",
@@ -1305,6 +1312,13 @@
         "headline": "A Hasidic Jew Protested Against an Israeli Flag. He May Be Deported.",
         "summary": "Yehonatan Ovadia, center, at a demonstration against Israel in New York this year. He is in federal immigration detention because of a protest he attended in 2023.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-us-judge-rules-trump-01",
+        "headline": "A federal judge ruled against the Justice Department s use of voter data to cross-reference an immigration database.",
+        "summary": "A federal judge ruled against the Justice Department s use of voter data to cross-reference an immigration database.",
+        "category": "科技与AI"
       }
     ]
   },
@@ -2178,7 +2192,7 @@
   },
   {
     "thread_id": "thread-faster-homework-poor-exam-results-what-a",
-    "title": "Maricarmen, the 87-year-old woman whose eviction shook Spain, has died",
+    "title": "Questions remain over Ebola patient who travelled across three nations undetected",
     "category": "未分类",
     "events": [
       {
@@ -2242,6 +2256,13 @@
         "event_cluster_id": "20261009-maricarmen-87-old-woman-01",
         "headline": "Maricarmen, the 87-year-old woman whose eviction shook Spain, has died",
         "summary": "María del Carmen Abascal, the 87-year-old woman whose eviction from her Madrid home sparked nationwide protests across Spain and unleashed a political crisis, died on Wednesday while hospitalized. (Image credit: Bernat Armangue)",
+        "category": "未分类"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-questions-remain-ebola-patient-01",
+        "headline": "Questions remain over Ebola patient who travelled across three nations undetected",
+        "summary": "Fresh details reveal how the 40-year-old businessman flew and crossed regional borders while seriously ill.",
         "category": "未分类"
       }
     ]
@@ -2724,8 +2745,8 @@
   },
   {
     "thread_id": "thread-canadian-prime-minister-mark-carney-resp",
-    "title": "Trump says US may ask Europe to release diesel reserves",
-    "category": "未分类",
+    "title": "Trump announces Russian diesel deal amid soaring US fuel prices",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -2838,6 +2859,13 @@
         "headline": "Trump says US may ask Europe to release diesel reserves",
         "summary": "Skyrocketing diesel prices have pushed Washington to weigh an export ban, raising alarm across European economies.",
         "category": "未分类"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-trump-announces-russian-diesel-01",
+        "headline": "Trump announces Russian diesel deal amid soaring US fuel prices",
+        "summary": "Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soar amid the Iran war.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -4782,7 +4810,7 @@
   },
   {
     "thread_id": "thread-nigeria-anti-corruption-agency-dismisses",
-    "title": "France's school protests: What lies behind the anger",
+    "title": "Compared to many other countries, France invests heavily in education but critics say that the funds are not distributed",
     "category": "社会与公共政策",
     "events": [
       {
@@ -4839,6 +4867,20 @@
         "event_cluster_id": "20261009-france-s-school-protests-01",
         "headline": "France's school protests: What lies behind the anger",
         "summary": "Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-two-renoir-paintings-recovered-01",
+        "headline": "Two Renoir paintings recovered after France museum heist, mayor says",
+        "summary": "The recovered Renoir paintings, valued at millions, were stolen in a daring heist at Cagnes-sur-Mer last month.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-schools-crisis-france-investment-01",
+        "headline": "Compared to many other countries, France invests heavily in education but critics say that the funds are not distributed",
+        "summary": "For weeks, schoolchildren in France have been protesting the failing education system. Compared to many other countries, France invests heavily in education but critics say that the funds are not distributed fairly.",
         "category": "社会与公共政策"
       }
     ]
@@ -5587,7 +5629,7 @@
   },
   {
     "thread_id": "thread-india-rejects-hague-arbitration-ruling-o",
-    "title": "What is the Mecca defence pact",
+    "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
     "category": "安全与冲突",
     "events": [
       {
@@ -5665,6 +5707,13 @@
         "event_cluster_id": "20261009-what-mecca-defence-pact-01",
         "headline": "What is the Mecca defence pact",
         "summary": "Saudi Arabia, Turkiye and Pakistan are activating their defence pact to counter attacks from Yemen’s Houthis.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-un-envoy-warns-yemen-01",
+        "headline": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
+        "summary": "Saudi Arabia and Yemen s internationally recognised gov t urge UN Security Council action amid Houthi escalation.",
         "category": "安全与冲突"
       }
     ]
@@ -6161,8 +6210,8 @@
   },
   {
     "thread_id": "thread-nyc-mayor-mamdani-bans-ai-use-for-younge",
-    "title": "Concerns about AI are especially widespread in high-income countries",
-    "category": "科技与AI",
+    "title": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260904",
@@ -6184,6 +6233,13 @@
         "headline": "Concerns about AI are especially widespread in high-income countries",
         "summary": "People in high-income countries are more likely than those in less wealthy nations to be concerned about AI, as well as its impact on jobs and economic inequality.",
         "category": "科技与AI"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-panama-earthquake-tsunami-warnings-01",
+        "headline": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
+        "summary": "Countries including Colombia, Ecuador, Nicaragua, Guatemala and Chile have received warnings after the quake.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -6224,8 +6280,8 @@
   },
   {
     "thread_id": "thread-trump-posts-ai-generated-videos-of-milit",
-    "title": "Is US President Donald Trump right to rename AI as 'Super Intelligence'",
-    "category": "科技与AI",
+    "title": "Katie Zacharia selected to be next White House press secretary",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260904",
@@ -6240,6 +6296,13 @@
         "headline": "Is US President Donald Trump right to rename AI as 'Super Intelligence'",
         "summary": "Donald Trump thinks the name artificial intelligence sounds \"fake\" and has ordered US agencies to use \"Super Intelligence\" instead. Yet, tech firms and researchers have little reason to play along.",
         "category": "科技与AI"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-katie-zacharia-selected-next-01",
+        "headline": "Katie Zacharia selected to be next White House press secretary",
+        "summary": "US President Donald Trump called the conservative commentator a devoted fan .",
+        "category": "国际政治"
       }
     ]
   },
@@ -6868,8 +6931,8 @@
   },
   {
     "thread_id": "thread-how-725-game-show-winnings-kick-started-",
-    "title": "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
-    "category": "国际政治",
+    "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+    "category": "未分类",
     "events": [
       {
         "date": "20260908",
@@ -6926,6 +6989,13 @@
         "headline": "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
         "summary": "Thousands of protesters honour Maricarmen Abascal s life, while tributes in Spanish parliament spark debate.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-life-threatening-hurricane-isaias-01",
+        "headline": "Life-threatening Hurricane Isaias makes landfall in Florida",
+        "summary": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana.",
+        "category": "未分类"
       }
     ]
   },
@@ -7715,7 +7785,7 @@
   },
   {
     "thread_id": "thread-royal-family-rift-after-popular-tv-news-",
-    "title": "At a Potato Festival, Our Berlin Reporter Deepened His Ties to a New Land",
+    "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
     "category": "文化体育",
     "events": [
       {
@@ -7758,6 +7828,20 @@
         "event_cluster_id": "20261009-potato-festival-our-berlin-01",
         "headline": "At a Potato Festival, Our Berlin Reporter Deepened His Ties to a New Land",
         "summary": "Nora and Hugo Tankersley with their mother, Lily, at a family outing to a potato festival last month in Berlin.",
+        "category": "文化体育"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-bosnia-herzegovina-soon-have-01",
+        "headline": "Bosnia and Herzegovina will soon have a new Grand Mufti",
+        "summary": "The new leader of the Islamic Community in Bosnia and Herzegovina will be elected on October 10. The reis-ul-ulema's role is not only important for Muslims in the country itself, but could inspire Muslims across Europe.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-what-watch-weekend-shows-01",
+        "headline": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+        "summary": "Looking for something new to stream this weekend? Here’s every major new movie and show hitting Netflix, Hulu, Prime Video, Apple TV and more.",
         "category": "文化体育"
       }
     ]
@@ -7932,7 +8016,7 @@
   },
   {
     "thread_id": "thread-philippines-ferry-fire-search-continues-",
-    "title": "Grim discoveries of murdered women spark fear in South Africa",
+    "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
     "category": "未分类",
     "events": [
       {
@@ -7961,6 +8045,13 @@
         "event_cluster_id": "20260919-grim-discoveries-murdered-women-01",
         "headline": "Grim discoveries of murdered women spark fear in South Africa",
         "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-cars-torched-shops-looted-01",
+        "headline": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+        "summary": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
         "category": "未分类"
       }
     ]
@@ -8310,8 +8401,8 @@
   },
   {
     "thread_id": "thread-lost-on-mount-fuji-off-season-you-ll-hav",
-    "title": "Lost on Mount Fuji off-season? You'll have to pay for your rescue",
-    "category": "未分类",
+    "title": "How To Legally Pay Less In Tariffs Without Moving Your Factory",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260917",
@@ -8319,6 +8410,13 @@
         "headline": "Lost on Mount Fuji off-season? You'll have to pay for your rescue",
         "summary": "The fee will be imposed on those who get lost on Japan's most famous mountain during the off-peak seasons.",
         "category": "未分类"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-how-legally-pay-less-01",
+        "headline": "How To Legally Pay Less In Tariffs Without Moving Your Factory",
+        "summary": "Tariffs have nearly tripled since 2025. Tariff engineering lets brands legally pay less by changing the product. Here’s how it works and who it’s worth it for.",
+        "category": "经济与市场"
       }
     ]
   },
@@ -8569,7 +8667,7 @@
   },
   {
     "thread_id": "thread-german-chancellor-merz-vows-to-stay-afte",
-    "title": "Democratic lawmakers accuse Trump administration of interference in Brazilian elections",
+    "title": "It's the latest in a series of steps by the Donald Trump administration as it seeks to \"dismantle\" the intergovernmental",
     "category": "国际政治",
     "events": [
       {
@@ -8591,6 +8689,13 @@
         "event_cluster_id": "20260925-democratic-lawmakers-accuse-trump-01",
         "headline": "Democratic lawmakers accuse Trump administration of interference in Brazilian elections",
         "summary": "Legislators sent letter to Marco Rubio saying US interference is weakening Brazil’s democratic institutions US politics live – latest updates A group of 31 Democratic members of the US Congress has sent a letter to the secretary of state, Marco Rubio , criticising the Trump administration over “an apparent effort to interfere with, and potentially undermine” Brazil ’s elections. Latin America’s la",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-us-imposes-sanctions-aiming-01",
+        "headline": "It's the latest in a series of steps by the Donald Trump administration as it seeks to \"dismantle\" the intergovernmental",
+        "summary": "The US has announced new sanctions on the International Criminal Court. It's the latest in a series of steps by the Donald Trump administration as it seeks to \"dismantle\" the intergovernmental organization.",
         "category": "国际政治"
       }
     ]
@@ -8779,7 +8884,7 @@
   },
   {
     "thread_id": "thread-netanyahu-blames-juvenile-delinquents-fo",
-    "title": "Hegseth says firing squad execution of Fort Hood shooter will be ‘public’",
+    "title": "Trump confirms Fort Hood shooter’s execution will be by firing squad",
     "category": "未分类",
     "events": [
       {
@@ -8801,6 +8906,13 @@
         "event_cluster_id": "20261009-hegseth-firing-squad-execution-01",
         "headline": "Hegseth says firing squad execution of Fort Hood shooter will be ‘public’",
         "summary": "An official at the Pentagon told Al Jazeera that former US Army Major Nidal Hasan s execution would be livestreamed .",
+        "category": "未分类"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-trump-confirms-fort-hood-01",
+        "headline": "Trump confirms Fort Hood shooter’s execution will be by firing squad",
+        "summary": "The Pentagon said the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be public and livestreamed.",
         "category": "未分类"
       }
     ]
@@ -9017,7 +9129,7 @@
   },
   {
     "thread_id": "thread-watch-from-launch-to-fiery-splashdown-sp",
-    "title": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
+    "title": "Today’s Wordle #1939: Hints, Clues And Answer For Saturday October 10",
     "category": "未分类",
     "events": [
       {
@@ -9025,6 +9137,13 @@
         "event_cluster_id": "20260929-watch-launch-fiery-splashdown-01",
         "headline": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
         "summary": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-s-wordle-1939-hints-01",
+        "headline": "Today’s Wordle #1939: Hints, Clues And Answer For Saturday October 10",
+        "summary": "Looking for help with today's New York Times Wordle? Here are some expert hints, clues and commentary to help you solve today's Wordle and sharpen your guessing game.",
         "category": "未分类"
       }
     ]
@@ -9136,7 +9255,7 @@
   },
   {
     "thread_id": "thread-passengers-tell-of-nightmare-onboard-div",
-    "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
+    "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
     "category": "安全与冲突",
     "events": [
       {
@@ -9165,6 +9284,13 @@
         "event_cluster_id": "20261009-suspect-linked-monaco-bomb-01",
         "headline": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
         "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-flydubai-co-pilot-plotted-01",
+        "headline": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
+        "summary": "Attorney General says suspect admitted he acted alone after preparing ‌‌psychologically ‌‌and physically for the attack.",
         "category": "安全与冲突"
       }
     ]
@@ -9262,7 +9388,7 @@
   },
   {
     "thread_id": "thread-is-the-cjp-changing-india-s-political-la",
-    "title": "Is the CJP changing India’s political landscape",
+    "title": "India's 'cockroaches' vs Election Commission: What you need to know ahead of CJP's October 10 protests",
     "category": "国际政治",
     "events": [
       {
@@ -9270,6 +9396,13 @@
         "event_cluster_id": "20261004-cjp-changing-india-s-01",
         "headline": "Is the CJP changing India’s political landscape",
         "summary": "Youth-led movement demands resignation of chief election commissioner.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-india-s-cockroaches-vs-01",
+        "headline": "India's 'cockroaches' vs Election Commission: What you need to know ahead of CJP's October 10 protests",
+        "summary": "The Indian capital New Delhi has been turned into a fortress with train and metro cancelations, barricades and heavy police presence ahead of Saturday's planned protests against the chief of India's electoral body.",
         "category": "国际政治"
       }
     ]
@@ -9360,8 +9493,8 @@
   },
   {
     "thread_id": "thread-bold-and-inventive-canadian-poet-anne-ca",
-    "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-    "category": "未分类",
+    "title": "Trump fumes over Nobel peace prize snub and criticizes Norway",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20261009",
@@ -9369,6 +9502,20 @@
         "headline": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
         "summary": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
         "category": "未分类"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-human-rights-veteran-navi-01",
+        "headline": "Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize",
+        "summary": "South African jurist Navanethem Pillay has been awarded the 2026 Nobel Peace Prize for her work to promote peace.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-trump-fumes-nobel-peace-01",
+        "headline": "Trump fumes over Nobel peace prize snub and criticizes Norway",
+        "summary": "President complains about not winning prize in year he started war with Iran and says: ‘We will not forget, Norway’ Donald Trump complained Friday about not winning the Nobel peace prize for 2026, a year in which he started a war with Iran. At what was supposed to be a rally for other Republican candidates in Syracuse, New York, the US president devoted a long portion of his speech airing his grie",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -9388,8 +9535,8 @@
   },
   {
     "thread_id": "thread-economy-ranks-as-top-issue-in-midterms-f",
-    "title": "Economy Ranks as Top Issue in Midterms for All Voters – But Partisans Differ Over the Importance of Other Issues",
-    "category": "经济与市场",
+    "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'.",
+    "category": "科技与AI",
     "events": [
       {
         "date": "20261009",
@@ -9397,6 +9544,27 @@
         "headline": "Economy Ranks as Top Issue in Midterms for All Voters – But Partisans Differ Over the Importance of Other Issues",
         "summary": "The economy is the dominant issue for midterm voters in this fall’s congressional elections. As Americans express growing concerns about economic conditions and the cost of necessities, 84% of registered voters say the economy is very important to their midterm vote. It is the top issue among both voters who prefer Republican candidates in the [ ]",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-ai-deepfake-ads-grow-01",
+        "headline": "Fired OpenAI researchers say they were let go for 'prioritising safety'.",
+        "summary": "The US midterm election campaign has been filled with political ads featuring AI deepfakes that can mislead voters.",
+        "category": "科技与AI"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-european-states-canada-japan-and-un-back",
+    "title": "European states, Canada, Japan and UN back ICC against US sanctions",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20261010",
+        "event_cluster_id": "20261010-european-states-canada-japan-01",
+        "headline": "European states, Canada, Japan and UN back ICC against US sanctions",
+        "summary": "Several US allies call to defend and protect the ICC following Washington s decision to sanction the judiciary body.",
+        "category": "国际政治"
       }
     ]
   }
