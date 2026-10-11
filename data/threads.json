@@ -729,8 +729,8 @@
   },
   {
     "thread_id": "thread-nepal-search-operations-continue-a-week-",
-    "title": "Gunmen kill 7 on bus in Syria as pipeline blast knocks out 3 power plants",
-    "category": "安全与冲突",
+    "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -766,6 +766,13 @@
         "headline": "Gunmen kill 7 on bus in Syria as pipeline blast knocks out 3 power plants",
         "summary": "Gunmen attack bus in Homs province hours after a pipeline explosion knocked out three power plants near Damascus.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261011",
+        "event_cluster_id": "20261011-four-dead-thousands-without-01",
+        "headline": "Four dead and thousands without power after Hurricane Isaias lashes US",
+        "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+        "category": "未分类"
       }
     ]
   },
@@ -2745,7 +2752,7 @@
   },
   {
     "thread_id": "thread-canadian-prime-minister-mark-carney-resp",
-    "title": "Trump announces Russian diesel deal amid soaring US fuel prices",
+    "title": "Trump says Ukraine needs a new president who will agree to end the war",
     "category": "安全与冲突",
     "events": [
       {
@@ -2865,6 +2872,13 @@
         "event_cluster_id": "20261010-trump-announces-russian-diesel-01",
         "headline": "Trump announces Russian diesel deal amid soaring US fuel prices",
         "summary": "Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soar amid the Iran war.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261011",
+        "event_cluster_id": "20261011-trump-ukraine-needs-president-01",
+        "headline": "Trump says Ukraine needs a new president who will agree to end the war",
+        "summary": "US leader suggests Zelenskyy has not done enough to end the war amid tensions with Kyiv over a diesel deal with Russia.",
         "category": "安全与冲突"
       }
     ]
@@ -4635,7 +4649,7 @@
   },
   {
     "thread_id": "thread-独立电影与f1意大利大奖赛2026年相关报道概述",
-    "title": "US holds memorials for the 9/11 attacks, 25 years later",
+    "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
     "category": "安全与冲突",
     "events": [
       {
@@ -4713,6 +4727,13 @@
         "event_cluster_id": "20260912-us-holds-memorials-9-01",
         "headline": "US holds memorials for the 9/11 attacks, 25 years later",
         "summary": "In New York, Virginia and Pennsylvania, mourners gathered to remember nearly 3,000 people killed during the hijackings.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261011",
+        "event_cluster_id": "20261011-twelve-killed-more-than-01",
+        "headline": "Twelve killed, more than 300 injured in Riyadh airport attack",
+        "summary": "Saudi Arabia has confirmed at least 12 people were killed and more than 300 injured after Houthi fighters struck Riyadh.",
         "category": "安全与冲突"
       }
     ]
@@ -6861,7 +6882,7 @@
   },
   {
     "thread_id": "thread-at-least-five-killed-in-new-delhi-buildi",
-    "title": "Gaza City Building Collapse Kills at Least 21, Including Eight Children",
+    "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
     "category": "安全与冲突",
     "events": [
       {
@@ -6876,6 +6897,13 @@
         "event_cluster_id": "20260917-eight-children-among-21-01",
         "headline": "Gaza City Building Collapse Kills at Least 21, Including Eight Children",
         "summary": "A six-storey building in Gaza City collapsed on Wednesday, killing at least 21 people, including eight children, according to rescuers and officials. The building had reportedly been damaged by an Israeli strike last year and was housing approximately 10 families. Rescue teams excavated rubble to recover bodies. All available sources are left-leaning; no right-leaning coverage was provided for com",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261011",
+        "event_cluster_id": "20261011-israeli-attack-destroys-building-01",
+        "headline": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
+        "summary": "An Israeli strike destroyed a residential building in the Al-Rimal neighbourhood in Gaza City.",
         "category": "安全与冲突"
       }
     ]
@@ -8359,8 +8387,8 @@
   },
   {
     "thread_id": "thread-hundreds-protest-in-dr-congo-against-thi",
-    "title": "Hundreds protest in DR Congo against third presidential term",
-    "category": "国际政治",
+    "title": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
+    "category": "未分类",
     "events": [
       {
         "date": "20260916",
@@ -8368,6 +8396,13 @@
         "headline": "Hundreds protest in DR Congo against third presidential term",
         "summary": "Hundreds protest in DR Congo against third presidential term",
         "category": "国际政治"
+      },
+      {
+        "date": "20261011",
+        "event_cluster_id": "20261011-why-have-hundreds-cockroach-01",
+        "headline": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
+        "summary": "Thousands of security personnel were deployed in Delhi ahead of the Gen-Z led Cockroach Janta Party protest on Saturday calling for electoral reforms.",
+        "category": "未分类"
       }
     ]
   },
@@ -8478,8 +8513,8 @@
   },
   {
     "thread_id": "thread-three-dead-after-flooding-inundates-nava",
-    "title": "AMLO Son Poses Political Problems for Mexico’s President Sheinbaum",
-    "category": "国际政治",
+    "title": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
+    "category": "未分类",
     "events": [
       {
         "date": "20260917",
@@ -8501,6 +8536,13 @@
         "headline": "AMLO Son Poses Political Problems for Mexico’s President Sheinbaum",
         "summary": "Andrés Manuel López Beltrán, a politician and son of former President Andrés Manuel López Obrador, at Mexico’s National Palace.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261011",
+        "event_cluster_id": "20261011-hurricane-simon-strengthens-category-01",
+        "headline": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
+        "summary": "Puerto Vallarta businesses board up windows as Hurricane Simon threatens Mexico’s west-central coast.",
+        "category": "未分类"
       }
     ]
   },
@@ -9255,7 +9297,7 @@
   },
   {
     "thread_id": "thread-passengers-tell-of-nightmare-onboard-div",
-    "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
+    "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
     "category": "安全与冲突",
     "events": [
       {
@@ -9291,6 +9333,13 @@
         "event_cluster_id": "20261010-flydubai-co-pilot-plotted-01",
         "headline": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
         "summary": "Attorney General says suspect admitted he acted alone after preparing ‌‌psychologically ‌‌and physically for the attack.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261011",
+        "event_cluster_id": "20261011-twelve-killed-attack-airport-01",
+        "headline": "Twelve killed in attack on airport in Saudi capital Riyadh",
+        "summary": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
         "category": "安全与冲突"
       }
     ]
@@ -9353,7 +9402,7 @@
   },
   {
     "thread_id": "thread-icc-ends-contract-with-french-insurer-am",
-    "title": "ICC ends contract with French insurer amid US sanctions threat",
+    "title": "Why is the Trump administration trying to dismantle the ICC",
     "category": "国际政治",
     "events": [
       {
@@ -9361,6 +9410,13 @@
         "event_cluster_id": "20261002-icc-ends-contract-french-01",
         "headline": "ICC ends contract with French insurer amid US sanctions threat",
         "summary": "ICC and Axa terminate agreement amid mounting US criticism and looming financial restrictions on the court, FT reports.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261011",
+        "event_cluster_id": "20261011-why-trump-administration-trying-01",
+        "headline": "Why is the Trump administration trying to dismantle the ICC",
+        "summary": "The US has imposed sweeping new sanctions on the International Criminal Court.",
         "category": "国际政治"
       }
     ]
@@ -9565,6 +9621,34 @@
         "headline": "European states, Canada, Japan and UN back ICC against US sanctions",
         "summary": "Several US allies call to defend and protect the ICC following Washington s decision to sanction the judiciary body.",
         "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-australian-open-expanding-seats-and-shad",
+    "title": "Australian Open Expanding Seats And Shade For 2027.",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20261011",
+        "event_cluster_id": "20261011-man-dies-entering-tiger-01",
+        "headline": "Australian Open Expanding Seats And Shade For 2027.",
+        "summary": "Emergency services called to the scene after reports of a man entering the tiger enclosure at a UK wildlife park.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-real-madrid-beat-villarreal-1-0-but-vini",
+    "title": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20261011",
+        "event_cluster_id": "20261011-real-madrid-beat-villarreal-01",
+        "headline": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
+        "summary": "Real Madrid forward Vinicius Junior sent off for pulling Villarreal player s hair in 1-0 La Liga victory.",
+        "category": "安全与冲突"
       }
     ]
   }
