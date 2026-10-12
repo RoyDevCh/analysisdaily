@@ -1331,7 +1331,7 @@
   },
   {
     "thread_id": "thread-guinea-bissau-referendum-approves-new-co",
-    "title": "Australia: Car crashes into rugby fans, 10 injured",
+    "title": "Pope Leo to have surgery after lump found on lung",
     "category": "未分类",
     "events": [
       {
@@ -1395,6 +1395,13 @@
         "event_cluster_id": "20261004-australia-car-crashes-rugby-01",
         "headline": "Australia: Car crashes into rugby fans, 10 injured",
         "summary": "The driver has been identified as an 18-year-old man who is said to have been \"revving\" when he lost control of his car.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261012",
+        "event_cluster_id": "20261012-pope-leo-have-surgery-01",
+        "headline": "Pope Leo to have surgery after lump found on lung",
+        "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
         "category": "未分类"
       }
     ]
@@ -2129,8 +2136,8 @@
   },
   {
     "thread_id": "thread-how-indie-cinema-is-beating-hollywood-in",
-    "title": "F1 Standings 2026 After The Bahrain Grand Prix In Malaysia",
-    "category": "未分类",
+    "title": "The Best Beers In America, According To The 2026 Great American Beer Festival",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -2194,6 +2201,13 @@
         "headline": "F1 Standings 2026 After The Bahrain Grand Prix In Malaysia",
         "summary": "Here's how the F1 standings look after round 16 of the 2026 season at Sepang, Malaysia.",
         "category": "未分类"
+      },
+      {
+        "date": "20261012",
+        "event_cluster_id": "20261012-best-beers-america-according-01",
+        "headline": "The Best Beers In America, According To The 2026 Great American Beer Festival",
+        "summary": "The Great American Beer Festival is the largest commercial beer competition in the United States. Winners were announced at the outdoor festival on October 11, 2026.",
+        "category": "文化体育"
       }
     ]
   },
@@ -2696,8 +2710,8 @@
   },
   {
     "thread_id": "thread-us-energy-secretary-signs-oil-deal-in-ve",
-    "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-    "category": "未分类",
+    "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -2747,6 +2761,13 @@
         "headline": "G7 to release millions of barrels of oil and diesel after Trump threat",
         "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
         "category": "未分类"
+      },
+      {
+        "date": "20261012",
+        "event_cluster_id": "20261012-republican-senator-trump-diesel-01",
+        "headline": "Republican senator says Trump diesel agreement with Russia may be illegal",
+        "summary": "US President Trump s bid to bring down diesel prices by easing sanctions on Russia prompts rare Republican criticism.",
+        "category": "国际政治"
       }
     ]
   },
@@ -3438,8 +3459,8 @@
   },
   {
     "thread_id": "thread-david-bowie-xr-documentary-debuts-at-ven",
-    "title": "David Bowie XR Documentary Debuts at Venice Immersive",
-    "category": "文化体育",
+    "title": "Dream Big with a Home Equity Loan",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -3447,6 +3468,13 @@
         "headline": "David Bowie XR Documentary Debuts at Venice Immersive",
         "summary": "The 10th anniversary of Venice Immersive features 69 extended reality pieces on Lazzaretto Vecchio. One featured work is a 3D documentary titled David Bowie: Unseen Unheard. This documentary includes hundreds of previously unseen images of the artist. The event aims to connect emergent technology with traditional cinema. Sources do not diverge as only one article pertains to this event.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261012",
+        "event_cluster_id": "20261012-dream-big-home-equity-01",
+        "headline": "Dream Big with a Home Equity Loan",
+        "summary": "The new Treasure Island adaptation starring David Oyelowo and Hayley Atwell has a lot going for it but some big changes to the classic adventure have me worried.",
+        "category": "未分类"
       }
     ]
   },
@@ -4649,7 +4677,7 @@
   },
   {
     "thread_id": "thread-独立电影与f1意大利大奖赛2026年相关报道概述",
-    "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
+    "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
     "category": "安全与冲突",
     "events": [
       {
@@ -4734,6 +4762,13 @@
         "event_cluster_id": "20261011-twelve-killed-more-than-01",
         "headline": "Twelve killed, more than 300 injured in Riyadh airport attack",
         "summary": "Saudi Arabia has confirmed at least 12 people were killed and more than 300 injured after Houthi fighters struck Riyadh.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261012",
+        "event_cluster_id": "20261012-pakistani-national-killed-second-01",
+        "headline": "Pakistani national killed in second Houthi strike on Riyadh airport",
+        "summary": "Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s Airport.",
         "category": "安全与冲突"
       }
     ]
@@ -5650,8 +5685,8 @@
   },
   {
     "thread_id": "thread-india-rejects-hague-arbitration-ruling-o",
-    "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
-    "category": "安全与冲突",
+    "title": "Iran’s FM urges diplomacy in call with Saudi counterpart",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -5736,6 +5771,13 @@
         "headline": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
         "summary": "Saudi Arabia and Yemen s internationally recognised gov t urge UN Security Council action amid Houthi escalation.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261012",
+        "event_cluster_id": "20261012-iran-s-fm-urges-01",
+        "headline": "Iran’s FM urges diplomacy in call with Saudi counterpart",
+        "summary": "Tehran offers to facilitate talks between Saudi Arabia and Yemen s Houthis following deadly strikes on the kingdom.",
+        "category": "国际政治"
       }
     ]
   },
@@ -6042,8 +6084,8 @@
   },
   {
     "thread_id": "thread-ice-agent-faces-federal-charges-for-lyin",
-    "title": "Brazil election results updates: Lula and Bolsonaro advance to run-off",
-    "category": "国际政治",
+    "title": "‘Marshals’ Season 2 Release Guide: Here’s When Episode 2 Drops On CBS And Paramount+",
+    "category": "未分类",
     "events": [
       {
         "date": "20260904",
@@ -6100,6 +6142,13 @@
         "headline": "Brazil election results updates: Lula and Bolsonaro advance to run-off",
         "summary": "These were the updates on the Brazilian general election for Sunday, October 4, 2026.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261012",
+        "event_cluster_id": "20261012-marshals-season-2-release-01",
+        "headline": "‘Marshals’ Season 2 Release Guide: Here’s When Episode 2 Drops On CBS And Paramount+",
+        "summary": "Marshals Season 2 premieres Sunday, October 4 on CBS and later on Paramount+. Here’s what time it airs, how to stream it and the full release schedule.",
+        "category": "未分类"
       }
     ]
   },
@@ -6329,8 +6378,8 @@
   },
   {
     "thread_id": "thread-france-records-hottest-summer-since-reco",
-    "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'",
-    "category": "文化体育",
+    "title": "It's official: now avoid credit card interest into 2024",
+    "category": "未分类",
     "events": [
       {
         "date": "20260904",
@@ -6345,6 +6394,13 @@
         "headline": "Is the Kennedy Center losing 'hundreds of millions of dollars'",
         "summary": "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261012",
+        "event_cluster_id": "20261012-it-s-official-now-01",
+        "headline": "It's official: now avoid credit card interest into 2024",
+        "summary": "As attacks continue to mount on shipping vessels transiting the Strait of Hormuz, a seafarer's union official says some crews are being offered big rewards for making the crossing.",
+        "category": "未分类"
       }
     ]
   },
@@ -6756,7 +6812,7 @@
   },
   {
     "thread_id": "thread-amazon-prime-plane-overruns-runway-at-mi",
-    "title": "A Turkish Doughnut Maker Whose Sweets Honor the Dead",
+    "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
     "category": "未分类",
     "events": [
       {
@@ -6792,6 +6848,13 @@
         "event_cluster_id": "20260930-turkish-doughnut-maker-whose-01",
         "headline": "A Turkish Doughnut Maker Whose Sweets Honor the Dead",
         "summary": "Niyazi Dumlu handing out lokma, a kind of Turkish doughnut, from his food truck near an Istanbul mosque in November.d",
+        "category": "未分类"
+      },
+      {
+        "date": "20261012",
+        "event_cluster_id": "20261012-children-among-139-dead-01",
+        "headline": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+        "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
         "category": "未分类"
       }
     ]
@@ -7589,7 +7652,7 @@
   },
   {
     "thread_id": "thread-california-bets-on-a-non-ultra-processed",
-    "title": "Coral Mountain Is California’s Newest Golf And Surf Club In The Desert",
+    "title": "Waves crash into homes as excavators try to protect California properties",
     "category": "未分类",
     "events": [
       {
@@ -7604,6 +7667,13 @@
         "event_cluster_id": "20260922-coral-mountain-california-s-01",
         "headline": "Coral Mountain Is California’s Newest Golf And Surf Club In The Desert",
         "summary": "Coral Mountain Desert Club is set to open in 2028, bringing with it a David McLay Kidd-designed golf course and a surf lagoon for members.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261012",
+        "event_cluster_id": "20261012-waves-crash-homes-excavators-01",
+        "headline": "Waves crash into homes as excavators try to protect California properties",
+        "summary": "Construction crews were seen trying to block waves entering homes along California s coast",
         "category": "未分类"
       }
     ]
@@ -7673,7 +7743,7 @@
   },
   {
     "thread_id": "thread-how-a-driver-s-sudden-death-triggered-eb",
-    "title": "US judge blocks deportation of DoorDash driver shot by ICE",
+    "title": "Packers Javon Bullard On The Bears: ‘They’re Still Little Bro’",
     "category": "未分类",
     "events": [
       {
@@ -7688,6 +7758,13 @@
         "event_cluster_id": "20260923-us-judge-blocks-deportation-01",
         "headline": "US judge blocks deportation of DoorDash driver shot by ICE",
         "summary": "The delivery driver was transferred from a hospital to a detention centre after the shooting on Sunday.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261012",
+        "event_cluster_id": "20261012-packers-javon-bullard-bears-01",
+        "headline": "Packers Javon Bullard On The Bears: ‘They’re Still Little Bro’",
+        "summary": "The Green Bay Packers routed the Chicago Bears, 31-7, Sunday, continuing their recent dominance in the NFL's oldest rivalry.",
         "category": "未分类"
       }
     ]
@@ -7981,8 +8058,8 @@
   },
   {
     "thread_id": "thread-houthi-advance-in-yemen-is-about-more-th",
-    "title": "Zambia signs US health deal after disputes over data-sharing",
-    "category": "科技与AI",
+    "title": "UKRAINE TARGETS RUSSIA WITH OVER 1,000 DRONES, KILLING 2 AS MOSCOW HOLDS LAST DAY OF ELECTIONS Breedlove argued that Rus",
+    "category": "未分类",
     "events": [
       {
         "date": "20260912",
@@ -8039,6 +8116,13 @@
         "headline": "Zambia signs US health deal after disputes over data-sharing",
         "summary": "The US will provide $1.5bn (£1.1bn) under the deal that was negotiated after Trump cut USAID funding.",
         "category": "科技与AI"
+      },
+      {
+        "date": "20261012",
+        "event_cluster_id": "20261012-trump-s-deal-putin-01",
+        "headline": "UKRAINE TARGETS RUSSIA WITH OVER 1,000 DRONES, KILLING 2 AS MOSCOW HOLDS LAST DAY OF ELECTIONS Breedlove argued that Rus",
+        "summary": "Analysts say fuel will take weeks to ship and quantity is too small to affect prices, while full deal is unlikely to be met given damage to Russian refineries Trump announces partial ceasefire but Zelenskyy says deal is ‘news to me’ Donald Trump’s deal with Vladimir Putin to temporarily lift sanctions on US imports of Russian diesel will have little “meaningful” effect on motorists and businesses ",
+        "category": "未分类"
       }
     ]
   },
@@ -8513,8 +8597,8 @@
   },
   {
     "thread_id": "thread-three-dead-after-flooding-inundates-nava",
-    "title": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
-    "category": "未分类",
+    "title": "Mexican president urges residents to shelter as Hurricane Simon approaches",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260917",
@@ -8543,6 +8627,13 @@
         "headline": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
         "summary": "Puerto Vallarta businesses board up windows as Hurricane Simon threatens Mexico’s west-central coast.",
         "category": "未分类"
+      },
+      {
+        "date": "20261012",
+        "event_cluster_id": "20261012-mexican-president-urges-residents-01",
+        "headline": "Mexican president urges residents to shelter as Hurricane Simon approaches",
+        "summary": "The Mexican community of Cabo Corrientes faces the risk of a direct hit as the Category 4 storm churns off Jalisco.",
+        "category": "国际政治"
       }
     ]
   },
@@ -8695,8 +8786,8 @@
   },
   {
     "thread_id": "thread-israeli-airstrikes-target-paramedics-in-",
-    "title": "Israeli airstrikes target paramedics in southern Lebanon amid ongoing conflict",
-    "category": "安全与冲突",
+    "title": "Lebanon’s first electric train hopes to revive railway system",
+    "category": "未分类",
     "events": [
       {
         "date": "20260920",
@@ -8704,6 +8795,13 @@
         "headline": "Israeli airstrikes target paramedics in southern Lebanon amid ongoing conflict",
         "summary": "Israeli air strikes hit Nabatieh in southern Lebanon, including a strike on an ambulance team. The strikes occur in the context of ongoing fighting between Israel and Hezbollah, a militant group established in 1982. The United Nations Interim Force in Lebanon has monitored ceasefire adherence in the region since its mandate was expanded 20 years ago.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261012",
+        "event_cluster_id": "20261012-lebanon-s-first-electric-01",
+        "headline": "Lebanon’s first electric train hopes to revive railway system",
+        "summary": "A new solar-powered model train has returned to a section of Lebanon’s historic railway.",
+        "category": "未分类"
       }
     ]
   },
@@ -8926,8 +9024,8 @@
   },
   {
     "thread_id": "thread-netanyahu-blames-juvenile-delinquents-fo",
-    "title": "Trump confirms Fort Hood shooter’s execution will be by firing squad",
-    "category": "未分类",
+    "title": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260925",
@@ -8956,6 +9054,13 @@
         "headline": "Trump confirms Fort Hood shooter’s execution will be by firing squad",
         "summary": "The Pentagon said the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be public and livestreamed.",
         "category": "未分类"
+      },
+      {
+        "date": "20261012",
+        "event_cluster_id": "20261012-us-homeland-security-secretary-01",
+        "headline": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
+        "summary": "Decision to livestream Nidal Hasan execution has led to harsh criticism and warnings that it could encourage violence.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -9248,8 +9353,8 @@
   },
   {
     "thread_id": "thread-yamal-stars-as-spain-thrash-croatia",
-    "title": "Next Generation Drives Growth At India’s Storied Godrej Industries Group",
-    "category": "未分类",
+    "title": "Air strikes kill dozens of gold miners on Sudan-Egypt border",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260930",
@@ -9264,6 +9369,13 @@
         "headline": "Next Generation Drives Growth At India’s Storied Godrej Industries Group",
         "summary": "In August, Pirojsha Godrej took on the mantle of chairperson of Godrej Industries Group.",
         "category": "未分类"
+      },
+      {
+        "date": "20261012",
+        "event_cluster_id": "20261012-air-strikes-kill-dozens-01",
+        "headline": "Air strikes kill dozens of gold miners on Sudan-Egypt border",
+        "summary": "A Sudan-based rights group said 72 people were killed in a remote, disputed area known for illegal gold mining.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -9297,7 +9409,7 @@
   },
   {
     "thread_id": "thread-passengers-tell-of-nightmare-onboard-div",
-    "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+    "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
     "category": "安全与冲突",
     "events": [
       {
@@ -9340,6 +9452,13 @@
         "event_cluster_id": "20261011-twelve-killed-attack-airport-01",
         "headline": "Twelve killed in attack on airport in Saudi capital Riyadh",
         "summary": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261012",
+        "event_cluster_id": "20261012-saudi-arabia-1-dead-01",
+        "headline": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
+        "summary": "Sunday s strike on King Khalid International airport kills a Pakistani national.",
         "category": "安全与冲突"
       }
     ]
@@ -9423,7 +9542,7 @@
   },
   {
     "thread_id": "thread-russia-hits-second-major-bridge-in-ukrai",
-    "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+    "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
     "category": "安全与冲突",
     "events": [
       {
@@ -9438,6 +9557,13 @@
         "event_cluster_id": "20261009-russian-strike-buses-kills-01",
         "headline": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
         "summary": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261012",
+        "event_cluster_id": "20261012-ukraine-strikes-yandex-data-01",
+        "headline": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+        "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
         "category": "安全与冲突"
       }
     ]
@@ -9648,6 +9774,34 @@
         "event_cluster_id": "20261011-real-madrid-beat-villarreal-01",
         "headline": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
         "summary": "Real Madrid forward Vinicius Junior sent off for pulling Villarreal player s hair in 1-0 La Liga victory.",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-zelenskyy-welcomes-us-announced-energy-c",
+    "title": "Zelenskyy welcomes US-announced energy ceasefire",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20261012",
+        "event_cluster_id": "20261012-zelenskyy-welcomes-us-announced-01",
+        "headline": "Zelenskyy welcomes US-announced energy ceasefire",
+        "summary": "President Zelenskyy has responded to Donald Trump’s announcement that Russia and Ukraine agreed to an energy ceasefire",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-poland-detains-man-suspected-of-planning",
+    "title": "Poland detains man suspected of planning assassination of PM Tusk",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20261012",
+        "event_cluster_id": "20261012-poland-detains-man-suspected-01",
+        "headline": "Poland detains man suspected of planning assassination of PM Tusk",
+        "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
         "category": "安全与冲突"
       }
     ]
