@@ -29,7 +29,7 @@
   },
   {
     "thread_id": "thread-nearly-200-nations-agree-to-phase-down-c",
-    "title": "France to shutter up to 500 schools as more student protests called",
+    "title": "Albania: Fire at Education Ministry as students protest",
     "category": "社会与公共政策",
     "events": [
       {
@@ -79,6 +79,13 @@
         "event_cluster_id": "20261005-france-shutter-up-500-01",
         "headline": "France to shutter up to 500 schools as more student protests called",
         "summary": "Education minister cites safety concerns for closures as organisers call for resumption of protests.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-albania-fire-education-ministry-01",
+        "headline": "Albania: Fire at Education Ministry as students protest",
+        "summary": "Riot police deployed in the Albanian capital Tirana on the second day of student protests. The sudden outbreak seemed at least somewhat reminiscent of the widespread demos in France courting international attention.",
         "category": "社会与公共政策"
       }
     ]
@@ -1751,8 +1758,8 @@
   },
   {
     "thread_id": "thread-blue-jays-3-93-era-pitcher-cuts-ties-wit",
-    "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
-    "category": "社会与公共政策",
+    "title": "A woman was rescued by passersby after being swept along by floodwaters in Istanbul’s Esenyurt district",
+    "category": "气候与环境",
     "events": [
       {
         "date": "20260902",
@@ -1795,6 +1802,13 @@
         "headline": "US prosecutors reopen case of alleged gang rape at Cornell University",
         "summary": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-istanbul-chaos-shut-down-01",
+        "headline": "A woman was rescued by passersby after being swept along by floodwaters in Istanbul’s Esenyurt district",
+        "summary": "A woman was rescued by passersby after being swept along by floodwaters in Istanbul’s Esenyurt district",
+        "category": "气候与环境"
       }
     ]
   },
@@ -2241,7 +2255,7 @@
   },
   {
     "thread_id": "thread-faster-homework-poor-exam-results-what-a",
-    "title": "Pope Leo diagnosed with cancer after surgery to remove part of lung",
+    "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
     "category": "未分类",
     "events": [
       {
@@ -2320,6 +2334,13 @@
         "headline": "Pope Leo diagnosed with cancer after surgery to remove part of lung",
         "summary": "The 71-year-old is recovering in Rome s Gemelli hospital after surgery to remove a cancerous growth on his lung.",
         "category": "未分类"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-pope-walking-recovering-expected-01",
+        "headline": "Pope walking and recovering 'as expected' after surgery, doctors say",
+        "summary": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
+        "category": "未分类"
       }
     ]
   },
@@ -2388,7 +2409,7 @@
   },
   {
     "thread_id": "thread-joshua-wong-pleads-guilty-in-hong-kong-n",
-    "title": "Jon Moxley In Action, And Kofi Kingston Wrestles His First AEW Singles Match",
+    "title": "Five-Time IndyCar Champion Alex Palou Will Test INDY NXT Car At Indy",
     "category": "未分类",
     "events": [
       {
@@ -2494,6 +2515,13 @@
         "event_cluster_id": "20261004-jon-moxley-action-kofi-01",
         "headline": "Jon Moxley In Action, And Kofi Kingston Wrestles His First AEW Singles Match",
         "summary": "AEW Collision start time, card and how to watch for Oct. 3: Jon Moxley vs. Jake Doyle, Kofi vs. Lee Moriarty, on TNT and HBO Max at 8 p.m. ET.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-five-time-indycar-champion-01",
+        "headline": "Five-Time IndyCar Champion Alex Palou Will Test INDY NXT Car At Indy",
+        "summary": "Five-time IndyCar Series Champion Alex Palou will drive an INDY NXT By Firestone car for the first time in his career in the Chris Griffis Memorial Test at Indianapolis.",
         "category": "未分类"
       }
     ]
@@ -2808,7 +2836,7 @@
   },
   {
     "thread_id": "thread-canadian-prime-minister-mark-carney-resp",
-    "title": "Trump says Ukraine needs a new president who will agree to end the war",
+    "title": "Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role",
     "category": "安全与冲突",
     "events": [
       {
@@ -2935,6 +2963,13 @@
         "event_cluster_id": "20261011-trump-ukraine-needs-president-01",
         "headline": "Trump says Ukraine needs a new president who will agree to end the war",
         "summary": "US leader suggests Zelenskyy has not done enough to end the war amid tensions with Kyiv over a diesel deal with Russia.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-diplomat-richard-haass-discusses-01",
+        "headline": "Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role",
+        "summary": "NPR's Steve Inskeep speaks with veteran diplomat Richard Haass about the Russia-Ukraine war and the role President Trump is playing.",
         "category": "安全与冲突"
       }
     ]
@@ -6595,8 +6630,8 @@
   },
   {
     "thread_id": "thread-maria-bartiromo-denies-fox-firing-report",
-    "title": "Maria Bartiromo denies Fox firing reports; South Korea pushes back on Hormuz deployment claims",
-    "category": "国际政治",
+    "title": "‘South Park’ Season 29, Episode 3 To Target ‘Aura Battle’ Social Media Craze",
+    "category": "未分类",
     "events": [
       {
         "date": "20260905",
@@ -6604,12 +6639,19 @@
         "headline": "Maria Bartiromo denies Fox firing reports; South Korea pushes back on Hormuz deployment claims",
         "summary": "Maria Bartiromo's lawyer stated that reports of her being fired from Fox are unequivocally false and promised evidence would be presented. Separately, South Korea's presidential office played down reports that the country is preparing to deploy military assets to the Strait of Hormuz under pressure from US President Donald Trump. South Korean media outlets reported on Thursday and Friday that the ",
         "category": "国际政治"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-south-park-season-29-01",
+        "headline": "‘South Park’ Season 29, Episode 3 To Target ‘Aura Battle’ Social Media Craze",
+        "summary": "Trey Parker and Matt Stone’s \"South Park,\" aka \"South America,\" returns this week with Season 29, Episode 3 after sneaking in a jab at President Donald Trump at the end of Episode 2.",
+        "category": "未分类"
       }
     ]
   },
   {
     "thread_id": "thread-nigel-farage-heckled-at-reform-uk-confer",
-    "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+    "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
     "category": "国际政治",
     "events": [
       {
@@ -6674,12 +6716,19 @@
         "headline": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
         "summary": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-burnham-he-wants-repair-01",
+        "headline": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+        "summary": "It comes as the prime minister meets President Zelensky at Downing Street.",
+        "category": "国际政治"
       }
     ]
   },
   {
     "thread_id": "thread-argentina-escalates-falklands-dispute-wi",
-    "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
+    "title": "Mexico to force Meta, TikTok, and X to better protect minors on platform",
     "category": "未分类",
     "events": [
       {
@@ -6708,6 +6757,13 @@
         "event_cluster_id": "20261013-two-deaths-reported-hurricane-01",
         "headline": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
         "summary": "Simon caps a Pacific season of record-breaking intensity, as deadly storms wreak havoc from Hawaii to Mexico.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-mexico-force-meta-tiktok-01",
+        "headline": "Mexico to force Meta, TikTok, and X to better protect minors on platform",
+        "summary": "Mexico will require the digital platforms to protect minors from violent and sexual content.",
         "category": "未分类"
       }
     ]
@@ -6903,8 +6959,8 @@
   },
   {
     "thread_id": "thread-amazon-prime-plane-overruns-runway-at-mi",
-    "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-    "category": "未分类",
+    "title": "Families of Trinidadian men killed in US boat strike demand accountability",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260907",
@@ -6947,6 +7003,13 @@
         "headline": "Children among 139 dead after boat capsizes off Djibouti, UN says",
         "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
         "category": "未分类"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-families-trinidadian-men-killed-01",
+        "headline": "Families of Trinidadian men killed in US boat strike demand accountability",
+        "summary": "The Trump administration has killed at least 239 people in boat strikes denounced as extrajudicial killings.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -7477,8 +7540,8 @@
   },
   {
     "thread_id": "thread-the-map-was-lying-to-you-why-the-un-just",
-    "title": "The Race Car Is Just The Start Of Richard Freeman’s NHRA Plan",
-    "category": "文化体育",
+    "title": "Complex And Disney Team Up To Launch KATSEYE Capsule Collection",
+    "category": "未分类",
     "events": [
       {
         "date": "20260909",
@@ -7514,6 +7577,13 @@
         "headline": "The Race Car Is Just The Start Of Richard Freeman’s NHRA Plan",
         "summary": "Elite Motorsports has become an NHRA powerhouse. Now Richard Freeman is betting that the future of the team depends as much on business as what happens on track.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-complex-disney-team-up-01",
+        "headline": "Complex And Disney Team Up To Launch KATSEYE Capsule Collection",
+        "summary": "In honor of KATSEYE's Disney+ documentary, Disney and KATSEYE have collaborated to sell a capsule collection, exclusively through Complex.com.",
+        "category": "未分类"
       }
     ]
   },
@@ -8170,8 +8240,8 @@
   },
   {
     "thread_id": "thread-dell-shares-hit-all-time-high-as-michael",
-    "title": "Warren Buffett Becomes World's 10th Richest Person, Overtakes Amancio Ortega As Inditex Shares Slip",
-    "category": "经济与市场",
+    "title": "Infantino faces FIFA rebels in Zurich after failed World Cup stake sale",
+    "category": "未分类",
     "events": [
       {
         "date": "20260912",
@@ -8186,13 +8256,27 @@
         "headline": "Warren Buffett Becomes World's 10th Richest Person, Overtakes Amancio Ortega As Inditex Shares Slip",
         "summary": "Berkshire Hathaway shares edged up Thursday afternoon as Inditex shares fell over 1%.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-world-s-oldest-shipwreck-01",
+        "headline": "World’s oldest shipwreck found off coast of Turkiye",
+        "summary": "Clay analysis traces recovered storage jars to early history workshops operating across the Jordan Valley.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-infantino-faces-fifa-rebels-01",
+        "headline": "Infantino faces FIFA rebels in Zurich after failed World Cup stake sale",
+        "summary": "Gianni Infantino faces FIFA rebels after failed World Cup sale, while members to be offered $6.35bn development fund.",
+        "category": "未分类"
       }
     ]
   },
   {
     "thread_id": "thread-houthi-advance-in-yemen-is-about-more-th",
-    "title": "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
-    "category": "未分类",
+    "title": "How Trump's diesel deal with Russia will impact the United States and Ukraine",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260912",
@@ -8263,6 +8347,13 @@
         "headline": "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
         "summary": "Germany's Johann Wadephul said hybrid plots like the Starlink fire showed Europe was \"in Russia's crosshairs.\" The UK's Ed Miliband said Trump's Russian diesel deal led to a \"very difficult few days\" diplomatically.",
         "category": "未分类"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-how-trump-s-diesel-01",
+        "headline": "How Trump's diesel deal with Russia will impact the United States and Ukraine",
+        "summary": "US President Trump's diesel deal with Russia has alarmed Ukraine and its allies. What is he hoping to achieve at home, and what does the deal mean for Kyiv and Moscow?",
+        "category": "国际政治"
       }
     ]
   },
@@ -8338,7 +8429,7 @@
   },
   {
     "thread_id": "thread-us-legislators-push-ai-safety-laws-amid-",
-    "title": "Trump, top tech firms sign accord to ‘self-police’ AI development",
+    "title": "Relying On Chain-Of-Thought For Boosting AI Safety Gets Sideswiped By This Split-Brain Discovery",
     "category": "科技与AI",
     "events": [
       {
@@ -8424,6 +8515,13 @@
         "headline": "Trump, top tech firms sign accord to ‘self-police’ AI development",
         "summary": "Accord says companies will implement robust internal controls for their AI systems as concerns mount over safety.",
         "category": "科技与AI"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-relying-chain-thought-boosting-01",
+        "headline": "Relying On Chain-Of-Thought For Boosting AI Safety Gets Sideswiped By This Split-Brain Discovery",
+        "summary": "There is a belief that AI safety can rely on the use of AI chain-of-thought (CoT). Turns out that CoT has holes. An AI Insider analysis and scoop.",
+        "category": "科技与AI"
       }
     ]
   },
@@ -8485,7 +8583,7 @@
   },
   {
     "thread_id": "thread-alexander-zverev-vs-ben-shelton-us-open-",
-    "title": "US Air Force Bomb Disposal Personnel Will Now Wear Rust Colored Berets",
+    "title": "Israeli quadcopter drone drops bomb in Lebanon",
     "category": "安全与冲突",
     "events": [
       {
@@ -8514,6 +8612,13 @@
         "event_cluster_id": "20261004-us-air-force-bomb-01",
         "headline": "US Air Force Bomb Disposal Personnel Will Now Wear Rust Colored Berets",
         "summary": "Explosive Ordnance Disposal airmen will be authorized to wear a “rust-colored” berets, as the color is historically associated with explosive hazards",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-israeli-quadcopter-drone-drops-01",
+        "headline": "Israeli quadcopter drone drops bomb in Lebanon",
+        "summary": "An Israeli quadcopter drone was filmed dropping a bomb on the outskirts of the village of Zibqin in southern Lebanon.",
         "category": "安全与冲突"
       }
     ]
@@ -8961,8 +9066,8 @@
   },
   {
     "thread_id": "thread-israeli-airstrikes-target-paramedics-in-",
-    "title": "Lebanon’s first electric train hopes to revive railway system",
-    "category": "未分类",
+    "title": "Costa Rica opens mega-prison as Bukele model embraced across Latin America",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260920",
@@ -8977,6 +9082,13 @@
         "headline": "Lebanon’s first electric train hopes to revive railway system",
         "summary": "A new solar-powered model train has returned to a section of Lebanon’s historic railway.",
         "category": "未分类"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-costa-rica-opens-mega-01",
+        "headline": "Costa Rica opens mega-prison as Bukele model embraced across Latin America",
+        "summary": "President Laura Fernandez says mega-prison is part of tough-on-crime model embraced by her government.",
+        "category": "国际政治"
       }
     ]
   },
@@ -9122,8 +9234,8 @@
   },
   {
     "thread_id": "thread-eu-removes-russian-oligarchs-usmanov-and",
-    "title": "EU removes Russian oligarchs Usmanov and Fridman from sanctions list",
-    "category": "国际政治",
+    "title": "CORTIS, ATEEZ, I.O.I And 23 More: Melon Music Awards Confirms Final Performer List",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260923",
@@ -9131,6 +9243,13 @@
         "headline": "EU removes Russian oligarchs Usmanov and Fridman from sanctions list",
         "summary": "The EU removed two Russian billionaires, Alisher Usmanov and Mikhail Fridman, from its sanctions list while extending restrictions on nearly 3,000 individuals and companies for three years. The decision came before an end-of-Tuesday deadline to preserve the Russia blacklist and was described by Ireland's EU presidency as a difficult compromise. Ukraine objected to the move, stating it sent Moscow ",
         "category": "国际政治"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-cortis-ateez-i-o-01",
+        "headline": "CORTIS, ATEEZ, I.O.I And 23 More: Melon Music Awards Confirms Final Performer List",
+        "summary": "Notable performances include an MMA reunion by I.O.I after ten years, plus NCT DREAM and NCT 127 marking their tenth anniversaries.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -9451,7 +9570,7 @@
   },
   {
     "thread_id": "thread-seoul-summons-ukraine-envoy-over-north-k",
-    "title": "Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia",
+    "title": "India urges Russia, Ukraine to protect Black Sea shipping",
     "category": "安全与冲突",
     "events": [
       {
@@ -9481,6 +9600,13 @@
         "headline": "Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia",
         "summary": "Two ships have sunk off the coast of Bulgaria and Romania after drone attacks in recent days. Bulgaria has held back on pointing the finger at Russia. What does that mean for security in the Black Sea and the region?",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-india-urges-russia-ukraine-01",
+        "headline": "India urges Russia, Ukraine to protect Black Sea shipping",
+        "summary": "New Delhi wants Moscow and Kyiv to ensure safe commercial shipping in the Black Sea amid attacks that put Indian seafarers at risk.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -9507,8 +9633,8 @@
   },
   {
     "thread_id": "thread-how-urban-suburban-and-rural-americans-e",
-    "title": "Internet, Science & Tech – September 28, 2026",
-    "category": "科技与AI",
+    "title": "Why is Starlink internet so important on the battlefield in Ukraine",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260929",
@@ -9530,6 +9656,13 @@
         "headline": "Internet, Science & Tech – September 28, 2026",
         "summary": "Internet, Science Tech A monthly digest of the Center s latest research on how the internet, science and technology are impacting society · Subscribe ↗ Media mentions Half of Americans Admit to Spending Too Much Time on PhonesToday America s supplement habit: 80 percent of adults are taking at least oneScripps News Most Young Americans Are [ ]",
         "category": "科技与AI"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-why-starlink-internet-so-01",
+        "headline": "Why is Starlink internet so important on the battlefield in Ukraine",
+        "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -9591,7 +9724,7 @@
   },
   {
     "thread_id": "thread-flydubai-fz1073-timeline-how-the-israel-",
-    "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+    "title": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
     "category": "安全与冲突",
     "events": [
       {
@@ -9627,6 +9760,13 @@
         "event_cluster_id": "20261014-russian-strikes-hit-key-01",
         "headline": "Russian strikes hit key power plant in Kyiv, Zelensky says",
         "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-watch-block-flats-destroyed-01",
+        "headline": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
+        "summary": "BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.",
         "category": "安全与冲突"
       }
     ]
@@ -9703,7 +9843,7 @@
   },
   {
     "thread_id": "thread-south-korea-lost-shark-draws-over-half-a",
-    "title": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
+    "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
     "category": "国际政治",
     "events": [
       {
@@ -9732,6 +9872,13 @@
         "event_cluster_id": "20261014-trump-ousts-kimberly-guilfoyle-01",
         "headline": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
         "summary": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-trump-s-ambassador-greece-01",
+        "headline": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
+        "summary": "The White House publicly asked for U.S. Ambassador to Greece Kimberly Guilfoyle's resignation on Tuesday as she faced mounting accusations of improper conduct. (Image credit: Jacquelyn Martin)",
         "category": "国际政治"
       }
     ]
@@ -9941,7 +10088,7 @@
   },
   {
     "thread_id": "thread-bold-and-inventive-canadian-poet-anne-ca",
-    "title": "Trump fumes over Nobel peace prize snub and criticizes Norway",
+    "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
     "category": "安全与冲突",
     "events": [
       {
@@ -9963,6 +10110,13 @@
         "event_cluster_id": "20261010-trump-fumes-nobel-peace-01",
         "headline": "Trump fumes over Nobel peace prize snub and criticizes Norway",
         "summary": "President complains about not winning prize in year he started war with Iran and says: ‘We will not forget, Norway’ Donald Trump complained Friday about not winning the Nobel peace prize for 2026, a year in which he started a war with Iran. At what was supposed to be a rally for other Republican candidates in Syracuse, New York, the US president devoted a long portion of his speech airing his grie",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-iran-war-live-tehran-01",
+        "headline": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+        "summary": "Iran says it does not seek an endless war, but vows to fight until the US accepts its demands as ships sink in Hormuz.",
         "category": "安全与冲突"
       }
     ]
@@ -10109,7 +10263,7 @@
   },
   {
     "thread_id": "thread-nato-details-plan-to-shield-ukraine-s-eu",
-    "title": "NATO Details Plan to Shield Ukraine’s European Allies From Russia",
+    "title": "Wednesday, October 14. Russia’s War On Ukraine: News And Information From Ukraine",
     "category": "安全与冲突",
     "events": [
       {
@@ -10117,6 +10271,13 @@
         "event_cluster_id": "20261013-nato-details-plan-shield-01",
         "headline": "NATO Details Plan to Shield Ukraine’s European Allies From Russia",
         "summary": "Gen. Alexus G. Grynkewich of the U.S. Air Force, NATO’s top military commander, speaking at the Warsaw Security Forum on Monday.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261015",
+        "event_cluster_id": "20261015-wednesday-october-14-russia-01",
+        "headline": "Wednesday, October 14. Russia’s War On Ukraine: News And Information From Ukraine",
+        "summary": "Wednesday, October 14. Russia’s War On Ukraine: News And Information From Ukraine",
         "category": "安全与冲突"
       }
     ]
