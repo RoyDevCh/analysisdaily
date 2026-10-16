@@ -379,8 +379,8 @@
   },
   {
     "thread_id": "thread-bus-crash-in-egypt-s-south-sinai-kills-a",
-    "title": "Flydubai co-pilot planned suicide attack on Israeli airport, UAE prosecutors say",
-    "category": "安全与冲突",
+    "title": "A mother’s touch helps premature babies grow strong in Gaza",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -556,6 +556,13 @@
         "headline": "Flydubai co-pilot planned suicide attack on Israeli airport, UAE prosecutors say",
         "summary": "Hammam al-Hammami is believed to have been targeting the passenger terminal at Ben Gurion airport near Tel Aviv The co-pilot who tried to seize control of a passenger jet flying from Dubai to Tel Aviv last week was planning to launch a suicide attack targeting the passenger terminal at Israel’s international airport, prosecutors in the United Arab Emirates said on Friday. Hammam al-Hammami attacke",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-mother-s-touch-helps-01",
+        "headline": "A mother’s touch helps premature babies grow strong in Gaza",
+        "summary": "At Nasser Hospital, a kangaroo mother care pilot programme helps vulnerable newborns.",
+        "category": "未分类"
       }
     ]
   },
@@ -624,8 +631,8 @@
   },
   {
     "thread_id": "thread-mark-carney-tells-us-to-start-being-seri",
-    "title": "Brazil’s presidential race: Three key takeaways from the first round",
-    "category": "国际政治",
+    "title": "Poll shows Bolsonaro with slight lead over Lula ahead of Brazilian run-off",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -731,6 +738,13 @@
         "headline": "Brazil’s presidential race: Three key takeaways from the first round",
         "summary": "Flavio Bolsonaro beat polling expectations as Brazil’s right gained ground, setting up October 25 run-off with Lula.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-poll-shows-bolsonaro-slight-01",
+        "headline": "Poll shows Bolsonaro with slight lead over Lula ahead of Brazilian run-off",
+        "summary": "Poll shows right-wing candidate with two percent advantage over Lula going into second round of voting on October 25.",
+        "category": "未分类"
       }
     ]
   },
@@ -1338,8 +1352,8 @@
   },
   {
     "thread_id": "thread-guinea-bissau-referendum-approves-new-co",
-    "title": "Teenager shoots headmaster, teacher at French school",
-    "category": "社会与公共政策",
+    "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -1424,6 +1438,20 @@
         "headline": "Teenager shoots headmaster, teacher at French school",
         "summary": "French officials say a 14-year-old boy opened fire with a hunting rifle at a middle school in the town of Aubagne.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-three-children-one-teacher-01",
+        "headline": "Three children, one teacher killed in Oregon school shooting",
+        "summary": "The police chief in Bend, Oregon, identified the shooter as a 16-year-old who was killed by a bystander at the school.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-bus-hits-train-stopped-01",
+        "headline": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+        "summary": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+        "category": "未分类"
       }
     ]
   },
@@ -1660,7 +1688,7 @@
   },
   {
     "thread_id": "thread-worshippers-in-west-bank-tear-gassed-as-",
-    "title": "Man City charges: Mourinho jokes Premier League case will outlast him",
+    "title": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
     "category": "文化体育",
     "events": [
       {
@@ -1718,6 +1746,13 @@
         "headline": "Man City charges: Mourinho jokes Premier League case will outlast him",
         "summary": "Jose Mourinho, long an outspoken critic of Man City s spending, joked that the Premier League case could outlast him.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-greetings-mexico-city-where-01",
+        "headline": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
+        "summary": "One plays the bull, the other the bullfighter, as a pair practices a dance of death in a sport that's prohibited in the Mexican capital city.",
+        "category": "文化体育"
       }
     ]
   },
@@ -1758,8 +1793,8 @@
   },
   {
     "thread_id": "thread-blue-jays-3-93-era-pitcher-cuts-ties-wit",
-    "title": "A woman was rescued by passersby after being swept along by floodwaters in Istanbul’s Esenyurt district",
-    "category": "气候与环境",
+    "title": "Australian woman charged with lacing colleague's curry with snail poison",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -1809,6 +1844,13 @@
         "headline": "A woman was rescued by passersby after being swept along by floodwaters in Istanbul’s Esenyurt district",
         "summary": "A woman was rescued by passersby after being swept along by floodwaters in Istanbul’s Esenyurt district",
         "category": "气候与环境"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-australian-woman-charged-lacing-01",
+        "headline": "Australian woman charged with lacing colleague's curry with snail poison",
+        "summary": "The alleged victim, who was in a relationship with the woman, had spotted bright green pellets in the meal.",
+        "category": "文化体育"
       }
     ]
   },
@@ -2836,8 +2878,8 @@
   },
   {
     "thread_id": "thread-canadian-prime-minister-mark-carney-resp",
-    "title": "Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role",
-    "category": "安全与冲突",
+    "title": "Starlink: How Elon Musk's company influences geopolitics",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260902",
@@ -2971,6 +3013,13 @@
         "headline": "Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role",
         "summary": "NPR's Steve Inskeep speaks with veteran diplomat Richard Haass about the Russia-Ukraine war and the role President Trump is playing.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-starlink-how-elon-musk-01",
+        "headline": "Starlink: How Elon Musk's company influences geopolitics",
+        "summary": "Designed to bring internet access to remote regions, Elon Musk's Starlink has become vital in crisis regions and war zones. But Ukraine also shows the risks of depending on the service.",
+        "category": "经济与市场"
       }
     ]
   },
@@ -3235,8 +3284,8 @@
   },
   {
     "thread_id": "thread-various-impacts-of-us-immigration-and-fo",
-    "title": "Alleged rape on campus sparks violent protest at Indian university",
-    "category": "未分类",
+    "title": "Clashes erupt at protest over university funding law in Argentina",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -3251,6 +3300,13 @@
         "headline": "Alleged rape on campus sparks violent protest at Indian university",
         "summary": "Student protests at an Indian university have turned violent following claims that a female student was raped on campus.",
         "category": "未分类"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-clashes-erupt-protest-university-01",
+        "headline": "Clashes erupt at protest over university funding law in Argentina",
+        "summary": "Protesters in Buenos Aires demanded the government implement a law to boost university funding.",
+        "category": "国际政治"
       }
     ]
   },
@@ -3571,7 +3627,7 @@
   },
   {
     "thread_id": "thread-us-and-iran-exchange-airstrikes-in-middl",
-    "title": "Can the KKK find a new foothold in the US",
+    "title": "Usher, Rema And Kenshi Yonezu Lead The Grammys’ New Categories Beyond The Big Four",
     "category": "未分类",
     "events": [
       {
@@ -3670,6 +3726,13 @@
         "event_cluster_id": "20261005-kkk-find-foothold-us-01",
         "headline": "Can the KKK find a new foothold in the US",
         "summary": "The infamous hate group is trying to rebrand itself as the Knights Party in an attempt to grow its base.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-usher-rema-kenshi-yonezu-01",
+        "headline": "Usher, Rema And Kenshi Yonezu Lead The Grammys’ New Categories Beyond The Big Four",
+        "summary": "After high contended additions, the 2027 GRAMMYs bring two brand-new categories and one dominated by a single artist that could produce this year’s biggest surprises.",
         "category": "未分类"
       }
     ]
@@ -4124,7 +4187,7 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-us-open-and-grand-c",
-    "title": "Key takeaways from US Senate debate in Michigan between El-Sayed, Rogers",
+    "title": "Majority of Americans Expect Democrats to Win Control of House; Public Is Split on Senate",
     "category": "未分类",
     "events": [
       {
@@ -4223,6 +4286,13 @@
         "event_cluster_id": "20261009-key-takeaways-us-senate-01",
         "headline": "Key takeaways from US Senate debate in Michigan between El-Sayed, Rogers",
         "summary": "Democrat Abdul El-Sayed and Republican Mike Rogers are locked in a toss-up race for the US Senate.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-majority-americans-expect-democrats-01",
+        "headline": "Majority of Americans Expect Democrats to Win Control of House; Public Is Split on Senate",
+        "summary": "Americans overall see the Democrats as having a better chance to win a House majority than take control of the Senate.",
         "category": "未分类"
       }
     ]
@@ -4439,7 +4509,7 @@
   },
   {
     "thread_id": "thread-scotus-allows-trump-s-ballroom-project-t",
-    "title": "Canada’s Carney calls for unity as Alberta prepares for secession vote",
+    "title": "Albania’s prime minister vows not to resign over student-led protests",
     "category": "国际政治",
     "events": [
       {
@@ -4510,6 +4580,13 @@
         "event_cluster_id": "20261013-canada-s-carney-calls-01",
         "headline": "Canada’s Carney calls for unity as Alberta prepares for secession vote",
         "summary": "Prime Minister Mark Carney s Thanksgiving message comes a week ahead of Alberta s referendum to secede.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-albania-s-prime-minister-01",
+        "headline": "Albania’s prime minister vows not to resign over student-led protests",
+        "summary": "Demonstrators demand resignation of Edi Rama after three days of clashes in capital Tirana Albania’s prime minister has said he will not resign as a protest movement, initially prompted by a proposal to build a Trump family-backed resort in the Balkan state, turned violent with clashes convulsing the capital for a third consecutive day. Speaking on Thursday after calls by students who this week as",
         "category": "国际政治"
       }
     ]
@@ -4691,7 +4768,7 @@
   },
   {
     "thread_id": "thread-乌克兰扎波罗热市一学校在地库开学以规避战争风险",
-    "title": "Europe's royalty pay respects to King Harald V in Norway",
+    "title": "While Pope Leo Recovers From Lung Surgery, the Vatican Runs on Autopilot",
     "category": "未分类",
     "events": [
       {
@@ -4748,6 +4825,13 @@
         "event_cluster_id": "20260910-europe-s-royalty-pay-01",
         "headline": "Europe's royalty pay respects to King Harald V in Norway",
         "summary": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-while-pope-leo-recovers-01",
+        "headline": "While Pope Leo Recovers From Lung Surgery, the Vatican Runs on Autopilot",
+        "summary": "Mass in St. Peter’s Square at the Vatican on Wednesday. The service was held by Cardinal Luis Antonio Tagle in Pope Leo’s absence, and included special prayers for the pontiff’s health.",
         "category": "未分类"
       }
     ]
@@ -4866,7 +4950,7 @@
   },
   {
     "thread_id": "thread-马达加斯加前参议院主席因镇压z世代抗议被判强迫劳动-丹麦农民因化肥限令抗议",
-    "title": "Here’s the latest.",
+    "title": "IndyCar Teams Up With Indiana Football For Big Ohio State Game",
     "category": "未分类",
     "events": [
       {
@@ -4937,6 +5021,13 @@
         "event_cluster_id": "20260929-here-s-latest-01",
         "headline": "Here’s the latest.",
         "summary": "This incident marks the latest deadly migrant voyage in the treacherous Mona Passage, often used by those fleeing Haiti.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-indycar-teams-up-indiana-01",
+        "headline": "IndyCar Teams Up With Indiana Football For Big Ohio State Game",
+        "summary": "IndyCar continues to build a relationship with Indiana University Football and the latest endeavor showcases Alex Palou in No. 5 IU's matchup against No. 4 Ohio State.",
         "category": "未分类"
       }
     ]
@@ -6189,7 +6280,7 @@
   },
   {
     "thread_id": "thread-ice-agent-faces-federal-charges-for-lyin",
-    "title": "‘Marshals’ Season 2 Release Guide: Here’s When Episode 2 Drops On CBS And Paramount+",
+    "title": "Why ESPN Is Handling Joe Buck, Troy Aikman Contracts Differently",
     "category": "未分类",
     "events": [
       {
@@ -6253,6 +6344,13 @@
         "event_cluster_id": "20261012-marshals-season-2-release-01",
         "headline": "‘Marshals’ Season 2 Release Guide: Here’s When Episode 2 Drops On CBS And Paramount+",
         "summary": "Marshals Season 2 premieres Sunday, October 4 on CBS and later on Paramount+. Here’s what time it airs, how to stream it and the full release schedule.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-why-espn-handling-joe-01",
+        "headline": "Why ESPN Is Handling Joe Buck, Troy Aikman Contracts Differently",
+        "summary": "By all accounts, it seems like this is the final season of the NFL booth partnership between Troy Aikman and Joe Buck? Why is ESPN handling their contracts differently?",
         "category": "未分类"
       }
     ]
@@ -6420,8 +6518,8 @@
   },
   {
     "thread_id": "thread-focus-features-may-submit-obsession-as-c",
-    "title": "Australia news live: PM says Shoebridge’s ‘replace Labor’ goal ‘somewhat concerning’; Anika Wells named in Time’s ‘influ",
-    "category": "科技与AI",
+    "title": "ADF member ‘person of interest’ after video recorder found in HMAS Leeuwin women’s showers",
+    "category": "未分类",
     "events": [
       {
         "date": "20260904",
@@ -6450,6 +6548,13 @@
         "headline": "Australia news live: PM says Shoebridge’s ‘replace Labor’ goal ‘somewhat concerning’; Anika Wells named in Time’s ‘influ",
         "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Queensland’s state government has missed a deadline to sign up to the federal government’s Thriving Kids program before its rollout begins today. Under the program, state governments will provide supports to children up to 8 years old with mild to moderate autism or developmental delays. They will be made inel",
         "category": "科技与AI"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-adf-member-person-interest-01",
+        "headline": "ADF member ‘person of interest’ after video recorder found in HMAS Leeuwin women’s showers",
+        "summary": "Vice Adm Buckley calls incident an ‘act of sexual violence’ and a ‘despicable betrayal of trust’ Get our breaking news email , free app or daily news podcast The defence department says a member of the Australian Defence Force is a “person of interest” in investigations after a video recording device was found in a bathroom on HMAS Leeuwin, in what the chief of navy called a “despicable betrayal o",
+        "category": "未分类"
       }
     ]
   },
@@ -6651,7 +6756,7 @@
   },
   {
     "thread_id": "thread-nigel-farage-heckled-at-reform-uk-confer",
-    "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+    "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
     "category": "国际政治",
     "events": [
       {
@@ -6722,6 +6827,13 @@
         "event_cluster_id": "20261015-burnham-he-wants-repair-01",
         "headline": "Burnham says he wants to 'repair bridges' between Ukraine and US",
         "summary": "It comes as the prime minister meets President Zelensky at Downing Street.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-houthi-missile-attack-yemeni-01",
+        "headline": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+        "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
         "category": "国际政治"
       }
     ]
@@ -7717,6 +7829,13 @@
         "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
         "summary": "The Finnish Parliament building in Helsinki. Prime Minister Petteri Orpo said that it was “very possible” there was a foreign actor behind the suspected home entries, the national broadcaster reported.",
         "category": "未分类"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-turn-your-rising-home-01",
+        "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
+        "summary": "The interior of Rules, a British mainstay in the Covent Garden neighborhood of London. In the centuries since it opened, the restaurant has served London’s wealthy and wordy, its royals and its regulars.",
+        "category": "未分类"
       }
     ]
   },
@@ -8240,7 +8359,7 @@
   },
   {
     "thread_id": "thread-dell-shares-hit-all-time-high-as-michael",
-    "title": "Infantino faces FIFA rebels in Zurich after failed World Cup stake sale",
+    "title": "The Tallest Champion In Boxing Faces An Unbeaten Mandatory Who Gives Up 7 Inches",
     "category": "未分类",
     "events": [
       {
@@ -8269,6 +8388,13 @@
         "event_cluster_id": "20261015-infantino-faces-fifa-rebels-01",
         "headline": "Infantino faces FIFA rebels in Zurich after failed World Cup stake sale",
         "summary": "Gianni Infantino faces FIFA rebels after failed World Cup sale, while members to be offered $6.35bn development fund.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-tallest-champion-boxing-faces-01",
+        "headline": "The Tallest Champion In Boxing Faces An Unbeaten Mandatory Who Gives Up 7 Inches",
+        "summary": "Sebastian Fundora defends the WBC title against unbeaten Ermal Hadribeaj Saturday in Las Vegas. Coverage starts at 8 p.m. ET on TNT, truTV and DAZN.",
         "category": "未分类"
       }
     ]
@@ -8751,7 +8877,7 @@
   },
   {
     "thread_id": "thread-harry-and-meghan-change-children-s-schoo",
-    "title": "Harry and Meghan Change Children’s School After Talks With Security Team",
+    "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
     "category": "社会与公共政策",
     "events": [
       {
@@ -8759,6 +8885,13 @@
         "event_cluster_id": "20260916-harry-meghan-change-children-01",
         "headline": "Harry and Meghan Change Children’s School After Talks With Security Team",
         "summary": "Prince Harry and Meghan, the Duke and Duchess of Sussex, in Bondi Beach, Australia, in April. The couple recently moved back to Britain from the United States with their children, Archie, 7, and Lilibet, 5.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-least-33-pupils-teacher-01",
+        "headline": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+        "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
         "category": "社会与公共政策"
       }
     ]
@@ -8779,8 +8912,8 @@
   },
   {
     "thread_id": "thread-lost-on-mount-fuji-off-season-you-ll-hav",
-    "title": "How To Legally Pay Less In Tariffs Without Moving Your Factory",
-    "category": "经济与市场",
+    "title": "U.S. Navy Will Pay Boeing $16 Million To End Super Hornet Production",
+    "category": "未分类",
     "events": [
       {
         "date": "20260917",
@@ -8795,6 +8928,13 @@
         "headline": "How To Legally Pay Less In Tariffs Without Moving Your Factory",
         "summary": "Tariffs have nearly tripled since 2025. Tariff engineering lets brands legally pay less by changing the product. Here’s how it works and who it’s worth it for.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-u-s-navy-pay-01",
+        "headline": "U.S. Navy Will Pay Boeing $16 Million To End Super Hornet Production",
+        "summary": "The United States Navy will receive its final F/A-18 Super Hornet next year, and the service will pay Boeing to shut down the production lines.",
+        "category": "未分类"
       }
     ]
   },
@@ -9129,7 +9269,7 @@
   },
   {
     "thread_id": "thread-yemenis-flee-across-red-sea-as-houthis-a",
-    "title": "Saudi Arabia's military struggle against Houthi attacks",
+    "title": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
     "category": "安全与冲突",
     "events": [
       {
@@ -9179,6 +9319,13 @@
         "event_cluster_id": "20261014-saudi-arabia-s-military-01",
         "headline": "Saudi Arabia's military struggle against Houthi attacks",
         "summary": "Houthi attacks on airports and energy facilities are putting Saudi Arabia under pressure. Could a Saudi-led international military offensive succeed against the Iran-aligned Houthi militia in Yemen?",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-iran-war-live-saudi-01",
+        "headline": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
+        "summary": "Saudi Arabia calls Houthi attacks full-fledged war crimes while the US warns of possible attacks on Saudi airports.",
         "category": "安全与冲突"
       }
     ]
@@ -9318,8 +9465,8 @@
   },
   {
     "thread_id": "thread-susan-sarandon-hannah-einbinder-arrested",
-    "title": "At the Athens Democracy Forum, Debating the Risks Posed by A.I.",
-    "category": "安全与冲突",
+    "title": "Thai Superstar TEN Pops Up In LA To Meet His Fans",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260925",
@@ -9341,6 +9488,13 @@
         "headline": "At the Athens Democracy Forum, Debating the Risks Posed by A.I.",
         "summary": "At the Athens Democracy Forum, one panel after another warned of the potential risks that social media, deepfakes, cyberattacks and A.I. posed to humanity.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-thai-superstar-ten-pops-01",
+        "headline": "Thai Superstar TEN Pops Up In LA To Meet His Fans",
+        "summary": "TEN begins his U.S. Tour next week, but stopped by Los Angeles for media interviews and hang out with fans, including Rūts Dance Studio in Koreatown for a special class.",
+        "category": "文化体育"
       }
     ]
   },
@@ -9472,7 +9626,7 @@
   },
   {
     "thread_id": "thread-takeaways-from-the-trump-xi-state-visit-",
-    "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+    "title": "North Korea, China open border bridge after 12-year delay",
     "category": "安全与冲突",
     "events": [
       {
@@ -9501,6 +9655,13 @@
         "event_cluster_id": "20261014-i-d-talk-tv-01",
         "headline": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
         "summary": "As loneliness grows in China, a new industry is emerging to provide companionship and support.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-north-korea-china-open-01",
+        "headline": "North Korea, China open border bridge after 12-year delay",
+        "summary": "Twelve years after it was constructed, the New Yalu River Bridge between China and North Korea is finally operational. It is the latest sign of warming ties between the two nations.",
         "category": "安全与冲突"
       }
     ]
@@ -9570,7 +9731,7 @@
   },
   {
     "thread_id": "thread-seoul-summons-ukraine-envoy-over-north-k",
-    "title": "India urges Russia, Ukraine to protect Black Sea shipping",
+    "title": "At least 7 crew members missing after drone attacks on ships in Black Sea",
     "category": "安全与冲突",
     "events": [
       {
@@ -9606,6 +9767,13 @@
         "event_cluster_id": "20261015-india-urges-russia-ukraine-01",
         "headline": "India urges Russia, Ukraine to protect Black Sea shipping",
         "summary": "New Delhi wants Moscow and Kyiv to ensure safe commercial shipping in the Black Sea amid attacks that put Indian seafarers at risk.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-least-7-crew-members-01",
+        "headline": "At least 7 crew members missing after drone attacks on ships in Black Sea",
+        "summary": "Emergency teams are searching for 7 missing crew after two chemical tankers were attacked in the Black Sea.",
         "category": "安全与冲突"
       }
     ]
@@ -10060,8 +10228,8 @@
   },
   {
     "thread_id": "thread-us-charges-venezuela-s-nicolas-maduro-ov",
-    "title": "US charges Venezuela’s Nicolas Maduro over torture allegations",
-    "category": "国际政治",
+    "title": "Maduro pleads not guilty to new torture-related charges in New York",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20261009",
@@ -10069,6 +10237,13 @@
         "headline": "US charges Venezuela’s Nicolas Maduro over torture allegations",
         "summary": "Former Venezuelan President Nicolas Maduro and his wife, Cilia Flores face a new US charge over alleged torture.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-maduro-pleads-not-guilty-01",
+        "headline": "Maduro pleads not guilty to new torture-related charges in New York",
+        "summary": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -10123,7 +10298,7 @@
   },
   {
     "thread_id": "thread-independents-aren-t-happy-with-trump-wha",
-    "title": "Independents Aren’t Happy With Trump—What Does That Mean For The Midterms",
+    "title": "ICE tactics spark debate before pivotal US midterm elections",
     "category": "国际政治",
     "events": [
       {
@@ -10131,6 +10306,13 @@
         "event_cluster_id": "20261009-independents-aren-t-happy-01",
         "headline": "Independents Aren’t Happy With Trump—What Does That Mean For The Midterms",
         "summary": "John Opdycke, the founder and president of Open Primaries, joined “Forbes Newsroom” to discuss what impact independent voters will have on the midterm elections.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-ice-tactics-spark-debate-01",
+        "headline": "ICE tactics spark debate before pivotal US midterm elections",
+        "summary": "Polls have found that Trump s hardline immigration enforcement effort has divided voters before the 2026 midterm race.",
         "category": "国际政治"
       }
     ]
@@ -10200,7 +10382,7 @@
   },
   {
     "thread_id": "thread-zelenskyy-welcomes-us-announced-energy-c",
-    "title": "Trump insists energy ceasefire holds as Ukraine reports new Russian strikes",
+    "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
     "category": "安全与冲突",
     "events": [
       {
@@ -10215,6 +10397,13 @@
         "event_cluster_id": "20261013-trump-insists-energy-ceasefire-01",
         "headline": "Trump insists energy ceasefire holds as Ukraine reports new Russian strikes",
         "summary": "US President urges Zelenskyy, Putin to end ridiculous war and insists they agreed to stop attacks on energy sites.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261016",
+        "event_cluster_id": "20261016-russia-accuses-ukraine-attacking-01",
+        "headline": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+        "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
         "category": "安全与冲突"
       }
     ]
