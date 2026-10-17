@@ -2297,7 +2297,7 @@
   },
   {
     "thread_id": "thread-faster-homework-poor-exam-results-what-a",
-    "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+    "title": "Pope Leo to make public appearance Sunday, first since cancer surgery",
     "category": "未分类",
     "events": [
       {
@@ -2382,6 +2382,13 @@
         "event_cluster_id": "20261015-pope-walking-recovering-expected-01",
         "headline": "Pope walking and recovering 'as expected' after surgery, doctors say",
         "summary": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261017",
+        "event_cluster_id": "20261017-pope-leo-make-public-01",
+        "headline": "Pope Leo to make public appearance Sunday, first since cancer surgery",
+        "summary": "After undergoing surgery this week, pope can now carry out normal activities ​with full independence , say doctors.",
         "category": "未分类"
       }
     ]
@@ -4054,8 +4061,8 @@
   },
   {
     "thread_id": "thread-putin-pledges-support-for-iran",
-    "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
-    "category": "安全与冲突",
+    "title": "Ukraine president targets Trump, Putin at EU summit",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -4084,6 +4091,13 @@
         "headline": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
         "summary": "Putin warned the West he would deploy nuclear weapons if necessary to defend the Russian Baltic exclave of Kaliningrad.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261017",
+        "event_cluster_id": "20261017-ukraine-president-targets-trump-01",
+        "headline": "Ukraine president targets Trump, Putin at EU summit",
+        "summary": "President Zelenskyy warned Russia’s ambitions extend beyond eastern Ukraine, saying its drone attack threaten NATO.",
+        "category": "国际政治"
       }
     ]
   },
@@ -4187,7 +4201,7 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-us-open-and-grand-c",
-    "title": "Majority of Americans Expect Democrats to Win Control of House; Public Is Split on Senate",
+    "title": "Dad fined after son, 2, died in Cyprus hotel fall",
     "category": "未分类",
     "events": [
       {
@@ -4293,6 +4307,13 @@
         "event_cluster_id": "20261016-majority-americans-expect-democrats-01",
         "headline": "Majority of Americans Expect Democrats to Win Control of House; Public Is Split on Senate",
         "summary": "Americans overall see the Democrats as having a better chance to win a House majority than take control of the Senate.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261017",
+        "event_cluster_id": "20261017-dad-fined-son-2-01",
+        "headline": "Dad fined after son, 2, died in Cyprus hotel fall",
+        "summary": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
         "category": "未分类"
       }
     ]
@@ -4509,7 +4530,7 @@
   },
   {
     "thread_id": "thread-scotus-allows-trump-s-ballroom-project-t",
-    "title": "Albania’s prime minister vows not to resign over student-led protests",
+    "title": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
     "category": "国际政治",
     "events": [
       {
@@ -4587,6 +4608,13 @@
         "event_cluster_id": "20261016-albania-s-prime-minister-01",
         "headline": "Albania’s prime minister vows not to resign over student-led protests",
         "summary": "Demonstrators demand resignation of Edi Rama after three days of clashes in capital Tirana Albania’s prime minister has said he will not resign as a protest movement, initially prompted by a proposal to build a Trump family-backed resort in the Balkan state, turned violent with clashes convulsing the capital for a third consecutive day. Speaking on Thursday after calls by students who this week as",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261017",
+        "event_cluster_id": "20261017-albania-students-demand-political-01",
+        "headline": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
+        "summary": "Empty lecture halls, burning buildings and demands for change: Albanian students are spearheading a protest movement that has become the biggest challenge to Prime Minister Edi Rama in years.",
         "category": "国际政治"
       }
     ]
@@ -6280,7 +6308,7 @@
   },
   {
     "thread_id": "thread-ice-agent-faces-federal-charges-for-lyin",
-    "title": "Why ESPN Is Handling Joe Buck, Troy Aikman Contracts Differently",
+    "title": "‘The Diplomat’ Season 4: Keri Russell And Rufus Sewell On Kate And Hal’s Marriage",
     "category": "未分类",
     "events": [
       {
@@ -6352,6 +6380,13 @@
         "headline": "Why ESPN Is Handling Joe Buck, Troy Aikman Contracts Differently",
         "summary": "By all accounts, it seems like this is the final season of the NFL booth partnership between Troy Aikman and Joe Buck? Why is ESPN handling their contracts differently?",
         "category": "未分类"
+      },
+      {
+        "date": "20261017",
+        "event_cluster_id": "20261017-diplomat-season-4-keri-01",
+        "headline": "‘The Diplomat’ Season 4: Keri Russell And Rufus Sewell On Kate And Hal’s Marriage",
+        "summary": "Keri Russell and Rufus Sewell discuss Kate and Hal’s complicated marriage, political compromises, and the high-stakes drama of Netflix’s 'The Diplomat' Season 4.",
+        "category": "未分类"
       }
     ]
   },
@@ -6371,8 +6406,8 @@
   },
   {
     "thread_id": "thread-two-palestinian-teenagers-killed-during-",
-    "title": "British Columbia Sues OpenAI Over School Shooting; Separate Shooting Reported in Turkey",
-    "category": "安全与冲突",
+    "title": "Oregon community mourns victims of school shooting",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260904",
@@ -6422,6 +6457,13 @@
         "headline": "British Columbia Sues OpenAI Over School Shooting; Separate Shooting Reported in Turkey",
         "summary": "The Canadian province of British Columbia filed a lawsuit in San Francisco federal court on Monday against OpenAI and CEO Sam Altman, alleging that a mass school shooting in Tumbler Ridge could have been prevented if the company had alerted police to the shooter's use of ChatGPT. The suit seeks damages and an order requiring changes to how OpenAI handles conversations that could lead to violence. ",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261017",
+        "event_cluster_id": "20261017-oregon-community-mourns-victims-01",
+        "headline": "Oregon community mourns victims of school shooting",
+        "summary": "Mourners quietly grieved at a makeshift memorial outside an elementary school in Bend, Oregon.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -6560,8 +6602,8 @@
   },
   {
     "thread_id": "thread-trump-posts-ai-generated-videos-of-milit",
-    "title": "Katie Zacharia selected to be next White House press secretary",
-    "category": "国际政治",
+    "title": "Trump told new press secretary to ‘reconsider’ role",
+    "category": "未分类",
     "events": [
       {
         "date": "20260904",
@@ -6583,6 +6625,13 @@
         "headline": "Katie Zacharia selected to be next White House press secretary",
         "summary": "US President Donald Trump called the conservative commentator a devoted fan .",
         "category": "国际政治"
+      },
+      {
+        "date": "20261017",
+        "event_cluster_id": "20261017-trump-told-press-secretary-01",
+        "headline": "Trump told new press secretary to ‘reconsider’ role",
+        "summary": "Al Jazeera has confirmed that White House press secretary Katie Zacharia is “transitioning out” of her role.",
+        "category": "未分类"
       }
     ]
   },
@@ -7211,7 +7260,7 @@
   },
   {
     "thread_id": "thread-at-least-five-killed-in-new-delhi-buildi",
-    "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
+    "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
     "category": "安全与冲突",
     "events": [
       {
@@ -7233,6 +7282,13 @@
         "event_cluster_id": "20261011-israeli-attack-destroys-building-01",
         "headline": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
         "summary": "An Israeli strike destroyed a residential building in the Al-Rimal neighbourhood in Gaza City.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261017",
+        "event_cluster_id": "20261017-palestinians-us-journalist-injured-01",
+        "headline": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+        "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
         "category": "安全与冲突"
       }
     ]
@@ -8555,7 +8611,7 @@
   },
   {
     "thread_id": "thread-us-legislators-push-ai-safety-laws-amid-",
-    "title": "Relying On Chain-Of-Thought For Boosting AI Safety Gets Sideswiped By This Split-Brain Discovery",
+    "title": "The EU wants an AI revolution. But on whose terms",
     "category": "科技与AI",
     "events": [
       {
@@ -8647,6 +8703,13 @@
         "event_cluster_id": "20261015-relying-chain-thought-boosting-01",
         "headline": "Relying On Chain-Of-Thought For Boosting AI Safety Gets Sideswiped By This Split-Brain Discovery",
         "summary": "There is a belief that AI safety can rely on the use of AI chain-of-thought (CoT). Turns out that CoT has holes. An AI Insider analysis and scoop.",
+        "category": "科技与AI"
+      },
+      {
+        "date": "20261017",
+        "event_cluster_id": "20261017-eu-wants-ai-revolution-01",
+        "headline": "The EU wants an AI revolution. But on whose terms",
+        "summary": "As the US and China race ahead, the European Union seeks to boost its economy with AI. Can it compete while protecting workers, safety and the climate?",
         "category": "科技与AI"
       }
     ]
@@ -8877,7 +8940,7 @@
   },
   {
     "thread_id": "thread-harry-and-meghan-change-children-s-schoo",
-    "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+    "title": "Families demand justice after Pakistan school collapse",
     "category": "社会与公共政策",
     "events": [
       {
@@ -8892,6 +8955,13 @@
         "event_cluster_id": "20261016-least-33-pupils-teacher-01",
         "headline": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
         "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20261017",
+        "event_cluster_id": "20261017-families-demand-justice-pakistan-01",
+        "headline": "Families demand justice after Pakistan school collapse",
+        "summary": "Parents are demanding accountability after a school roof collapse in Pakistan s Peshawar killed 34 children.",
         "category": "社会与公共政策"
       }
     ]
@@ -9269,7 +9339,7 @@
   },
   {
     "thread_id": "thread-yemenis-flee-across-red-sea-as-houthis-a",
-    "title": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
+    "title": "Houthi attacks on strategic Saudi assets threaten Riyadh's regional leadership and economic ambitions",
     "category": "安全与冲突",
     "events": [
       {
@@ -9327,6 +9397,13 @@
         "headline": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
         "summary": "Saudi Arabia calls Houthi attacks full-fledged war crimes while the US warns of possible attacks on Saudi airports.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261017",
+        "event_cluster_id": "20261017-houthi-attacks-strategic-saudi-01",
+        "headline": "Houthi attacks on strategic Saudi assets threaten Riyadh's regional leadership and economic ambitions",
+        "summary": "As Yemen's Iran-backed Houthis continue to target Saudi Arabia, Riyadh's vulnerability threatens its claim on regional and religious leadership — as well as its standing as an economic powerhouse.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -9367,8 +9444,8 @@
   },
   {
     "thread_id": "thread-sri-lanka-court-convicts-15-over-2019-ea",
-    "title": "Sri Lanka Court Convicts 15 Over 2019 Easter Sunday Bombings",
-    "category": "安全与冲突",
+    "title": "Buss Family Challenges Jeanie Buss’ Petition To Oust Them From Estate",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260923",
@@ -9376,6 +9453,13 @@
         "headline": "Sri Lanka Court Convicts 15 Over 2019 Easter Sunday Bombings",
         "summary": "A court in Sri Lanka convicted 15 men in connection with the 2019 Easter Sunday bombings. The attacks targeted three churches and three luxury hotels, killing 270 people, including 42 foreigners. NPR reports the attacks were inspired by the Islamic State group. All three sources are left-leaning; no right-leaning coverage was provided for comparison.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261017",
+        "event_cluster_id": "20261017-buss-family-challenges-jeanie-01",
+        "headline": "Buss Family Challenges Jeanie Buss’ Petition To Oust Them From Estate",
+        "summary": "Lawyers for Joey and Janie Buss filed an additional 29-page response to the Los Angeles Superior Court on Friday to ensure they sell their Lakers' shares.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -9542,8 +9626,8 @@
   },
   {
     "thread_id": "thread-reporter-s-notebook-call-for-a-free-iran",
-    "title": "Reporter's Notebook: Call for a free Iran echoes at the United Nations",
-    "category": "国际政治",
+    "title": "Leeds vs Manchester United: Premier League – teams, prediction, lineups",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260925",
@@ -9551,6 +9635,13 @@
         "headline": "Reporter's Notebook: Call for a free Iran echoes at the United Nations",
         "summary": "UNITED NATIONS, N.Y. — When Iranian President Masoud Pezeshkian addressed the United Nations General Assembly , he portrayed his nation as the victim of American and Israeli terrorism. But outside the hall, several thousand protesters chanted that he should be arrested for being a terrorist. \"They are terrorists. They must go!\" the crowd repeatedly shouted, waving green, white and red flags of the",
         "category": "国际政治"
+      },
+      {
+        "date": "20261017",
+        "event_cluster_id": "20261017-leeds-vs-manchester-united-01",
+        "headline": "Leeds vs Manchester United: Premier League – teams, prediction, lineups",
+        "summary": "Manchester United are mired in poor form - and Lisandro Martinez s meltdown - now they face on-the-up rivals Leeds.",
+        "category": "文化体育"
       }
     ]
   },
@@ -9668,7 +9759,7 @@
   },
   {
     "thread_id": "thread-two-mass-shootings-in-south-africa-leave",
-    "title": "About 900 demonstrations, blockades and related incidents under way outside high schools around the country A fast-growi",
+    "title": "Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests",
     "category": "社会与公共政策",
     "events": [
       {
@@ -9683,6 +9774,13 @@
         "event_cluster_id": "20261002-france-school-protests-escalate-01",
         "headline": "About 900 demonstrations, blockades and related incidents under way outside high schools around the country A fast-growi",
         "summary": "About 900 demonstrations, blockades and related incidents under way outside high schools around the country A fast-growing protest by high-school students over long hours, teacher shortages and decaying facilities has escalated into “urban violence”, the French government has warned, as it said many schools would switch to online classes to protect teachers and pupils. The prime minister, Sébastie",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20261017",
+        "event_cluster_id": "20261017-hijab-ban-schools-azerbaijan-01",
+        "headline": "Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests",
+        "summary": "Girls wearing headscarves have been turned away from schools in Azerbaijan, triggering unusual protests involving children. The government rules do not mention hijabs. Why are schools enforcing unwritten rules?",
         "category": "社会与公共政策"
       }
     ]
@@ -10382,7 +10480,7 @@
   },
   {
     "thread_id": "thread-zelenskyy-welcomes-us-announced-energy-c",
-    "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+    "title": "Russia's view amid Ukraine's strikes and Zelenskyy's growing rift with the U.S.",
     "category": "安全与冲突",
     "events": [
       {
@@ -10404,6 +10502,13 @@
         "event_cluster_id": "20261016-russia-accuses-ukraine-attacking-01",
         "headline": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
         "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261017",
+        "event_cluster_id": "20261017-russia-s-view-ukraine-01",
+        "headline": "Russia's view amid Ukraine's strikes and Zelenskyy's growing rift with the U.S.",
+        "summary": "Russian authorities say Ukraine struck a major oil refinery southeast of Moscow Thursday. The strike was in response to Russia's attacks on Ukrainian energy infrastructure.",
         "category": "安全与冲突"
       }
     ]
@@ -10524,6 +10629,34 @@
         "headline": "Six Flags Stock Plunges After Death At Georgia Roller Coaster Prompts Closures",
         "summary": "A 42-year-old man was “ejected” from a roller coaster at Six Flags Over Georgia and struck other passengers before falling under the ride, authorities in the state said.",
         "category": "经济与市场"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-carney-implies-us-trying-to-break-canada",
+    "title": "Carney implies US trying to 'break' Canada amid vote for Alberta independence referendum",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20261017",
+        "event_cluster_id": "20261017-carney-implies-us-trying-01",
+        "headline": "Carney implies US trying to 'break' Canada amid vote for Alberta independence referendum",
+        "summary": "The oil-rich province of Alberta will vote to decide if it wants to remain a Canadian province or start the legal process toward separation.",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-us-records-4-410-measles-cases-as-outbre",
+    "title": "US records 4,410 measles cases as outbreak grows",
+    "category": "社会与公共政策",
+    "events": [
+      {
+        "date": "20261017",
+        "event_cluster_id": "20261017-us-records-4-410-01",
+        "headline": "US records 4,410 measles cases as outbreak grows",
+        "summary": "The CDC reports 451 hospitalisations nationwide as health officials expand vaccination efforts.",
+        "category": "社会与公共政策"
       }
     ]
   }
