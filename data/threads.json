@@ -2297,7 +2297,7 @@
   },
   {
     "thread_id": "thread-faster-homework-poor-exam-results-what-a",
-    "title": "Pope Leo to make public appearance Sunday, first since cancer surgery",
+    "title": "Pope Leo returns to Vatican after lung cancer surgery",
     "category": "未分类",
     "events": [
       {
@@ -2389,6 +2389,13 @@
         "event_cluster_id": "20261017-pope-leo-make-public-01",
         "headline": "Pope Leo to make public appearance Sunday, first since cancer surgery",
         "summary": "After undergoing surgery this week, pope can now carry out normal activities ​with full independence , say doctors.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-pope-leo-returns-vatican-01",
+        "headline": "Pope Leo returns to Vatican after lung cancer surgery",
+        "summary": "Doctors say they are seeing continued improvement after the US-born pope had a lump removed from his lung on Tuesday.",
         "category": "未分类"
       }
     ]
@@ -2759,7 +2766,7 @@
   },
   {
     "thread_id": "thread-apple-and-google-rename-lake-ontario-to-",
-    "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+    "title": "At least 17 dead in crush at Hindu festival event in India",
     "category": "文化体育",
     "events": [
       {
@@ -2817,12 +2824,19 @@
         "headline": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
         "summary": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-least-17-dead-crush-01",
+        "headline": "At least 17 dead in crush at Hindu festival event in India",
+        "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+        "category": "文化体育"
       }
     ]
   },
   {
     "thread_id": "thread-us-energy-secretary-signs-oil-deal-in-ve",
-    "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
+    "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
     "category": "国际政治",
     "events": [
       {
@@ -2880,13 +2894,20 @@
         "headline": "Republican senator says Trump diesel agreement with Russia may be illegal",
         "summary": "US President Trump s bid to bring down diesel prices by easing sanctions on Russia prompts rare Republican criticism.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-russia-wants-blackout-ukraine-01",
+        "headline": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
+        "summary": "Ukrainian President Zelenskyy says Russia is trying to cut electricity and heating to civilians ahead of winter. He also called the US president's waiver of new sanctions on Moscow a boost for Vladimir Putin.",
+        "category": "国际政治"
       }
     ]
   },
   {
     "thread_id": "thread-canadian-prime-minister-mark-carney-resp",
-    "title": "Starlink: How Elon Musk's company influences geopolitics",
-    "category": "经济与市场",
+    "title": "Will the EU come to Ukraine’s rescue in war against Russia",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -3027,13 +3048,20 @@
         "headline": "Starlink: How Elon Musk's company influences geopolitics",
         "summary": "Designed to bring internet access to remote regions, Elon Musk's Starlink has become vital in crisis regions and war zones. But Ukraine also shows the risks of depending on the service.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-eu-come-ukraine-s-01",
+        "headline": "Will the EU come to Ukraine’s rescue in war against Russia",
+        "summary": "Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine.",
+        "category": "安全与冲突"
       }
     ]
   },
   {
     "thread_id": "thread-search-operations-continue-after-floods-",
-    "title": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says",
-    "category": "国际政治",
+    "title": "China's influence in the gaming industry is growing",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260902",
@@ -3118,6 +3146,13 @@
         "headline": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says",
         "summary": "David Perdue’s remarks come after a Taiwanese minister spoke of the ‘severe’ military threat posed by Beijing to the self-ruled island Donald Trump offered to sell weapons to China while hosting its leader, Xi Jinping, last week, the US ambassador to China said on Sunday. David Perdue told Fox News on Sunday: “President Trump continues to say, hey, we sell arms to other people around the world. He",
         "category": "国际政治"
+      },
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-china-s-influence-gaming-01",
+        "headline": "China's influence in the gaming industry is growing",
+        "summary": "Home to more than 700 million gamers, China is the world's largest gaming market — but it's also one of the most tightly regulated. The effects reach far beyond China, impacting players around the world.",
+        "category": "经济与市场"
       }
     ]
   },
@@ -3592,8 +3627,8 @@
   },
   {
     "thread_id": "thread-david-bowie-xr-documentary-debuts-at-ven",
-    "title": "US Rep. Ilhan Omar’s home searched by immigration agents",
-    "category": "社会与公共政策",
+    "title": "Ilhan Omar: The US Democrat targeted by Donald Trump",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -3615,6 +3650,13 @@
         "headline": "US Rep. Ilhan Omar’s home searched by immigration agents",
         "summary": "Minnesota Representative Ilhan Omar’s home has been searched as part of an undisclosed ‘criminal investigation’.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-ilhan-omar-us-democrat-01",
+        "headline": "Ilhan Omar: The US Democrat targeted by Donald Trump",
+        "summary": "Donald Trump has described her as \"garbage\" and a \"criminal\" who does nothing but \"bitch.\" Congress member Ilhan Omar has long been the target of angry verbal attacks from the US president. But why her?",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -4978,8 +5020,8 @@
   },
   {
     "thread_id": "thread-马达加斯加前参议院主席因镇压z世代抗议被判强迫劳动-丹麦农民因化肥限令抗议",
-    "title": "IndyCar Teams Up With Indiana Football For Big Ohio State Game",
-    "category": "未分类",
+    "title": "Tobe Nwigwe’s \"The Bridge\" pulls in artists from Nigeria, Britain and Houston.",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -5057,6 +5099,13 @@
         "headline": "IndyCar Teams Up With Indiana Football For Big Ohio State Game",
         "summary": "IndyCar continues to build a relationship with Indiana University Football and the latest endeavor showcases Alex Palou in No. 5 IU's matchup against No. 4 Ohio State.",
         "category": "未分类"
+      },
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-state-department-wake-kimberly-01",
+        "headline": "Tobe Nwigwe’s \"The Bridge\" pulls in artists from Nigeria, Britain and Houston.",
+        "summary": "NPR's Joel Rose talks with James B. Story, former U.S. Ambassador to Venezuela, about the state of the State Department in the wake of the Kimberly Guilfoyle scandal.",
+        "category": "国际政治"
       }
     ]
   },
@@ -5902,7 +5951,7 @@
   },
   {
     "thread_id": "thread-india-rejects-hague-arbitration-ruling-o",
-    "title": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
+    "title": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
     "category": "安全与冲突",
     "events": [
       {
@@ -6001,6 +6050,13 @@
         "event_cluster_id": "20261014-iran-war-live-saudi-01",
         "headline": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
         "summary": "A Saudi Aramco building has been hit in Dhahran, following Saudi-led coalition strikes on Houthi vital assets in Yemen",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-uae-agrees-saudi-arabia-01",
+        "headline": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
+        "summary": "United Arab Emirates will reportedly resume payments to Yemeni forces as gains by Iran-backed Houthi fighters alarm Gulf state rulers Yemen civil war: what sparked latest escalation and who is involved? The United Arab Emirates has agreed to re-enter the Yemen conflict by resuming payments to some government forces fighting Iran-aligned Houthis in the south, according to sources in Yemen. In retur",
         "category": "安全与冲突"
       }
     ]
@@ -6406,7 +6462,7 @@
   },
   {
     "thread_id": "thread-two-palestinian-teenagers-killed-during-",
-    "title": "Oregon community mourns victims of school shooting",
+    "title": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
     "category": "社会与公共政策",
     "events": [
       {
@@ -6464,6 +6520,13 @@
         "headline": "Oregon community mourns victims of school shooting",
         "summary": "Mourners quietly grieved at a makeshift memorial outside an elementary school in Bend, Oregon.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-oregon-school-shooting-police-01",
+        "headline": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
+        "summary": "US police have praised the actions of three people who cut short a deadly shooting at a school in the state of Oregon. Three children and a teacher were killed in the attack, carried out by a former pupil at the school.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -6490,7 +6553,7 @@
   },
   {
     "thread_id": "thread-ipswich-town-vs-liverpool-premier-league",
-    "title": "The World’s Best Fine Dining Restaurant, According To TripAdvisor",
+    "title": "Experts: this is the best cash back card of 2022",
     "category": "未分类",
     "events": [
       {
@@ -6519,6 +6582,13 @@
         "event_cluster_id": "20260918-world-s-best-fine-01",
         "headline": "The World’s Best Fine Dining Restaurant, According To TripAdvisor",
         "summary": "Tripadvisor has named the best fine dining restaurant in the world for 2026, and for the second year in a row, the top spot belongs to an Argentine steakhouse.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-experts-best-cash-back-01",
+        "headline": "Experts: this is the best cash back card of 2022",
+        "summary": "Week 6 DraftKings main slate Puka Nacua or Germie Bernard, Cam Skattebo or Kenneth Walker, who are the best value plays and best pay up option to optimize your lineups.",
         "category": "未分类"
       }
     ]
@@ -6714,8 +6784,8 @@
   },
   {
     "thread_id": "thread-russian-drone-strike-hits-ukraine-s-sbu-",
-    "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-    "category": "安全与冲突",
+    "title": "How Bally Bagayoko, a 53-Year-Old Mayor, Became the Face of France’s Youth Protests",
+    "category": "未分类",
     "events": [
       {
         "date": "20260905",
@@ -6751,6 +6821,13 @@
         "headline": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
         "summary": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-how-bally-bagayoko-53-01",
+        "headline": "How Bally Bagayoko, a 53-Year-Old Mayor, Became the Face of France’s Youth Protests",
+        "summary": "Bally Bagayoko, the mayor of a working-class suburb near Paris, has been a regular presence at student demonstrations, prompting both applause and condemnation.",
+        "category": "未分类"
       }
     ]
   },
@@ -6889,7 +6966,7 @@
   },
   {
     "thread_id": "thread-argentina-escalates-falklands-dispute-wi",
-    "title": "Mexico to force Meta, TikTok, and X to better protect minors on platform",
+    "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
     "category": "未分类",
     "events": [
       {
@@ -6925,6 +7002,13 @@
         "event_cluster_id": "20261015-mexico-force-meta-tiktok-01",
         "headline": "Mexico to force Meta, TikTok, and X to better protect minors on platform",
         "summary": "Mexico will require the digital platforms to protect minors from violent and sexual content.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-three-men-jailed-158-01",
+        "headline": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+        "summary": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
         "category": "未分类"
       }
     ]
@@ -7120,8 +7204,8 @@
   },
   {
     "thread_id": "thread-amazon-prime-plane-overruns-runway-at-mi",
-    "title": "Families of Trinidadian men killed in US boat strike demand accountability",
-    "category": "安全与冲突",
+    "title": "Ten killed in fire at beach resort in Bangladesh",
+    "category": "未分类",
     "events": [
       {
         "date": "20260907",
@@ -7171,6 +7255,13 @@
         "headline": "Families of Trinidadian men killed in US boat strike demand accountability",
         "summary": "The Trump administration has killed at least 239 people in boat strikes denounced as extrajudicial killings.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-ten-killed-fire-beach-01",
+        "headline": "Ten killed in fire at beach resort in Bangladesh",
+        "summary": "Ten people, including six members of the same family, were killed in a fire at a beach resort in Bangladesh.",
+        "category": "未分类"
       }
     ]
   },
@@ -7421,7 +7512,7 @@
   },
   {
     "thread_id": "thread-aaron-judge-on-verge-of-returning-to-the",
-    "title": "Couple describes relief at rescue after whale destroys their yacht",
+    "title": "16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says",
     "category": "未分类",
     "events": [
       {
@@ -7450,6 +7541,13 @@
         "event_cluster_id": "20261001-couple-describes-relief-rescue-01",
         "headline": "Couple describes relief at rescue after whale destroys their yacht",
         "summary": "Jeremy and Jemma Cooper were 500 miles off the coast of New Zealand when their yacht, the Tai Tam, collided with a sperm whale.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-16-people-rescued-pacific-01",
+        "headline": "16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says",
+        "summary": "A U.S. Coast Guard helicopter lifting off at the U.S. Coast Guard Station in San Diego on Friday.",
         "category": "未分类"
       }
     ]
@@ -7512,8 +7610,8 @@
   },
   {
     "thread_id": "thread-israeli-strikes-in-southern-lebanese-vil",
-    "title": "Israeli settlers take Palestinian olives, and their harvest traditions",
-    "category": "未分类",
+    "title": "Israeli settlers attack European diplomats in the occupied West Bank",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260908",
@@ -7542,6 +7640,13 @@
         "headline": "Israeli settlers take Palestinian olives, and their harvest traditions",
         "summary": "As Israeli settlers harvest olives on Palestinian land, farmers face growing violence and loss of an ancient tradition.",
         "category": "未分类"
+      },
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-israeli-settlers-attack-european-01",
+        "headline": "Israeli settlers attack European diplomats in the occupied West Bank",
+        "summary": "Masked Israeli settlers attacked European diplomats, a French mayor and Palestinians in the occupied West Bank.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -8331,8 +8436,8 @@
   },
   {
     "thread_id": "thread-scientists-say-august-was-earth-s-hottes",
-    "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-    "category": "气候与环境",
+    "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260911",
@@ -8347,6 +8452,13 @@
         "headline": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
         "summary": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
         "category": "气候与环境"
+      },
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-brazil-sees-record-fall-01",
+        "headline": "Brazil sees record fall in Amazon deforestation as key election looms",
+        "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+        "category": "国际政治"
       }
     ]
   },
@@ -8415,7 +8527,7 @@
   },
   {
     "thread_id": "thread-dell-shares-hit-all-time-high-as-michael",
-    "title": "The Tallest Champion In Boxing Faces An Unbeaten Mandatory Who Gives Up 7 Inches",
+    "title": "U.S. Champion Hezly Rivera Out Of World Championships For Second Straight Year",
     "category": "未分类",
     "events": [
       {
@@ -8451,6 +8563,13 @@
         "event_cluster_id": "20261016-tallest-champion-boxing-faces-01",
         "headline": "The Tallest Champion In Boxing Faces An Unbeaten Mandatory Who Gives Up 7 Inches",
         "summary": "Sebastian Fundora defends the WBC title against unbeaten Ermal Hadribeaj Saturday in Las Vegas. Coverage starts at 8 p.m. ET on TNT, truTV and DAZN.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-u-s-champion-hezly-01",
+        "headline": "U.S. Champion Hezly Rivera Out Of World Championships For Second Straight Year",
+        "summary": "Olympic champion Hezly Rivera withdrew from the 2026 World Gymnastics Championships with an ankle injury, just a day before the U.S. women compete in Rotterdam.",
         "category": "未分类"
       }
     ]
@@ -9122,8 +9241,8 @@
   },
   {
     "thread_id": "thread-a-new-report-from-the-government-account",
-    "title": "A new report from the Government Accountability Office found unpaid household labor was valued between $5.6 trillion and",
-    "category": "国际政治",
+    "title": "How To Cut The Pentagon’s $1.5 Trillion Budget Proposal Down To Size",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260918",
@@ -9131,6 +9250,13 @@
         "headline": "A new report from the Government Accountability Office found unpaid household labor was valued between $5.6 trillion and",
         "summary": "A new report from the Government Accountability Office found unpaid household labor was valued between $5.6 trillion and $6 trillion in 2024, or about 20% of the U.S.’ GDP.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-how-cut-pentagon-s-01",
+        "headline": "How To Cut The Pentagon’s $1.5 Trillion Budget Proposal Down To Size",
+        "summary": "The $1.5 trillion Pentagon budget request is more likely to waste money than provide a stronger defense. Congress should scale it back.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -9934,8 +10060,8 @@
   },
   {
     "thread_id": "thread-protesters-have-set-up-tent-encampments-",
-    "title": "Protesters have set up tent encampments in central Madrid to demand government action on soaring housing costs.",
-    "category": "国际政治",
+    "title": "Buildings and cars set on fire as cost of living protests rock France",
+    "category": "未分类",
     "events": [
       {
         "date": "20260929",
@@ -9943,6 +10069,13 @@
         "headline": "Protesters have set up tent encampments in central Madrid to demand government action on soaring housing costs.",
         "summary": "Protesters have set up tent encampments in central Madrid to demand government action on soaring housing costs.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-buildings-cars-set-fire-01",
+        "headline": "Buildings and cars set on fire as cost of living protests rock France",
+        "summary": "Protesters have set fire to cars and buildings in France as demonstrations escalate.",
+        "category": "未分类"
       }
     ]
   },
@@ -10165,7 +10298,7 @@
   },
   {
     "thread_id": "thread-protesters-halt-game-as-calls-grow-on-ir",
-    "title": "1 At-Bat By The Brewers Could Decide The NLCS Over The Dodgers",
+    "title": "Dave Roberts Isn’t The (Only) Reason The Dodgers Lost To The Brewers",
     "category": "未分类",
     "events": [
       {
@@ -10180,6 +10313,13 @@
         "event_cluster_id": "20261014-1-bat-brewers-decide-01",
         "headline": "1 At-Bat By The Brewers Could Decide The NLCS Over The Dodgers",
         "summary": "With one at-bat in the third inning of Game 2 of the NLCS, the Brewers changed the entire tenor of the series and may have broken the Los Angeles Dodgers.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-dave-roberts-isn-t-01",
+        "headline": "Dave Roberts Isn’t The (Only) Reason The Dodgers Lost To The Brewers",
+        "summary": "After managing a masterpiece in the 2024 NLCS, Dodgers manager Dave Roberts left a lot to be desired in this year's version, making questionable calls in Games 3 and 4.",
         "category": "未分类"
       }
     ]
@@ -10606,8 +10746,8 @@
   },
   {
     "thread_id": "thread-albanian-police-fire-tear-gas-at-protest",
-    "title": "Albanian police fire tear gas at protesters as Education Ministry attacked",
-    "category": "安全与冲突",
+    "title": "Protesters allege police brutality as violent clashes rage on in Albania",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20261014",
@@ -10615,6 +10755,13 @@
         "headline": "Albanian police fire tear gas at protesters as Education Ministry attacked",
         "summary": "At least 23 protesters have been arrested in demonstrations in the capital.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-protesters-allege-police-brutality-01",
+        "headline": "Protesters allege police brutality as violent clashes rage on in Albania",
+        "summary": "Protesters in Albania accuse riot police of brutality as clashes turn violent outside the Education Ministry.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -10657,6 +10804,20 @@
         "headline": "US records 4,410 measles cases as outbreak grows",
         "summary": "The CDC reports 451 hospitalisations nationwide as health officials expand vaccination efforts.",
         "category": "社会与公共政策"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-actress-selma-blair-says-she-did-not-int",
+    "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20261018",
+        "event_cluster_id": "20261018-actress-selma-blair-she-01",
+        "headline": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
+        "summary": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
+        "category": "未分类"
       }
     ]
   }
