@@ -2297,7 +2297,7 @@
   },
   {
     "thread_id": "thread-faster-homework-poor-exam-results-what-a",
-    "title": "Pope Leo returns to Vatican after lung cancer surgery",
+    "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
     "category": "未分类",
     "events": [
       {
@@ -2397,6 +2397,13 @@
         "headline": "Pope Leo returns to Vatican after lung cancer surgery",
         "summary": "Doctors say they are seeing continued improvement after the US-born pope had a lump removed from his lung on Tuesday.",
         "category": "未分类"
+      },
+      {
+        "date": "20261019",
+        "event_cluster_id": "20261019-pope-leo-xiv-thanks-01",
+        "headline": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+        "summary": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
+        "category": "未分类"
       }
     ]
   },
@@ -2465,7 +2472,7 @@
   },
   {
     "thread_id": "thread-joshua-wong-pleads-guilty-in-hong-kong-n",
-    "title": "Five-Time IndyCar Champion Alex Palou Will Test INDY NXT Car At Indy",
+    "title": "Madueke scores only goal as below-par Arsenal beat Nottingham Forest",
     "category": "未分类",
     "events": [
       {
@@ -2578,6 +2585,20 @@
         "event_cluster_id": "20261015-five-time-indycar-champion-01",
         "headline": "Five-Time IndyCar Champion Alex Palou Will Test INDY NXT Car At Indy",
         "summary": "Five-time IndyCar Series Champion Alex Palou will drive an INDY NXT By Firestone car for the first time in his career in the Chris Griffis Memorial Test at Indianapolis.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261019",
+        "event_cluster_id": "20261019-solange-omon-wins-victoria-01",
+        "headline": "Solange Omon Wins Victoria’s Secret’s YouTube Reality Competition",
+        "summary": "Victoria’s Secret’s Angels Among Us features Gigi Hadid and Alex Consani in a six-part YouTube reality series that has drawn 17.8 million views and connects to the annual Fashion Show.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261019",
+        "event_cluster_id": "20261019-madueke-scores-only-goal-01",
+        "headline": "Madueke scores only goal as below-par Arsenal beat Nottingham Forest",
+        "summary": "Arsenal did not register a shot on target until Noni Madueke bagged their winner 10 minutes from full-time.",
         "category": "未分类"
       }
     ]
@@ -2836,8 +2857,8 @@
   },
   {
     "thread_id": "thread-us-energy-secretary-signs-oil-deal-in-ve",
-    "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
-    "category": "国际政治",
+    "title": "Zelenskyy thanks Trump for resumed intelligence sharing after US Starlink ‘message’",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -2901,6 +2922,13 @@
         "headline": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
         "summary": "Ukrainian President Zelenskyy says Russia is trying to cut electricity and heating to civilians ahead of winter. He also called the US president's waiver of new sanctions on Moscow a boost for Vladimir Putin.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261019",
+        "event_cluster_id": "20261019-zelenskyy-thanks-trump-resumed-01",
+        "headline": "Zelenskyy thanks Trump for resumed intelligence sharing after US Starlink ‘message’",
+        "summary": "Two people killed and at least 17 injured as Russia and Ukraine continue to trade strikes on power infrastructure Volodymyr Zelenskyy on Sunday thanked the Trump administration for resuming intelligence sharing between the two countries, but maintained the US had intentionally throttled its Starlink satellite internet access so that Donald Trump could send a “message” in his ongoing feud with the ",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -4103,8 +4131,8 @@
   },
   {
     "thread_id": "thread-putin-pledges-support-for-iran",
-    "title": "Ukraine president targets Trump, Putin at EU summit",
-    "category": "国际政治",
+    "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -4140,6 +4168,13 @@
         "headline": "Ukraine president targets Trump, Putin at EU summit",
         "summary": "President Zelenskyy warned Russia’s ambitions extend beyond eastern Ukraine, saying its drone attack threaten NATO.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261019",
+        "event_cluster_id": "20261019-russia-s-war-ukraine-01",
+        "headline": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
+        "summary": "Ukraine s president says communication between Washington and Kyiv virtually nonstop , despite a spat with Trump.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -4572,8 +4607,8 @@
   },
   {
     "thread_id": "thread-scotus-allows-trump-s-ballroom-project-t",
-    "title": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
-    "category": "国际政治",
+    "title": "Major fire at Canada military base leaves four dead, dozens injured",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -4658,6 +4693,13 @@
         "headline": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
         "summary": "Empty lecture halls, burning buildings and demands for change: Albanian students are spearheading a protest movement that has become the biggest challenge to Prime Minister Edi Rama in years.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261019",
+        "event_cluster_id": "20261019-major-fire-canada-military-01",
+        "headline": "Major fire at Canada military base leaves four dead, dozens injured",
+        "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -6861,7 +6903,7 @@
   },
   {
     "thread_id": "thread-maria-bartiromo-denies-fox-firing-report",
-    "title": "‘South Park’ Season 29, Episode 3 To Target ‘Aura Battle’ Social Media Craze",
+    "title": "‘Marshals’ Season 2 Release Guide: Here’s When Episode 3 Drops On CBS And Paramount+",
     "category": "未分类",
     "events": [
       {
@@ -6876,6 +6918,13 @@
         "event_cluster_id": "20261015-south-park-season-29-01",
         "headline": "‘South Park’ Season 29, Episode 3 To Target ‘Aura Battle’ Social Media Craze",
         "summary": "Trey Parker and Matt Stone’s \"South Park,\" aka \"South America,\" returns this week with Season 29, Episode 3 after sneaking in a jab at President Donald Trump at the end of Episode 2.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261019",
+        "event_cluster_id": "20261019-marshals-season-2-release-01",
+        "headline": "‘Marshals’ Season 2 Release Guide: Here’s When Episode 3 Drops On CBS And Paramount+",
+        "summary": "Find out when Marshals Season 2, Episode 3, “Falling Sky,” airs on CBS and Paramount+, plus the full release schedule, episode synopsis and cast.",
         "category": "未分类"
       }
     ]
@@ -7610,7 +7659,7 @@
   },
   {
     "thread_id": "thread-israeli-strikes-in-southern-lebanese-vil",
-    "title": "Israeli settlers attack European diplomats in the occupied West Bank",
+    "title": "JERUSALEM DAILY: Settlers attack EU diplomats",
     "category": "安全与冲突",
     "events": [
       {
@@ -7646,6 +7695,13 @@
         "event_cluster_id": "20261018-israeli-settlers-attack-european-01",
         "headline": "Israeli settlers attack European diplomats in the occupied West Bank",
         "summary": "Masked Israeli settlers attacked European diplomats, a French mayor and Palestinians in the occupied West Bank.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261019",
+        "event_cluster_id": "20261019-jerusalem-daily-settlers-attack-01",
+        "headline": "JERUSALEM DAILY: Settlers attack EU diplomats",
+        "summary": "Israeli settlers attacked an EU delegation in the occupied West Bank while it was visiting olive harvesters near Taybeh.",
         "category": "安全与冲突"
       }
     ]
@@ -7997,6 +8053,13 @@
         "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
         "summary": "The interior of Rules, a British mainstay in the Covent Garden neighborhood of London. In the centuries since it opened, the restaurant has served London’s wealthy and wordy, its royals and its regulars.",
         "category": "未分类"
+      },
+      {
+        "date": "20261019",
+        "event_cluster_id": "20261019-turn-your-rising-home-01",
+        "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
+        "summary": "Six measly points. That is the combined margin separating the Raiders from the Chiefs and Bills in two gut-wrenching home losses over the last three weeks. Two competitive, winnable games against teams widely considered among the favorites to represent the AFC in the Super Bowl. If you were measuring the distance, it might be a...",
+        "category": "未分类"
       }
     ]
   },
@@ -8205,8 +8268,8 @@
   },
   {
     "thread_id": "thread-how-a-driver-s-sudden-death-triggered-eb",
-    "title": "Packers Javon Bullard On The Bears: ‘They’re Still Little Bro’",
-    "category": "未分类",
+    "title": "Chiefs Defense Finally Records Sacks In Impressive Effort Vs. Chargers",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260910",
@@ -8228,6 +8291,13 @@
         "headline": "Packers Javon Bullard On The Bears: ‘They’re Still Little Bro’",
         "summary": "The Green Bay Packers routed the Chicago Bears, 31-7, Sunday, continuing their recent dominance in the NFL's oldest rivalry.",
         "category": "未分类"
+      },
+      {
+        "date": "20261019",
+        "event_cluster_id": "20261019-chiefs-defense-finally-records-01",
+        "headline": "Chiefs Defense Finally Records Sacks In Impressive Effort Vs. Chargers",
+        "summary": "The Chiefs, who entered the game vs. the Chargers without a sack since Week One, recorded four of them Sunday.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -9199,8 +9269,8 @@
   },
   {
     "thread_id": "thread-three-dead-after-flooding-inundates-nava",
-    "title": "Mexican president urges residents to shelter as Hurricane Simon approaches",
-    "category": "国际政治",
+    "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260917",
@@ -9236,6 +9306,13 @@
         "headline": "Mexican president urges residents to shelter as Hurricane Simon approaches",
         "summary": "The Mexican community of Cabo Corrientes faces the risk of a direct hit as the Category 4 storm churns off Jalisco.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261019",
+        "event_cluster_id": "20261019-oil-facilities-hit-deadly-01",
+        "headline": "Oil facilities hit in deadly overnight attack on St Petersburg",
+        "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -9402,7 +9479,7 @@
   },
   {
     "thread_id": "thread-israeli-airstrikes-target-paramedics-in-",
-    "title": "Costa Rica opens mega-prison as Bukele model embraced across Latin America",
+    "title": "Macron condemns violence after riots lead to looting and mass arrests",
     "category": "国际政治",
     "events": [
       {
@@ -9424,6 +9501,13 @@
         "event_cluster_id": "20261015-costa-rica-opens-mega-01",
         "headline": "Costa Rica opens mega-prison as Bukele model embraced across Latin America",
         "summary": "President Laura Fernandez says mega-prison is part of tough-on-crime model embraced by her government.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261019",
+        "event_cluster_id": "20261019-macron-condemns-violence-riots-01",
+        "headline": "Macron condemns violence after riots lead to looting and mass arrests",
+        "summary": "French President Emmanuel Macron says protesters who attacked government buildings need to pay for their crimes.",
         "category": "国际政治"
       }
     ]
@@ -10025,7 +10109,7 @@
   },
   {
     "thread_id": "thread-how-urban-suburban-and-rural-americans-e",
-    "title": "Why is Starlink internet so important on the battlefield in Ukraine",
+    "title": "How reliant is Ukraine on the US-controlled Starlink internet service",
     "category": "安全与冲突",
     "events": [
       {
@@ -10055,12 +10139,19 @@
         "headline": "Why is Starlink internet so important on the battlefield in Ukraine",
         "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261019",
+        "event_cluster_id": "20261019-how-reliant-ukraine-us-01",
+        "headline": "How reliant is Ukraine on the US-controlled Starlink internet service",
+        "summary": "Kyiv keeps issuing warnings that the satellite internet system Starlink is being restricted in Ukraine. How dependent is the country on the system, and what would happen if it went down?",
+        "category": "安全与冲突"
       }
     ]
   },
   {
     "thread_id": "thread-protesters-have-set-up-tent-encampments-",
-    "title": "Buildings and cars set on fire as cost of living protests rock France",
+    "title": "Macron Voices ‘Anger And Shame’ As Violent Protests Roil France: What To Know",
     "category": "未分类",
     "events": [
       {
@@ -10076,13 +10167,27 @@
         "headline": "Buildings and cars set on fire as cost of living protests rock France",
         "summary": "Protesters have set fire to cars and buildings in France as demonstrations escalate.",
         "category": "未分类"
+      },
+      {
+        "date": "20261019",
+        "event_cluster_id": "20261019-macron-criticises-unbridled-violence-01",
+        "headline": "Macron criticises ‘unbridled violence’ after days of unrest and 2,400 arrests across France",
+        "summary": "Ministers, officials and police under pressure over response to protests as government holds crisis talks amid ‘colossal failure of the state’ The French president, Emmanuel Macron, has criticised “unbridled violence” after one of the most violent days of unrest in years left public buildings burned, hundreds of shops destroyed and looted and at least 2,400 people arrested in cities across the cou",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261019",
+        "event_cluster_id": "20261019-macron-voices-anger-shame-01",
+        "headline": "Macron Voices ‘Anger And Shame’ As Violent Protests Roil France: What To Know",
+        "summary": "Hundreds of thousands of people joined protests in France on Saturday, leading to arrests, arson and injuries.",
+        "category": "未分类"
       }
     ]
   },
   {
     "thread_id": "thread-what-we-know-about-raf-fairford-bomb-plo",
-    "title": "What we know about RAF Fairford ‘bomb plot’",
-    "category": "安全与冲突",
+    "title": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
+    "category": "未分类",
     "events": [
       {
         "date": "20260930",
@@ -10090,12 +10195,19 @@
         "headline": "What we know about RAF Fairford ‘bomb plot’",
         "summary": "A police alert turned into a potential Iranian “bomb plot” against a British military base used by the US.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261019",
+        "event_cluster_id": "20261019-carney-fire-canadian-forces-01",
+        "headline": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
+        "summary": "Emergency crews and military personnel at a health center after a “serious incident” on Saturday at a military base in Wainwright, Alberta.",
+        "category": "未分类"
       }
     ]
   },
   {
     "thread_id": "thread-yamal-stars-as-spain-thrash-croatia",
-    "title": "Air strikes kill dozens of gold miners on Sudan-Egypt border",
+    "title": "Egypt’s Defense Chiefs Pledge to Support Saudi Arabia After Houthi Attacks",
     "category": "安全与冲突",
     "events": [
       {
@@ -10117,6 +10229,13 @@
         "event_cluster_id": "20261012-air-strikes-kill-dozens-01",
         "headline": "Air strikes kill dozens of gold miners on Sudan-Egypt border",
         "summary": "A Sudan-based rights group said 72 people were killed in a remote, disputed area known for illegal gold mining.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261019",
+        "event_cluster_id": "20261019-egypt-s-defense-chiefs-01",
+        "headline": "Egypt’s Defense Chiefs Pledge to Support Saudi Arabia After Houthi Attacks",
+        "summary": "President Abdel Fattah el-Sisi of Egypt in Jakarta last week. The National Defense Council, which Mr. el-Sisi leads, said Egypt would provide support to defend Saudi Arabia.",
         "category": "安全与冲突"
       }
     ]
@@ -10501,7 +10620,7 @@
   },
   {
     "thread_id": "thread-bold-and-inventive-canadian-poet-anne-ca",
-    "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+    "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
     "category": "安全与冲突",
     "events": [
       {
@@ -10530,6 +10649,13 @@
         "event_cluster_id": "20261015-iran-war-live-tehran-01",
         "headline": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
         "summary": "Iran says it does not seek an endless war, but vows to fight until the US accepts its demands as ships sink in Hormuz.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261019",
+        "event_cluster_id": "20261019-iran-war-live-tehran-01",
+        "headline": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+        "summary": "Iran s Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.",
         "category": "安全与冲突"
       }
     ]
@@ -10683,8 +10809,8 @@
   },
   {
     "thread_id": "thread-hackers-raise-temperatures-in-supermarke",
-    "title": "Hackers raise temperatures in supermarket fridges, sparking fires and spoiling food in large-scale cyberattack.",
-    "category": "安全与冲突",
+    "title": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
+    "category": "未分类",
     "events": [
       {
         "date": "20261013",
@@ -10692,6 +10818,13 @@
         "headline": "Hackers raise temperatures in supermarket fridges, sparking fires and spoiling food in large-scale cyberattack.",
         "summary": "Hackers raise temperatures in supermarket fridges, sparking fires and spoiling food in large-scale cyberattack.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261019",
+        "event_cluster_id": "20261019-life-absolutely-brutal-gaza-01",
+        "headline": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
+        "summary": "The UN's World Food Programme says 1.4 million people in Gaza are suffering acute food shortages and that funding gaps are forcing cutbacks in critical aid, despite the U.S. brokered Hamas-Israel ceasefire.",
+        "category": "未分类"
       }
     ]
   },
@@ -10818,6 +10951,20 @@
         "headline": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
         "summary": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
         "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-search-for-amelia-earhart-s-plane-resume",
+    "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+    "category": "气候与环境",
+    "events": [
+      {
+        "date": "20261019",
+        "event_cluster_id": "20261019-search-amelia-earhart-s-01",
+        "headline": "Search for Amelia Earhart's plane resumes after stormy weather",
+        "summary": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
+        "category": "气候与环境"
       }
     ]
   }
