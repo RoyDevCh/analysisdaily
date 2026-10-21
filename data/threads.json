@@ -379,7 +379,7 @@
   },
   {
     "thread_id": "thread-bus-crash-in-egypt-s-south-sinai-kills-a",
-    "title": "A mother’s touch helps premature babies grow strong in Gaza",
+    "title": "Ohio Governor Race Gets Deeply Personal: New Anti-Amy Acton Ad Features Acton’s Mother",
     "category": "未分类",
     "events": [
       {
@@ -562,6 +562,13 @@
         "event_cluster_id": "20261016-mother-s-touch-helps-01",
         "headline": "A mother’s touch helps premature babies grow strong in Gaza",
         "summary": "At Nasser Hospital, a kangaroo mother care pilot programme helps vulnerable newborns.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-ohio-governor-race-gets-01",
+        "headline": "Ohio Governor Race Gets Deeply Personal: New Anti-Amy Acton Ad Features Acton’s Mother",
+        "summary": "Ohio Governor Race Gets Deeply Personal: New Anti-Amy Acton Ad Features Acton’s Mother",
         "category": "未分类"
       }
     ]
@@ -939,8 +946,8 @@
   },
   {
     "thread_id": "thread-experts-this-is-the-best-cash-back-card-",
-    "title": "How Americans view the relationship between the government and the news media",
-    "category": "国际政治",
+    "title": "Quiz: What Is Your Civic Personality",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -969,6 +976,13 @@
         "headline": "How Americans view the relationship between the government and the news media",
         "summary": "Republicans and Democrats largely agree that the Trump administration and the U.S. news media have a bad relationship.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-quiz-what-your-civic-01",
+        "headline": "Quiz: What Is Your Civic Personality",
+        "summary": "Take our civic personality quiz to find out how your engagement with news, politics, religious and civic activities compares with other U.S. adults.",
+        "category": "未分类"
       }
     ]
   },
@@ -2962,8 +2976,8 @@
   },
   {
     "thread_id": "thread-canadian-prime-minister-mark-carney-resp",
-    "title": "Will the EU come to Ukraine’s rescue in war against Russia",
-    "category": "安全与冲突",
+    "title": "Current U.S. support for Ukraine looks very different than it did",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -3111,6 +3125,13 @@
         "headline": "Will the EU come to Ukraine’s rescue in war against Russia",
         "summary": "Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-current-u-s-support-01",
+        "headline": "Current U.S. support for Ukraine looks very different than it did",
+        "summary": "NPR's Scott Detrow talks with William Taylor, former U.S. Ambassador to Ukraine, about President Trump's recent moves to support Russia and how that compares to past administrations.",
+        "category": "国际政治"
       }
     ]
   },
@@ -4159,8 +4180,8 @@
   },
   {
     "thread_id": "thread-putin-pledges-support-for-iran",
-    "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
-    "category": "安全与冲突",
+    "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -4203,6 +4224,13 @@
         "headline": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
         "summary": "Ukraine s president says communication between Washington and Kyiv virtually nonstop , despite a spat with Trump.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-i-don-t-care-01",
+        "headline": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
+        "summary": "The US president s remarks come amid a deepening feud with Ukraine s President Volodymyr Zelenskyy.",
+        "category": "国际政治"
       }
     ]
   },
@@ -4306,7 +4334,7 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-us-open-and-grand-c",
-    "title": "Dad fined after son, 2, died in Cyprus hotel fall",
+    "title": "How U.S. Voters View Mail and Absentee Balloting",
     "category": "未分类",
     "events": [
       {
@@ -4419,6 +4447,13 @@
         "event_cluster_id": "20261017-dad-fined-son-2-01",
         "headline": "Dad fined after son, 2, died in Cyprus hotel fall",
         "summary": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-how-u-s-voters-01",
+        "headline": "How U.S. Voters View Mail and Absentee Balloting",
+        "summary": "While most registered voters across the country expect to cast their ballots in person this year, a quarter expect to vote by mail or absentee ballot (or have already done so). As in past election years, most of those who cast their ballots by mail or vote absentee express confidence in how mail and absentee [ ]",
         "category": "未分类"
       }
     ]
@@ -4551,8 +4586,8 @@
   },
   {
     "thread_id": "thread-impacts-of-ai-on-education-and-persuasio",
-    "title": "Acknowledgements",
-    "category": "未分类",
+    "title": "The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England",
+    "category": "科技与AI",
     "events": [
       {
         "date": "20260902",
@@ -4630,6 +4665,20 @@
         "headline": "Acknowledgements",
         "summary": "This report is a collaborative effort based on the input and analysis of the following individuals: Primary researchers Athena Chapekis, Computational Social Scientist Arnold Lau, Former Research Methodologist Andrew Mercer, Principal Research Methodologist Samuel Bestvater, Associate Director, Data Labs Sono Shah, Former Associate Director, Data Labs Research team Aaron Smith, Director, Data Labs",
         "category": "未分类"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-acknowledgments-01",
+        "headline": "Acknowledgments",
+        "summary": "This report is a collaborative effort based on the input and analysis of the following individuals: Research team Jocelyn Kiley, Director, Political ResearchSteven Shepard, Associate Director, Political ResearchHannah Hartig, Senior ResearcherBaxter Oliphant, Senior ResearcherGabe Borelli, Research AssociateAndrew Daniller, Research AssociateAndy Cerda, Research Analyst Shanay Gracia, Research Ana",
+        "category": "未分类"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-i-data-center-backlash-01",
+        "headline": "The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England",
+        "summary": "Daisy Snow, right, Ann Shuttleworth, left, and others protesting the proposed data center in Bideford, England, last month.",
+        "category": "科技与AI"
       }
     ]
   },
@@ -5587,8 +5636,8 @@
   },
   {
     "thread_id": "thread-congo-ebola-outbreak-exceeds-6-000-confi",
-    "title": "Congo Ebola outbreak surpasses 6,000 cases",
-    "category": "社会与公共政策",
+    "title": "Nigeria records its first Ebola case, in capital Abuja",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -5610,6 +5659,13 @@
         "headline": "Congo Ebola outbreak surpasses 6,000 cases",
         "summary": "The Ebola outbreak in the Democratic Republic of Congo has exceeded 6,000 confirmed cases, with nearly 3,000 deaths reported. Authorities are working to contain what is described as one of the deadliest Ebola outbreaks in history. The New York Post article provided does not relate to the Ebola outbreak and instead covers a consumer product topic, so its content is not included in this summary.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-nigeria-records-its-first-01",
+        "headline": "Nigeria records its first Ebola case, in capital Abuja",
+        "summary": "Nigeria has reported its first known case of Ebola during Africa's latest outbreak originating in the DRC. Health Minister Muhammad Ali Pate said the patient was a woman who had recently flown to Abuja from Uganda.",
+        "category": "国际政治"
       }
     ]
   },
@@ -5734,8 +5790,8 @@
   },
   {
     "thread_id": "thread-massachusetts-and-texas-see-competitive-",
-    "title": "Ed Markey wins Massachusetts Democratic primary; California cities top worst retirement list",
-    "category": "社会与公共政策",
+    "title": "Two unrelated political stories: Trump sued over Canadian tariffs; Newsom's California tax policy criticized",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -5771,6 +5827,13 @@
         "headline": "Ed Markey wins Massachusetts Democratic primary; California cities top worst retirement list",
         "summary": "Ed Markey secured the Democratic nomination in Massachusetts, according to Al Jazeera. Separately, the New York Post reported that California cities dominated a list of the worst places to retire in the United States. The two articles cover unrelated topics and do not report on the same event. Sources diverge in subject matter, with Al Jazeera focusing on Massachusetts primary election results and",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-trump-sued-canadian-tariffs-01",
+        "headline": "Two unrelated political stories: Trump sued over Canadian tariffs; Newsom's California tax policy criticized",
+        "summary": "BBC World reports a lawsuit challenging Trump's Canadian tariffs, arguing the White House exceeded authority and harmed American businesses. New York Post publishes an opinion piece criticizing Gavin Newsom's $14.3 billion tax policy in California, citing high taxes, affordability issues, and homelessness. The two sources cover completely different events with no overlap in subject matter.",
+        "category": "国际政治"
       }
     ]
   },
@@ -6441,7 +6504,7 @@
   },
   {
     "thread_id": "thread-ice-agent-faces-federal-charges-for-lyin",
-    "title": "‘The Diplomat’ Season 4: Keri Russell And Rufus Sewell On Kate And Hal’s Marriage",
+    "title": "‘Slow Horses’ Season 6 Finale Recap And Review: Is [Redacted] Actually Dead",
     "category": "未分类",
     "events": [
       {
@@ -6519,6 +6582,13 @@
         "event_cluster_id": "20261017-diplomat-season-4-keri-01",
         "headline": "‘The Diplomat’ Season 4: Keri Russell And Rufus Sewell On Kate And Hal’s Marriage",
         "summary": "Keri Russell and Rufus Sewell discuss Kate and Hal’s complicated marriage, political compromises, and the high-stakes drama of Netflix’s 'The Diplomat' Season 4.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-slow-horses-season-6-01",
+        "headline": "‘Slow Horses’ Season 6 Finale Recap And Review: Is [Redacted] Actually Dead",
+        "summary": "Slow Horses Season 6 ends with a bang, a tragic death and one shocking cliffhanger that leaves the fate of River Cartwright hanging in the balance.",
         "category": "未分类"
       }
     ]
@@ -6673,6 +6743,13 @@
         "event_cluster_id": "20261020-it-s-official-now-01",
         "headline": "It's official: now avoid credit card interest into 2024",
         "summary": "The UFC is in Abu Dhabi for this week's UFC 333 fight card. Two title fights headline the October 24 fight card.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-it-s-official-now-01",
+        "headline": "It's official: now avoid credit card interest into 2024",
+        "summary": "Everything you need to know about the UFC 333 fight card, which features two title fights at the top of the card.",
         "category": "未分类"
       }
     ]
@@ -7065,6 +7142,13 @@
         "event_cluster_id": "20261020-australian-mp-seriously-hurt-01",
         "headline": "Australian MP seriously hurt in suspected car attack",
         "summary": "Helen Haines, an independent federal lawmaker, has been struck by a car in what Australia's prime minister has called an apparent attack.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-australian-mp-seriously-hurt-01",
+        "headline": "Australian MP seriously hurt in suspected car attack",
+        "summary": "Helen Haines, an independent federal lawmaker, suffered severe injuries in what Australia's prime minister has called a deliberate attack by a man in a car.",
         "category": "安全与冲突"
       }
     ]
@@ -7540,8 +7624,8 @@
   },
   {
     "thread_id": "thread-how-725-game-show-winnings-kick-started-",
-    "title": "Kenya convicts cult leader over the murder of 190 children",
-    "category": "未分类",
+    "title": "Kenya cult leader's children still being starved weeks before trial, son says",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260908",
@@ -7619,6 +7703,13 @@
         "headline": "Kenya convicts cult leader over the murder of 190 children",
         "summary": "The leader of a Kenyan cult who instructed followers to starve themselves to death to reach heaven has been found guilty",
         "category": "未分类"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-kenya-cult-leader-s-01",
+        "headline": "Kenya cult leader's children still being starved weeks before trial, son says",
+        "summary": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -7827,8 +7918,8 @@
   },
   {
     "thread_id": "thread-liv-files-for-bankruptcy-protection-with",
-    "title": "Despite having the third highest payroll in baseball, it was a slew of players making less than $1 million per year that",
-    "category": "未分类",
+    "title": "SpaceX Posts $431 Million AI Operating Profit As Total Revenue Jumps 161%",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260909",
@@ -7843,6 +7934,13 @@
         "headline": "Despite having the third highest payroll in baseball, it was a slew of players making less than $1 million per year that",
         "summary": "Despite having the third highest payroll in baseball, it was a slew of players making less than $1 million per year that helped the Yankees beat the Red Sox.",
         "category": "未分类"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-spacex-posts-431-million-01",
+        "headline": "SpaceX Posts $431 Million AI Operating Profit As Total Revenue Jumps 161%",
+        "summary": "The aerospace and AI company posted $14.6 billion in revenue, up 161% year-over-year.",
+        "category": "经济与市场"
       }
     ]
   },
@@ -8184,7 +8282,7 @@
   },
   {
     "thread_id": "thread-6-facts-about-grandparents-in-the-u-s",
-    "title": "Beaumont Lamarre-Condon has pleaded not guilty to the 2024 murder of his ex-partner and his new boyfriend.",
+    "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
     "category": "未分类",
     "events": [
       {
@@ -8206,6 +8304,13 @@
         "event_cluster_id": "20260922-sydney-policeman-allegedly-disguised-01",
         "headline": "Beaumont Lamarre-Condon has pleaded not guilty to the 2024 murder of his ex-partner and his new boyfriend.",
         "summary": "Beaumont Lamarre-Condon has pleaded not guilty to the 2024 murder of his ex-partner and his new boyfriend.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-tourist-found-guilty-stealing-01",
+        "headline": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
+        "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
         "category": "未分类"
       }
     ]
@@ -8793,8 +8898,8 @@
   },
   {
     "thread_id": "thread-philippines-ferry-fire-search-continues-",
-    "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
-    "category": "未分类",
+    "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260912",
@@ -8830,6 +8935,13 @@
         "headline": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
         "summary": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
         "category": "未分类"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-swimmer-65-killed-shark-01",
+        "headline": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+        "summary": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -9745,8 +9857,8 @@
   },
   {
     "thread_id": "thread-sri-lanka-court-convicts-15-over-2019-ea",
-    "title": "Buss Family Challenges Jeanie Buss’ Petition To Oust Them From Estate",
-    "category": "社会与公共政策",
+    "title": "US investors are increasing capital flows into Germany's Mittelstand firms",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260923",
@@ -9761,6 +9873,13 @@
         "headline": "Buss Family Challenges Jeanie Buss’ Petition To Oust Them From Estate",
         "summary": "Lawyers for Joey and Janie Buss filed an additional 29-page response to the Los Angeles Superior Court on Friday to ensure they sell their Lakers' shares.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-why-us-investors-snapping-01",
+        "headline": "US investors are increasing capital flows into Germany's Mittelstand firms",
+        "summary": "US capital is increasingly flowing into Germany's Mittelstand firms as owners face succession challenges. DW World reports that traditional industrial and family-owned businesses are becoming acquisition targets. Forbes argues family businesses outperform corporate giants during crises due to personal accountability, loyalty, and faster decision-making. The sources diverge on focus: DW World empha",
+        "category": "经济与市场"
       }
     ]
   },
@@ -9787,7 +9906,7 @@
   },
   {
     "thread_id": "thread-leaders-set-ambitious-goals-to-better-th",
-    "title": "Kylie Jenner’s K20 Expands To Walmart, Plans To Launch New Products",
+    "title": "Musk confirms SpaceX and Tesla exploring merger",
     "category": "经济与市场",
     "events": [
       {
@@ -9802,6 +9921,13 @@
         "event_cluster_id": "20261014-kylie-jenner-s-k20-01",
         "headline": "Kylie Jenner’s K20 Expands To Walmart, Plans To Launch New Products",
         "summary": "Kylie Jenner’s k20 brand of hydration sticks are set to arrive at Walmart. With the success of k2o, the company is thinking about launching beauty-from-within products.",
+        "category": "经济与市场"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-musk-confirms-spacex-tesla-01",
+        "headline": "Musk confirms SpaceX and Tesla exploring merger",
+        "summary": "Elon Musk says SpaceX and Tesla are considering a merger that would form a $3.5 trillion mega company.",
         "category": "经济与市场"
       }
     ]
@@ -9997,8 +10123,8 @@
   },
   {
     "thread_id": "thread-un-expands-list-of-firms-involved-in-ill",
-    "title": "A topic that has surfaced ahead of the San Francisco 49ers Week 4 game against the Denver Broncos is the return of Talan",
-    "category": "文化体育",
+    "title": "PSG fans divided over protests in France as Barcelona game goes ahead",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260926",
@@ -10027,6 +10153,13 @@
         "headline": "A topic that has surfaced ahead of the San Francisco 49ers Week 4 game against the Denver Broncos is the return of Talan",
         "summary": "All seven Taylor Swift albums on the Billboard 200 rise this week as 'The Life of a Showgirl' prepares for a likely return to No. 1.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-psg-fans-divided-protests-01",
+        "headline": "PSG fans divided over protests in France as Barcelona game goes ahead",
+        "summary": "Champions League football game takes place amid backdrop of unrest over education issues and the cost of living.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -10193,7 +10326,7 @@
   },
   {
     "thread_id": "thread-watch-from-launch-to-fiery-splashdown-sp",
-    "title": "Today’s Wordle #1939: Hints, Clues And Answer For Saturday October 10",
+    "title": "Knicks-76ers Opener Is Most Expensive Regular Season NBA Game On Record",
     "category": "未分类",
     "events": [
       {
@@ -10208,6 +10341,13 @@
         "event_cluster_id": "20261010-s-wordle-1939-hints-01",
         "headline": "Today’s Wordle #1939: Hints, Clues And Answer For Saturday October 10",
         "summary": "Looking for help with today's New York Times Wordle? Here are some expert hints, clues and commentary to help you solve today's Wordle and sharpen your guessing game.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-knicks-76ers-opener-most-01",
+        "headline": "Knicks-76ers Opener Is Most Expensive Regular Season NBA Game On Record",
+        "summary": "The “get-in” price for Tuesday’s Philadelphia 76ers-New York Knicks game is now over $2,000, according to TickPick.",
         "category": "未分类"
       }
     ]
@@ -10312,7 +10452,7 @@
   },
   {
     "thread_id": "thread-yamal-stars-as-spain-thrash-croatia",
-    "title": "Egypt’s Defense Chiefs Pledge to Support Saudi Arabia After Houthi Attacks",
+    "title": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
     "category": "安全与冲突",
     "events": [
       {
@@ -10341,6 +10481,13 @@
         "event_cluster_id": "20261019-egypt-s-defense-chiefs-01",
         "headline": "Egypt’s Defense Chiefs Pledge to Support Saudi Arabia After Houthi Attacks",
         "summary": "President Abdel Fattah el-Sisi of Egypt in Jakarta last week. The National Defense Council, which Mr. el-Sisi leads, said Egypt would provide support to defend Saudi Arabia.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-uk-fighter-jets-protect-01",
+        "headline": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
+        "summary": "The UK is sending military support to Saudi Arabia as Iran-aligned Houthi rebels launch repeated attacks on the kingdom.",
         "category": "安全与冲突"
       }
     ]
@@ -10928,7 +11075,7 @@
   },
   {
     "thread_id": "thread-hackers-raise-temperatures-in-supermarke",
-    "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+    "title": "Trump Says He’ll Spend More Than $400 Million To Elect Republicans In Midterms",
     "category": "未分类",
     "events": [
       {
@@ -10950,6 +11097,13 @@
         "event_cluster_id": "20261020-funding-shortages-force-world-01",
         "headline": "Funding shortages force World Food Programme to cut aid to Gaza",
         "summary": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-trump-he-ll-spend-01",
+        "headline": "Trump Says He’ll Spend More Than $400 Million To Elect Republicans In Midterms",
+        "summary": "Trump said more than $300 million has already been spent to support Republicans.",
         "category": "未分类"
       }
     ]
@@ -11040,8 +11194,8 @@
   },
   {
     "thread_id": "thread-carney-implies-us-trying-to-break-canada",
-    "title": "Canada: Alberta votes on holding independence referendum",
-    "category": "未分类",
+    "title": "Canada: Alberta rejects separation bid, CBC projects",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20261017",
@@ -11056,6 +11210,13 @@
         "headline": "Canada: Alberta votes on holding independence referendum",
         "summary": "Canada's oil-rich western province of Alberta is not deemed likely to vote in favor of a real breakaway plebiscite. Nevertheless the separatist movement hopes to gain leverage over Mark Carney's government.",
         "category": "未分类"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-canada-alberta-rejects-separation-01",
+        "headline": "Canada: Alberta rejects separation bid, CBC projects",
+        "summary": "Voters have decisively rejected a proposal to begin the legal process toward Alberta's independence, dealing a major blow to a movement driven largely by economic grievances.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -11110,8 +11271,8 @@
   },
   {
     "thread_id": "thread-curfew-imposed-in-parts-of-central-paris",
-    "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-    "category": "国际政治",
+    "title": "France is divided over who to blame for and what to learn from weekend riots",
+    "category": "未分类",
     "events": [
       {
         "date": "20261020",
@@ -11119,6 +11280,13 @@
         "headline": "Curfew imposed in parts of central Paris and other cities after rioting across France",
         "summary": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-france-divided-who-blame-01",
+        "headline": "France is divided over who to blame for and what to learn from weekend riots",
+        "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
+        "category": "未分类"
       }
     ]
   },
@@ -11138,14 +11306,35 @@
   },
   {
     "thread_id": "thread-myanmar-refugees-find-hope-in-thailand-s",
-    "title": "Myanmar refugees find hope in Thailand's work program",
-    "category": "未分类",
+    "title": "Is Donald Trump ready to do business with Myanmar",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20261020",
         "event_cluster_id": "20261020-myanmar-refugees-find-hope-01",
         "headline": "Myanmar refugees find hope in Thailand's work program",
         "summary": "A year ago, Thailand granted long-staying refugees from Myanmar the right to work legally. Refugees and rights groups welcome the move but say the program's first year has exposed significant shortcomings.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-donald-trump-ready-do-01",
+        "headline": "Is Donald Trump ready to do business with Myanmar",
+        "summary": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah.",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-un-experts-call-on-india-to-stop-using-e",
+    "title": "UN experts call on India to stop using ‘excessive force’ against protesters",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20261021",
+        "event_cluster_id": "20261021-un-experts-call-india-01",
+        "headline": "UN experts call on India to stop using ‘excessive force’ against protesters",
+        "summary": "UN experts press for an ⁠independent investigation into Indian authorities conduct.",
         "category": "未分类"
       }
     ]
