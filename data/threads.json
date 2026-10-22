@@ -988,8 +988,8 @@
   },
   {
     "thread_id": "thread-turn-your-rising-home-equity-into-cash-y",
-    "title": "Sources cover unrelated events: Argentina poverty, Riot Fest 2026, and PWI 500 wrestling list",
-    "category": "社会与公共政策",
+    "title": "Forbes reports China won women's team gold at 2026 World Gymnastics Championships in Rotterdam",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -1158,13 +1158,20 @@
         "headline": "Sources cover unrelated events: Argentina poverty, Riot Fest 2026, and PWI 500 wrestling list",
         "summary": "The provided sources do not describe the same event. Al Jazeera reports that Argentina's poverty rate rose to 32 percent under President Milei in the first half of 2026, with a projected further 4.1-percentage-point increase. Forbes reports that Riot Fest 2026 concluded in Chicago despite muddy conditions, featuring performances by Patti Smith, Elvis Costello, and William Shatner. Forbes separatel",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-japan-known-world-class-01",
+        "headline": "Forbes reports China won women's team gold at 2026 World Gymnastics Championships in Rotterdam",
+        "summary": "BBC World reports organizational failures at the Asian Games in Japan including hotel chaos, transport mishaps, and diplomatic blunders. Forbes reports China narrowly defeated the United States women's team for gold at the 2026 World Gymnastics Championships in Rotterdam. The two sources cover entirely different sporting events in different locations and years. No common event exists between the a",
+        "category": "文化体育"
       }
     ]
   },
   {
     "thread_id": "thread-alex-eala-cruises-into-us-open-second-ro",
-    "title": "Sports news roundup covers US Open early rounds and Yankees lineup decision",
-    "category": "文化体育",
+    "title": "Yankees Backstop Announces Retirement Immediately After Season Ends",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -1186,6 +1193,13 @@
         "headline": "Sports news roundup covers US Open early rounds and Yankees lineup decision",
         "summary": "Filipino player Alex Eala advanced to the US Open second round, while top seed Alexander Zverev survived his opening match. Americans Madison Keys, Coco Gauff and Taylor Fritz also moved to the second round, joined by Gael Monfils on his birthday. Separately, the New York Yankees faced a lineup decision involving outfielder Trent Grisham, who was not leading off against a right-handed pitcher for ",
         "category": "文化体育"
+      },
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-yankees-backstop-announces-retirement-01",
+        "headline": "Yankees Backstop Announces Retirement Immediately After Season Ends",
+        "summary": "A 10-year big leaguer, Silver Slugger Award winner and World Series champion ended his career shortly after joining the New York Yankees.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -2976,7 +2990,7 @@
   },
   {
     "thread_id": "thread-canadian-prime-minister-mark-carney-resp",
-    "title": "Current U.S. support for Ukraine looks very different than it did",
+    "title": "Former U.S. Ambassador to Ukraine on Trump's turn toward Russia",
     "category": "国际政治",
     "events": [
       {
@@ -3131,6 +3145,13 @@
         "event_cluster_id": "20261021-current-u-s-support-01",
         "headline": "Current U.S. support for Ukraine looks very different than it did",
         "summary": "NPR's Scott Detrow talks with William Taylor, former U.S. Ambassador to Ukraine, about President Trump's recent moves to support Russia and how that compares to past administrations.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-former-u-s-ambassador-01",
+        "headline": "Former U.S. Ambassador to Ukraine on Trump's turn toward Russia",
+        "summary": "NPR's Steve Inskeep asks former U.S. Ambassador to Ukraine John Herbst about President Trump's embrace of Russia as envoy Steve Witkoff heads to Moscow after meeting Ukraine's Volodymyr Zelenskyy.",
         "category": "国际政治"
       }
     ]
@@ -3704,8 +3725,8 @@
   },
   {
     "thread_id": "thread-david-bowie-xr-documentary-debuts-at-ven",
-    "title": "Ilhan Omar: The US Democrat targeted by Donald Trump",
-    "category": "安全与冲突",
+    "title": "Macron accuses foreign leaders of exploiting French riots",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -3734,6 +3755,13 @@
         "headline": "Ilhan Omar: The US Democrat targeted by Donald Trump",
         "summary": "Donald Trump has described her as \"garbage\" and a \"criminal\" who does nothing but \"bitch.\" Congress member Ilhan Omar has long been the target of angry verbal attacks from the US president. But why her?",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-macron-accuses-foreign-leaders-01",
+        "headline": "Macron accuses foreign leaders of exploiting French riots",
+        "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+        "category": "国际政治"
       }
     ]
   },
@@ -4586,7 +4614,7 @@
   },
   {
     "thread_id": "thread-impacts-of-ai-on-education-and-persuasio",
-    "title": "The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England",
+    "title": "Judge orders Meta to pay $25bn in fines for Facebook privacy violations",
     "category": "科技与AI",
     "events": [
       {
@@ -4678,6 +4706,13 @@
         "event_cluster_id": "20261021-i-data-center-backlash-01",
         "headline": "The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England",
         "summary": "Daisy Snow, right, Ann Shuttleworth, left, and others protesting the proposed data center in Bideford, England, last month.",
+        "category": "科技与AI"
+      },
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-judge-orders-meta-pay-01",
+        "headline": "Judge orders Meta to pay $25bn in fines for Facebook privacy violations",
+        "summary": "A jury found Meta guilty of lying to Facebook users in ⁠⁠⁠⁠⁠⁠⁠⁠New Mexico about access to their data.",
         "category": "科技与AI"
       }
     ]
@@ -5636,8 +5671,8 @@
   },
   {
     "thread_id": "thread-congo-ebola-outbreak-exceeds-6-000-confi",
-    "title": "Nigeria records its first Ebola case, in capital Abuja",
-    "category": "国际政治",
+    "title": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -5666,6 +5701,13 @@
         "headline": "Nigeria records its first Ebola case, in capital Abuja",
         "summary": "Nigeria has reported its first known case of Ebola during Africa's latest outbreak originating in the DRC. Health Minister Muhammad Ali Pate said the patient was a woman who had recently flown to Abuja from Uganda.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-nigeria-s-first-ebola-01",
+        "headline": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
+        "summary": "The Bundibugyo strain outbreak is the DR Congo s deadliest ever and has now reached West Africa for the first time.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -7351,8 +7393,8 @@
   },
   {
     "thread_id": "thread-u-s-consumer-concerns-over-imported-meat",
-    "title": "U.S. consumer concerns over imported meat and Sears' divergent U.S.-Mexico fortunes",
-    "category": "经济与市场",
+    "title": "Mexico charges prosecutor with treason over US involvement in drug raid",
+    "category": "未分类",
     "events": [
       {
         "date": "20260906",
@@ -7360,6 +7402,13 @@
         "headline": "U.S. consumer concerns over imported meat and Sears' divergent U.S.-Mexico fortunes",
         "summary": "Consumer anxieties have increased about the safety and origin of beef sold in the U.S. as discounted imported meat has entered the market, according to Forbes. Separately, The Washington Post reports that Sears has declined in the United States while remaining operational in Mexico, where stores continue to operate under the iconic American brand. The two articles cover distinct topics rather than",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-mexico-charges-prosecutor-treason-01",
+        "headline": "Mexico charges prosecutor with treason over US involvement in drug raid",
+        "summary": "The participation of US agents in an April drug operation has raised questions about whether Mexico s laws were upheld.",
+        "category": "未分类"
       }
     ]
   },
@@ -7393,7 +7442,7 @@
   },
   {
     "thread_id": "thread-amazon-prime-plane-overruns-runway-at-mi",
-    "title": "Ten killed in fire at beach resort in Bangladesh",
+    "title": "Family of prison officer killed by IRA receives state apology",
     "category": "未分类",
     "events": [
       {
@@ -7450,6 +7499,13 @@
         "event_cluster_id": "20261018-ten-killed-fire-beach-01",
         "headline": "Ten killed in fire at beach resort in Bangladesh",
         "summary": "Ten people, including six members of the same family, were killed in a fire at a beach resort in Bangladesh.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-family-prison-officer-killed-01",
+        "headline": "Family of prison officer killed by IRA receives state apology",
+        "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
         "category": "未分类"
       }
     ]
@@ -7540,7 +7596,7 @@
   },
   {
     "thread_id": "thread-at-least-five-killed-in-new-delhi-buildi",
-    "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+    "title": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
     "category": "安全与冲突",
     "events": [
       {
@@ -7569,6 +7625,13 @@
         "event_cluster_id": "20261017-palestinians-us-journalist-injured-01",
         "headline": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
         "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-one-killed-eight-injured-01",
+        "headline": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
+        "summary": "Injured immediately transported to hospitals as aviation authority says updates will be forthcoming.",
         "category": "安全与冲突"
       }
     ]
@@ -8226,8 +8289,8 @@
   },
   {
     "thread_id": "thread-eiffel-tower-workers-strike-saying-women",
-    "title": "Trump Launches Bizarre Sunday Posting Spree—From 'Crumbling' Kennedy Center To Greenland Memes",
-    "category": "国际政治",
+    "title": "Thousands march in Greece over public education failures as Macron blasts ‘stupid’ commentary on French protests – as it",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260909",
@@ -8256,6 +8319,13 @@
         "headline": "Trump Launches Bizarre Sunday Posting Spree—From 'Crumbling' Kennedy Center To Greenland Memes",
         "summary": "In a Sunday afternoon social media blitz, President Donald Trump fired off 23 Truth Social posts in less than an hour, targeting the “grotesque” Kennedy Center and praising Chinese President Xi Jinping.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-thousands-march-greece-public-01",
+        "headline": "Thousands march in Greece over public education failures as Macron blasts ‘stupid’ commentary on French protests – as it",
+        "summary": "Students, teachers and civil servants have shown up in Athens, with demonstrations also in Thessaloniki and other cities Meanwhile, back to Witkoff’s meeting with Putin in St Petersburg, the US president, Donald Trump, has just welcomed the release of Stephen Hubbard, a US citizen held by Moscow on allegations of fighting as a mercenary for Ukraine ( 11:24 ). In a post on Truth Social, he said : “",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -8282,7 +8352,7 @@
   },
   {
     "thread_id": "thread-6-facts-about-grandparents-in-the-u-s",
-    "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
+    "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
     "category": "未分类",
     "events": [
       {
@@ -8311,6 +8381,13 @@
         "event_cluster_id": "20261021-tourist-found-guilty-stealing-01",
         "headline": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
         "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-pakistan-arrests-man-wanted-01",
+        "headline": "Pakistan arrests man wanted by US over $126m postage fraud case",
+        "summary": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
         "category": "未分类"
       }
     ]
@@ -8702,8 +8779,8 @@
   },
   {
     "thread_id": "thread-manchester-united-beat-sabah-4-0-on-cham",
-    "title": "Southeast Asia Reconsiders Nuclear Power Amid Energy Demand and Climate Goals",
-    "category": "气候与环境",
+    "title": "Energy Firms Dominate Flagship List Of Promising Global Startups",
+    "category": "科技与AI",
     "events": [
       {
         "date": "20260911",
@@ -8725,6 +8802,13 @@
         "headline": "Southeast Asia Reconsiders Nuclear Power Amid Energy Demand and Climate Goals",
         "summary": "Southeast Asian nations are reviving long-stalled nuclear power plans driven by rising electricity demand, energy security concerns, and climate commitments. In the Philippines, the unused Bataan Nuclear Power Plant remains a divisive subject as its fate is debated. Proponents of nuclear energy in the region still face major obstacles.",
         "category": "气候与环境"
+      },
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-energy-firms-dominate-flagship-01",
+        "headline": "Energy Firms Dominate Flagship List Of Promising Global Startups",
+        "summary": "Energy, electrification and smart power startups dominate the Norrsken 100 - a recently unveiled annual list of the most promising global early-stage startups.",
+        "category": "科技与AI"
       }
     ]
   },
@@ -9311,8 +9395,8 @@
   },
   {
     "thread_id": "thread-harry-and-meghan-change-children-s-schoo",
-    "title": "Families demand justice after Pakistan school collapse",
-    "category": "社会与公共政策",
+    "title": "Pakistan-Taliban conflict: How India could benefit from shifting regional dynamics",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260916",
@@ -9334,6 +9418,13 @@
         "headline": "Families demand justice after Pakistan school collapse",
         "summary": "Parents are demanding accountability after a school roof collapse in Pakistan s Peshawar killed 34 children.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-pakistan-taliban-conflict-how-01",
+        "headline": "Pakistan-Taliban conflict: How India could benefit from shifting regional dynamics",
+        "summary": "As Pakistan's influence in Afghanistan comes under strain, India is rebuilding ties with the Taliban in Kabul. Can New Delhi turn this diplomatic opening into lasting strategic gains?",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -9465,8 +9556,8 @@
   },
   {
     "thread_id": "thread-three-dead-after-flooding-inundates-nava",
-    "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
-    "category": "安全与冲突",
+    "title": "What happened to Australian politician Helen Haines",
+    "category": "未分类",
     "events": [
       {
         "date": "20260917",
@@ -9516,6 +9607,13 @@
         "headline": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
         "summary": "In the wake of the apparent attack on MP Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-what-happened-australian-politician-01",
+        "headline": "What happened to Australian politician Helen Haines",
+        "summary": "Australian Lawmaker Helen Haines has lost both legs after a car rammed into her.",
+        "category": "未分类"
       }
     ]
   },
@@ -9633,8 +9731,8 @@
   },
   {
     "thread_id": "thread-super-macklemore-64-video-game-mocks-she",
-    "title": "Israel demolitions in Negev displace 400 Palestinians",
-    "category": "未分类",
+    "title": "Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260919",
@@ -9677,6 +9775,13 @@
         "headline": "Israel demolitions in Negev displace 400 Palestinians",
         "summary": "Israeli authorities have demolished 80 structures in Al-Dahiya village in Israel’s Negev Desert",
         "category": "未分类"
+      },
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-israel-frees-dozens-americans-01",
+        "headline": "Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention",
+        "summary": "Democratic congressional candidate Brad Lander along with dozens of American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces. (Image credit: Ruth Sherlock)",
+        "category": "经济与市场"
       }
     ]
   },
@@ -9822,7 +9927,7 @@
   },
   {
     "thread_id": "thread-ireland-s-data-protection-commission-fin",
-    "title": "Scientists urge tighter AI controls to prevent global cyber risks",
+    "title": "Canadian publisher drops writer Thelyson Orelien over AI use in novel",
     "category": "科技与AI",
     "events": [
       {
@@ -9851,6 +9956,13 @@
         "event_cluster_id": "20261014-scientists-urge-tighter-ai-01",
         "headline": "Scientists urge tighter AI controls to prevent global cyber risks",
         "summary": "Call comes amid polls casting doubts on political leaders ability to manage AI risks as US midterm elections near.",
+        "category": "科技与AI"
+      },
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-canadian-publisher-drops-writer-01",
+        "headline": "Canadian publisher drops writer Thelyson Orelien over AI use in novel",
+        "summary": "Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.",
         "category": "科技与AI"
       }
     ]
@@ -9906,8 +10018,8 @@
   },
   {
     "thread_id": "thread-leaders-set-ambitious-goals-to-better-th",
-    "title": "Musk confirms SpaceX and Tesla exploring merger",
-    "category": "经济与市场",
+    "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+    "category": "未分类",
     "events": [
       {
         "date": "20260923",
@@ -9929,13 +10041,20 @@
         "headline": "Musk confirms SpaceX and Tesla exploring merger",
         "summary": "Elon Musk says SpaceX and Tesla are considering a merger that would form a $3.5 trillion mega company.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-elon-musk-confirms-he-01",
+        "headline": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+        "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+        "category": "未分类"
       }
     ]
   },
   {
     "thread_id": "thread-delegates-walk-out-of-netanyahu-s-un-spe",
-    "title": "‘Release Epstein files’, protester interrupts JD Vance’s speech",
-    "category": "国际政治",
+    "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260925",
@@ -9964,6 +10083,13 @@
         "headline": "‘Release Epstein files’, protester interrupts JD Vance’s speech",
         "summary": "A protester demanding the release of the Epstein files interrupted US Vice President JD Vance s speech.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-vance-tells-republicans-stop-01",
+        "headline": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+        "summary": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -10067,7 +10193,7 @@
   },
   {
     "thread_id": "thread-reporter-s-notebook-call-for-a-free-iran",
-    "title": "Leeds vs Manchester United: Premier League – teams, prediction, lineups",
+    "title": "Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start",
     "category": "文化体育",
     "events": [
       {
@@ -10082,6 +10208,13 @@
         "event_cluster_id": "20261017-leeds-vs-manchester-united-01",
         "headline": "Leeds vs Manchester United: Premier League – teams, prediction, lineups",
         "summary": "Manchester United are mired in poor form - and Lisandro Martinez s meltdown - now they face on-the-up rivals Leeds.",
+        "category": "文化体育"
+      },
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-real-madrid-rout-rb-01",
+        "headline": "Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start",
+        "summary": "Kylian Mbappe and Yan Diomande score stunners as Real beat Leipzig to make it three from three in the Champions League.",
         "category": "文化体育"
       }
     ]
@@ -10326,7 +10459,7 @@
   },
   {
     "thread_id": "thread-watch-from-launch-to-fiery-splashdown-sp",
-    "title": "Knicks-76ers Opener Is Most Expensive Regular Season NBA Game On Record",
+    "title": "Is Putin’s Waiting Game Working",
     "category": "未分类",
     "events": [
       {
@@ -10348,6 +10481,13 @@
         "event_cluster_id": "20261021-knicks-76ers-opener-most-01",
         "headline": "Knicks-76ers Opener Is Most Expensive Regular Season NBA Game On Record",
         "summary": "The “get-in” price for Tuesday’s Philadelphia 76ers-New York Knicks game is now over $2,000, according to TickPick.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-putin-s-waiting-game-01",
+        "headline": "Is Putin’s Waiting Game Working",
+        "summary": "On a new episode of NY Got Game, Dexter Henry Bryan Fonseca discuss their three takeaways from the Knicks loss to the Sixers in the season opener. Did anything from the loss make them concerned or even panic? Later, Celtics reporter Noa Dalzell joins the guys to preview Friday s game vs. the Celtics. Will...",
         "category": "未分类"
       }
     ]
@@ -10697,8 +10837,8 @@
   },
   {
     "thread_id": "thread-icc-ends-contract-with-french-insurer-am",
-    "title": "Why is the Trump administration trying to dismantle the ICC",
-    "category": "国际政治",
+    "title": "Two separate Trump administration policy developments reported by different outlets",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20261002",
@@ -10713,6 +10853,13 @@
         "headline": "Why is the Trump administration trying to dismantle the ICC",
         "summary": "The US has imposed sweeping new sanctions on the International Criminal Court.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-pace-trump-s-judicial-01",
+        "headline": "Two separate Trump administration policy developments reported by different outlets",
+        "summary": "Pew Research Center reports Trump's judicial appointment pace has slowed in his second term compared to his first term and recent presidents. New York Post reports the Trump administration ended its legal fight to overhaul the student loan forgiveness program. The two articles cover distinct policy areas.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -11335,6 +11482,90 @@
         "event_cluster_id": "20261021-un-experts-call-india-01",
         "headline": "UN experts call on India to stop using ‘excessive force’ against protesters",
         "summary": "UN experts press for an ⁠independent investigation into Indian authorities conduct.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-pope-leo-needs-no-further-treatment-afte",
+    "title": "Pope Leo needs no further treatment after cancer surgery, doctors say",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-pope-leo-needs-no-01",
+        "headline": "Pope Leo needs no further treatment after cancer surgery, doctors say",
+        "summary": "The 71-year-old leader of the Catholic Church has had the lower lobe of his right lung removed in surgery.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-shark-trapped-for-a-month-in-south-korea",
+    "title": "Shark trapped for a month in South Korean canal is finally freed",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-shark-trapped-month-south-01",
+        "headline": "Shark trapped for a month in South Korean canal is finally freed",
+        "summary": "Bukang-i successfully guided out after month in which it drew 1.6m visitors and was watched over by YouTubers In South Korea , they call them jagyeongdan , a word whose meaning sits somewhere between vigilante group and neighbourhood watch. Each night they put on hi-vis vests, picked up their selfie sticks and gathered around the harbour in Busan to keep watch over an unlikely charge: a stranded s",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-putin-releases-american-stephen-hubbard-",
+    "title": "Putin releases American Stephen Hubbard from Russian prison",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-putin-releases-american-stephen-01",
+        "headline": "Putin releases American Stephen Hubbard from Russian prison",
+        "summary": "Russian President Vladimir Putin has freed another American, 74-year-old Michigan native Stephen Hubbard, from a Russian prison following a request from President Trump.",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-al-jazeera-reports-us-accuses-canada-of-",
+    "title": "Al Jazeera reports US accuses Canada of election interference; New York Times covers AI election videos in Brazil",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-us-accuses-canada-election-01",
+        "headline": "Al Jazeera reports US accuses Canada of election interference; New York Times covers AI election videos in Brazil",
+        "summary": "Al Jazeera reports the United States has accused Canada of election interference ahead of US midterm elections, citing Canadian tariffs, political meetings, and anti-Trump advertisements as evidence. The New York Times reports that artificial intelligence-generated election videos are flooding Brazil and challenging election authorities in a high-stakes race. The two articles cover separate events",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-colombian-president-purges-national-muse",
+    "title": "Colombian president purges National Museum of works promoting ‘communism’",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-colombian-president-purges-national-01",
+        "headline": "Colombian president purges National Museum of works promoting ‘communism’",
+        "summary": "Far-right President Abelardo de la Espriella says he will wage a counterrevolution against cultural institutions.",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-russia-frees-jailed-american-stephen-hub",
+    "title": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20261022",
+        "event_cluster_id": "20261022-russia-frees-jailed-american-01",
+        "headline": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
+        "summary": "During talks between Vladimir Putin and Steve Witkoff, Putin announced that jailed American Stephen Hubbard had been released. The Kremlin also said Russia was \"in principle\" ready to resume trilateral talks next month.",
         "category": "未分类"
       }
     ]
