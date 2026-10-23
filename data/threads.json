@@ -176,7 +176,7 @@
   },
   {
     "thread_id": "thread-hong-kong-activist-joshua-wong-pleads-gu",
-    "title": "U.S. withdrawal from Iraq is complete",
+    "title": "El Salvador's president threatens Haitian gangs over military hostages",
     "category": "安全与冲突",
     "events": [
       {
@@ -219,6 +219,13 @@
         "event_cluster_id": "20261004-u-s-withdrawal-iraq-01",
         "headline": "U.S. withdrawal from Iraq is complete",
         "summary": "Twenty-three years after President George W. Bush's campaign of \"shock and awe,\" the U.S. military has completed its withdrawal from Iraq.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261023",
+        "event_cluster_id": "20261023-el-salvador-s-president-01",
+        "headline": "El Salvador's president threatens Haitian gangs over military hostages",
+        "summary": "Four members of the so-called Gang Suppression Force have been missing since Sunday.",
         "category": "安全与冲突"
       }
     ]
@@ -3256,8 +3263,8 @@
   },
   {
     "thread_id": "thread-keir-starmer-announces-departure-from-pa",
-    "title": "Netanyahu calls stabbed Indian pilot a hero; Flydubai halts Israel flights",
-    "category": "国际政治",
+    "title": "PHP Critical Vulnerabilities Trigger Global Patching Effort and Website Outages",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -3335,6 +3342,13 @@
         "headline": "Netanyahu calls stabbed Indian pilot a hero; Flydubai halts Israel flights",
         "summary": "Israeli prime minister thanks Captain Smit Machchhar for saving the lives of 174 people on board Tel Aviv-bound flight.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261023",
+        "event_cluster_id": "20261023-race-update-services-computer-01",
+        "headline": "PHP Critical Vulnerabilities Trigger Global Patching Effort and Website Outages",
+        "summary": "Developers of the PHP programming language disclosed critical vulnerabilities, causing websites to go offline and prompting a worldwide rush to patch systems. The Dutch Prime Minister Rob Jetten stated his cabinet was closely monitoring the vulnerability. Both sources report the same core event with similar emphasis on urgency and government attention.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -3725,8 +3739,8 @@
   },
   {
     "thread_id": "thread-david-bowie-xr-documentary-debuts-at-ven",
-    "title": "Macron accuses foreign leaders of exploiting French riots",
-    "category": "国际政治",
+    "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -3762,6 +3776,13 @@
         "headline": "Macron accuses foreign leaders of exploiting French riots",
         "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261023",
+        "event_cluster_id": "20261023-us-sanctioned-icc-wins-01",
+        "headline": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
+        "summary": "The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -5671,8 +5692,8 @@
   },
   {
     "thread_id": "thread-congo-ebola-outbreak-exceeds-6-000-confi",
-    "title": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
-    "category": "社会与公共政策",
+    "title": "First human case of Shamonda virus detected in France, officials say",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -5708,6 +5729,13 @@
         "headline": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
         "summary": "The Bundibugyo strain outbreak is the DR Congo s deadliest ever and has now reached West Africa for the first time.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261023",
+        "event_cluster_id": "20261023-first-human-case-shamonda-01",
+        "headline": "First human case of Shamonda virus detected in France, officials say",
+        "summary": "The disease, which usually affects cattle, has been identified in a patient who died in early October.",
+        "category": "未分类"
       }
     ]
   },
@@ -5741,8 +5769,8 @@
   },
   {
     "thread_id": "thread-long-lines-at-fuel-stations-are-spreadin",
-    "title": "Inside Katie Zacharia's very brief White House briefing",
-    "category": "未分类",
+    "title": "Trump ordered to sit for deposition in BBC defamation lawsuit",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -5827,6 +5855,13 @@
         "headline": "Inside Katie Zacharia's very brief White House briefing",
         "summary": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign.",
         "category": "未分类"
+      },
+      {
+        "date": "20261023",
+        "event_cluster_id": "20261023-trump-ordered-sit-deposition-01",
+        "headline": "Trump ordered to sit for deposition in BBC defamation lawsuit",
+        "summary": "Judge says Trump must sit for questioning from a BBC lawyer by December 11 or face possible dismissal of lawsuit.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -6420,8 +6455,8 @@
   },
   {
     "thread_id": "thread-aew-dynamite-returns-with-all-out-fallou",
-    "title": "AEW Dynamite returns with All Out fallout",
-    "category": "文化体育",
+    "title": "Three outlets report separate cancer-related stories",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260903",
@@ -6429,6 +6464,13 @@
         "headline": "AEW Dynamite returns with All Out fallout",
         "summary": "AEW Dynamite aired on Wednesday night following the All In pay-per-view, beginning the build toward All Out. The show featured fallout from All In and returned with a star-studded lineup. Forbes provided a preview/results recap of the broadcast. The New York Post articles covered separate baseball stories involving the Yankees and Mets.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261023",
+        "event_cluster_id": "20261023-moderna-stock-plunges-25-01",
+        "headline": "Three outlets report separate cancer-related stories",
+        "summary": "Forbes reports Moderna stock fell 25% after a possible cancer vaccine data leak. The New York Times examines how screening and treatments have reduced cancer death rates. New York Post covers a Dancers Against Cancer gala attended by celebrities. Sources cover different events.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -6546,7 +6588,7 @@
   },
   {
     "thread_id": "thread-ice-agent-faces-federal-charges-for-lyin",
-    "title": "‘Slow Horses’ Season 6 Finale Recap And Review: Is [Redacted] Actually Dead",
+    "title": "Sylvester Stallone’s ‘Tulsa King’ Season 4 Still Reigns On Rotten Tomatoes",
     "category": "未分类",
     "events": [
       {
@@ -6631,6 +6673,13 @@
         "event_cluster_id": "20261021-slow-horses-season-6-01",
         "headline": "‘Slow Horses’ Season 6 Finale Recap And Review: Is [Redacted] Actually Dead",
         "summary": "Slow Horses Season 6 ends with a bang, a tragic death and one shocking cliffhanger that leaves the fate of River Cartwright hanging in the balance.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261023",
+        "event_cluster_id": "20261023-sylvester-stallone-s-tulsa-01",
+        "headline": "Sylvester Stallone’s ‘Tulsa King’ Season 4 Still Reigns On Rotten Tomatoes",
+        "summary": "Taylor Sheridan’s \"Tulsa King,\" starring Sylvester Stallone, is back for Season 4, and Rotten Tomatoes critics are saying it’s on par with previous seasons.",
         "category": "未分类"
       }
     ]
@@ -8289,8 +8338,8 @@
   },
   {
     "thread_id": "thread-eiffel-tower-workers-strike-saying-women",
-    "title": "Thousands march in Greece over public education failures as Macron blasts ‘stupid’ commentary on French protests – as it",
-    "category": "社会与公共政策",
+    "title": "Macron bans ‘illegitimate’ protests in France as he tries to get a grip on unrest",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260909",
@@ -8326,6 +8375,13 @@
         "headline": "Thousands march in Greece over public education failures as Macron blasts ‘stupid’ commentary on French protests – as it",
         "summary": "Students, teachers and civil servants have shown up in Athens, with demonstrations also in Thessaloniki and other cities Meanwhile, back to Witkoff’s meeting with Putin in St Petersburg, the US president, Donald Trump, has just welcomed the release of Stephen Hubbard, a US citizen held by Moscow on allegations of fighting as a mercenary for Ukraine ( 11:24 ). In a post on Truth Social, he said : “",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261023",
+        "event_cluster_id": "20261023-macron-bans-illegitimate-protests-01",
+        "headline": "Macron bans ‘illegitimate’ protests in France as he tries to get a grip on unrest",
+        "summary": "French president also says he will decide on concrete ‘next steps’ for the next nationwide demonstrations Angry lawyers and bewildered defendants: the fallout from fast-tracking French rioting cases Emmanuel Macron has said “illegitimate” demonstrations will be banned over the coming days as France seeks to get a grip on civil unrest after some of its worst street violence in years erupted on the ",
+        "category": "国际政治"
       }
     ]
   },
@@ -9927,7 +9983,7 @@
   },
   {
     "thread_id": "thread-ireland-s-data-protection-commission-fin",
-    "title": "Canadian publisher drops writer Thelyson Orelien over AI use in novel",
+    "title": "AI Impact on Employment Gender Gap and Retail Rankings",
     "category": "科技与AI",
     "events": [
       {
@@ -9963,6 +10019,13 @@
         "event_cluster_id": "20261022-canadian-publisher-drops-writer-01",
         "headline": "Canadian publisher drops writer Thelyson Orelien over AI use in novel",
         "summary": "Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.",
+        "category": "科技与AI"
+      },
+      {
+        "date": "20261023",
+        "event_cluster_id": "20261023-men-experiencing-more-job-01",
+        "headline": "AI Impact on Employment Gender Gap and Retail Rankings",
+        "summary": "Pew Research Center reports men's employment grew faster than women's in AI-exposed occupations, driven by workers without bachelor's degrees. Forbes reports AI shopping tools are shifting brand rankings, with AI visibility not always following sales data. Both sources document AI's economic effects across different sectors. The employment gap appears in occupations most exposed to AI technology. ",
         "category": "科技与AI"
       }
     ]
@@ -10053,7 +10116,7 @@
   },
   {
     "thread_id": "thread-delegates-walk-out-of-netanyahu-s-un-spe",
-    "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+    "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
     "category": "安全与冲突",
     "events": [
       {
@@ -10089,6 +10152,13 @@
         "event_cluster_id": "20261022-vance-tells-republicans-stop-01",
         "headline": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
         "summary": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261023",
+        "event_cluster_id": "20261023-despicable-amy-acton-responds-01",
+        "headline": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+        "summary": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
         "category": "安全与冲突"
       }
     ]
@@ -10340,8 +10410,8 @@
   },
   {
     "thread_id": "thread-two-mass-shootings-in-south-africa-leave",
-    "title": "Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests",
-    "category": "社会与公共政策",
+    "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+    "category": "未分类",
     "events": [
       {
         "date": "20260928",
@@ -10363,6 +10433,13 @@
         "headline": "Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests",
         "summary": "Girls wearing headscarves have been turned away from schools in Azerbaijan, triggering unusual protests involving children. The government rules do not mention hijabs. Why are schools enforcing unwritten rules?",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261023",
+        "event_cluster_id": "20261023-paris-extends-curfew-marseille-01",
+        "headline": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+        "summary": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
+        "category": "未分类"
       }
     ]
   },
@@ -10494,7 +10571,7 @@
   },
   {
     "thread_id": "thread-how-urban-suburban-and-rural-americans-e",
-    "title": "How reliant is Ukraine on the US-controlled Starlink internet service",
+    "title": "Trump says Musk has restored access to Ukraine's Starlink network",
     "category": "安全与冲突",
     "events": [
       {
@@ -10530,6 +10607,13 @@
         "event_cluster_id": "20261019-how-reliant-ukraine-us-01",
         "headline": "How reliant is Ukraine on the US-controlled Starlink internet service",
         "summary": "Kyiv keeps issuing warnings that the satellite internet system Starlink is being restricted in Ukraine. How dependent is the country on the system, and what would happen if it went down?",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261023",
+        "event_cluster_id": "20261023-trump-musk-has-restored-01",
+        "headline": "Trump says Musk has restored access to Ukraine's Starlink network",
+        "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
         "category": "安全与冲突"
       }
     ]
@@ -10592,7 +10676,7 @@
   },
   {
     "thread_id": "thread-yamal-stars-as-spain-thrash-croatia",
-    "title": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
+    "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
     "category": "安全与冲突",
     "events": [
       {
@@ -10628,6 +10712,13 @@
         "event_cluster_id": "20261021-uk-fighter-jets-protect-01",
         "headline": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
         "summary": "The UK is sending military support to Saudi Arabia as Iran-aligned Houthi rebels launch repeated attacks on the kingdom.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261023",
+        "event_cluster_id": "20261023-two-killed-houthi-attack-01",
+        "headline": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
+        "summary": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom.",
         "category": "安全与冲突"
       }
     ]
@@ -11061,7 +11152,7 @@
   },
   {
     "thread_id": "thread-independents-aren-t-happy-with-trump-wha",
-    "title": "ICE tactics spark debate before pivotal US midterm elections",
+    "title": "Michigan voters closely divided between Rogers and El-Sayed",
     "category": "国际政治",
     "events": [
       {
@@ -11076,6 +11167,13 @@
         "event_cluster_id": "20261016-ice-tactics-spark-debate-01",
         "headline": "ICE tactics spark debate before pivotal US midterm elections",
         "summary": "Polls have found that Trump s hardline immigration enforcement effort has divided voters before the 2026 midterm race.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261023",
+        "event_cluster_id": "20261023-michigan-voters-closely-divided-01",
+        "headline": "Michigan voters closely divided between Rogers and El-Sayed",
+        "summary": "Less than two weeks before the midterm elections, some Michigan voters are still deciding.",
         "category": "国际政治"
       }
     ]
@@ -11152,7 +11250,7 @@
   },
   {
     "thread_id": "thread-zelenskyy-welcomes-us-announced-energy-c",
-    "title": "Ukraine and Russia exchange strikes, as relations between Trump and Zelenskyy sour",
+    "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
     "category": "安全与冲突",
     "events": [
       {
@@ -11188,6 +11286,13 @@
         "event_cluster_id": "20261020-ukraine-russia-exchange-strikes-01",
         "headline": "Ukraine and Russia exchange strikes, as relations between Trump and Zelenskyy sour",
         "summary": "Ukraine carried out a massive drone strikes on Russia, which launched deadly attacks on its smaller neighbor over the weekend.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261023",
+        "event_cluster_id": "20261023-ukraine-hit-strikes-russia-01",
+        "headline": "Ukraine hit by strikes after Russia agrees to new peace talks",
+        "summary": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine.",
         "category": "安全与冲突"
       }
     ]
@@ -11369,8 +11474,8 @@
   },
   {
     "thread_id": "thread-us-records-4-410-measles-cases-as-outbre",
-    "title": "US records 4,410 measles cases as outbreak grows",
-    "category": "社会与公共政策",
+    "title": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20261017",
@@ -11378,6 +11483,13 @@
         "headline": "US records 4,410 measles cases as outbreak grows",
         "summary": "The CDC reports 451 hospitalisations nationwide as health officials expand vaccination efforts.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261023",
+        "event_cluster_id": "20261023-who-warns-more-complex-01",
+        "headline": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
+        "summary": "Health officials are investigating where Nigeria s first patient, confirmed this week, was infected.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -11474,8 +11586,8 @@
   },
   {
     "thread_id": "thread-un-experts-call-on-india-to-stop-using-e",
-    "title": "UN experts call on India to stop using ‘excessive force’ against protesters",
-    "category": "未分类",
+    "title": "Protests in Indonesia Demand Action to Stop Rainforest Fires",
+    "category": "国际政治",
     "events": [
       {
         "date": "20261021",
@@ -11483,6 +11595,13 @@
         "headline": "UN experts call on India to stop using ‘excessive force’ against protesters",
         "summary": "UN experts press for an ⁠independent investigation into Indian authorities conduct.",
         "category": "未分类"
+      },
+      {
+        "date": "20261023",
+        "event_cluster_id": "20261023-protests-indonesia-demand-action-01",
+        "headline": "Protests in Indonesia Demand Action to Stop Rainforest Fires",
+        "summary": "Protesters criticized President Prabowo Subianto of Indonesia during a rally in Jakarta on Tuesday.",
+        "category": "国际政治"
       }
     ]
   },
@@ -11502,7 +11621,7 @@
   },
   {
     "thread_id": "thread-shark-trapped-for-a-month-in-south-korea",
-    "title": "Shark trapped for a month in South Korean canal is finally freed",
+    "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
     "category": "未分类",
     "events": [
       {
@@ -11510,6 +11629,13 @@
         "event_cluster_id": "20261022-shark-trapped-month-south-01",
         "headline": "Shark trapped for a month in South Korean canal is finally freed",
         "summary": "Bukang-i successfully guided out after month in which it drew 1.6m visitors and was watched over by YouTubers In South Korea , they call them jagyeongdan , a word whose meaning sits somewhere between vigilante group and neighbourhood watch. Each night they put on hi-vis vests, picked up their selfie sticks and gathered around the harbour in Busan to keep watch over an unlikely charge: a stranded s",
+        "category": "未分类"
+      },
+      {
+        "date": "20261023",
+        "event_cluster_id": "20261023-celebrity-shark-guided-out-01",
+        "headline": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+        "summary": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
         "category": "未分类"
       }
     ]
@@ -11567,6 +11693,34 @@
         "headline": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
         "summary": "During talks between Vladimir Putin and Steve Witkoff, Putin announced that jailed American Stephen Hubbard had been released. The Kremlin also said Russia was \"in principle\" ready to resume trilateral talks next month.",
         "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-raghad-and-raad-s-family-had-to-flee-the",
+    "title": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Ho",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20261023",
+        "event_cluster_id": "20261023-newborn-twins-fight-survival-01",
+        "headline": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Ho",
+        "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-thousands-gather-at-final-student-led-ra",
+    "title": "Thousands gather at final student-led rally ahead of Serbia election",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20261023",
+        "event_cluster_id": "20261023-thousands-gather-final-student-01",
+        "headline": "Thousands gather at final student-led rally ahead of Serbia election",
+        "summary": "The student movement aims to end Vucic s 14 years of rule at Sunday s vote, as he holds a rival rally across town.",
+        "category": "国际政治"
       }
     ]
   }
