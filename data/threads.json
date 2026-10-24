@@ -29,8 +29,8 @@
   },
   {
     "thread_id": "thread-nearly-200-nations-agree-to-phase-down-c",
-    "title": "Albania: Fire at Education Ministry as students protest",
-    "category": "社会与公共政策",
+    "title": "France Plans to Bolster Police Presence, Expecting New Protests",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -87,6 +87,13 @@
         "headline": "Albania: Fire at Education Ministry as students protest",
         "summary": "Riot police deployed in the Albanian capital Tirana on the second day of student protests. The sudden outbreak seemed at least somewhat reminiscent of the widespread demos in France courting international attention.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-france-plans-bolster-police-01",
+        "headline": "France Plans to Bolster Police Presence, Expecting New Protests",
+        "summary": "Riot police officers during civil unrest in Paris on Sunday.",
+        "category": "未分类"
       }
     ]
   },
@@ -645,8 +652,8 @@
   },
   {
     "thread_id": "thread-mark-carney-tells-us-to-start-being-seri",
-    "title": "Trump approval hits record-low 31 percent, polls show Republican struggles",
-    "category": "未分类",
+    "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -766,6 +773,20 @@
         "headline": "Trump approval hits record-low 31 percent, polls show Republican struggles",
         "summary": "Reuters/Ipsos poll shows Democrats leading by 12 points in generic US congressional ballot surveys against Republicans.",
         "category": "未分类"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-why-trump-questioning-ilhan-01",
+        "headline": "Why is Trump questioning Ilhan Omar’s name",
+        "summary": "A Justice Department filing listed a different name for her, prompting Trump to call for her resignation.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-rubio-tells-cubans-now-01",
+        "headline": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+        "summary": "US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran Marco Rubio urged Cubans seeking political change in their country to act, saying “now is the time” moments after Donald Trump told a Friday rally for candidates in south Florida that US warships could intervene in Cuba on their way back from the Iran war. The US secretary of state, in his ",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -953,7 +974,7 @@
   },
   {
     "thread_id": "thread-experts-this-is-the-best-cash-back-card-",
-    "title": "Quiz: What Is Your Civic Personality",
+    "title": "Growing Share of Americans Say Social Media Is an Important News Source for Them",
     "category": "未分类",
     "events": [
       {
@@ -989,6 +1010,13 @@
         "event_cluster_id": "20261021-quiz-what-your-civic-01",
         "headline": "Quiz: What Is Your Civic Personality",
         "summary": "Take our civic personality quiz to find out how your engagement with news, politics, religious and civic activities compares with other U.S. adults.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-growing-share-americans-say-01",
+        "headline": "Growing Share of Americans Say Social Media Is an Important News Source for Them",
+        "summary": "A majority of U.S. adults (58%) now say social media is an important way for them to keep up with the news.",
         "category": "未分类"
       }
     ]
@@ -3788,8 +3816,8 @@
   },
   {
     "thread_id": "thread-oil-market-developments-and-aviation-imp",
-    "title": "Oil Market Developments and Aviation Impact",
-    "category": "经济与市场",
+    "title": "Oil spill washes up on UAE beaches after tanker strike",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -3797,6 +3825,13 @@
         "headline": "Oil Market Developments and Aviation Impact",
         "summary": "The United States has entered an oil deal with Venezuela. Forbes suggests this model could potentially be applied to Iran. Separately, Ryanair warns that European air fares may increase next year if oil prices remain high. The airline reduced its passenger target from 216 million to 214 million. Ryanair states some airlines could face bankruptcy due to fuel costs.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-oil-spill-washes-up-01",
+        "headline": "Oil spill washes up on UAE beaches after tanker strike",
+        "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -4131,8 +4166,8 @@
   },
   {
     "thread_id": "thread-germany-attributes-leipzig-airport-drone",
-    "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-    "category": "安全与冲突",
+    "title": "Why is the UK at the forefront of AI-driven job cuts",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -4224,6 +4259,13 @@
         "headline": "MI5 chief warns of threats to UK from Russia, Iran and AI",
         "summary": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-why-uk-forefront-ai-01",
+        "headline": "Why is the UK at the forefront of AI-driven job cuts",
+        "summary": "AI-linked job losses in the UK are running at twice the rate of US and Germany.",
+        "category": "未分类"
       }
     ]
   },
@@ -5692,7 +5734,7 @@
   },
   {
     "thread_id": "thread-congo-ebola-outbreak-exceeds-6-000-confi",
-    "title": "First human case of Shamonda virus detected in France, officials say",
+    "title": "Former FBI officials charged in connection with Hunter Biden laptop probe",
     "category": "未分类",
     "events": [
       {
@@ -5735,6 +5777,13 @@
         "event_cluster_id": "20261023-first-human-case-shamonda-01",
         "headline": "First human case of Shamonda virus detected in France, officials say",
         "summary": "The disease, which usually affects cattle, has been identified in a patient who died in early October.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-former-fbi-officials-charged-01",
+        "headline": "Former FBI officials charged in connection with Hunter Biden laptop probe",
+        "summary": "Lawyers for two accused officials say Department of Justice seeking to revive scandal in the run-up to midterm vote.",
         "category": "未分类"
       }
     ]
@@ -7925,8 +7974,8 @@
   },
   {
     "thread_id": "thread-israeli-strikes-in-southern-lebanese-vil",
-    "title": "JERUSALEM DAILY: Settlers attack EU diplomats",
-    "category": "安全与冲突",
+    "title": "Israel locks down occupied West Bank after Hebron shooting",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260908",
@@ -7969,6 +8018,13 @@
         "headline": "JERUSALEM DAILY: Settlers attack EU diplomats",
         "summary": "Israeli settlers attacked an EU delegation in the occupied West Bank while it was visiting olive harvesters near Taybeh.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-israel-locks-down-occupied-01",
+        "headline": "Israel locks down occupied West Bank after Hebron shooting",
+        "summary": "Israel has imposed a lockdown across the occupied West Bank after a shooting near Hebron killed two Israeli soldiers.",
+        "category": "经济与市场"
       }
     ]
   },
@@ -8191,8 +8247,8 @@
   },
   {
     "thread_id": "thread-british-widow-faces-deportation-from-swe",
-    "title": "Zimbabwe tycoon Wicknell Chivayo dies in helicopter crash",
-    "category": "国际政治",
+    "title": "Sri Lanka: Death of iconic elephant raises habitat concerns",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260909",
@@ -8256,6 +8312,20 @@
         "headline": "Zimbabwe tycoon Wicknell Chivayo dies in helicopter crash",
         "summary": "Zimbabwe's President Emmerson Mnangagwa has confirmed the death of businessman Wicknell Chivayo and his wife in a helicopter crash, calling the high-rollers with a lavish lifestyle \"consummately philanthropic.\"",
         "category": "国际政治"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-yamal-mbappe-el-clasico-01",
+        "headline": "Yamal, Mbappe in El Clasico spotlight as 40 cameras dedicated to coverage",
+        "summary": "The coverage includes ultra-high-definition filming, slow-motion replays, and individual player tracking techniques.",
+        "category": "文化体育"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-sri-lanka-death-iconic-01",
+        "headline": "Sri Lanka: Death of iconic elephant raises habitat concerns",
+        "summary": "The death of what was thought to be Sri Lanka’s largest elephant has drawn attention to human-elephant conflict in rural communities. The island country sees a high number of deadly encounters.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -8332,6 +8402,13 @@
         "event_cluster_id": "20261019-turn-your-rising-home-01",
         "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
         "summary": "Six measly points. That is the combined margin separating the Raiders from the Chiefs and Bills in two gut-wrenching home losses over the last three weeks. Two competitive, winnable games against teams widely considered among the favorites to represent the AFC in the Super Bowl. If you were measuring the distance, it might be a...",
+        "category": "未分类"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-turn-your-rising-home-01",
+        "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
+        "summary": "When the Eaton Fire forced Anne Marie Molina and her family to evacuate their Pasadena home, they had no idea how much it would cost simply to get their lives back.",
         "category": "未分类"
       }
     ]
@@ -8681,7 +8758,7 @@
   },
   {
     "thread_id": "thread-china-cargo-ship-fire-kills-at-least-25",
-    "title": "China: Cargo ship fire kills at least 25",
+    "title": "Several people missing after multistorey building collapses in Kenya",
     "category": "未分类",
     "events": [
       {
@@ -8689,6 +8766,13 @@
         "event_cluster_id": "20260911-china-cargo-ship-fire-01",
         "headline": "China: Cargo ship fire kills at least 25",
         "summary": "At least five people are missing after a cargo ship caught fire at the port of Qingdao. The cause remains unclear.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-several-people-missing-multistorey-01",
+        "headline": "Several people missing after multistorey building collapses in Kenya",
+        "summary": "Officials say building in Nairobi s Eastleigh area had no occupation certificate, but ground floor was in use.",
         "category": "未分类"
       }
     ]
@@ -8807,7 +8891,7 @@
   },
   {
     "thread_id": "thread-scientists-say-august-was-earth-s-hottes",
-    "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+    "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
     "category": "国际政治",
     "events": [
       {
@@ -8829,6 +8913,13 @@
         "event_cluster_id": "20261018-brazil-sees-record-fall-01",
         "headline": "Brazil sees record fall in Amazon deforestation as key election looms",
         "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-brazil-s-runoff-lula-01",
+        "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+        "summary": "Brazil's tight presidential runoff pits a political giant against a Bolsonaro heir in a battle over the country's political future. (Image credit: Evaristo Sa and Gledston Tavares)",
         "category": "国际政治"
       }
     ]
@@ -9787,8 +9878,8 @@
   },
   {
     "thread_id": "thread-super-macklemore-64-video-game-mocks-she",
-    "title": "Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention",
-    "category": "经济与市场",
+    "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260919",
@@ -9838,6 +9929,13 @@
         "headline": "Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention",
         "summary": "Democratic congressional candidate Brad Lander along with dozens of American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces. (Image credit: Ruth Sherlock)",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-israeli-forces-begin-demolishing-01",
+        "headline": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+        "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -9913,7 +10011,7 @@
   },
   {
     "thread_id": "thread-yemenis-flee-across-red-sea-as-houthis-a",
-    "title": "Houthi attacks on strategic Saudi assets threaten Riyadh's regional leadership and economic ambitions",
+    "title": "Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh",
     "category": "安全与冲突",
     "events": [
       {
@@ -9977,6 +10075,13 @@
         "event_cluster_id": "20261017-houthi-attacks-strategic-saudi-01",
         "headline": "Houthi attacks on strategic Saudi assets threaten Riyadh's regional leadership and economic ambitions",
         "summary": "As Yemen's Iran-backed Houthis continue to target Saudi Arabia, Riyadh's vulnerability threatens its claim on regional and religious leadership — as well as its standing as an economic powerhouse.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-iran-war-live-saudi-01",
+        "headline": "Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh",
+        "summary": "Saudi-led coalition says air defences downed a Houthi ballistic missile targeting Riyadh.",
         "category": "安全与冲突"
       }
     ]
@@ -10445,7 +10550,7 @@
   },
   {
     "thread_id": "thread-deadly-strike-hits-market-in-yemen-s-tai",
-    "title": "Deadly strike hits market in Yemen’s Taiz",
+    "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
     "category": "安全与冲突",
     "events": [
       {
@@ -10453,6 +10558,13 @@
         "event_cluster_id": "20260928-deadly-strike-hits-market-01",
         "headline": "Deadly strike hits market in Yemen’s Taiz",
         "summary": "A strike on a market in the Yemeni city of Taiz has killed at least seven people and wounded 40.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-masked-gunmen-kill-seven-01",
+        "headline": "Masked gunmen kill seven in attack on church funeral in Jordan",
+        "summary": "At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.",
         "category": "安全与冲突"
       }
     ]
@@ -10956,8 +11068,8 @@
   },
   {
     "thread_id": "thread-russia-hits-second-major-bridge-in-ukrai",
-    "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-    "category": "安全与冲突",
+    "title": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to surviv",
+    "category": "未分类",
     "events": [
       {
         "date": "20261004",
@@ -10979,6 +11091,13 @@
         "headline": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
         "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-white-house-melania-trump-01",
+        "headline": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to surviv",
+        "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+        "category": "未分类"
       }
     ]
   },
@@ -11474,8 +11593,8 @@
   },
   {
     "thread_id": "thread-us-records-4-410-measles-cases-as-outbre",
-    "title": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
-    "category": "安全与冲突",
+    "title": "Ebola Vaccine Trials Begin In DRC As Death Toll Nears 4,700",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20261017",
@@ -11490,6 +11609,20 @@
         "headline": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
         "summary": "Health officials are investigating where Nigeria s first patient, confirmed this week, was infected.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-kenya-announces-second-ebola-01",
+        "headline": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
+        "summary": "The Ebola outbreak has now spread to four countries across eastern, central ⁠⁠and western Africa.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-ebola-vaccine-trials-begin-01",
+        "headline": "Ebola Vaccine Trials Begin In DRC As Death Toll Nears 4,700",
+        "summary": "Late-stage trials for a vaccine targeting the deadly Bundibugyo Ebola strain have launched in the DCR as the country continues to struggle under its most deadly Ebola outbreak ever.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -11621,8 +11754,8 @@
   },
   {
     "thread_id": "thread-shark-trapped-for-a-month-in-south-korea",
-    "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
-    "category": "未分类",
+    "title": "Tony’s Reward: A Golden Celebration For South Amboy Coach Gonsalves",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20261022",
@@ -11637,6 +11770,13 @@
         "headline": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
         "summary": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
         "category": "未分类"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-tony-s-reward-golden-01",
+        "headline": "Tony’s Reward: A Golden Celebration For South Amboy Coach Gonsalves",
+        "summary": "Tony Gonsalves, who has directed the South Amboy boy's high school team since 1977, will be honored for his 50th season as coach on Saturday night.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -11656,7 +11796,7 @@
   },
   {
     "thread_id": "thread-al-jazeera-reports-us-accuses-canada-of-",
-    "title": "Al Jazeera reports US accuses Canada of election interference; New York Times covers AI election videos in Brazil",
+    "title": "Two unrelated news articles provided: Israeli youth political leanings and NFL player injury return",
     "category": "国际政治",
     "events": [
       {
@@ -11664,6 +11804,13 @@
         "event_cluster_id": "20261022-us-accuses-canada-election-01",
         "headline": "Al Jazeera reports US accuses Canada of election interference; New York Times covers AI election videos in Brazil",
         "summary": "Al Jazeera reports the United States has accused Canada of election interference ahead of US midterm elections, citing Canadian tariffs, political meetings, and anti-Trump advertisements as evidence. The New York Times reports that artificial intelligence-generated election videos are flooding Brazil and challenging election authorities in a high-stakes race. The two articles cover separate events",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-generation-right-israeli-youth-01",
+        "headline": "Two unrelated news articles provided: Israeli youth political leanings and NFL player injury return",
+        "summary": "The provided articles cover two distinct events. Al Jazeera reports that approximately three quarters of Jewish first-time voters in Israel identify as right or centre-right. New York Post reports that Adonai Mitchell returned to the New York Jets after missing four games due to a finger injury. Sources diverge completely in subject matter.",
         "category": "国际政治"
       }
     ]
@@ -11712,7 +11859,7 @@
   },
   {
     "thread_id": "thread-thousands-gather-at-final-student-led-ra",
-    "title": "Thousands gather at final student-led rally ahead of Serbia election",
+    "title": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
     "category": "国际政治",
     "events": [
       {
@@ -11721,6 +11868,41 @@
         "headline": "Thousands gather at final student-led rally ahead of Serbia election",
         "summary": "The student movement aims to end Vucic s 14 years of rule at Sunday s vote, as he holds a rival rally across town.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-serbia-hope-tension-apprehension-01",
+        "headline": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
+        "summary": "After two years of protests, Serbia faces a pivotal election on Sunday, with a student-led challenge to Aleksandar Vucic's lengthy rule. Allegations of electoral irregularities and fears of a post-election crisis abound.",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-deadly-shooting-near-paris-is-a-racist-t",
+    "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-deadly-shooting-near-paris-01",
+        "headline": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+        "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-duchess-of-sussex-deeply-distressed-over",
+    "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20261024",
+        "event_cluster_id": "20261024-duchess-sussex-deeply-distressed-01",
+        "headline": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+        "summary": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father, Thomas Markle Sr, and revealed she was made aware of “disturbing allegations” against him in 2018 by the Metropolitan police. Meghan issued a statement after the S",
+        "category": "安全与冲突"
       }
     ]
   }
