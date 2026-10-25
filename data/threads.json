@@ -1534,7 +1534,7 @@
   },
   {
     "thread_id": "thread-norway-s-new-king-haakon-viii-takes-oath",
-    "title": "Dutch riot police break up violent far-right protest in The Hague",
+    "title": "Why a far-right cabinet minister in Israel has Netanyahu's ear",
     "category": "国际政治",
     "events": [
       {
@@ -1605,6 +1605,13 @@
         "event_cluster_id": "20260920-dutch-riot-police-break-01",
         "headline": "Dutch riot police break up violent far-right protest in The Hague",
         "summary": "Justice minister condemns Hitler salutes, antisemitic slogans, violence at the anti-immigration rally.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261025",
+        "event_cluster_id": "20261025-why-far-right-cabinet-01",
+        "headline": "Why a far-right cabinet minister in Israel has Netanyahu's ear",
+        "summary": "Israel's most far-right cabinet minister helped dictate hardline policies toward Palestinians in recent years. Benjamin Netanyahu vows to give him a senior position if Netanyahu is reelected next week.",
         "category": "国际政治"
       }
     ]
@@ -1877,8 +1884,8 @@
   },
   {
     "thread_id": "thread-blue-jays-3-93-era-pitcher-cuts-ties-wit",
-    "title": "Australian woman charged with lacing colleague's curry with snail poison",
-    "category": "文化体育",
+    "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -1935,6 +1942,13 @@
         "headline": "Australian woman charged with lacing colleague's curry with snail poison",
         "summary": "The alleged victim, who was in a relationship with the woman, had spotted bright green pellets in the meal.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261025",
+        "event_cluster_id": "20261025-british-woman-dies-trying-01",
+        "headline": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+        "summary": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
+        "category": "未分类"
       }
     ]
   },
@@ -2556,7 +2570,7 @@
   },
   {
     "thread_id": "thread-joshua-wong-pleads-guilty-in-hong-kong-n",
-    "title": "Israeli police say they arrested 10 in connection with settler attacks",
+    "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
     "category": "安全与冲突",
     "events": [
       {
@@ -2690,6 +2704,13 @@
         "event_cluster_id": "20261020-israeli-police-say-they-01",
         "headline": "Israeli police say they arrested 10 in connection with settler attacks",
         "summary": "Israeli police released a video they say shows the arrest of 10 suspects over weekend settler violence.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261025",
+        "event_cluster_id": "20261025-gunmen-kill-least-10-01",
+        "headline": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+        "summary": "Nigerian police say a large group carried out the attack on Binnari village in Taraba State.",
         "category": "安全与冲突"
       }
     ]
@@ -3837,7 +3858,7 @@
   },
   {
     "thread_id": "thread-us-and-iran-exchange-airstrikes-in-middl",
-    "title": "Usher, Rema And Kenshi Yonezu Lead The Grammys’ New Categories Beyond The Big Four",
+    "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
     "category": "未分类",
     "events": [
       {
@@ -3943,6 +3964,13 @@
         "event_cluster_id": "20261016-usher-rema-kenshi-yonezu-01",
         "headline": "Usher, Rema And Kenshi Yonezu Lead The Grammys’ New Categories Beyond The Big Four",
         "summary": "After high contended additions, the 2027 GRAMMYs bring two brand-new categories and one dominated by a single artist that could produce this year’s biggest surprises.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261025",
+        "event_cluster_id": "20261025-turkey-s-deal-mediterranean-01",
+        "headline": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
+        "summary": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
         "category": "未分类"
       }
     ]
@@ -6504,8 +6532,8 @@
   },
   {
     "thread_id": "thread-aew-dynamite-returns-with-all-out-fallou",
-    "title": "Three outlets report separate cancer-related stories",
-    "category": "社会与公共政策",
+    "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260903",
@@ -6520,6 +6548,13 @@
         "headline": "Three outlets report separate cancer-related stories",
         "summary": "Forbes reports Moderna stock fell 25% after a possible cancer vaccine data leak. The New York Times examines how screening and treatments have reduced cancer death rates. New York Post covers a Dancers Against Cancer gala attended by celebrities. Sources cover different events.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261025",
+        "event_cluster_id": "20261025-vanessa-trump-she-cancer-01",
+        "headline": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+        "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+        "category": "经济与市场"
       }
     ]
   },
@@ -7974,8 +8009,8 @@
   },
   {
     "thread_id": "thread-israeli-strikes-in-southern-lebanese-vil",
-    "title": "Israel locks down occupied West Bank after Hebron shooting",
-    "category": "经济与市场",
+    "title": "Could Israel’s military crackdown influence Tuesday’s election",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260908",
@@ -8025,13 +8060,20 @@
         "headline": "Israel locks down occupied West Bank after Hebron shooting",
         "summary": "Israel has imposed a lockdown across the occupied West Bank after a shooting near Hebron killed two Israeli soldiers.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261025",
+        "event_cluster_id": "20261025-israel-s-military-crackdown-01",
+        "headline": "Could Israel’s military crackdown influence Tuesday’s election",
+        "summary": "Israel preparing a full lockdown of occupied West Bank after Hebron gunfight.",
+        "category": "安全与冲突"
       }
     ]
   },
   {
     "thread_id": "thread-renoir-paintings-worth-millions-stolen-i",
-    "title": "Renoir paintings worth millions stolen in French museum heist",
-    "category": "未分类",
+    "title": "Dave Stewart On The Unorthodox Way He Made His New Album",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260909",
@@ -8039,6 +8081,13 @@
         "headline": "Renoir paintings worth millions stolen in French museum heist",
         "summary": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
         "category": "未分类"
+      },
+      {
+        "date": "20261025",
+        "event_cluster_id": "20261025-dave-stewart-unorthodox-way-01",
+        "headline": "Dave Stewart On The Unorthodox Way He Made His New Album",
+        "summary": "Eurythmics co-founder Dave Stewart's latest solo album, 'The Way It Was Back Then' was composed on the fly.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -8114,8 +8163,8 @@
   },
   {
     "thread_id": "thread-good-to-have-choice-australians-on-optin",
-    "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
-    "category": "安全与冲突",
+    "title": "How Brazil's changing working class is reshaping the presidential race",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260909",
@@ -8137,6 +8186,13 @@
         "headline": "Warning of space arms race as US confirms weapons in Earth's orbit",
         "summary": "The BBC's defence correspondent Jonathan Beale explains what an arms race in space might look like - and what it could mean for us on the ground.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261025",
+        "event_cluster_id": "20261025-how-brazil-s-changing-01",
+        "headline": "How Brazil's changing working class is reshaping the presidential race",
+        "summary": "Calls for change present a challenge to President Lula in the second round of the election on Sunday.",
+        "category": "国际政治"
       }
     ]
   },
@@ -8646,8 +8702,8 @@
   },
   {
     "thread_id": "thread-how-a-driver-s-sudden-death-triggered-eb",
-    "title": "Chiefs Defense Finally Records Sacks In Impressive Effort Vs. Chargers",
-    "category": "安全与冲突",
+    "title": "Volkanovski And Yan Kept Their Belts At UFC 333, And Their Next Opponents Already Made Themselves Known",
+    "category": "未分类",
     "events": [
       {
         "date": "20260910",
@@ -8676,6 +8732,20 @@
         "headline": "Chiefs Defense Finally Records Sacks In Impressive Effort Vs. Chargers",
         "summary": "The Chiefs, who entered the game vs. the Chargers without a sack since Week One, recorded four of them Sunday.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261025",
+        "event_cluster_id": "20261025-experts-best-cash-back-01",
+        "headline": "Experts: this is the best cash back card of 2022",
+        "summary": "DraftKings Sunday Week 7 main slate, best game environment, who to pay up for and where can you find value? Green Bay v Detroit best option or too expensive?",
+        "category": "未分类"
+      },
+      {
+        "date": "20261025",
+        "event_cluster_id": "20261025-volkanovski-yan-kept-their-01",
+        "headline": "Volkanovski And Yan Kept Their Belts At UFC 333, And Their Next Opponents Already Made Themselves Known",
+        "summary": "UFC 333 results from Abu Dhabi: Volkanovski vs. Evloev, Yan vs. Dvalishvili 3, the full card, $100K bonus winners and highlights.",
+        "category": "未分类"
       }
     ]
   },
@@ -8814,7 +8884,7 @@
   },
   {
     "thread_id": "thread-royal-family-rift-after-popular-tv-news-",
-    "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
+    "title": "Trump says he may move White House press corps to new location",
     "category": "国际政治",
     "events": [
       {
@@ -8886,6 +8956,13 @@
         "headline": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
         "summary": "The Justice Department is investigating several TV networks for possible antitrust violations. And, President Trump pressures Ukrainians to elect a new leader. (Image credit: Roberto Schmidt)",
         "category": "国际政治"
+      },
+      {
+        "date": "20261025",
+        "event_cluster_id": "20261025-trump-he-may-move-01",
+        "headline": "Trump says he may move White House press corps to new location",
+        "summary": "Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him.",
+        "category": "国际政治"
       }
     ]
   },
@@ -8926,8 +9003,8 @@
   },
   {
     "thread_id": "thread-manchester-united-beat-sabah-4-0-on-cham",
-    "title": "Energy Firms Dominate Flagship List Of Promising Global Startups",
-    "category": "科技与AI",
+    "title": "The Next Risk For U.S. LNG Is Demand, Not Supply",
+    "category": "未分类",
     "events": [
       {
         "date": "20260911",
@@ -8956,6 +9033,13 @@
         "headline": "Energy Firms Dominate Flagship List Of Promising Global Startups",
         "summary": "Energy, electrification and smart power startups dominate the Norrsken 100 - a recently unveiled annual list of the most promising global early-stage startups.",
         "category": "科技与AI"
+      },
+      {
+        "date": "20261025",
+        "event_cluster_id": "20261025-next-risk-u-s-01",
+        "headline": "The Next Risk For U.S. LNG Is Demand, Not Supply",
+        "summary": "U.S. LNG export capacity is surging, but the next challenge may be whether global demand can grow fast enough to keep new terminals fully utilized.",
+        "category": "未分类"
       }
     ]
   },
@@ -9045,8 +9129,8 @@
   },
   {
     "thread_id": "thread-houthi-advance-in-yemen-is-about-more-th",
-    "title": "How Trump's diesel deal with Russia will impact the United States and Ukraine",
-    "category": "国际政治",
+    "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260912",
@@ -9124,6 +9208,13 @@
         "headline": "How Trump's diesel deal with Russia will impact the United States and Ukraine",
         "summary": "US President Trump's diesel deal with Russia has alarmed Ukraine and its allies. What is he hoping to achieve at home, and what does the deal mean for Kyiv and Moscow?",
         "category": "国际政治"
+      },
+      {
+        "date": "20261025",
+        "event_cluster_id": "20261025-trump-lauds-melania-russia-01",
+        "headline": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+        "summary": "Donald Trump praised First Lady as better than professionals after a localised Russia-Ukraine ceasefire in Oleshky.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -10473,8 +10564,8 @@
   },
   {
     "thread_id": "thread-takeaways-from-the-trump-xi-state-visit-",
-    "title": "North Korea, China open border bridge after 12-year delay",
-    "category": "安全与冲突",
+    "title": "Kim Jong Un crosses new bridge linking North Korea and China",
+    "category": "未分类",
     "events": [
       {
         "date": "20260926",
@@ -10510,6 +10601,13 @@
         "headline": "North Korea, China open border bridge after 12-year delay",
         "summary": "Twelve years after it was constructed, the New Yalu River Bridge between China and North Korea is finally operational. It is the latest sign of warming ties between the two nations.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261025",
+        "event_cluster_id": "20261025-kim-jong-un-crosses-01",
+        "headline": "Kim Jong Un crosses new bridge linking North Korea and China",
+        "summary": "Kim Jong Un crosses new bridge linking North Korea and China",
+        "category": "未分类"
       }
     ]
   },
@@ -10550,8 +10648,8 @@
   },
   {
     "thread_id": "thread-deadly-strike-hits-market-in-yemen-s-tai",
-    "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
-    "category": "安全与冲突",
+    "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+    "category": "未分类",
     "events": [
       {
         "date": "20260928",
@@ -10566,6 +10664,13 @@
         "headline": "Masked gunmen kill seven in attack on church funeral in Jordan",
         "summary": "At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261025",
+        "event_cluster_id": "20261025-gunmen-open-fire-church-01",
+        "headline": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+        "summary": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday. (Image credit: AP Photo)",
+        "category": "未分类"
       }
     ]
   },
@@ -10683,7 +10788,7 @@
   },
   {
     "thread_id": "thread-how-urban-suburban-and-rural-americans-e",
-    "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+    "title": "Ukraine says Starlink connection 'now stable' after network limits",
     "category": "安全与冲突",
     "events": [
       {
@@ -10727,13 +10832,20 @@
         "headline": "Trump says Musk has restored access to Ukraine's Starlink network",
         "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261025",
+        "event_cluster_id": "20261025-ukraine-starlink-connection-now-01",
+        "headline": "Ukraine says Starlink connection 'now stable' after network limits",
+        "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+        "category": "安全与冲突"
       }
     ]
   },
   {
     "thread_id": "thread-protesters-have-set-up-tent-encampments-",
-    "title": "Macron Voices ‘Anger And Shame’ As Violent Protests Roil France: What To Know",
-    "category": "未分类",
+    "title": "Hundreds of thousands march across France in protests over schools and policing",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260929",
@@ -10762,6 +10874,13 @@
         "headline": "Macron Voices ‘Anger And Shame’ As Violent Protests Roil France: What To Know",
         "summary": "Hundreds of thousands of people joined protests in France on Saturday, leading to arrests, arson and injuries.",
         "category": "未分类"
+      },
+      {
+        "date": "20261025",
+        "event_cluster_id": "20261025-hundreds-thousands-march-across-01",
+        "headline": "Hundreds of thousands march across France in protests over schools and policing",
+        "summary": "Almost 1,000 arrested as police charge crowd in Paris and teargas used to stop protesters reaching other city centres Hundreds of thousands marched in cities across France on Saturday in largely peaceful protests to support schoolchildren’s demands for more teachers and repairs to dilapidated buildings, as Emmanuel Macron faces a social and political crisis in his final months as president. In Par",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -11334,7 +11453,7 @@
   },
   {
     "thread_id": "thread-australian-open-expanding-seats-and-shad",
-    "title": "Australian Open Expanding Seats And Shade For 2027.",
+    "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
     "category": "未分类",
     "events": [
       {
@@ -11342,6 +11461,13 @@
         "event_cluster_id": "20261011-man-dies-entering-tiger-01",
         "headline": "Australian Open Expanding Seats And Shade For 2027.",
         "summary": "Emergency services called to the scene after reports of a man entering the tiger enclosure at a UK wildlife park.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261025",
+        "event_cluster_id": "20261025-man-arrested-fire-hitler-01",
+        "headline": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+        "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
         "category": "未分类"
       }
     ]
@@ -11530,8 +11656,8 @@
   },
   {
     "thread_id": "thread-albanian-police-fire-tear-gas-at-protest",
-    "title": "Protesters allege police brutality as violent clashes rage on in Albania",
-    "category": "社会与公共政策",
+    "title": "Violent clashes as Albanian government cracks down on protests",
+    "category": "国际政治",
     "events": [
       {
         "date": "20261014",
@@ -11546,6 +11672,13 @@
         "headline": "Protesters allege police brutality as violent clashes rage on in Albania",
         "summary": "Protesters in Albania accuse riot police of brutality as clashes turn violent outside the Education Ministry.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261025",
+        "event_cluster_id": "20261025-violent-clashes-albanian-government-01",
+        "headline": "Violent clashes as Albanian government cracks down on protests",
+        "summary": "Protesters in Albania have fought running battles with police, on a 12th day of anti-government protests.",
+        "category": "国际政治"
       }
     ]
   },
@@ -11859,7 +11992,7 @@
   },
   {
     "thread_id": "thread-thousands-gather-at-final-student-led-ra",
-    "title": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
+    "title": "Who are the candidates in Brazil's presidential election",
     "category": "国际政治",
     "events": [
       {
@@ -11874,6 +12007,13 @@
         "event_cluster_id": "20261024-serbia-hope-tension-apprehension-01",
         "headline": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
         "summary": "After two years of protests, Serbia faces a pivotal election on Sunday, with a student-led challenge to Aleksandar Vucic's lengthy rule. Allegations of electoral irregularities and fears of a post-election crisis abound.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261025",
+        "event_cluster_id": "20261025-who-candidates-brazil-s-01",
+        "headline": "Who are the candidates in Brazil's presidential election",
+        "summary": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
         "category": "国际政治"
       }
     ]
@@ -11903,6 +12043,20 @@
         "headline": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
         "summary": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father, Thomas Markle Sr, and revealed she was made aware of “disturbing allegations” against him in 2018 by the Metropolitan police. Meghan issued a statement after the S",
         "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-brazil-s-lula-bolsonaro-draw-thousands-t",
+    "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20261025",
+        "event_cluster_id": "20261025-brazil-s-lula-bolsonaro-01",
+        "headline": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
+        "summary": "The pivotal run-off will determine whether Brazilians stick with their left-wing leader or shift towards the right.",
+        "category": "国际政治"
       }
     ]
   }
