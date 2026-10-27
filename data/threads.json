@@ -2304,8 +2304,8 @@
   },
   {
     "thread_id": "thread-how-indie-cinema-is-beating-hollywood-in",
-    "title": "Was CultureCon 2026 Worth It? A Festival Outgrowing Its Own Doors",
-    "category": "文化体育",
+    "title": "26, 2026: OKC without Jalen Williams, Luka’s 52, Ty Jerome’s scoring tear, winless Knicks and Heat, and NBA Europe.",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -2390,6 +2390,13 @@
         "headline": "Was CultureCon 2026 Worth It? A Festival Outgrowing Its Own Doors",
         "summary": "Ten years after it began in a Harlem apartment, CultureCon drew its biggest crowd yet, along with its loudest feedback.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-5-nba-storylines-watch-01",
+        "headline": "26, 2026: OKC without Jalen Williams, Luka’s 52, Ty Jerome’s scoring tear, winless Knicks and Heat, and NBA Europe.",
+        "summary": "The NBA stories to watch this week Oct. 26, 2026: OKC without Jalen Williams, Luka’s 52, Ty Jerome’s scoring tear, winless Knicks and Heat, and NBA Europe.",
+        "category": "未分类"
       }
     ]
   },
@@ -3214,8 +3221,8 @@
   },
   {
     "thread_id": "thread-search-operations-continue-after-floods-",
-    "title": "China's influence in the gaming industry is growing",
-    "category": "经济与市场",
+    "title": "China's Plenum Begins as Xi Jinping Prepares for Expected Fourth Term",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -3307,6 +3314,13 @@
         "headline": "China's influence in the gaming industry is growing",
         "summary": "Home to more than 700 million gamers, China is the world's largest gaming market — but it's also one of the most tightly regulated. The effects reach far beyond China, impacting players around the world.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-what-know-about-china-01",
+        "headline": "China's Plenum Begins as Xi Jinping Prepares for Expected Fourth Term",
+        "summary": "China's closed-door plenum started Monday, approximately one year before President Xi Jinping is expected to secure a fourth term as Communist Party leader. The gathering is anticipated to involve personnel changes to key leadership bodies. Xi has warned that many officials fail to faithfully execute his directives, and ongoing purges are viewed as clearing the path for his continued rule. Both NP",
+        "category": "国际政治"
       }
     ]
   },
@@ -3403,8 +3417,8 @@
   },
   {
     "thread_id": "thread-u-s-and-iran-exchange-military-strikes",
-    "title": "Most Americans say US-Israel war on Iran not worth fighting: Poll",
-    "category": "安全与冲突",
+    "title": "Americans’ Views of ICE Grow More Negative",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -3482,6 +3496,13 @@
         "headline": "Most Americans say US-Israel war on Iran not worth fighting: Poll",
         "summary": "Nearly 70 percent of Americans say the US-Israeli war is not worth fighting, marking a significant spike since July.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-americans-views-ice-grow-01",
+        "headline": "Americans’ Views of ICE Grow More Negative",
+        "summary": "A majority of Americans (56%) now say they have an unfavorable opinion of Immigration and Customs Enforcement.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -5944,8 +5965,8 @@
   },
   {
     "thread_id": "thread-massachusetts-and-texas-see-competitive-",
-    "title": "Two unrelated political stories: Trump sued over Canadian tariffs; Newsom's California tax policy criticized",
-    "category": "国际政治",
+    "title": "Two unrelated legal cases reported by different news sources",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -5988,6 +6009,13 @@
         "headline": "Two unrelated political stories: Trump sued over Canadian tariffs; Newsom's California tax policy criticized",
         "summary": "BBC World reports a lawsuit challenging Trump's Canadian tariffs, arguing the White House exceeded authority and harmed American businesses. New York Post publishes an opinion piece criticizing Gavin Newsom's $14.3 billion tax policy in California, citing high taxes, affordability issues, and homelessness. The two sources cover completely different events with no overlap in subject matter.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-us-court-rules-against-01",
+        "headline": "Two unrelated legal cases reported by different news sources",
+        "summary": "Al Jazeera reports a US appeals court blocked the Trump administration's effort to stop California from tabulating ballots from a list of alleged non-citizens. The New York Times reports singer Chris Brown received a suspended prison sentence in a London court on Monday for a nightclub assault. The two sources cover completely different events with no overlap in subject matter.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -6357,8 +6385,8 @@
   },
   {
     "thread_id": "thread-japan-reduces-urban-speed-limits-and-see",
-    "title": "Trump gives top US science awards to Elon Musk and other tech executives",
-    "category": "安全与冲突",
+    "title": "Former FBI director James Comey hit with third set of charges under Trump",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -6443,6 +6471,13 @@
         "headline": "Trump gives top US science awards to Elon Musk and other tech executives",
         "summary": "The National Medal of Science is annually given to scientists and engineers for major contributions in their fields.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-former-fbi-director-james-01",
+        "headline": "Former FBI director James Comey hit with third set of charges under Trump",
+        "summary": "Comey, who was fired during Trump s first term, has been accused of unlawfully divulging national security information.",
+        "category": "未分类"
       }
     ]
   },
@@ -6672,7 +6707,7 @@
   },
   {
     "thread_id": "thread-ice-agent-faces-federal-charges-for-lyin",
-    "title": "Sylvester Stallone’s ‘Tulsa King’ Season 4 Still Reigns On Rotten Tomatoes",
+    "title": "There s no guarantee the Rams will play in this season s Super Bowl, but Jay-Z has officially been announced as the half",
     "category": "未分类",
     "events": [
       {
@@ -6764,6 +6799,13 @@
         "event_cluster_id": "20261023-sylvester-stallone-s-tulsa-01",
         "headline": "Sylvester Stallone’s ‘Tulsa King’ Season 4 Still Reigns On Rotten Tomatoes",
         "summary": "Taylor Sheridan’s \"Tulsa King,\" starring Sylvester Stallone, is back for Season 4, and Rotten Tomatoes critics are saying it’s on par with previous seasons.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-six-seasons-brilliant-costumes-01",
+        "headline": "There s no guarantee the Rams will play in this season s Super Bowl, but Jay-Z has officially been announced as the half",
+        "summary": "With the debut of Season Seven coming next year, costume designer Guy Speranza discusses the work behind each character for his final season on the hit AppleTV series.",
         "category": "未分类"
       }
     ]
@@ -8009,8 +8051,8 @@
   },
   {
     "thread_id": "thread-israeli-strikes-in-southern-lebanese-vil",
-    "title": "Could Israel’s military crackdown influence Tuesday’s election",
-    "category": "安全与冲突",
+    "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260908",
@@ -8067,6 +8109,13 @@
         "headline": "Could Israel’s military crackdown influence Tuesday’s election",
         "summary": "Israel preparing a full lockdown of occupied West Bank after Hebron gunfight.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-israeli-jews-across-spectrum-01",
+        "headline": "Israeli Jews Across the Spectrum Face an Election of Fears",
+        "summary": "Benjamin Netanyahu, Israel’s prime minister, speaking to supporters in the food court of a shopping mall in Holon, Israel, during a campaign visit this month.",
+        "category": "国际政治"
       }
     ]
   },
@@ -8163,8 +8212,8 @@
   },
   {
     "thread_id": "thread-good-to-have-choice-australians-on-optin",
-    "title": "How Brazil's changing working class is reshaping the presidential race",
-    "category": "国际政治",
+    "title": "How a WhatsApp channel helped Lula win Brazil’s election",
+    "category": "科技与AI",
     "events": [
       {
         "date": "20260909",
@@ -8193,6 +8242,13 @@
         "headline": "How Brazil's changing working class is reshaping the presidential race",
         "summary": "Calls for change present a challenge to President Lula in the second round of the election on Sunday.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-how-whatsapp-channel-helped-01",
+        "headline": "How a WhatsApp channel helped Lula win Brazil’s election",
+        "summary": "Over 10 million Lula supporters joined a WhatsApp channel to help boost his campaign.",
+        "category": "科技与AI"
       }
     ]
   },
@@ -8465,6 +8521,13 @@
         "event_cluster_id": "20261024-turn-your-rising-home-01",
         "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
         "summary": "When the Eaton Fire forced Anne Marie Molina and her family to evacuate their Pasadena home, they had no idea how much it would cost simply to get their lives back.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-turn-your-rising-home-01",
+        "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
+        "summary": "Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety. Is it a deliberate military strategy? The water was rising rapidly. It had already reached Cayni Ali’s waist. Her home, five metres from the flooded River Juba in southern Somalia, never stood a chance. There was no",
         "category": "未分类"
       }
     ]
@@ -9556,8 +9619,8 @@
   },
   {
     "thread_id": "thread-construction-robots-just-took-a-giant-le",
-    "title": "The Emmys Offer A Lesson In The Payoff Of Preparation.",
-    "category": "未分类",
+    "title": "Agility's First Humanoid Robot Customer Just Came Back For More",
+    "category": "科技与AI",
     "events": [
       {
         "date": "20260915",
@@ -9572,6 +9635,13 @@
         "headline": "The Emmys Offer A Lesson In The Payoff Of Preparation.",
         "summary": "The Emmys offer a reminder that the payoff of preparation isn't always just the outcome. Sometimes, the preparation itself is valuable.",
         "category": "未分类"
+      },
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-agility-s-first-humanoid-01",
+        "headline": "Agility's First Humanoid Robot Customer Just Came Back For More",
+        "summary": "Digit is getting more work. Agility Robotic's humanoid robot is getting more work from an existing customer, GOX, which runs over 1,000 logistics facilities worldwide.",
+        "category": "科技与AI"
       }
     ]
   },
@@ -9752,8 +9822,8 @@
   },
   {
     "thread_id": "thread-iran-activists-sound-alarm-as-regime-sei",
-    "title": "US Marine arrested over murder of woman in Okinawa, Japan",
-    "category": "安全与冲突",
+    "title": "US Marine indicted for murder and robbery of woman in Japan",
+    "category": "未分类",
     "events": [
       {
         "date": "20260917",
@@ -9789,12 +9859,19 @@
         "headline": "US Marine arrested over murder of woman in Okinawa, Japan",
         "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-us-marine-indicted-murder-01",
+        "headline": "US Marine indicted for murder and robbery of woman in Japan",
+        "summary": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
+        "category": "未分类"
       }
     ]
   },
   {
     "thread_id": "thread-three-dead-after-flooding-inundates-nava",
-    "title": "What happened to Australian politician Helen Haines",
+    "title": "Australian murderer loses bid to eat Vegemite in prison",
     "category": "未分类",
     "events": [
       {
@@ -9851,6 +9928,13 @@
         "event_cluster_id": "20261022-what-happened-australian-politician-01",
         "headline": "What happened to Australian politician Helen Haines",
         "summary": "Australian Lawmaker Helen Haines has lost both legs after a car rammed into her.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-australian-murderer-loses-bid-01",
+        "headline": "Australian murderer loses bid to eat Vegemite in prison",
+        "summary": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
         "category": "未分类"
       }
     ]
@@ -10487,8 +10571,8 @@
   },
   {
     "thread_id": "thread-afghan-taxi-drivers-defy-the-taliban-s-m",
-    "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
-    "category": "安全与冲突",
+    "title": "Five ways Trump has changed immigration in the US",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260926",
@@ -10517,6 +10601,13 @@
         "headline": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
         "summary": "Malaysia continues mass refugee deportations despite warnings from the UN about unsafe conditions in an active war zone.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-five-ways-trump-has-01",
+        "headline": "Five ways Trump has changed immigration in the US",
+        "summary": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -10956,7 +11047,7 @@
   },
   {
     "thread_id": "thread-flydubai-fz1073-timeline-how-the-israel-",
-    "title": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
+    "title": "Jordan strikes Syria after church attack, killing at least seven people",
     "category": "安全与冲突",
     "events": [
       {
@@ -10999,6 +11090,13 @@
         "event_cluster_id": "20261015-watch-block-flats-destroyed-01",
         "headline": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
         "summary": "BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-jordan-strikes-syria-church-01",
+        "headline": "Jordan strikes Syria after church attack, killing at least seven people",
+        "summary": "Syria closes border crossings with Jordan after air strikes kill seven people in Deraa and Suweyda, including children.",
         "category": "安全与冲突"
       }
     ]
@@ -11159,8 +11257,8 @@
   },
   {
     "thread_id": "thread-icc-ends-contract-with-french-insurer-am",
-    "title": "Two separate Trump administration policy developments reported by different outlets",
-    "category": "社会与公共政策",
+    "title": "Two Separate Reports on Trump Administration Actions Cover Different Events",
+    "category": "国际政治",
     "events": [
       {
         "date": "20261002",
@@ -11182,6 +11280,13 @@
         "headline": "Two separate Trump administration policy developments reported by different outlets",
         "summary": "Pew Research Center reports Trump's judicial appointment pace has slowed in his second term compared to his first term and recent presidents. New York Post reports the Trump administration ended its legal fight to overhaul the student loan forgiveness program. The two articles cover distinct policy areas.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-making-sense-president-trump-01",
+        "headline": "Two Separate Reports on Trump Administration Actions Cover Different Events",
+        "summary": "The Forbes article discusses President Trump's deals aimed at lowering diesel prices in the United States. The New York Times article reports Norwegian officials pushing back after President Trump disparaged Norway over the Nobel Peace Prize decision. The two articles address unrelated events involving the Trump administration.",
+        "category": "国际政治"
       }
     ]
   },
@@ -11929,8 +12034,8 @@
   },
   {
     "thread_id": "thread-al-jazeera-reports-us-accuses-canada-of-",
-    "title": "Two unrelated news articles provided: Israeli youth political leanings and NFL player injury return",
-    "category": "国际政治",
+    "title": "Bus accident near Barcelona injures 80; Forbes discusses bank reputation",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20261022",
@@ -11945,6 +12050,13 @@
         "headline": "Two unrelated news articles provided: Israeli youth political leanings and NFL player injury return",
         "summary": "The provided articles cover two distinct events. Al Jazeera reports that approximately three quarters of Jewish first-time voters in Israel identify as right or centre-right. New York Post reports that Adonai Mitchell returned to the New York Jets after missing four games due to a finger injury. Sources diverge completely in subject matter.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-80-injured-bus-plunges-01",
+        "headline": "Bus accident near Barcelona injures 80; Forbes discusses bank reputation",
+        "summary": "Al Jazeera reports a bus plunged down an embankment near Barcelona injuring 80 people. Forbes publishes an opinion piece on banks' duty to protect their reputations. The two articles cover unrelated events.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -12048,8 +12160,8 @@
   },
   {
     "thread_id": "thread-brazil-s-lula-bolsonaro-draw-thousands-t",
-    "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
-    "category": "国际政治",
+    "title": "What will Lula’s fourth term mean for Brazil",
+    "category": "未分类",
     "events": [
       {
         "date": "20261025",
@@ -12057,6 +12169,90 @@
         "headline": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
         "summary": "The pivotal run-off will determine whether Brazilians stick with their left-wing leader or shift towards the right.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-reader-q-lula-s-01",
+        "headline": "Lula wins Brazil presidential runoff against Flávio Bolsonaro",
+        "summary": "Luiz Inácio Lula da Silva won the second round of Brazil's presidential election with 51.79% of the vote, defeating far-right candidate Flávio Bolsonaro who received 48.21%. The victory marks Lula's fourth non-consecutive term and the first time a candidate has won a runoff after losing the first round. Flávio Bolsonaro has refused to concede defeat. Supreme Court justice Alexandre de Moraes order",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-what-lula-s-fourth-01",
+        "headline": "What will Lula’s fourth term mean for Brazil",
+        "summary": "Luiz Inacio Lula da Silva wins a fourth term as Bolsonaro disputes the result. Can he deliver on his promises of change?",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-venezuelan-opposition-leader-machado-ret",
+    "title": "Venezuelan opposition leader Machado returns from exile",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-venezuelan-opposition-leader-machado-01",
+        "headline": "Venezuelan opposition leader Machado returns from exile",
+        "summary": "Nobel Peace Prize winner and popular Venezuelan political opposition figure Maria Corina Machado has returned after nearly a year away. Sitting President Rodriguez accused her of making a \"show.\"",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-harry-kane-wins-ballon-d-or-ending-engla",
+    "title": "Harry Kane wins Ballon d’Or, ending England’s 25-year wait",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-harry-kane-wins-ballon-01",
+        "headline": "Harry Kane wins Ballon d’Or, ending England’s 25-year wait",
+        "summary": "Bayern Munich and England striker Harry Kane has won his first Ballon d’Or after a record-breaking season.",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-student-backed-movement-wins-serbian-par",
+    "title": "Student-backed movement wins Serbian parliamentary election, ending Vučić era",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-smell-freedom-serbia-s-01",
+        "headline": "Student-backed movement wins Serbian parliamentary election, ending Vučić era",
+        "summary": "A student-backed movement secured a parliamentary election victory in Serbia, ending over a decade of rule by Aleksandar Vučić. The non-hierarchical movement, known as the Student List, is preparing negotiations to form a government. Election monitors from Serbia's CRTA and international observers including the OSCE, ODIHR, and European Parliament are expected to release findings. All reporting so",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-interest-rates-could-rise-again-in-2027-",
+    "title": "Interest Rates Could Rise Again In 2027—What To Watch",
+    "category": "经济与市场",
+    "events": [
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-interest-rates-rise-again-01",
+        "headline": "Interest Rates Could Rise Again In 2027—What To Watch",
+        "summary": "Interest rates could rise further in 2027 as the Fed fights inflation. Here’s what could drive rate hikes and what investors should watch.",
+        "category": "经济与市场"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-deflections-abdul-el-sayed-responds-to-t",
+    "title": "‘Deflections’: Abdul El-Sayed responds to Trump’s anti-Muslim attacks",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20261027",
+        "event_cluster_id": "20261027-deflections-abdul-el-sayed-01",
+        "headline": "‘Deflections’: Abdul El-Sayed responds to Trump’s anti-Muslim attacks",
+        "summary": "The Democratic candidate for the US Senate has been the subject of Islamophobic attacks from Trump.",
+        "category": "安全与冲突"
       }
     ]
   }
