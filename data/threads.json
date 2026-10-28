@@ -3676,8 +3676,8 @@
   },
   {
     "thread_id": "thread-guinea-bissau-voters-approve-new-constit",
-    "title": "Israel’s policies threaten ‘very existence’ of Palestinians, Abbas tells UN",
-    "category": "未分类",
+    "title": "Israel election live: Netanyahu speaks as exit polls point to tie with Eisenkot opposition bloc",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -3769,6 +3769,13 @@
         "headline": "Israel’s policies threaten ‘very existence’ of Palestinians, Abbas tells UN",
         "summary": "Mahmoud Abbas says saving two-state solution begins with preserving Palestinian land, protecting those who live on it.",
         "category": "未分类"
+      },
+      {
+        "date": "20261028",
+        "event_cluster_id": "20261028-israel-election-live-netanyahu-01",
+        "headline": "Israel election live: Netanyahu speaks as exit polls point to tie with Eisenkot opposition bloc",
+        "summary": "Updated exit polling shows Benjamin Netanyahu’s bloc tied with Eisenkot’s opposition grouping, with both on 51 seats, as Palestinian parties surge Full report: Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats Analysis: Rise of Palestinian parties in Knesset will redraw Israel’s political landscape Across Israel , voting is now under way. Here are some of the",
+        "category": "国际政治"
       }
     ]
   },
@@ -3998,8 +4005,8 @@
   },
   {
     "thread_id": "thread-developments-regarding-west-bank-settlem",
-    "title": "Israel probing Naza film on Gaza for treason, inciting anti-Semitism",
-    "category": "文化体育",
+    "title": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -4063,6 +4070,13 @@
         "headline": "Israel probing Naza film on Gaza for treason, inciting anti-Semitism",
         "summary": "Film alleges mass ⁠civilian deaths routinely built into military decisions amid Israel s genocidal war on Gaza.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261028",
+        "event_cluster_id": "20261028-go-home-ben-gvir-01",
+        "headline": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
+        "summary": "Israel’s Joint Arab List party celebrated as exit polls projected as many as 18 parliamentary seats for the Arab-bloc.",
+        "category": "国际政治"
       }
     ]
   },
@@ -4999,8 +5013,8 @@
   },
   {
     "thread_id": "thread-three-unrelated-news-items-reported-acro",
-    "title": "Argentina serves Messi-shaped schnitzel as fans pay tribute",
-    "category": "社会与公共政策",
+    "title": "Al Jazeera reports Hebron wedding postponed; The Guardian reports US bans BYD vehicles at Kadena airbase",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -5036,6 +5050,13 @@
         "headline": "Argentina serves Messi-shaped schnitzel as fans pay tribute",
         "summary": "A restaurant in Buenos Aires is offering a schnitzel shaped like Lionel Messi as Argentine fans pay tribute to the player. The two provided articles do not share a single event: Al Jazeera reports on the Messi schnitzel tribute, while Pew Research Center reports on American smartphone usage habits. About half of Americans say they spend too much time on their smartphone, with seven-in-ten adults u",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261028",
+        "event_cluster_id": "20261028-dream-postponed-hebron-groom-01",
+        "headline": "Al Jazeera reports Hebron wedding postponed; The Guardian reports US bans BYD vehicles at Kadena airbase",
+        "summary": "Al Jazeera reports an Israeli military lockdown in Hebron postponed a Palestinian wedding. The Guardian reports the US military banned Chinese BYD electric vehicles at Kadena airbase in Okinawa over security concerns.",
+        "category": "国际政治"
       }
     ]
   },
@@ -5188,7 +5209,7 @@
   },
   {
     "thread_id": "thread-独立电影与f1意大利大奖赛2026年相关报道概述",
-    "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
+    "title": "US says it killed five people in strike on alleged drug boat",
     "category": "安全与冲突",
     "events": [
       {
@@ -5280,6 +5301,13 @@
         "event_cluster_id": "20261012-pakistani-national-killed-second-01",
         "headline": "Pakistani national killed in second Houthi strike on Riyadh airport",
         "summary": "Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s Airport.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261028",
+        "event_cluster_id": "20261028-us-it-killed-five-01",
+        "headline": "US says it killed five people in strike on alleged drug boat",
+        "summary": "Latest strike brings death toll of campaign decried as extrajudicial killings to 243 people since September 2025.",
         "category": "安全与冲突"
       }
     ]
@@ -5965,8 +5993,8 @@
   },
   {
     "thread_id": "thread-massachusetts-and-texas-see-competitive-",
-    "title": "Two unrelated legal cases reported by different news sources",
-    "category": "社会与公共政策",
+    "title": "Al Jazeera reports US-Cuba clash at UN; New York Post covers Abdul El-Sayed academic writings",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -6016,6 +6044,13 @@
         "headline": "Two unrelated legal cases reported by different news sources",
         "summary": "Al Jazeera reports a US appeals court blocked the Trump administration's effort to stop California from tabulating ballots from a list of alleged non-citizens. The New York Times reports singer Chris Brown received a suspended prison sentence in a London court on Monday for a nightclub assault. The two sources cover completely different events with no overlap in subject matter.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261028",
+        "event_cluster_id": "20261028-america-us-envoy-scolds-01",
+        "headline": "Al Jazeera reports US-Cuba clash at UN; New York Post covers Abdul El-Sayed academic writings",
+        "summary": "Al Jazeera reports US envoy Mike Waltz clashed with Cuban diplomats at UN headquarters. New York Post publishes commentary on Abdul El-Sayed academic research. Sources cover different events with no overlap in subject matter.",
+        "category": "国际政治"
       }
     ]
   },
@@ -6917,7 +6952,7 @@
   },
   {
     "thread_id": "thread-ipswich-town-vs-liverpool-premier-league",
-    "title": "It's official: now avoid credit card interest into 2024",
+    "title": "Experts: this is the best cash back card of 2022",
     "category": "未分类",
     "events": [
       {
@@ -6967,6 +7002,13 @@
         "event_cluster_id": "20261021-it-s-official-now-01",
         "headline": "It's official: now avoid credit card interest into 2024",
         "summary": "Everything you need to know about the UFC 333 fight card, which features two title fights at the top of the card.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261028",
+        "event_cluster_id": "20261028-experts-best-cash-back-01",
+        "headline": "Experts: this is the best cash back card of 2022",
+        "summary": "The \"Chrisley Knows Best\" alum appeared to respond to the backlash over her being engaged to a convicted fraudster 27 years older than her.",
         "category": "未分类"
       }
     ]
@@ -7617,7 +7659,7 @@
   },
   {
     "thread_id": "thread-amazon-prime-plane-overruns-runway-at-mi",
-    "title": "Family of prison officer killed by IRA receives state apology",
+    "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
     "category": "未分类",
     "events": [
       {
@@ -7681,6 +7723,13 @@
         "event_cluster_id": "20261022-family-prison-officer-killed-01",
         "headline": "Family of prison officer killed by IRA receives state apology",
         "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261028",
+        "event_cluster_id": "20261028-deaths-detention-cells-nigeria-01",
+        "headline": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
+        "summary": "Overcrowding and poor ventilation caused the deaths of 33 detainees in a prison cell in Minna state.",
         "category": "未分类"
       }
     ]
@@ -8051,7 +8100,7 @@
   },
   {
     "thread_id": "thread-israeli-strikes-in-southern-lebanese-vil",
-    "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
+    "title": "Netanyahu rallies Likud voters with megaphone in shopping mall",
     "category": "国际政治",
     "events": [
       {
@@ -8115,6 +8164,13 @@
         "event_cluster_id": "20261027-israeli-jews-across-spectrum-01",
         "headline": "Israeli Jews Across the Spectrum Face an Election of Fears",
         "summary": "Benjamin Netanyahu, Israel’s prime minister, speaking to supporters in the food court of a shopping mall in Holon, Israel, during a campaign visit this month.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261028",
+        "event_cluster_id": "20261028-netanyahu-rallies-likud-voters-01",
+        "headline": "Netanyahu rallies Likud voters with megaphone in shopping mall",
+        "summary": "Israeli Prime Minister Benjamin Netanyahu has urged voters to back his Likud party minutes before polls close.",
         "category": "国际政治"
       }
     ]
@@ -8660,8 +8716,8 @@
   },
   {
     "thread_id": "thread-california-bets-on-a-non-ultra-processed",
-    "title": "Intense waves and floods batter California waterfront homes and boardwalks",
-    "category": "气候与环境",
+    "title": "Anduril Co-Founder Palmer Luckey Says He’s Staying In California To ‘Fight’ For State, Despite Billionaire Tax",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260910",
@@ -8690,6 +8746,13 @@
         "headline": "Intense waves and floods batter California waterfront homes and boardwalks",
         "summary": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected Southern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that overtook city streets and intense waves battered beachside homes. The remnants of Tropical Storm Rachel hit Mexico ’s Baja California over the weekend as well as so",
         "category": "气候与环境"
+      },
+      {
+        "date": "20261028",
+        "event_cluster_id": "20261028-anduril-co-founder-palmer-01",
+        "headline": "Anduril Co-Founder Palmer Luckey Says He’s Staying In California To ‘Fight’ For State, Despite Billionaire Tax",
+        "summary": "Luckey, the billionaire co-founder of defense contractor Anduril, still said the proposed tax was “almost like a seizure of future wealth.”",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -9031,7 +9094,7 @@
   },
   {
     "thread_id": "thread-scientists-say-august-was-earth-s-hottes",
-    "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+    "title": "President Lula da Silva criticised Flavio Bolsonaro for leaving Brazil amid reports he was headed to the US.",
     "category": "国际政治",
     "events": [
       {
@@ -9061,12 +9124,19 @@
         "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
         "summary": "Brazil's tight presidential runoff pits a political giant against a Bolsonaro heir in a battle over the country's political future. (Image credit: Evaristo Sa and Gledston Tavares)",
         "category": "国际政治"
+      },
+      {
+        "date": "20261028",
+        "event_cluster_id": "20261028-president-lula-calls-bolsonaro-01",
+        "headline": "President Lula da Silva criticised Flavio Bolsonaro for leaving Brazil amid reports he was headed to the US.",
+        "summary": "President Lula da Silva criticised Flavio Bolsonaro for leaving Brazil amid reports he was headed to the US.",
+        "category": "国际政治"
       }
     ]
   },
   {
     "thread_id": "thread-manchester-united-beat-sabah-4-0-on-cham",
-    "title": "The Next Risk For U.S. LNG Is Demand, Not Supply",
+    "title": "What We Learned From a Survey Experiment About Global ‘Superpowers’",
     "category": "未分类",
     "events": [
       {
@@ -9102,6 +9172,13 @@
         "event_cluster_id": "20261025-next-risk-u-s-01",
         "headline": "The Next Risk For U.S. LNG Is Demand, Not Supply",
         "summary": "U.S. LNG export capacity is surging, but the next challenge may be whether global demand can grow fast enough to keep new terminals fully utilized.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261028",
+        "event_cluster_id": "20261028-what-we-learned-survey-01",
+        "headline": "What We Learned From a Survey Experiment About Global ‘Superpowers’",
+        "summary": "We tested open-ended ways to ask which countries are global superpowers. Here's what cognitive interviews and a survey experiment revealed.",
         "category": "未分类"
       }
     ]
@@ -9738,8 +9815,8 @@
   },
   {
     "thread_id": "thread-what-to-know-about-us-federal-reserve-s-",
-    "title": "What to know about US Federal Reserve’s first interest rate hike in 3 years",
-    "category": "经济与市场",
+    "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+    "category": "未分类",
     "events": [
       {
         "date": "20260917",
@@ -9747,6 +9824,13 @@
         "headline": "What to know about US Federal Reserve’s first interest rate hike in 3 years",
         "summary": "The unanimous decision comes as prices have remained stubbornly high and despite Trump s demands for lower rates.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261028",
+        "event_cluster_id": "20261028-alexander-brothers-each-sentenced-01",
+        "headline": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+        "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+        "category": "未分类"
       }
     ]
   },
@@ -10739,8 +10823,8 @@
   },
   {
     "thread_id": "thread-deadly-strike-hits-market-in-yemen-s-tai",
-    "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
-    "category": "未分类",
+    "title": "A 'Green Army' is out to thwart El Niño flooding",
+    "category": "气候与环境",
     "events": [
       {
         "date": "20260928",
@@ -10762,6 +10846,13 @@
         "headline": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
         "summary": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday. (Image credit: AP Photo)",
         "category": "未分类"
+      },
+      {
+        "date": "20261028",
+        "event_cluster_id": "20261028-green-army-out-thwart-01",
+        "headline": "A 'Green Army' is out to thwart El Niño flooding",
+        "summary": "In Nairobi, a city prone to floods, workers in the \"Green Army\" are making preparations to prevent disaster when El Niño arrives. (Image credit: Donwilson Odhiambo)",
+        "category": "气候与环境"
       }
     ]
   },
@@ -11215,8 +11306,8 @@
   },
   {
     "thread_id": "thread-what-a-pearly-king-taught-me-about-cockn",
-    "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
-    "category": "未分类",
+    "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
+    "category": "国际政治",
     "events": [
       {
         "date": "20261002",
@@ -11224,6 +11315,13 @@
         "headline": "What a Pearly King taught me about Cockney rhyming slang and East London history",
         "summary": "In mother-of-pearl suits, the Pearly Kings used to canvass East London for charity. The most famous one, George Major, died in August. A look back on this larger-than-life figure and the Pearly King tradition. (Image credit: Tony Kershaw)",
         "category": "未分类"
+      },
+      {
+        "date": "20261028",
+        "event_cluster_id": "20261028-king-charles-discuss-legacy-01",
+        "headline": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
+        "summary": "Royal tour of Caribbean comes as Commonwealth nations renew calls for Britain to engage in reparation talks King Charles has confirmed he will discuss the legacy of slavery at a summit with Commonwealth leaders as he begins his Caribbean tour. The king arrived in the Bahamas to a ceremonial welcome and attended a youth rally at Clifford Park, the site where the country officially gained its indepe",
+        "category": "国际政治"
       }
     ]
   },
@@ -11292,7 +11390,7 @@
   },
   {
     "thread_id": "thread-russia-hits-second-major-bridge-in-ukrai",
-    "title": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to surviv",
+    "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
     "category": "未分类",
     "events": [
       {
@@ -11321,6 +11419,13 @@
         "event_cluster_id": "20261024-white-house-melania-trump-01",
         "headline": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to surviv",
         "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261028",
+        "event_cluster_id": "20261028-what-we-know-about-01",
+        "headline": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+        "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
         "category": "未分类"
       }
     ]
@@ -11936,8 +12041,8 @@
   },
   {
     "thread_id": "thread-myanmar-refugees-find-hope-in-thailand-s",
-    "title": "Is Donald Trump ready to do business with Myanmar",
-    "category": "安全与冲突",
+    "title": "Donald Trump's biggest economic problem looks strangely familiar",
+    "category": "国际政治",
     "events": [
       {
         "date": "20261020",
@@ -11952,6 +12057,13 @@
         "headline": "Is Donald Trump ready to do business with Myanmar",
         "summary": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261028",
+        "event_cluster_id": "20261028-donald-trump-s-biggest-01",
+        "headline": "Donald Trump's biggest economic problem looks strangely familiar",
+        "summary": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
+        "category": "国际政治"
       }
     ]
   },
@@ -12020,7 +12132,7 @@
   },
   {
     "thread_id": "thread-putin-releases-american-stephen-hubbard-",
-    "title": "Putin releases American Stephen Hubbard from Russian prison",
+    "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
     "category": "国际政治",
     "events": [
       {
@@ -12028,6 +12140,13 @@
         "event_cluster_id": "20261022-putin-releases-american-stephen-01",
         "headline": "Putin releases American Stephen Hubbard from Russian prison",
         "summary": "Russian President Vladimir Putin has freed another American, 74-year-old Michigan native Stephen Hubbard, from a Russian prison following a request from President Trump.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261028",
+        "event_cluster_id": "20261028-qatar-s-emir-putin-01",
+        "headline": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
+        "summary": "Russian President Vladimir Putin and Qatar’s Emir, Sheikh Tamim bin Hamad Al Thani, met in Moscow.",
         "category": "国际政治"
       }
     ]
@@ -12076,8 +12195,8 @@
   },
   {
     "thread_id": "thread-russia-frees-jailed-american-stephen-hub",
-    "title": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
-    "category": "未分类",
+    "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
+    "category": "国际政治",
     "events": [
       {
         "date": "20261022",
@@ -12085,6 +12204,13 @@
         "headline": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
         "summary": "During talks between Vladimir Putin and Steve Witkoff, Putin announced that jailed American Stephen Hubbard had been released. The Kremlin also said Russia was \"in principle\" ready to resume trilateral talks next month.",
         "category": "未分类"
+      },
+      {
+        "date": "20261028",
+        "event_cluster_id": "20261028-kyiv-hopes-momentum-peace-01",
+        "headline": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
+        "summary": "Alexander Stubb and Jonas Gahr Støre held ‘substantive’ talk with Russian president on peace negotiations, but faced sceptical reactions from some European leaders Meanwhile, Wes Streeting, the defence secretary, has warned that Russia’s Vladimir Putin is “testing us and testing Nato’s resolve” as he condemned hybrid threats and “state-sponsored terrorism” from Russia. Streeting repeated his recen",
+        "category": "国际政治"
       }
     ]
   },
@@ -12253,6 +12379,34 @@
         "headline": "‘Deflections’: Abdul El-Sayed responds to Trump’s anti-Muslim attacks",
         "summary": "The Democratic candidate for the US Senate has been the subject of Islamophobic attacks from Trump.",
         "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-egypt-orders-closure-of-independent-news",
+    "title": "Egypt orders closure of independent news site Mada Masr and fines editor Lina Attalah",
+    "category": "社会与公共政策",
+    "events": [
+      {
+        "date": "20261028",
+        "event_cluster_id": "20261028-egypt-orders-closure-leading-01",
+        "headline": "Egypt orders closure of independent news site Mada Masr and fines editor Lina Attalah",
+        "summary": "An Egyptian court ordered the shutdown of the independent online newspaper Mada Masr and imposed a fine of $53,400 on its editor-in-chief Lina Attalah. Attalah was released after paying the fine but later discovered a one-year prison sentence had been issued in her absence. Amnesty International called the verdict a crushing blow to press freedom, while critics warn it signals a broader crackdown ",
+        "category": "社会与公共政策"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-serbian-students-victorious-and-leaderle",
+    "title": "Serbian Students, Victorious and Leaderless, Go After the Media",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20261028",
+        "event_cluster_id": "20261028-serbian-students-victorious-leaderless-01",
+        "headline": "Serbian Students, Victorious and Leaderless, Go After the Media",
+        "summary": "Supporters of the Student List opposition bloc in Belgrade, Serbia’s capital, on Monday, celebrating its victory in the national elections.",
+        "category": "国际政治"
       }
     ]
   }
