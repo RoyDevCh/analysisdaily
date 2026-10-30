@@ -1,7 +1,7 @@
 [
   {
     "thread_id": "thread-european-commission-fines-techco-1-8-bil",
-    "title": "European Commission Fines TechCo 1.8 Billion Euros",
+    "title": "ECB President Christine Lagarde to step down nine months early",
     "category": "经济与市场",
     "events": [
       {
@@ -23,6 +23,13 @@
         "event_cluster_id": "20260902-eu-fines-techco-1-01",
         "headline": "European Commission Fines TechCo 1.8 Billion Euros",
         "summary": "The European Commission fined TechCo 1.8 billion euros on Tuesday. The regulator stated TechCo abused its dominant position in the online search market by favoring its own shopping service. This decision followed a four-year investigation. TechCo announced plans to appeal the ruling. Sources diverge on the nature of the fine, with one source citing critics who view the move as regulatory overreach",
+        "category": "经济与市场"
+      },
+      {
+        "date": "20261030",
+        "event_cluster_id": "20261030-european-central-bank-ecb-01",
+        "headline": "ECB President Christine Lagarde to step down nine months early",
+        "summary": "European Central Bank President Christine Lagarde announced she will resign before her term ends. The European Council President Antonio Costa stated the search for a successor has begun. Lagarde cited a desire to speak freely about global affairs, constrained by neutrality rules. Sources differ on the exact departure month, with one indicating February and another March. The move ends months of s",
         "category": "经济与市场"
       }
     ]
@@ -792,7 +799,7 @@
   },
   {
     "thread_id": "thread-nepal-search-operations-continue-a-week-",
-    "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+    "title": "EU force helicopter crash kills four in Bosnia",
     "category": "未分类",
     "events": [
       {
@@ -835,6 +842,13 @@
         "event_cluster_id": "20261011-four-dead-thousands-without-01",
         "headline": "Four dead and thousands without power after Hurricane Isaias lashes US",
         "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261030",
+        "event_cluster_id": "20261030-eu-force-helicopter-crash-01",
+        "headline": "EU force helicopter crash kills four in Bosnia",
+        "summary": "EUFOR confirms CH-47 Chinook helicopter crash in Bosnia, with four Italian nationals confirmed dead.",
         "category": "未分类"
       }
     ]
@@ -2577,8 +2591,8 @@
   },
   {
     "thread_id": "thread-joshua-wong-pleads-guilty-in-hong-kong-n",
-    "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
-    "category": "安全与冲突",
+    "title": "How a Self-Described ‘Junkie’ Rode Synthetic Drugs to Oblivion — and Fame",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -2719,6 +2733,13 @@
         "headline": "Gunmen kill at least 10 people in eastern Nigeria, police say",
         "summary": "Nigerian police say a large group carried out the attack on Binnari village in Taraba State.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261030",
+        "event_cluster_id": "20261030-how-self-described-junkie-01",
+        "headline": "How a Self-Described ‘Junkie’ Rode Synthetic Drugs to Oblivion — and Fame",
+        "summary": "The Estonian police used to respond to reports of people sniffing glue at these abandoned housing units. Now ultra-potent new synthetic drugs are keeping them busy.",
+        "category": "未分类"
       }
     ]
   },
@@ -3221,8 +3242,8 @@
   },
   {
     "thread_id": "thread-search-operations-continue-after-floods-",
-    "title": "China's Plenum Begins as Xi Jinping Prepares for Expected Fourth Term",
-    "category": "国际政治",
+    "title": "China leaders demand more loyalty and more initiative",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -3321,6 +3342,13 @@
         "headline": "China's Plenum Begins as Xi Jinping Prepares for Expected Fourth Term",
         "summary": "China's closed-door plenum started Monday, approximately one year before President Xi Jinping is expected to secure a fourth term as Communist Party leader. The gathering is anticipated to involve personnel changes to key leadership bodies. Xi has warned that many officials fail to faithfully execute his directives, and ongoing purges are viewed as clearing the path for his continued rule. Both NP",
         "category": "国际政治"
+      },
+      {
+        "date": "20261030",
+        "event_cluster_id": "20261030-china-leaders-demand-more-01",
+        "headline": "China leaders demand more loyalty and more initiative",
+        "summary": "The CCP session emphasized internal discipline — as expected, but left the question of Xi Jinping's successor unanswered. The party seems anxious of any instability as geopolitics heats up and China's economy cools down.",
+        "category": "未分类"
       }
     ]
   },
@@ -3585,8 +3613,8 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-tiger-woods-and-bmw",
-    "title": "French court sentences 13 men over deadliest small-boat crossing to UK",
-    "category": "社会与公共政策",
+    "title": "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -3671,12 +3699,19 @@
         "headline": "French court sentences 13 men over deadliest small-boat crossing to UK",
         "summary": "Six people smugglers are found guilty of involuntary homicide after 31 migrants died in the English Channel in 2021.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261030",
+        "event_cluster_id": "20261030-patrick-stewart-star-trek-01",
+        "headline": "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86",
+        "summary": "Stewart died in Los Angeles after living with Alzheimer s disease and Lewy body dementia.",
+        "category": "文化体育"
       }
     ]
   },
   {
     "thread_id": "thread-guinea-bissau-voters-approve-new-constit",
-    "title": "Israel election live: Netanyahu speaks as exit polls point to tie with Eisenkot opposition bloc",
+    "title": "How Israel’s Election Could End",
     "category": "国际政治",
     "events": [
       {
@@ -3775,6 +3810,13 @@
         "event_cluster_id": "20261028-israel-election-live-netanyahu-01",
         "headline": "Israel election live: Netanyahu speaks as exit polls point to tie with Eisenkot opposition bloc",
         "summary": "Updated exit polling shows Benjamin Netanyahu’s bloc tied with Eisenkot’s opposition grouping, with both on 51 seats, as Palestinian parties surge Full report: Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats Analysis: Rise of Palestinian parties in Knesset will redraw Israel’s political landscape Across Israel , voting is now under way. Here are some of the",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261030",
+        "event_cluster_id": "20261030-how-israel-s-election-01",
+        "headline": "How Israel’s Election Could End",
+        "summary": "Neither Benjamin Netanyahu nor Gadi Eisenkot won a majority in Israel’s Parliament, leaving both with a chance to form a government. Our Jerusalem bureau chief, David M. Halbfinger, explains the possible coalitions and the obstacles to an opposition alliance that could include Arab parties.",
         "category": "国际政治"
       }
     ]
@@ -4005,7 +4047,7 @@
   },
   {
     "thread_id": "thread-developments-regarding-west-bank-settlem",
-    "title": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
+    "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
     "category": "国际政治",
     "events": [
       {
@@ -4076,6 +4118,13 @@
         "event_cluster_id": "20261028-go-home-ben-gvir-01",
         "headline": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
         "summary": "Israel’s Joint Arab List party celebrated as exit polls projected as many as 18 parliamentary seats for the Arab-bloc.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261030",
+        "event_cluster_id": "20261030-israeli-opposition-accuses-netanyahu-01",
+        "headline": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+        "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
         "category": "国际政治"
       }
     ]
@@ -5993,7 +6042,7 @@
   },
   {
     "thread_id": "thread-massachusetts-and-texas-see-competitive-",
-    "title": "Al Jazeera reports US-Cuba clash at UN; New York Post covers Abdul El-Sayed academic writings",
+    "title": "Two unrelated international events reported: Peru prison inspection and Haiti election postponement",
     "category": "国际政治",
     "events": [
       {
@@ -6050,6 +6099,13 @@
         "event_cluster_id": "20261028-america-us-envoy-scolds-01",
         "headline": "Al Jazeera reports US-Cuba clash at UN; New York Post covers Abdul El-Sayed academic writings",
         "summary": "Al Jazeera reports US envoy Mike Waltz clashed with Cuban diplomats at UN headquarters. New York Post publishes commentary on Abdul El-Sayed academic research. Sources cover different events with no overlap in subject matter.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261030",
+        "event_cluster_id": "20261030-fujimori-tours-el-salvador-01",
+        "headline": "Two unrelated international events reported: Peru prison inspection and Haiti election postponement",
+        "summary": "Al Jazeera reports Peru's President Keiko Fujimori inspected El Salvador's mega-prison while considering building one in Peru. The New York Times reports Haiti postponed elections due to rampant gang violence. These are separate events in different countries.",
         "category": "国际政治"
       }
     ]
@@ -6420,7 +6476,7 @@
   },
   {
     "thread_id": "thread-japan-reduces-urban-speed-limits-and-see",
-    "title": "Former FBI director James Comey hit with third set of charges under Trump",
+    "title": "Trump cancels Iowa, Kansas midterm events, opts for ‘tele-rallies’",
     "category": "未分类",
     "events": [
       {
@@ -6512,6 +6568,13 @@
         "event_cluster_id": "20261027-former-fbi-director-james-01",
         "headline": "Former FBI director James Comey hit with third set of charges under Trump",
         "summary": "Comey, who was fired during Trump s first term, has been accused of unlawfully divulging national security information.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261030",
+        "event_cluster_id": "20261030-trump-cancels-iowa-kansas-01",
+        "headline": "Trump cancels Iowa, Kansas midterm events, opts for ‘tele-rallies’",
+        "summary": "The Republican National Committee has announced broadcasts in nearly 20 states after Trump nixes final rallies.",
         "category": "未分类"
       }
     ]
@@ -7911,8 +7974,8 @@
   },
   {
     "thread_id": "thread-how-725-game-show-winnings-kick-started-",
-    "title": "Kenya cult leader's children still being starved weeks before trial, son says",
-    "category": "社会与公共政策",
+    "title": "Binance says $3bn in crypto funds frozen amid ‘potential security issue’",
+    "category": "未分类",
     "events": [
       {
         "date": "20260908",
@@ -7997,6 +8060,13 @@
         "headline": "Kenya cult leader's children still being starved weeks before trial, son says",
         "summary": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261030",
+        "event_cluster_id": "20261030-binance-3bn-crypto-funds-01",
+        "headline": "Binance says $3bn in crypto funds frozen amid ‘potential security issue’",
+        "summary": "Binance founder says world s largest crypto exchange appears to have been hacked.",
+        "category": "未分类"
       }
     ]
   },
@@ -8240,8 +8310,8 @@
   },
   {
     "thread_id": "thread-liv-files-for-bankruptcy-protection-with",
-    "title": "SpaceX Posts $431 Million AI Operating Profit As Total Revenue Jumps 161%",
-    "category": "经济与市场",
+    "title": "A Marathon Runner’s Hard Lesson",
+    "category": "未分类",
     "events": [
       {
         "date": "20260909",
@@ -8263,6 +8333,13 @@
         "headline": "SpaceX Posts $431 Million AI Operating Profit As Total Revenue Jumps 161%",
         "summary": "The aerospace and AI company posted $14.6 billion in revenue, up 161% year-over-year.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261030",
+        "event_cluster_id": "20261030-marathon-runner-s-hard-01",
+        "headline": "A Marathon Runner’s Hard Lesson",
+        "summary": "Temperatures approached 80 degrees Fahrenheit during this year’s Chicago marathon.",
+        "category": "未分类"
       }
     ]
   },
@@ -10347,7 +10424,7 @@
   },
   {
     "thread_id": "thread-ireland-s-data-protection-commission-fin",
-    "title": "AI Impact on Employment Gender Gap and Retail Rankings",
+    "title": "Americans Are Open to AI in Healthcare, but Want Humans Making Final Calls",
     "category": "科技与AI",
     "events": [
       {
@@ -10390,6 +10467,13 @@
         "event_cluster_id": "20261023-men-experiencing-more-job-01",
         "headline": "AI Impact on Employment Gender Gap and Retail Rankings",
         "summary": "Pew Research Center reports men's employment grew faster than women's in AI-exposed occupations, driven by workers without bachelor's degrees. Forbes reports AI shopping tools are shifting brand rankings, with AI visibility not always following sales data. Both sources document AI's economic effects across different sectors. The employment gap appears in occupations most exposed to AI technology. ",
+        "category": "科技与AI"
+      },
+      {
+        "date": "20261030",
+        "event_cluster_id": "20261030-americans-open-ai-healthcare-01",
+        "headline": "Americans Are Open to AI in Healthcare, but Want Humans Making Final Calls",
+        "summary": "Americans are generally open to AI handling administrative and medical tasks, but they largely don’t want AI operating without human oversight. About half (47%) say AI will make the relationship between patients and their doctors worse, compared with 10% who say it will make it better.",
         "category": "科技与AI"
       }
     ]
@@ -10627,8 +10711,8 @@
   },
   {
     "thread_id": "thread-reporter-s-notebook-call-for-a-free-iran",
-    "title": "Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start",
-    "category": "文化体育",
+    "title": "Cornell begins no confidence vote over handling of alleged gang rape",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260925",
@@ -10650,6 +10734,13 @@
         "headline": "Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start",
         "summary": "Kylian Mbappe and Yan Diomande score stunners as Real beat Leipzig to make it three from three in the Champions League.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261030",
+        "event_cluster_id": "20261030-cornell-begins-no-confidence-01",
+        "headline": "Cornell begins no confidence vote over handling of alleged gang rape",
+        "summary": "Faculty vote will continue until next Friday and could send message that school s president has lost their confidence.",
+        "category": "国际政治"
       }
     ]
   },
@@ -11558,7 +11649,7 @@
   },
   {
     "thread_id": "thread-bold-and-inventive-canadian-poet-anne-ca",
-    "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+    "title": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
     "category": "安全与冲突",
     "events": [
       {
@@ -11594,6 +11685,13 @@
         "event_cluster_id": "20261019-iran-war-live-tehran-01",
         "headline": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
         "summary": "Iran s Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261030",
+        "event_cluster_id": "20261030-iran-war-live-irgc-01",
+        "headline": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
+        "summary": "Iran s IRGC says four tankers have struck naval mines after using unauthorised Strait of Hormuz routes.",
         "category": "安全与冲突"
       }
     ]
@@ -11768,8 +11866,8 @@
   },
   {
     "thread_id": "thread-breaking-bad-actor-rj-mitte-dies-aged-34",
-    "title": "Breaking Bad actor RJ Mitte dies aged 34",
-    "category": "文化体育",
+    "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+    "category": "未分类",
     "events": [
       {
         "date": "20261013",
@@ -11777,6 +11875,13 @@
         "headline": "Breaking Bad actor RJ Mitte dies aged 34",
         "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261030",
+        "event_cluster_id": "20261030-hello-kitty-maker-cuts-01",
+        "headline": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+        "summary": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
+        "category": "未分类"
       }
     ]
   },
@@ -11817,8 +11922,8 @@
   },
   {
     "thread_id": "thread-nato-details-plan-to-shield-ukraine-s-eu",
-    "title": "Wednesday, October 14. Russia’s War On Ukraine: News And Information From Ukraine",
-    "category": "安全与冲突",
+    "title": "Real Madrid and FC Barcelona honour Spain train crash victims",
+    "category": "未分类",
     "events": [
       {
         "date": "20261013",
@@ -11833,12 +11938,19 @@
         "headline": "Wednesday, October 14. Russia’s War On Ukraine: News And Information From Ukraine",
         "summary": "Wednesday, October 14. Russia’s War On Ukraine: News And Information From Ukraine",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261030",
+        "event_cluster_id": "20261030-real-madrid-fc-barcelona-01",
+        "headline": "Real Madrid and FC Barcelona honour Spain train crash victims",
+        "summary": "Spanish football clubs were among those to hold a minute’s silence for the victims of Wednesday’s train collision.",
+        "category": "未分类"
       }
     ]
   },
   {
     "thread_id": "thread-scotus-will-hear-case-to-expand-federal-",
-    "title": "SCOTUS Will Hear Case To Expand Federal Prisoners’ Right To Appeal",
+    "title": "Erin Patterson loses appeal, sentenced to life without parole for mushroom murders",
     "category": "安全与冲突",
     "events": [
       {
@@ -11846,6 +11958,13 @@
         "event_cluster_id": "20261014-scotus-hear-case-expand-01",
         "headline": "SCOTUS Will Hear Case To Expand Federal Prisoners’ Right To Appeal",
         "summary": "The Supreme Court has agreed to hear a case involving a federal inmate's rights to challenge a Circuit Decision that may have a conflict with another Circuit.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261030",
+        "event_cluster_id": "20261030-erin-patterson-die-prison-01",
+        "headline": "Erin Patterson loses appeal, sentenced to life without parole for mushroom murders",
+        "summary": "The Victorian Court of Appeal rejected Erin Patterson's appeal against her convictions for the murder of three people who died after eating a beef wellington laced with poisonous mushrooms. The court resentenced Patterson to life imprisonment with no non-parole period. Justices found her murderous intent existed from the time she invited the victims to lunch through the administration of the poiso",
         "category": "安全与冲突"
       }
     ]
@@ -12272,7 +12391,7 @@
   },
   {
     "thread_id": "thread-duchess-of-sussex-deeply-distressed-over",
-    "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+    "title": "Philippine police obtain warrant to search Thomas Markle's devices",
     "category": "安全与冲突",
     "events": [
       {
@@ -12280,6 +12399,13 @@
         "event_cluster_id": "20261024-duchess-sussex-deeply-distressed-01",
         "headline": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
         "summary": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father, Thomas Markle Sr, and revealed she was made aware of “disturbing allegations” against him in 2018 by the Metropolitan police. Meghan issued a statement after the S",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261030",
+        "event_cluster_id": "20261030-philippine-police-obtain-warrant-01",
+        "headline": "Philippine police obtain warrant to search Thomas Markle's devices",
+        "summary": "Philippine police obtained a warrant to search devices belonging to Thomas Markle, father of Meghan, Duchess of Sussex, at his former residence in Cebu. Authorities reportedly found images of child sexual abuse in the home. Police collected VHS tapes and computers as evidence. The investigation is ongoing.",
         "category": "安全与冲突"
       }
     ]
@@ -12314,7 +12440,7 @@
   },
   {
     "thread_id": "thread-venezuelan-opposition-leader-machado-ret",
-    "title": "Venezuelan opposition leader Machado returns from exile",
+    "title": "Armenian parliament turns into a boxing ring, third time in a month",
     "category": "国际政治",
     "events": [
       {
@@ -12322,6 +12448,13 @@
         "event_cluster_id": "20261027-venezuelan-opposition-leader-machado-01",
         "headline": "Venezuelan opposition leader Machado returns from exile",
         "summary": "Nobel Peace Prize winner and popular Venezuelan political opposition figure Maria Corina Machado has returned after nearly a year away. Sitting President Rodriguez accused her of making a \"show.\"",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261030",
+        "event_cluster_id": "20261030-armenian-parliament-turns-boxing-01",
+        "headline": "Armenian parliament turns into a boxing ring, third time in a month",
+        "summary": "Armenia’s parliament descended into fisticuffs after a ruling-party MP mocked the opposition leader’s family.",
         "category": "国际政治"
       }
     ]
