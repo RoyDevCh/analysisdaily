@@ -799,7 +799,7 @@
   },
   {
     "thread_id": "thread-nepal-search-operations-continue-a-week-",
-    "title": "EU force helicopter crash kills four in Bosnia",
+    "title": "Six dead after helicopter crashes in northern Indian state",
     "category": "未分类",
     "events": [
       {
@@ -849,6 +849,13 @@
         "event_cluster_id": "20261030-eu-force-helicopter-crash-01",
         "headline": "EU force helicopter crash kills four in Bosnia",
         "summary": "EUFOR confirms CH-47 Chinook helicopter crash in Bosnia, with four Italian nationals confirmed dead.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-six-dead-helicopter-crashes-01",
+        "headline": "Six dead after helicopter crashes in northern Indian state",
+        "summary": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
         "category": "未分类"
       }
     ]
@@ -1254,8 +1261,8 @@
   },
   {
     "thread_id": "thread-zelensky-says-airlines-should-avoid-russ",
-    "title": "A federal judge ruled against the Justice Department s use of voter data to cross-reference an immigration database.",
-    "category": "科技与AI",
+    "title": "Police Investigate Former Prince Andrew and Epstein’s Time at Balmoral, Royal Estate in Scotland",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -1431,6 +1438,13 @@
         "headline": "A federal judge ruled against the Justice Department s use of voter data to cross-reference an immigration database.",
         "summary": "A federal judge ruled against the Justice Department s use of voter data to cross-reference an immigration database.",
         "category": "科技与AI"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-police-investigate-former-prince-01",
+        "headline": "Police Investigate Former Prince Andrew and Epstein’s Time at Balmoral, Royal Estate in Scotland",
+        "summary": "An undated image of Jeffrey Epstein and Ghislaine Maxwell released by the U.S. Department of Justice.",
+        "category": "未分类"
       }
     ]
   },
@@ -1744,8 +1758,8 @@
   },
   {
     "thread_id": "thread-us-and-iran-exchange-more-airstrikes-fue",
-    "title": "Gold falls amid rising oil prices and higher US dollar",
-    "category": "未分类",
+    "title": "Gold House Celebrates The Festival Of Lights With Gold Diwali Event",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -1788,6 +1802,13 @@
         "headline": "Gold falls amid rising oil prices and higher US dollar",
         "summary": "Gold hits seven-week low; silver follows suit and records a nearly 5 percent loss.",
         "category": "未分类"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-gold-house-celebrates-festival-01",
+        "headline": "Gold House Celebrates The Festival Of Lights With Gold Diwali Event",
+        "summary": "Gold House commemorated the annual Festival of Lights at its Gold Diwali event at The Majestic Downtown LA, honoring the rich heritage of South Asian culture worldwide.",
+        "category": "文化体育"
       }
     ]
   },
@@ -2318,7 +2339,7 @@
   },
   {
     "thread_id": "thread-how-indie-cinema-is-beating-hollywood-in",
-    "title": "26, 2026: OKC without Jalen Williams, Luka’s 52, Ty Jerome’s scoring tear, winless Knicks and Heat, and NBA Europe.",
+    "title": "Hany Mukhtar Continues As Nashville SC’s Money Player In MLS",
     "category": "未分类",
     "events": [
       {
@@ -2410,6 +2431,13 @@
         "event_cluster_id": "20261027-5-nba-storylines-watch-01",
         "headline": "26, 2026: OKC without Jalen Williams, Luka’s 52, Ty Jerome’s scoring tear, winless Knicks and Heat, and NBA Europe.",
         "summary": "The NBA stories to watch this week Oct. 26, 2026: OKC without Jalen Williams, Luka’s 52, Ty Jerome’s scoring tear, winless Knicks and Heat, and NBA Europe.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-hany-mukhtar-continues-nashville-01",
+        "headline": "Hany Mukhtar Continues As Nashville SC’s Money Player In MLS",
+        "summary": "Hany Mukhtar, one of the most consistent players in MLS, is an MVP candidate and has been a key performer for Nashville SC in its quest for the 2026 MLS Cup.",
         "category": "未分类"
       }
     ]
@@ -3074,8 +3102,8 @@
   },
   {
     "thread_id": "thread-canadian-prime-minister-mark-carney-resp",
-    "title": "Former U.S. Ambassador to Ukraine on Trump's turn toward Russia",
-    "category": "国际政治",
+    "title": "US approves sale of 500 Patriot missiles to Ukraine",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -3237,6 +3265,13 @@
         "headline": "Former U.S. Ambassador to Ukraine on Trump's turn toward Russia",
         "summary": "NPR's Steve Inskeep asks former U.S. Ambassador to Ukraine John Herbst about President Trump's embrace of Russia as envoy Steve Witkoff heads to Moscow after meeting Ukraine's Volodymyr Zelenskyy.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-us-approves-sale-500-01",
+        "headline": "US approves sale of 500 Patriot missiles to Ukraine",
+        "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -3445,8 +3480,8 @@
   },
   {
     "thread_id": "thread-u-s-and-iran-exchange-military-strikes",
-    "title": "Americans’ Views of ICE Grow More Negative",
-    "category": "社会与公共政策",
+    "title": "Gas Prices Are High Now, but for Many Americans They Were Even Higher in the Past",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -3531,6 +3566,13 @@
         "headline": "Americans’ Views of ICE Grow More Negative",
         "summary": "A majority of Americans (56%) now say they have an unfavorable opinion of Immigration and Customs Enforcement.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-gas-prices-high-now-01",
+        "headline": "Gas Prices Are High Now, but for Many Americans They Were Even Higher in the Past",
+        "summary": "Gas prices have surged amid the Iran conflict, but adjusted for inflation and wages, 2008 was costlier.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -3858,8 +3900,8 @@
   },
   {
     "thread_id": "thread-david-bowie-xr-documentary-debuts-at-ven",
-    "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
-    "category": "安全与冲突",
+    "title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -3902,6 +3944,13 @@
         "headline": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
         "summary": "The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-canadian-pm-mark-carney-01",
+        "headline": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW",
+        "summary": "Prime Minister Mark Carney tells DW that Canada is seeking closer EU ties to \"diversify and deepen\" partnerships beyond the Americas. Despite German pushback, he said he favors the all-new term \"associate membership.\"",
+        "category": "国际政治"
       }
     ]
   },
@@ -4278,7 +4327,7 @@
   },
   {
     "thread_id": "thread-germany-attributes-leipzig-airport-drone",
-    "title": "Why is the UK at the forefront of AI-driven job cuts",
+    "title": "‘Angel Of My Dreams’: How Victoria’s Secret Revived Jade’s 2024 Hit",
     "category": "未分类",
     "events": [
       {
@@ -4377,6 +4426,13 @@
         "event_cluster_id": "20261024-why-uk-forefront-ai-01",
         "headline": "Why is the UK at the forefront of AI-driven job cuts",
         "summary": "AI-linked job losses in the UK are running at twice the rate of US and Germany.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-angel-my-dreams-how-01",
+        "headline": "‘Angel Of My Dreams’: How Victoria’s Secret Revived Jade’s 2024 Hit",
+        "summary": "Kylie Jenner’s Victoria’s Secret Fashion Show runway appearance sends Jade’s Thirwall's ‘Angel Of My Dreams’ back into the UK Top 20, two years after its release.",
         "category": "未分类"
       }
     ]
@@ -5174,8 +5230,8 @@
   },
   {
     "thread_id": "thread-乌克兰扎波罗热市一学校在地库开学以规避战争风险",
-    "title": "While Pope Leo Recovers From Lung Surgery, the Vatican Runs on Autopilot",
-    "category": "未分类",
+    "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -5239,6 +5295,13 @@
         "headline": "While Pope Leo Recovers From Lung Surgery, the Vatican Runs on Autopilot",
         "summary": "Mass in St. Peter’s Square at the Vatican on Wednesday. The service was held by Cardinal Luis Antonio Tagle in Pope Leo’s absence, and included special prayers for the pontiff’s health.",
         "category": "未分类"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-pope-leo-xiv-becomes-01",
+        "headline": "Pope Leo XIV becomes first pontiff to vote in a US election",
+        "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
+        "category": "国际政治"
       }
     ]
   },
@@ -5790,8 +5853,8 @@
   },
   {
     "thread_id": "thread-tiger-woods-pleads-guilty-to-reckless-dr",
-    "title": "Billy Evans’ Employment History Includes Failed Startup Luminar—What To Know About Elizabeth Holmes' Partner",
-    "category": "科技与AI",
+    "title": "What we know about Binance's $6.3bn hack",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -5841,6 +5904,13 @@
         "headline": "Billy Evans’ Employment History Includes Failed Startup Luminar—What To Know About Elizabeth Holmes' Partner",
         "summary": "Before founding his own blood-testing company, Billy Evans worked at failed autonomous-driving startup Luminar Technologies.",
         "category": "科技与AI"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-what-we-know-about-01",
+        "headline": "What we know about Binance's $6.3bn hack",
+        "summary": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+        "category": "未分类"
       }
     ]
   },
@@ -6805,8 +6875,8 @@
   },
   {
     "thread_id": "thread-ice-agent-faces-federal-charges-for-lyin",
-    "title": "There s no guarantee the Rams will play in this season s Super Bowl, but Jay-Z has officially been announced as the half",
-    "category": "未分类",
+    "title": "‘MobLand’ Season 2, Episode 7 Recap And Review: All War, No Consequences",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260904",
@@ -6905,6 +6975,13 @@
         "headline": "There s no guarantee the Rams will play in this season s Super Bowl, but Jay-Z has officially been announced as the half",
         "summary": "With the debut of Season Seven coming next year, costume designer Guy Speranza discusses the work behind each character for his final season on the hit AppleTV series.",
         "category": "未分类"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-mobland-season-2-episode-01",
+        "headline": "‘MobLand’ Season 2, Episode 7 Recap And Review: All War, No Consequences",
+        "summary": "‘MobLand’ Season 2, Episode 7 delivers another thrilling showdown between Harry and Frankie, but the Paramount+ crime drama is running into some frustrating problems.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -7883,8 +7960,8 @@
   },
   {
     "thread_id": "thread-at-least-five-killed-in-new-delhi-buildi",
-    "title": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
-    "category": "安全与冲突",
+    "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – as it happened",
+    "category": "未分类",
     "events": [
       {
         "date": "20260907",
@@ -7920,6 +7997,13 @@
         "headline": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
         "summary": "Injured immediately transported to hospitals as aviation authority says updates will be forthcoming.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-people-27-nationalities-may-01",
+        "headline": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – as it happened",
+        "summary": "This blog is now closed, you can read more on this story here Peunte begins by paying tribute to all affected by the incident. He says that “at present, evidence points to a failure within Adif’s command and control centre,” but adds that investigators are still looking “to clarify what exactly happened.” He says he still has confidence in the system. Continue reading...",
+        "category": "未分类"
       }
     ]
   },
@@ -8576,8 +8660,8 @@
   },
   {
     "thread_id": "thread-saudi-arabia-vows-to-respond-after-houth",
-    "title": "Turn Your Rising Home Equity Into Cash You Can Use",
-    "category": "未分类",
+    "title": "Port Sudan families can barely afford water as shortages persist",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260909",
@@ -8662,6 +8746,13 @@
         "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
         "summary": "Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety. Is it a deliberate military strategy? The water was rising rapidly. It had already reached Cayni Ali’s waist. Her home, five metres from the flooded River Juba in southern Somalia, never stood a chance. There was no",
         "category": "未分类"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-port-sudan-families-barely-01",
+        "headline": "Port Sudan families can barely afford water as shortages persist",
+        "summary": "Despite efforts to restore damaged infrastructure, residents face soaring water costs as war, displacement strain supply",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -8737,7 +8828,7 @@
   },
   {
     "thread_id": "thread-6-facts-about-grandparents-in-the-u-s",
-    "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
+    "title": "Dog walker threatened with gun during ICE arrest in North Hollywood",
     "category": "未分类",
     "events": [
       {
@@ -8774,6 +8865,13 @@
         "headline": "Pakistan arrests man wanted by US over $126m postage fraud case",
         "summary": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
         "category": "未分类"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-dog-walker-threatened-gun-01",
+        "headline": "Dog walker threatened with gun during ICE arrest in North Hollywood",
+        "summary": "Footage shows masked ICE agents pointing a handgun at a bystander walking his dogs as they arrest another man in the US.",
+        "category": "未分类"
       }
     ]
   },
@@ -8793,8 +8891,8 @@
   },
   {
     "thread_id": "thread-california-bets-on-a-non-ultra-processed",
-    "title": "Anduril Co-Founder Palmer Luckey Says He’s Staying In California To ‘Fight’ For State, Despite Billionaire Tax",
-    "category": "安全与冲突",
+    "title": "Hourglass founder opens NYC store; NBC host shares breast cancer diagnosis",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260910",
@@ -8830,6 +8928,20 @@
         "headline": "Anduril Co-Founder Palmer Luckey Says He’s Staying In California To ‘Fight’ For State, Despite Billionaire Tax",
         "summary": "Luckey, the billionaire co-founder of defense contractor Anduril, still said the proposed tax was “almost like a seizure of future wealth.”",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-they-strangled-us-founder-01",
+        "headline": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+        "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-hourglass-founder-carisa-janes-01",
+        "headline": "Hourglass founder opens NYC store; NBC host shares breast cancer diagnosis",
+        "summary": "Hourglass founder Carisa Janes opened a physical store for her Outside In and Nature of Things concepts in New York's SoHo. Separately, an NBC television host disclosed on air in April that she was diagnosed with breast cancer and underwent a double mastectomy, describing a period of deep depression.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -9171,7 +9283,7 @@
   },
   {
     "thread_id": "thread-scientists-say-august-was-earth-s-hottes",
-    "title": "President Lula da Silva criticised Flavio Bolsonaro for leaving Brazil amid reports he was headed to the US.",
+    "title": "Brazil summons Argentinian diplomat over Bolsonaro’s flight to US",
     "category": "国际政治",
     "events": [
       {
@@ -9207,6 +9319,13 @@
         "event_cluster_id": "20261028-president-lula-calls-bolsonaro-01",
         "headline": "President Lula da Silva criticised Flavio Bolsonaro for leaving Brazil amid reports he was headed to the US.",
         "summary": "President Lula da Silva criticised Flavio Bolsonaro for leaving Brazil amid reports he was headed to the US.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-brazil-summons-argentinian-diplomat-01",
+        "headline": "Brazil summons Argentinian diplomat over Bolsonaro’s flight to US",
+        "summary": "The move threatens to further strain relations between Brazilian President Lula and his Argentinian counterpart, Milei.",
         "category": "国际政治"
       }
     ]
@@ -9724,8 +9843,8 @@
   },
   {
     "thread_id": "thread-taylor-swift-broke-her-longstanding-emmy",
-    "title": "Sources cover unrelated events: German regional elections and WNBA Liberty playoff outlook",
-    "category": "国际政治",
+    "title": "Sources cover unrelated topics: home equity loans and NHL hockey",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260915",
@@ -9768,6 +9887,20 @@
         "headline": "Sources cover unrelated events: German regional elections and WNBA Liberty playoff outlook",
         "summary": "The provided sources do not describe the same event. The Washington Post reports on German regional elections where the Left party won in Berlin and the Alternative for Germany won in Mecklenburg-West Pomerania. The New York Post reports on the WNBA Liberty team facing road playoff scenarios. No synthesis of a single event is possible.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-trump-s-tariffs-shutter-01",
+        "headline": "BBC reports Canadian mill closure from US tariffs; New York Post covers Trump rally attacks on De Niro",
+        "summary": "BBC World reports a century-old paper mill in Témiscaming, Quebec closed indefinitely after the US imposed 50% tariffs, putting hundreds out of work. New York Post reports Trump attacked actor Robert De Niro and mentioned Hollywood tax credits at a Daytona Beach campaign rally. The two sources cover separate events with no overlapping subject matter. Sources diverge completely in topic and geograp",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-dream-big-home-equity-01",
+        "headline": "Sources cover unrelated topics: home equity loans and NHL hockey",
+        "summary": "CNN publishes content about home equity loans for financial planning. New York Post reports on New York Islanders hockey team performance against top league opponents. The two sources address completely different subjects with no overlapping event.",
+        "category": "经济与市场"
       }
     ]
   },
@@ -10746,7 +10879,7 @@
   },
   {
     "thread_id": "thread-afghan-taxi-drivers-defy-the-taliban-s-m",
-    "title": "Five ways Trump has changed immigration in the US",
+    "title": "Texas grand jury indicts ICE officer accused of running over man in Houston",
     "category": "社会与公共政策",
     "events": [
       {
@@ -10782,6 +10915,13 @@
         "event_cluster_id": "20261027-five-ways-trump-has-01",
         "headline": "Five ways Trump has changed immigration in the US",
         "summary": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-texas-grand-jury-indicts-01",
+        "headline": "Texas grand jury indicts ICE officer accused of running over man in Houston",
+        "summary": "The officer faces charges after allegedly striking a fleeing construction worker with an SUV during an immigration raid.",
         "category": "社会与公共政策"
       }
     ]
@@ -10830,8 +10970,8 @@
   },
   {
     "thread_id": "thread-takeaways-from-the-trump-xi-state-visit-",
-    "title": "Kim Jong Un crosses new bridge linking North Korea and China",
-    "category": "未分类",
+    "title": "China denies allegations of spy operation targeting Nvidia CEO",
+    "category": "科技与AI",
     "events": [
       {
         "date": "20260926",
@@ -10874,6 +11014,13 @@
         "headline": "Kim Jong Un crosses new bridge linking North Korea and China",
         "summary": "Kim Jong Un crosses new bridge linking North Korea and China",
         "category": "未分类"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-china-denies-allegations-spy-01",
+        "headline": "China denies allegations of spy operation targeting Nvidia CEO",
+        "summary": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
+        "category": "科技与AI"
       }
     ]
   },
@@ -11285,7 +11432,7 @@
   },
   {
     "thread_id": "thread-passengers-tell-of-nightmare-onboard-div",
-    "title": "Fact check: Viral videos falsely linked to Riyadh airport attacks",
+    "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
     "category": "安全与冲突",
     "events": [
       {
@@ -11349,6 +11496,13 @@
         "event_cluster_id": "20261013-fact-check-viral-videos-01",
         "headline": "Fact check: Viral videos falsely linked to Riyadh airport attacks",
         "summary": "Many videos claiming to show an attack on Riyadh's King Khalid International Airport have gone viral online. DW Fact check analyzes some of the most-shared footage and finds evidence it was created using AI.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-crypto-giant-binance-attempting-01",
+        "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+        "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
         "category": "安全与冲突"
       }
     ]
@@ -11418,7 +11572,7 @@
   },
   {
     "thread_id": "thread-protesters-halt-game-as-calls-grow-on-ir",
-    "title": "Dave Roberts Isn’t The (Only) Reason The Dodgers Lost To The Brewers",
+    "title": "How 20-year-old Kimi Antonelli is making F1 history",
     "category": "未分类",
     "events": [
       {
@@ -11440,6 +11594,20 @@
         "event_cluster_id": "20261018-dave-roberts-isn-t-01",
         "headline": "Dave Roberts Isn’t The (Only) Reason The Dodgers Lost To The Brewers",
         "summary": "After managing a masterpiece in the 2024 NLCS, Dodgers manager Dave Roberts left a lot to be desired in this year's version, making questionable calls in Games 3 and 4.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-0-intro-apr-until-01",
+        "headline": "It's official: now avoid credit card interest into 2024",
+        "summary": "The captain made his reality TV debut on \"Below Deck Adventure\" in 2022 and took over for longtime star Captain Lee Rosbach from \"Below Deck\" in 2024.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-how-20-old-kimi-01",
+        "headline": "How 20-year-old Kimi Antonelli is making F1 history",
+        "summary": "Kimi Antonelli had an F1 licence before he could legally drive. Now he could become Formula One’s youngest champion.",
         "category": "未分类"
       }
     ]
@@ -11481,7 +11649,7 @@
   },
   {
     "thread_id": "thread-russia-hits-second-major-bridge-in-ukrai",
-    "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+    "title": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
     "category": "未分类",
     "events": [
       {
@@ -11517,6 +11685,13 @@
         "event_cluster_id": "20261028-what-we-know-about-01",
         "headline": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
         "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-evacuation-civilians-begins-besieged-01",
+        "headline": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
+        "summary": "Humanitarian convoy brings food and medicine to Russian-held city where people have suffered severe shortages People living in the besieged Russian-held city of Oleshky in southern Ukraine were evacuated on Friday as part of a joint relief operation, the first of its kind in four years and eight months of war. The city, which lies on the Russian-occupied side of the Dnipro River, opposite Kherson,",
         "category": "未分类"
       }
     ]
@@ -11950,8 +12125,8 @@
   },
   {
     "thread_id": "thread-scotus-will-hear-case-to-expand-federal-",
-    "title": "Erin Patterson loses appeal, sentenced to life without parole for mushroom murders",
-    "category": "安全与冲突",
+    "title": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20261014",
@@ -11966,6 +12141,13 @@
         "headline": "Erin Patterson loses appeal, sentenced to life without parole for mushroom murders",
         "summary": "The Victorian Court of Appeal rejected Erin Patterson's appeal against her convictions for the murder of three people who died after eating a beef wellington laced with poisonous mushrooms. The court resentenced Patterson to life imprisonment with no non-parole period. Justices found her murderous intent existed from the time she invited the victims to lunch through the administration of the poiso",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-erin-patterson-die-prison-01",
+        "headline": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
+        "summary": "Victorian court of appeal rules Patterson should be jailed for life with no parole over deadly beef wellington lunch that killed three people Erin Patterson mushroom murders appeal – live updates Get our breaking news email , free app or daily news podcast Erin Patterson has lost her bid to overturn her convictions and been resentenced to life behind bars with no chance of release, as Victoria’s h",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -12391,8 +12573,8 @@
   },
   {
     "thread_id": "thread-duchess-of-sussex-deeply-distressed-over",
-    "title": "Philippine police obtain warrant to search Thomas Markle's devices",
-    "category": "安全与冲突",
+    "title": "Poland’s president has cut short a trip to Senegal, joining protesters facing off with police.",
+    "category": "国际政治",
     "events": [
       {
         "date": "20261024",
@@ -12407,6 +12589,13 @@
         "headline": "Philippine police obtain warrant to search Thomas Markle's devices",
         "summary": "Philippine police obtained a warrant to search devices belonging to Thomas Markle, father of Meghan, Duchess of Sussex, at his former residence in Cebu. Authorities reportedly found images of child sexual abuse in the home. Police collected VHS tapes and computers as evidence. The investigation is ongoing.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-poland-s-president-joins-01",
+        "headline": "Poland’s president has cut short a trip to Senegal, joining protesters facing off with police.",
+        "summary": "Poland’s president has cut short a trip to Senegal, joining protesters facing off with police.",
+        "category": "国际政治"
       }
     ]
   },
@@ -12540,6 +12729,34 @@
         "headline": "Serbian Students, Victorious and Leaderless, Go After the Media",
         "summary": "Supporters of the Student List opposition bloc in Belgrade, Serbia’s capital, on Monday, celebrating its victory in the national elections.",
         "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-g20-family-photo-cancelled-after-protest",
+    "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-g20-family-photo-cancelled-01",
+        "headline": "G20 'family photo' cancelled after protests over presence of Russian minister",
+        "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-two-separate-fbi-operations-reported-bev",
+    "title": "Two separate FBI operations reported: Beverly Hills mansion raid and San Diego Mafia takedown",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20261031",
+        "event_cluster_id": "20261031-what-does-fbi-raid-01",
+        "headline": "Two separate FBI operations reported: Beverly Hills mansion raid and San Diego Mafia takedown",
+        "summary": "Forbes reports the FBI raided the Beverly Hills mansion of Stephen Cloobeck, a former donor to Eric Swalwell, in connection with an investigation into the former congressman. Separately, the New York Post reports FBI agents came under fire during a large-scale operation targeting an alleged Mexican Mafia-linked drug empire in San Diego. The two articles describe distinct law enforcement actions in",
+        "category": "安全与冲突"
       }
     ]
   }
