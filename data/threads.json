@@ -3277,8 +3277,8 @@
   },
   {
     "thread_id": "thread-search-operations-continue-after-floods-",
-    "title": "China leaders demand more loyalty and more initiative",
-    "category": "未分类",
+    "title": "China Fielding Robotic Space Weapons That Can Attack Other Satellites",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -3384,6 +3384,13 @@
         "headline": "China leaders demand more loyalty and more initiative",
         "summary": "The CCP session emphasized internal discipline — as expected, but left the question of Xi Jinping's successor unanswered. The party seems anxious of any instability as geopolitics heats up and China's economy cools down.",
         "category": "未分类"
+      },
+      {
+        "date": "20261101",
+        "event_cluster_id": "20261101-china-fielding-robotic-space-01",
+        "headline": "China Fielding Robotic Space Weapons That Can Attack Other Satellites",
+        "summary": "As China has more than tripled its space launches, satellites that can function as weapons pose a big security risk, according to the U.S. Defense Intelligence Agency.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -4950,8 +4957,8 @@
   },
   {
     "thread_id": "thread-scotus-allows-trump-s-ballroom-project-t",
-    "title": "Major fire at Canada military base leaves four dead, dozens injured",
-    "category": "安全与冲突",
+    "title": "Ethiopian PM puts ministers through military training",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -5043,6 +5050,13 @@
         "headline": "Major fire at Canada military base leaves four dead, dozens injured",
         "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261101",
+        "event_cluster_id": "20261101-ethiopian-pm-puts-ministers-01",
+        "headline": "Ethiopian PM puts ministers through military training",
+        "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
+        "category": "国际政治"
       }
     ]
   },
@@ -7092,7 +7106,7 @@
   },
   {
     "thread_id": "thread-ipswich-town-vs-liverpool-premier-league",
-    "title": "Experts: this is the best cash back card of 2022",
+    "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
     "category": "未分类",
     "events": [
       {
@@ -7149,6 +7163,13 @@
         "event_cluster_id": "20261028-experts-best-cash-back-01",
         "headline": "Experts: this is the best cash back card of 2022",
         "summary": "The \"Chrisley Knows Best\" alum appeared to respond to the backlash over her being engaged to a convicted fraudster 27 years older than her.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261101",
+        "event_cluster_id": "20261101-i-ve-been-stuck-01",
+        "headline": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+        "summary": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
         "category": "未分类"
       }
     ]
@@ -8058,7 +8079,7 @@
   },
   {
     "thread_id": "thread-how-725-game-show-winnings-kick-started-",
-    "title": "Binance says $3bn in crypto funds frozen amid ‘potential security issue’",
+    "title": "How vulnerable are cryptocurrency platforms",
     "category": "未分类",
     "events": [
       {
@@ -8150,6 +8171,13 @@
         "event_cluster_id": "20261030-binance-3bn-crypto-funds-01",
         "headline": "Binance says $3bn in crypto funds frozen amid ‘potential security issue’",
         "summary": "Binance founder says world s largest crypto exchange appears to have been hacked.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261101",
+        "event_cluster_id": "20261101-how-vulnerable-cryptocurrency-platforms-01",
+        "headline": "How vulnerable are cryptocurrency platforms",
+        "summary": "Hackers have targeted Binance, the world’s largest exchange.",
         "category": "未分类"
       }
     ]
@@ -8828,7 +8856,7 @@
   },
   {
     "thread_id": "thread-6-facts-about-grandparents-in-the-u-s",
-    "title": "Dog walker threatened with gun during ICE arrest in North Hollywood",
+    "title": "ICE agent’s violent shove propels woman through the air",
     "category": "未分类",
     "events": [
       {
@@ -8871,6 +8899,13 @@
         "event_cluster_id": "20261031-dog-walker-threatened-gun-01",
         "headline": "Dog walker threatened with gun during ICE arrest in North Hollywood",
         "summary": "Footage shows masked ICE agents pointing a handgun at a bystander walking his dogs as they arrest another man in the US.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261101",
+        "event_cluster_id": "20261101-ice-agent-s-violent-01",
+        "headline": "ICE agent’s violent shove propels woman through the air",
+        "summary": "A witness has captured video of an ICE agent violently shoving a teacher who was blocking his car in Chicago.",
         "category": "未分类"
       }
     ]
@@ -9843,8 +9878,8 @@
   },
   {
     "thread_id": "thread-taylor-swift-broke-her-longstanding-emmy",
-    "title": "Sources cover unrelated topics: home equity loans and NHL hockey",
-    "category": "经济与市场",
+    "title": "Sources cover unrelated topics: credit cards and bourbon tasting",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260915",
@@ -9901,13 +9936,20 @@
         "headline": "Sources cover unrelated topics: home equity loans and NHL hockey",
         "summary": "CNN publishes content about home equity loans for financial planning. New York Post reports on New York Islanders hockey team performance against top league opponents. The two sources address completely different subjects with no overlapping event.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261101",
+        "event_cluster_id": "20261101-experts-best-cash-back-01",
+        "headline": "Sources cover unrelated topics: credit cards and bourbon tasting",
+        "summary": "CNN reports on expert recommendations for the best cash back credit card of 2022. New York Post reports on expert claims that women may have advantages over men when drinking bourbon. The two articles address completely different subjects with no common event.",
+        "category": "社会与公共政策"
       }
     ]
   },
   {
     "thread_id": "thread-construction-robots-just-took-a-giant-le",
-    "title": "Agility's First Humanoid Robot Customer Just Came Back For More",
-    "category": "科技与AI",
+    "title": "Tension and clashes as hundreds of thousands protest again in France",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260915",
@@ -9929,6 +9971,13 @@
         "headline": "Agility's First Humanoid Robot Customer Just Came Back For More",
         "summary": "Digit is getting more work. Agility Robotic's humanoid robot is getting more work from an existing customer, GOX, which runs over 1,000 logistics facilities worldwide.",
         "category": "科技与AI"
+      },
+      {
+        "date": "20261101",
+        "event_cluster_id": "20261101-tension-clashes-hundreds-thousands-01",
+        "headline": "Tension and clashes as hundreds of thousands protest again in France",
+        "summary": "Authorities say 320,000 march on third consecutive weekend of demonstrations over cost of living and state of schools.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -9990,8 +10039,8 @@
   },
   {
     "thread_id": "thread-harry-and-meghan-change-children-s-schoo",
-    "title": "Pakistan-Taliban conflict: How India could benefit from shifting regional dynamics",
-    "category": "安全与冲突",
+    "title": "Bollywood and the underworld — together in the spotlight",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260916",
@@ -10020,6 +10069,13 @@
         "headline": "Pakistan-Taliban conflict: How India could benefit from shifting regional dynamics",
         "summary": "As Pakistan's influence in Afghanistan comes under strain, India is rebuilding ties with the Taliban in Kabul. Can New Delhi turn this diplomatic opening into lasting strategic gains?",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261101",
+        "event_cluster_id": "20261101-bollywood-underworld-together-spotlight-01",
+        "headline": "Bollywood and the underworld — together in the spotlight",
+        "summary": "A wave of shootings and extortion threats has rattled India's film industry. This time, those claiming responsibility are very different from the Mumbai underworld that had Bollywood in its grip back in the 1990s.",
+        "category": "文化体育"
       }
     ]
   },
@@ -10557,7 +10613,7 @@
   },
   {
     "thread_id": "thread-ireland-s-data-protection-commission-fin",
-    "title": "Americans Are Open to AI in Healthcare, but Want Humans Making Final Calls",
+    "title": "Two right-leaning outlets report on separate AI-related stories: documentary filmmaking and NBA social media",
     "category": "科技与AI",
     "events": [
       {
@@ -10607,6 +10663,13 @@
         "event_cluster_id": "20261030-americans-open-ai-healthcare-01",
         "headline": "Americans Are Open to AI in Healthcare, but Want Humans Making Final Calls",
         "summary": "Americans are generally open to AI handling administrative and medical tasks, but they largely don’t want AI operating without human oversight. About half (47%) say AI will make the relationship between patients and their doctors worse, compared with 10% who say it will make it better.",
+        "category": "科技与AI"
+      },
+      {
+        "date": "20261101",
+        "event_cluster_id": "20261101-fox-nation-s-ai-01",
+        "headline": "Two right-leaning outlets report on separate AI-related stories: documentary filmmaking and NBA social media",
+        "summary": "Forbes reports on FOX Nation documentary 'AI Houdini' about filmmakers using AI for historical recreation. New York Post reports on NBA player Jimmy Butler using AI to mock Luka Doncic referencing Steph Curry. The sources cover different events.",
         "category": "科技与AI"
       }
     ]
@@ -11173,7 +11236,7 @@
   },
   {
     "thread_id": "thread-watch-from-launch-to-fiery-splashdown-sp",
-    "title": "Is Putin’s Waiting Game Working",
+    "title": "Valkyries And Dream Play For First Franchise Title In First Game 7 In WNBA Finals History",
     "category": "未分类",
     "events": [
       {
@@ -11202,6 +11265,13 @@
         "event_cluster_id": "20261022-putin-s-waiting-game-01",
         "headline": "Is Putin’s Waiting Game Working",
         "summary": "On a new episode of NY Got Game, Dexter Henry Bryan Fonseca discuss their three takeaways from the Knicks loss to the Sixers in the season opener. Did anything from the loss make them concerned or even panic? Later, Celtics reporter Noa Dalzell joins the guys to preview Friday s game vs. the Celtics. Will...",
+        "category": "未分类"
+      },
+      {
+        "date": "20261101",
+        "event_cluster_id": "20261101-valkyries-dream-play-first-01",
+        "headline": "Valkyries And Dream Play For First Franchise Title In First Game 7 In WNBA Finals History",
+        "summary": "The Golden State Valkyries and Atlanta Dream will not only compete for a chance at each franchise’s first WNBA Championship but will do so during the first ever game 7 of the WNBA Finals in league history.",
         "category": "未分类"
       }
     ]
@@ -11264,8 +11334,8 @@
   },
   {
     "thread_id": "thread-protesters-have-set-up-tent-encampments-",
-    "title": "Hundreds of thousands march across France in protests over schools and policing",
-    "category": "社会与公共政策",
+    "title": "Police clash with masked rioters after largely peaceful protests across France",
+    "category": "未分类",
     "events": [
       {
         "date": "20260929",
@@ -11301,6 +11371,13 @@
         "headline": "Hundreds of thousands march across France in protests over schools and policing",
         "summary": "Almost 1,000 arrested as police charge crowd in Paris and teargas used to stop protesters reaching other city centres Hundreds of thousands marched in cities across France on Saturday in largely peaceful protests to support schoolchildren’s demands for more teachers and repairs to dilapidated buildings, as Emmanuel Macron faces a social and political crisis in his final months as president. In Par",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261101",
+        "event_cluster_id": "20261101-police-clash-masked-rioters-01",
+        "headline": "Police clash with masked rioters after largely peaceful protests across France",
+        "summary": "Demonstrations also taking place in Germany, where officers fire teargas to disperse crowds as evening falls Clashes erupted in Paris, Marseille and other cities on Saturday after tens of thousands of demonstrators, some in Halloween fancy dress, marched across France in a third wave of protests over the cost of living and deteriorating public services. The interior minister, Laurent Nuñez, said a",
+        "category": "未分类"
       }
     ]
   },
@@ -11649,7 +11726,7 @@
   },
   {
     "thread_id": "thread-russia-hits-second-major-bridge-in-ukrai",
-    "title": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
+    "title": "Evacuees of Russian-occupied Oleshky reunited with families",
     "category": "未分类",
     "events": [
       {
@@ -11692,6 +11769,13 @@
         "event_cluster_id": "20261031-evacuation-civilians-begins-besieged-01",
         "headline": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
         "summary": "Humanitarian convoy brings food and medicine to Russian-held city where people have suffered severe shortages People living in the besieged Russian-held city of Oleshky in southern Ukraine were evacuated on Friday as part of a joint relief operation, the first of its kind in four years and eight months of war. The city, which lies on the Russian-occupied side of the Dnipro River, opposite Kherson,",
+        "category": "未分类"
+      },
+      {
+        "date": "20261101",
+        "event_cluster_id": "20261101-evacuees-russian-occupied-oleshky-01",
+        "headline": "Evacuees of Russian-occupied Oleshky reunited with families",
+        "summary": "Ukrainian residents evacuated from Russian-occupied city of Oleshky have arrived in Ukrainian-controlled territory.",
         "category": "未分类"
       }
     ]
@@ -12573,8 +12657,8 @@
   },
   {
     "thread_id": "thread-duchess-of-sussex-deeply-distressed-over",
-    "title": "Poland’s president has cut short a trip to Senegal, joining protesters facing off with police.",
-    "category": "国际政治",
+    "title": "A dispute over the politicisation of Poland s constitutional court is deepening, with no side appearing to back down.",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20261024",
@@ -12596,6 +12680,13 @@
         "headline": "Poland’s president has cut short a trip to Senegal, joining protesters facing off with police.",
         "summary": "Poland’s president has cut short a trip to Senegal, joining protesters facing off with police.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261101",
+        "event_cluster_id": "20261101-polish-president-holds-crisis-01",
+        "headline": "A dispute over the politicisation of Poland s constitutional court is deepening, with no side appearing to back down.",
+        "summary": "A dispute over the politicisation of Poland s constitutional court is deepening, with no side appearing to back down.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -12757,6 +12848,20 @@
         "headline": "Two separate FBI operations reported: Beverly Hills mansion raid and San Diego Mafia takedown",
         "summary": "Forbes reports the FBI raided the Beverly Hills mansion of Stephen Cloobeck, a former donor to Eric Swalwell, in connection with an investigation into the former congressman. Separately, the New York Post reports FBI agents came under fire during a large-scale operation targeting an alleged Mexican Mafia-linked drug empire in San Diego. The two articles describe distinct law enforcement actions in",
         "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-halloween-observed-in-thailand-and-austr",
+    "title": "Halloween observed in Thailand and Australia with local variations",
+    "category": "文化体育",
+    "events": [
+      {
+        "date": "20261101",
+        "event_cluster_id": "20261101-watch-blood-donors-get-01",
+        "headline": "Halloween observed in Thailand and Australia with local variations",
+        "summary": "Thai Red Cross workers in Bangkok wore costumes for a Halloween-themed blood donation drive. In Australia, Halloween is growing in popularity but differs from the American version and has prompted debate about cultural influence. The two countries are adopting the holiday in distinct ways. Sources report on separate national events occurring around the same seasonal period.",
+        "category": "文化体育"
       }
     ]
   }
