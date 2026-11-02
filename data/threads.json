@@ -3102,7 +3102,7 @@
   },
   {
     "thread_id": "thread-canadian-prime-minister-mark-carney-resp",
-    "title": "US approves sale of 500 Patriot missiles to Ukraine",
+    "title": "Ukraine blames Russia after air alert app sends out false warnings",
     "category": "安全与冲突",
     "events": [
       {
@@ -3271,6 +3271,13 @@
         "event_cluster_id": "20261031-us-approves-sale-500-01",
         "headline": "US approves sale of 500 Patriot missiles to Ukraine",
         "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261102",
+        "event_cluster_id": "20261102-ukraine-blames-russia-air-01",
+        "headline": "Ukraine blames Russia after air alert app sends out false warnings",
+        "summary": "Russian Emergencies Ministry also says its mobile app suffered a massive cyberattack , leading to false information .",
         "category": "安全与冲突"
       }
     ]
@@ -3760,8 +3767,8 @@
   },
   {
     "thread_id": "thread-guinea-bissau-voters-approve-new-constit",
-    "title": "How Israel’s Election Could End",
-    "category": "国际政治",
+    "title": "Thousands displaced from Hebron as Israel carries on siege",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -3867,6 +3874,13 @@
         "headline": "How Israel’s Election Could End",
         "summary": "Neither Benjamin Netanyahu nor Gadi Eisenkot won a majority in Israel’s Parliament, leaving both with a chance to form a government. Our Jerusalem bureau chief, David M. Halbfinger, explains the possible coalitions and the obstacles to an opposition alliance that could include Arab parties.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261102",
+        "event_cluster_id": "20261102-thousands-displaced-hebron-israel-01",
+        "headline": "Thousands displaced from Hebron as Israel carries on siege",
+        "summary": "Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the West Bank.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -4103,7 +4117,7 @@
   },
   {
     "thread_id": "thread-developments-regarding-west-bank-settlem",
-    "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+    "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
     "category": "国际政治",
     "events": [
       {
@@ -4181,6 +4195,13 @@
         "event_cluster_id": "20261030-israeli-opposition-accuses-netanyahu-01",
         "headline": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
         "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261102",
+        "event_cluster_id": "20261102-israeli-officials-say-results-01",
+        "headline": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+        "summary": "Election body says deadlocked result won t be undermined even if foreign interference claims are found to be true.",
         "category": "国际政治"
       }
     ]
@@ -5132,8 +5153,8 @@
   },
   {
     "thread_id": "thread-three-unrelated-news-items-reported-acro",
-    "title": "Al Jazeera reports Hebron wedding postponed; The Guardian reports US bans BYD vehicles at Kadena airbase",
-    "category": "国际政治",
+    "title": "Al Jazeera celebrates 30th anniversary",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -5176,6 +5197,13 @@
         "headline": "Al Jazeera reports Hebron wedding postponed; The Guardian reports US bans BYD vehicles at Kadena airbase",
         "summary": "Al Jazeera reports an Israeli military lockdown in Hebron postponed a Palestinian wedding. The Guardian reports the US military banned Chinese BYD electric vehicles at Kadena airbase in Okinawa over security concerns.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261102",
+        "event_cluster_id": "20261102-al-jazeera-celebrates-30th-01",
+        "headline": "Al Jazeera celebrates 30th anniversary",
+        "summary": "Since its first broadcast in 1996, Al Jazeera has spent three decades bringing stories to audiences worldwide.",
+        "category": "未分类"
       }
     ]
   },
@@ -6560,8 +6588,8 @@
   },
   {
     "thread_id": "thread-japan-reduces-urban-speed-limits-and-see",
-    "title": "Trump cancels Iowa, Kansas midterm events, opts for ‘tele-rallies’",
-    "category": "未分类",
+    "title": "Trump invites Michigan Democrat Stevens to join the Republican Party",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -6660,6 +6688,13 @@
         "headline": "Trump cancels Iowa, Kansas midterm events, opts for ‘tele-rallies’",
         "summary": "The Republican National Committee has announced broadcasts in nearly 20 states after Trump nixes final rallies.",
         "category": "未分类"
+      },
+      {
+        "date": "20261102",
+        "event_cluster_id": "20261102-trump-invites-michigan-democrat-01",
+        "headline": "Trump invites Michigan Democrat Stevens to join the Republican Party",
+        "summary": "US President Donald Trump praised Michigan Democrat Haley Stevens for endorsing Republican Mike Rogers.",
+        "category": "国际政治"
       }
     ]
   },
@@ -7015,8 +7050,8 @@
   },
   {
     "thread_id": "thread-two-palestinian-teenagers-killed-during-",
-    "title": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
-    "category": "社会与公共政策",
+    "title": "Armed police start patrols in Sydney after Bondi Beach attack.",
+    "category": "未分类",
     "events": [
       {
         "date": "20260904",
@@ -7080,6 +7115,13 @@
         "headline": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
         "summary": "US police have praised the actions of three people who cut short a deadly shooting at a school in the state of Oregon. Three children and a teacher were killed in the attack, carried out by a former pupil at the school.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261102",
+        "event_cluster_id": "20261102-police-clash-housing-crisis-01",
+        "headline": "Armed police start patrols in Sydney after Bondi Beach attack.",
+        "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+        "category": "未分类"
       }
     ]
   },
@@ -8527,8 +8569,8 @@
   },
   {
     "thread_id": "thread-mamdani-releases-records-on-toxic-air-in",
-    "title": "Brother of Muslim police cadet killed in 9/11 'disappointed' by calls for Mamdani to sit out memorial",
-    "category": "未分类",
+    "title": "Right-leaning outlets cover Wordle puzzle and NHL game separately",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260909",
@@ -8550,6 +8592,13 @@
         "headline": "Brother of Muslim police cadet killed in 9/11 'disappointed' by calls for Mamdani to sit out memorial",
         "summary": "Zeshan Hamdani speaks out after push back against New York Mayor Zohran Mamdani, who is Muslim, attending 9/11 events.",
         "category": "未分类"
+      },
+      {
+        "date": "20261102",
+        "event_cluster_id": "20261102-s-wordle-1962-hints-01",
+        "headline": "Right-leaning outlets cover Wordle puzzle and NHL game separately",
+        "summary": "Forbes published hints for Wordle puzzle 1962 dated November 2. New York Post reported the New York Rangers lost to the Edmonton Oilers, extending a losing streak to four games. The two articles cover unrelated events.",
+        "category": "文化体育"
       }
     ]
   },
@@ -9773,7 +9822,7 @@
   },
   {
     "thread_id": "thread-best-friends-for-decades-until-a-dna-tes",
-    "title": "Dodgers Open Three-Peat Quest Just As The World Series Ended: With A Wn",
+    "title": "Arsenal go top after narrow win at Liverpool",
     "category": "未分类",
     "events": [
       {
@@ -9788,6 +9837,13 @@
         "event_cluster_id": "20261005-dodgers-open-three-peat-01",
         "headline": "Dodgers Open Three-Peat Quest Just As The World Series Ended: With A Wn",
         "summary": "The Dodgers opened their best-of five NLDS with a 5-3 win over the Braves at Dodger Stadium on Saturday. Tarik Skubal threw six innings of two-hit ball to earn the win.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261102",
+        "event_cluster_id": "20261102-arsenal-go-top-narrow-01",
+        "headline": "Arsenal go top after narrow win at Liverpool",
+        "summary": "Arsenal pick up their first win at Anfield since 2012 to go three points clear of Man City",
         "category": "未分类"
       }
     ]
@@ -10130,8 +10186,8 @@
   },
   {
     "thread_id": "thread-rescue-workers-search-for-survivors-afte",
-    "title": "Florida issues arrest warrant for Cuban leader Raul Castro",
-    "category": "安全与冲突",
+    "title": "Democrats have high hopes for midterms, but polls have let them down before",
+    "category": "未分类",
     "events": [
       {
         "date": "20260917",
@@ -10167,6 +10223,13 @@
         "headline": "Florida issues arrest warrant for Cuban leader Raul Castro",
         "summary": "The announcement mirrors a federal indictment from May as the US steps up pressure on the Cuban government.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261102",
+        "event_cluster_id": "20261102-democrats-have-high-hopes-01",
+        "headline": "Democrats have high hopes for midterms, but polls have let them down before",
+        "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+        "category": "未分类"
       }
     ]
   },
@@ -10291,8 +10354,8 @@
   },
   {
     "thread_id": "thread-a-new-report-from-the-government-account",
-    "title": "How To Cut The Pentagon’s $1.5 Trillion Budget Proposal Down To Size",
-    "category": "安全与冲突",
+    "title": "Trump Says He May Become ‘Mr. Veto’ If Democrats Win Control Of Congress",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260918",
@@ -10307,6 +10370,13 @@
         "headline": "How To Cut The Pentagon’s $1.5 Trillion Budget Proposal Down To Size",
         "summary": "The $1.5 trillion Pentagon budget request is more likely to waste money than provide a stronger defense. Congress should scale it back.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261102",
+        "event_cluster_id": "20261102-trump-he-may-become-01",
+        "headline": "Trump Says He May Become ‘Mr. Veto’ If Democrats Win Control Of Congress",
+        "summary": "The president said he would veto bills, but would also “probably make deals” with a potential Democratic-controlled Congress.",
+        "category": "国际政治"
       }
     ]
   },
@@ -10830,8 +10900,8 @@
   },
   {
     "thread_id": "thread-susan-sarandon-hannah-einbinder-arrested",
-    "title": "Thai Superstar TEN Pops Up In LA To Meet His Fans",
-    "category": "文化体育",
+    "title": "Bollywood star greets fans in bulletproof glass after bomb threat",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260925",
@@ -10860,6 +10930,13 @@
         "headline": "Thai Superstar TEN Pops Up In LA To Meet His Fans",
         "summary": "TEN begins his U.S. Tour next week, but stopped by Los Angeles for media interviews and hang out with fans, including Rūts Dance Studio in Koreatown for a special class.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261102",
+        "event_cluster_id": "20261102-bollywood-star-greets-fans-01",
+        "headline": "Bollywood star greets fans in bulletproof glass after bomb threat",
+        "summary": "Bollywood legend Amitabh Bachchan had greeted fans from a bulletproof enclosure outside his residence in Mumbai.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -11334,8 +11411,8 @@
   },
   {
     "thread_id": "thread-protesters-have-set-up-tent-encampments-",
-    "title": "Police clash with masked rioters after largely peaceful protests across France",
-    "category": "未分类",
+    "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260929",
@@ -11378,6 +11455,13 @@
         "headline": "Police clash with masked rioters after largely peaceful protests across France",
         "summary": "Demonstrations also taking place in Germany, where officers fire teargas to disperse crowds as evening falls Clashes erupted in Paris, Marseille and other cities on Saturday after tens of thousands of demonstrators, some in Halloween fancy dress, marched across France in a third wave of protests over the cost of living and deteriorating public services. The interior minister, Laurent Nuñez, said a",
         "category": "未分类"
+      },
+      {
+        "date": "20261102",
+        "event_cluster_id": "20261102-france-opens-attempted-murder-01",
+        "headline": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
+        "summary": "No arrests made after several security officers were reportedly injured during incidents at Saturday s protests.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -11873,8 +11957,8 @@
   },
   {
     "thread_id": "thread-us-charges-venezuela-s-nicolas-maduro-ov",
-    "title": "Maduro pleads not guilty to new torture-related charges in New York",
-    "category": "社会与公共政策",
+    "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+    "category": "未分类",
     "events": [
       {
         "date": "20261009",
@@ -11889,12 +11973,19 @@
         "headline": "Maduro pleads not guilty to new torture-related charges in New York",
         "summary": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261102",
+        "event_cluster_id": "20261102-watch-heidi-klum-giant-01",
+        "headline": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+        "summary": "The supermodel and TV host provided a gory new shock at her New York event.",
+        "category": "未分类"
       }
     ]
   },
   {
     "thread_id": "thread-nvidia-chief-jensen-huang-s-net-worth-fa",
-    "title": "Nvidia Chief Jensen Huang’s Net Worth Falls Below $200 Billion Mark As Tech Stocks Drop",
+    "title": "FBI says North Korea behind $6 billion Binance crypto theft",
     "category": "经济与市场",
     "events": [
       {
@@ -11902,6 +11993,13 @@
         "event_cluster_id": "20261009-nvidia-chief-jensen-huang-01",
         "headline": "Nvidia Chief Jensen Huang’s Net Worth Falls Below $200 Billion Mark As Tech Stocks Drop",
         "summary": "Nvidia and Oracle stock fell on Thursday afternoon after a report that OpenAI’s annualized revenue as of September was around $20 billion lower than prior estimates.",
+        "category": "经济与市场"
+      },
+      {
+        "date": "20261102",
+        "event_cluster_id": "20261102-fbi-north-korea-behind-01",
+        "headline": "FBI says North Korea behind $6 billion Binance crypto theft",
+        "summary": "The FBI said the theft was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.",
         "category": "经济与市场"
       }
     ]
@@ -12181,7 +12279,7 @@
   },
   {
     "thread_id": "thread-nato-details-plan-to-shield-ukraine-s-eu",
-    "title": "Real Madrid and FC Barcelona honour Spain train crash victims",
+    "title": "University of Cambridge scientist among those who died in Spanish train crash",
     "category": "未分类",
     "events": [
       {
@@ -12203,6 +12301,13 @@
         "event_cluster_id": "20261030-real-madrid-fc-barcelona-01",
         "headline": "Real Madrid and FC Barcelona honour Spain train crash victims",
         "summary": "Spanish football clubs were among those to hold a minute’s silence for the victims of Wednesday’s train collision.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261102",
+        "event_cluster_id": "20261102-university-cambridge-scientist-among-01",
+        "headline": "University of Cambridge scientist among those who died in Spanish train crash",
+        "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
         "category": "未分类"
       }
     ]
@@ -12426,7 +12531,7 @@
   },
   {
     "thread_id": "thread-myanmar-refugees-find-hope-in-thailand-s",
-    "title": "Donald Trump's biggest economic problem looks strangely familiar",
+    "title": "Donald Trump loses allies after elections in Serbia and Brazil",
     "category": "国际政治",
     "events": [
       {
@@ -12448,6 +12553,13 @@
         "event_cluster_id": "20261028-donald-trump-s-biggest-01",
         "headline": "Donald Trump's biggest economic problem looks strangely familiar",
         "summary": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261102",
+        "event_cluster_id": "20261102-donald-trump-loses-allies-01",
+        "headline": "Donald Trump loses allies after elections in Serbia and Brazil",
+        "summary": "Flavio Bolsonaro failed to gain power, Aleksandar Vucic was voted out of office, and even Benjamin Netanyahu's position has weakened. An unhappy US President Trump is crying electoral fraud.",
         "category": "国际政治"
       }
     ]
@@ -12862,6 +12974,20 @@
         "headline": "Halloween observed in Thailand and Australia with local variations",
         "summary": "Thai Red Cross workers in Bangkok wore costumes for a Halloween-themed blood donation drive. In Australia, Halloween is growing in popularity but differs from the American version and has prompted debate about cultural influence. The two countries are adopting the holiday in distinct ways. Sources report on separate national events occurring around the same seasonal period.",
         "category": "文化体育"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-nine-die-in-cataclysmic-florida-business",
+    "title": "Nine die in ‘cataclysmic’ Florida business jet crash",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20261102",
+        "event_cluster_id": "20261102-nine-die-cataclysmic-florida-01",
+        "headline": "Nine die in ‘cataclysmic’ Florida business jet crash",
+        "summary": "Florida Governor Ron DeSantis tells reporters there appeared to be no casualties on the ground.",
+        "category": "未分类"
       }
     ]
   }
