@@ -659,8 +659,8 @@
   },
   {
     "thread_id": "thread-mark-carney-tells-us-to-start-being-seri",
-    "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
-    "category": "安全与冲突",
+    "title": "Can US midterm election really change Trump's Iran policy",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -794,6 +794,13 @@
         "headline": "Rubio tells Cubans ‘now is the time’ to act to see political change",
         "summary": "US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran Marco Rubio urged Cubans seeking political change in their country to act, saying “now is the time” moments after Donald Trump told a Friday rally for candidates in south Florida that US warships could intervene in Cuba on their way back from the Iran war. The US secretary of state, in his ",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261104",
+        "event_cluster_id": "20261104-us-midterm-election-really-01",
+        "headline": "Can US midterm election really change Trump's Iran policy",
+        "summary": "The US midterms are at hand, but their impact on the Iran war remains far from clear. Analysts say the Washington political elite may not be as divided on Iran as it appears.",
+        "category": "国际政治"
       }
     ]
   },
@@ -3774,7 +3781,7 @@
   },
   {
     "thread_id": "thread-guinea-bissau-voters-approve-new-constit",
-    "title": "Thousands displaced from Hebron as Israel carries on siege",
+    "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
     "category": "安全与冲突",
     "events": [
       {
@@ -3887,6 +3894,13 @@
         "event_cluster_id": "20261102-thousands-displaced-hebron-israel-01",
         "headline": "Thousands displaced from Hebron as Israel carries on siege",
         "summary": "Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the West Bank.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261104",
+        "event_cluster_id": "20261104-scepticism-trump-he-s-01",
+        "headline": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
+        "summary": "US President Donald Trump says he plans to stop the annual $3.8bn military aid package to Israel by the end of the year.",
         "category": "安全与冲突"
       }
     ]
@@ -5286,7 +5300,7 @@
   },
   {
     "thread_id": "thread-乌克兰扎波罗热市一学校在地库开学以规避战争风险",
-    "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+    "title": "Where have there been technical issues so far during US midterm elections",
     "category": "国际政治",
     "events": [
       {
@@ -5357,6 +5371,13 @@
         "event_cluster_id": "20261031-pope-leo-xiv-becomes-01",
         "headline": "Pope Leo XIV becomes first pontiff to vote in a US election",
         "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261104",
+        "event_cluster_id": "20261104-where-have-there-been-01",
+        "headline": "Where have there been technical issues so far during US midterm elections",
+        "summary": "Some polling stations have experienced vote-delaying issues that officials describe as being minor.",
         "category": "国际政治"
       }
     ]
@@ -6077,8 +6098,8 @@
   },
   {
     "thread_id": "thread-long-lines-at-fuel-stations-are-spreadin",
-    "title": "Trump ordered to sit for deposition in BBC defamation lawsuit",
-    "category": "社会与公共政策",
+    "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -6170,6 +6191,13 @@
         "headline": "Trump ordered to sit for deposition in BBC defamation lawsuit",
         "summary": "Judge says Trump must sit for questioning from a BBC lawyer by December 11 or face possible dismissal of lawsuit.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261104",
+        "event_cluster_id": "20261104-i-m-not-quitter-01",
+        "headline": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
+        "summary": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
+        "category": "文化体育"
       }
     ]
   },
@@ -7848,8 +7876,8 @@
   },
   {
     "thread_id": "thread-u-s-consumer-concerns-over-imported-meat",
-    "title": "Mexico charges prosecutor with treason over US involvement in drug raid",
-    "category": "未分类",
+    "title": "Andrew Novak Wins The 2026 VidantaWorld Mexico Open",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260906",
@@ -7864,6 +7892,13 @@
         "headline": "Mexico charges prosecutor with treason over US involvement in drug raid",
         "summary": "The participation of US agents in an April drug operation has raised questions about whether Mexico s laws were upheld.",
         "category": "未分类"
+      },
+      {
+        "date": "20261104",
+        "event_cluster_id": "20261104-andrew-novak-wins-2026-01",
+        "headline": "Andrew Novak Wins The 2026 VidantaWorld Mexico Open",
+        "summary": "Andrew Novak claimed his second win of his PGA Tour career by winning the VidantaWorld Mexico Open. Time to recap our picks and predictions for the latest tournament.",
+        "category": "文化体育"
       }
     ]
   },
@@ -8009,8 +8044,8 @@
   },
   {
     "thread_id": "thread-european-industry-group-warns-of-300-000",
-    "title": "US Senate crypto bill collapses in blow to industry",
-    "category": "经济与市场",
+    "title": "Anthony Zurcher: Democrats eye sweeping gains and reshaping of political map",
+    "category": "未分类",
     "events": [
       {
         "date": "20260907",
@@ -8025,6 +8060,20 @@
         "headline": "US Senate crypto bill collapses in blow to industry",
         "summary": "The defeat dealt a major blow to efforts to establish the first comprehensive federal framework for digital-asset market",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261104",
+        "event_cluster_id": "20261104-democrat-roy-cooper-flips-01",
+        "headline": "Democrat Roy Cooper flips North Carolina US Senate seat",
+        "summary": "American singer Stevie Wonder has delivered a last minute endorsement of Democrat Abdul El-Sayed for the US Senate.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261104",
+        "event_cluster_id": "20261104-anthony-zurcher-democrats-eye-01",
+        "headline": "Anthony Zurcher: Democrats eye sweeping gains and reshaping of political map",
+        "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+        "category": "未分类"
       }
     ]
   },
@@ -8058,8 +8107,8 @@
   },
   {
     "thread_id": "thread-at-least-five-killed-in-new-delhi-buildi",
-    "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – as it happened",
-    "category": "未分类",
+    "title": "Spanish transport minister resigns days after deadly train crash",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260907",
@@ -8102,6 +8151,13 @@
         "headline": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – as it happened",
         "summary": "This blog is now closed, you can read more on this story here Peunte begins by paying tribute to all affected by the incident. He says that “at present, evidence points to a failure within Adif’s command and control centre,” but adds that investigators are still looking “to clarify what exactly happened.” He says he still has confidence in the system. Continue reading...",
         "category": "未分类"
+      },
+      {
+        "date": "20261104",
+        "event_cluster_id": "20261104-spanish-transport-minister-resigns-01",
+        "headline": "Spanish transport minister resigns days after deadly train crash",
+        "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+        "category": "国际政治"
       }
     ]
   },
@@ -8604,7 +8660,7 @@
   },
   {
     "thread_id": "thread-mamdani-releases-records-on-toxic-air-in",
-    "title": "Right-leaning outlets cover Wordle puzzle and NHL game separately",
+    "title": "Two right-leaning outlets cover separate sports events: NASCAR driver Carson Hocevar's season ends early; WNBA Liberty coaching search discussed",
     "category": "文化体育",
     "events": [
       {
@@ -8633,6 +8689,20 @@
         "event_cluster_id": "20261102-s-wordle-1962-hints-01",
         "headline": "Right-leaning outlets cover Wordle puzzle and NHL game separately",
         "summary": "Forbes published hints for Wordle puzzle 1962 dated November 2. New York Post reported the New York Rangers lost to the Edmonton Oilers, extending a losing streak to four games. The two articles cover unrelated events.",
+        "category": "文化体育"
+      },
+      {
+        "date": "20261104",
+        "event_cluster_id": "20261104-bigbang-returns-los-angeles-01",
+        "headline": "Three separate entertainment and business stories reported by right-leaning outlets",
+        "summary": "Forbes reported BIGBANG announced a 2027 Los Angeles concert at SoFi Stadium. Forbes separately reported Nvidia regained the title of world's most valuable company from Apple on Tuesday. New York Post reported a top-rated pizzeria announced expansion to California via Instagram. Sources cover different events with no overlapping subject matter.",
+        "category": "文化体育"
+      },
+      {
+        "date": "20261104",
+        "event_cluster_id": "20261104-carson-hocevar-s-nascar-01",
+        "headline": "Two right-leaning outlets cover separate sports events: NASCAR driver Carson Hocevar's season ends early; WNBA Liberty coaching search discussed",
+        "summary": "Forbes reports Spire Motorsports ended Carson Hocevar's NASCAR season early after his actions at Martinsville. New York Post discusses the New York Liberty's need for a new coach to avoid wasting a healthy season from Stewart. The articles cover different sports events.",
         "category": "文化体育"
       }
     ]
@@ -8947,8 +9017,8 @@
   },
   {
     "thread_id": "thread-6-facts-about-grandparents-in-the-u-s",
-    "title": "ICE agent’s violent shove propels woman through the air",
-    "category": "未分类",
+    "title": "Keisha Lance Bottoms makes history as Georgia’s first Black woman governor",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260910",
@@ -8998,6 +9068,13 @@
         "headline": "ICE agent’s violent shove propels woman through the air",
         "summary": "A witness has captured video of an ICE agent violently shoving a teacher who was blocking his car in Chicago.",
         "category": "未分类"
+      },
+      {
+        "date": "20261104",
+        "event_cluster_id": "20261104-keisha-lance-bottoms-makes-01",
+        "headline": "Keisha Lance Bottoms makes history as Georgia’s first Black woman governor",
+        "summary": "Bottoms, a former adviser to ex-President Joe Biden, beat Republican Rick Jackson.",
+        "category": "国际政治"
       }
     ]
   },
@@ -10144,8 +10221,8 @@
   },
   {
     "thread_id": "thread-harry-and-meghan-change-children-s-schoo",
-    "title": "Bollywood and the underworld — together in the spotlight",
-    "category": "文化体育",
+    "title": "Seven flights across Europe targeted by suspected bomb threats",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260916",
@@ -10181,6 +10258,13 @@
         "headline": "Bollywood and the underworld — together in the spotlight",
         "summary": "A wave of shootings and extortion threats has rattled India's film industry. This time, those claiming responsibility are very different from the Mumbai underworld that had Bollywood in its grip back in the 1990s.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261104",
+        "event_cluster_id": "20261104-seven-flights-across-europe-01",
+        "headline": "Seven flights across Europe targeted by suspected bomb threats",
+        "summary": "Seven flights across Europe were targeted by suspected bomb threats.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -10753,7 +10837,7 @@
   },
   {
     "thread_id": "thread-ireland-s-data-protection-commission-fin",
-    "title": "Two right-leaning outlets report on separate AI-related stories: documentary filmmaking and NBA social media",
+    "title": "DW World reports AI bond issuance affecting European borrowing; Forbes covers Netflix AI content discovery",
     "category": "科技与AI",
     "events": [
       {
@@ -10810,6 +10894,13 @@
         "event_cluster_id": "20261101-fox-nation-s-ai-01",
         "headline": "Two right-leaning outlets report on separate AI-related stories: documentary filmmaking and NBA social media",
         "summary": "Forbes reports on FOX Nation documentary 'AI Houdini' about filmmakers using AI for historical recreation. New York Post reports on NBA player Jimmy Butler using AI to mock Luka Doncic referencing Steph Curry. The sources cover different events.",
+        "category": "科技与AI"
+      },
+      {
+        "date": "20261104",
+        "event_cluster_id": "20261104-ai-boom-make-borrowing-01",
+        "headline": "DW World reports AI bond issuance affecting European borrowing; Forbes covers Netflix AI content discovery",
+        "summary": "DW World reports that US tech giants issuing billions in AI bonds compete with European governments for capital. Forbes reports Netflix introduces an AI-powered content discovery feature based on themes. The two articles cover separate events involving artificial intelligence. DW World focuses on macroeconomic effects of AI investment on bond markets. Forbes focuses on a consumer-facing AI product",
         "category": "科技与AI"
       }
     ]
@@ -12692,8 +12783,8 @@
   },
   {
     "thread_id": "thread-shark-trapped-for-a-month-in-south-korea",
-    "title": "US to suspend South Africa and Rwanda from duty-free trade access",
-    "category": "经济与市场",
+    "title": "MLB labor proposal and Tarik Skubal free agency updates",
+    "category": "文化体育",
     "events": [
       {
         "date": "20261022",
@@ -12722,6 +12813,20 @@
         "headline": "US to suspend South Africa and Rwanda from duty-free trade access",
         "summary": "South Africa to lose duty-free access, affecting $1.7bn worth of annual exports, including cars and farm products.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261104",
+        "event_cluster_id": "20261104-why-south-africa-s-01",
+        "headline": "Why South Africa's local elections matter",
+        "summary": "South Africans head to the polls on Wednesday amid water shortages, frustration with local services and questions over whether the ANC's support will keep falling.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261104",
+        "event_cluster_id": "20261104-latest-mlb-proposal-players-01",
+        "headline": "MLB labor proposal and Tarik Skubal free agency updates",
+        "summary": "MLB proposed delaying a salary cap system to 2028 while facing a lockout on December 1. Separately, pitcher Tarik Skubal entered free agency for the first time and is projected to sign a record contract for a pitcher, according to an ESPN insider.",
+        "category": "文化体育"
       }
     ]
   },
@@ -13105,8 +13210,8 @@
   },
   {
     "thread_id": "thread-shop-freezers-in-seven-european-countrie",
-    "title": "Shop freezers in seven European countries hit by cyber-attack",
-    "category": "安全与冲突",
+    "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20261103",
@@ -13114,6 +13219,27 @@
         "headline": "Shop freezers in seven European countries hit by cyber-attack",
         "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261104",
+        "event_cluster_id": "20261104-europe-alert-supermarket-freezers-01",
+        "headline": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+        "summary": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
+        "category": "经济与市场"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-major-test-for-australia-s-social-media-",
+    "title": "Major test for Australia's social media ban begins in High Court",
+    "category": "社会与公共政策",
+    "events": [
+      {
+        "date": "20261104",
+        "event_cluster_id": "20261104-major-test-australia-s-01",
+        "headline": "Major test for Australia's social media ban begins in High Court",
+        "summary": "Lawyers for Reddit and a digital rights group are arguing the world-leading policy robs children of their right to free communication.",
+        "category": "社会与公共政策"
       }
     ]
   }
