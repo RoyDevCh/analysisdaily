@@ -190,7 +190,7 @@
   },
   {
     "thread_id": "thread-hong-kong-activist-joshua-wong-pleads-gu",
-    "title": "El Salvador's president threatens Haitian gangs over military hostages",
+    "title": "El Salvador’s Bukele touts military intervention in Haiti",
     "category": "安全与冲突",
     "events": [
       {
@@ -240,6 +240,13 @@
         "event_cluster_id": "20261023-el-salvador-s-president-01",
         "headline": "El Salvador's president threatens Haitian gangs over military hostages",
         "summary": "Four members of the so-called Gang Suppression Force have been missing since Sunday.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-el-salvador-s-bukele-01",
+        "headline": "El Salvador’s Bukele touts military intervention in Haiti",
+        "summary": "Haitian police have found a vehicle used by four missing Salvadoran technicians as Salvadoran troops deploy to Haiti.",
         "category": "安全与冲突"
       }
     ]
@@ -659,8 +666,8 @@
   },
   {
     "thread_id": "thread-mark-carney-tells-us-to-start-being-seri",
-    "title": "Can US midterm election really change Trump's Iran policy",
-    "category": "国际政治",
+    "title": "Trump blames Iran war for midterms losses",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -801,6 +808,13 @@
         "headline": "Can US midterm election really change Trump's Iran policy",
         "summary": "The US midterms are at hand, but their impact on the Iran war remains far from clear. Analysts say the Washington political elite may not be as divided on Iran as it appears.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-trump-blames-iran-war-01",
+        "headline": "Trump blames Iran war for midterms losses",
+        "summary": "President Donald Trump said the war in Iran likely contributed to Republican setbacks in the midterm elections",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -918,7 +932,7 @@
   },
   {
     "thread_id": "thread-palestinian-artist-saint-levant-delays-t",
-    "title": "Clippers’ Ty Lue On Steve Ballmer: ‘My Loyalty To Him Is To The End’",
+    "title": "36 years later: Hungary opens Communist-era secret service files",
     "category": "未分类",
     "events": [
       {
@@ -996,6 +1010,13 @@
         "event_cluster_id": "20260929-clippers-ty-lue-steve-01",
         "headline": "Clippers’ Ty Lue On Steve Ballmer: ‘My Loyalty To Him Is To The End’",
         "summary": "Clippers Tyronn Lue stressed he does not feel the organization betrayed him for circumventing the salary cap with Kawhi Leonard.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-36-later-hungary-opens-01",
+        "headline": "36 years later: Hungary opens Communist-era secret service files",
+        "summary": "Decades after the end of Soviet rule, Hungary is releasing all its secret service files. The disclosure is sparking fresh debate about informants, guilt and responsibility.",
         "category": "未分类"
       }
     ]
@@ -2087,8 +2108,8 @@
   },
   {
     "thread_id": "thread-imprisoned-in-spain-james-fergie-chamber",
-    "title": "Jürgen Klopp says Germany football team can help reclaim national pride from 'the wrong people'",
-    "category": "文化体育",
+    "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -2208,6 +2229,13 @@
         "headline": "Jürgen Klopp says Germany football team can help reclaim national pride from 'the wrong people'",
         "summary": "New Germany coach Jürgen Klopp stated at a Frankfurt press conference that Germany's football team can help ensure national pride is not entrusted to the wrong people, following a recent far-right AfD election victory in Saxony-Anhalt. Klopp said he would like to reclaim the flag for himself and for the team. Both sources report the same core comments with minor differences in detail.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-rwanda-s-army-team-01",
+        "headline": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+        "summary": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
+        "category": "国际政治"
       }
     ]
   },
@@ -3781,8 +3809,8 @@
   },
   {
     "thread_id": "thread-guinea-bissau-voters-approve-new-constit",
-    "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
-    "category": "安全与冲突",
+    "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -3902,6 +3930,13 @@
         "headline": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
         "summary": "US President Donald Trump says he plans to stop the annual $3.8bn military aid package to Israel by the end of the year.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-abdul-el-sayed-welcomes-01",
+        "headline": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+        "summary": "Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain. (Image credit: Salwan Georges)",
+        "category": "未分类"
       }
     ]
   },
@@ -4376,7 +4411,7 @@
   },
   {
     "thread_id": "thread-germany-attributes-leipzig-airport-drone",
-    "title": "‘Angel Of My Dreams’: How Victoria’s Secret Revived Jade’s 2024 Hit",
+    "title": "Steve Ellis, Singer On 1960s Hit ‘Everlasting Love,’ Dies At 76",
     "category": "未分类",
     "events": [
       {
@@ -4482,6 +4517,13 @@
         "event_cluster_id": "20261031-angel-my-dreams-how-01",
         "headline": "‘Angel Of My Dreams’: How Victoria’s Secret Revived Jade’s 2024 Hit",
         "summary": "Kylie Jenner’s Victoria’s Secret Fashion Show runway appearance sends Jade’s Thirwall's ‘Angel Of My Dreams’ back into the UK Top 20, two years after its release.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-steve-ellis-singer-1960s-01",
+        "headline": "Steve Ellis, Singer On 1960s Hit ‘Everlasting Love,’ Dies At 76",
+        "summary": "Steve Ellis, who was 17 years old when he recorded the classic hit “Everlasting Love” with the British pop group Love Affair, has died.",
         "category": "未分类"
       }
     ]
@@ -5300,7 +5342,7 @@
   },
   {
     "thread_id": "thread-乌克兰扎波罗热市一学校在地库开学以规避战争风险",
-    "title": "Where have there been technical issues so far during US midterm elections",
+    "title": "Democratic Socialists of America see record wins in US midterm elections",
     "category": "国际政治",
     "events": [
       {
@@ -5378,6 +5420,13 @@
         "event_cluster_id": "20261104-where-have-there-been-01",
         "headline": "Where have there been technical issues so far during US midterm elections",
         "summary": "Some polling stations have experienced vote-delaying issues that officials describe as being minor.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-democratic-socialists-america-see-01",
+        "headline": "Democratic Socialists of America see record wins in US midterm elections",
+        "summary": "The left-wing movement has won support for its views on issues like the war in Gaza and universal healthcare.",
         "category": "国际政治"
       }
     ]
@@ -6203,7 +6252,7 @@
   },
   {
     "thread_id": "thread-massachusetts-and-texas-see-competitive-",
-    "title": "Two unrelated international events reported: Peru prison inspection and Haiti election postponement",
+    "title": "Sources cover separate events: US midterm elections and European bomb threats",
     "category": "国际政治",
     "events": [
       {
@@ -6267,6 +6316,13 @@
         "event_cluster_id": "20261030-fujimori-tours-el-salvador-01",
         "headline": "Two unrelated international events reported: Peru prison inspection and Haiti election postponement",
         "summary": "Al Jazeera reports Peru's President Keiko Fujimori inspected El Salvador's mega-prison while considering building one in Peru. The New York Times reports Haiti postponed elections due to rampant gang violence. These are separate events in different countries.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-social-media-reacts-democrats-01",
+        "headline": "Sources cover separate events: US midterm elections and European bomb threats",
+        "summary": "Al Jazeera reports social media reactions to Democratic gains in US midterm elections. The New York Times reports bomb threats disrupting flights across Europe including an SAS aircraft landing in Warsaw. The two articles describe unrelated events in different regions. No common event connects the coverage from these sources.",
         "category": "国际政治"
       }
     ]
@@ -8044,7 +8100,7 @@
   },
   {
     "thread_id": "thread-european-industry-group-warns-of-300-000",
-    "title": "Anthony Zurcher: Democrats eye sweeping gains and reshaping of political map",
+    "title": "Democrats’ Blue Wave Draws Big Numbers, With NBC, MS NOW Topping Broadcast, Cable Ratings",
     "category": "未分类",
     "events": [
       {
@@ -8073,6 +8129,27 @@
         "event_cluster_id": "20261104-anthony-zurcher-democrats-eye-01",
         "headline": "Anthony Zurcher: Democrats eye sweeping gains and reshaping of political map",
         "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-palestinians-israelis-react-democrats-01",
+        "headline": "Palestinians, Israelis react after Democrats sweep US midterms",
+        "summary": "Palestinians and Israelis are divided in their opinion following the win by Democrats in the US midterm elections.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-democrats-seize-full-control-01",
+        "headline": "Democrats seize full control of Congress. And, which candidates made history last night",
+        "summary": "Democrats have won the House and the Senate, taking full control of Congress for the first time since 2023. And history was made in several states. Here's what happened last night. (Image credit: Jemal Countess)",
+        "category": "未分类"
+      },
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-democrats-blue-wave-draws-01",
+        "headline": "Democrats’ Blue Wave Draws Big Numbers, With NBC, MS NOW Topping Broadcast, Cable Ratings",
+        "summary": "The big night for Democrats drew millions of viewers to the cable news and broadcast networks, setting records on TV and in digital streams.",
         "category": "未分类"
       }
     ]
@@ -8632,8 +8709,8 @@
   },
   {
     "thread_id": "thread-supergirl-shifts-to-hbo-max-this-week-in",
-    "title": "Sen. Tommy Tuberville Says ‘Deranged’ Furry Culture Is Flight Safety Risk",
-    "category": "未分类",
+    "title": "What’s delaying the US Senate election results in Mississippi and Alaska",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260909",
@@ -8655,6 +8732,13 @@
         "headline": "Sen. Tommy Tuberville Says ‘Deranged’ Furry Culture Is Flight Safety Risk",
         "summary": "Tuberville began targeting the furry community this week, criticizing it during a Senate floor speech Tuesday.",
         "category": "未分类"
+      },
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-what-s-delaying-us-01",
+        "headline": "What’s delaying the US Senate election results in Mississippi and Alaska",
+        "summary": "Ranked-choice voting may decide Alaska s Senate outcome, while Mississippi s race hangs on a knife s edge.",
+        "category": "国际政治"
       }
     ]
   },
@@ -9220,7 +9304,7 @@
   },
   {
     "thread_id": "thread-how-a-driver-s-sudden-death-triggered-eb",
-    "title": "Volkanovski And Yan Kept Their Belts At UFC 333, And Their Next Opponents Already Made Themselves Known",
+    "title": "Experts: this is the best cash back card of 2022",
     "category": "未分类",
     "events": [
       {
@@ -9263,6 +9347,13 @@
         "event_cluster_id": "20261025-volkanovski-yan-kept-their-01",
         "headline": "Volkanovski And Yan Kept Their Belts At UFC 333, And Their Next Opponents Already Made Themselves Known",
         "summary": "UFC 333 results from Abu Dhabi: Volkanovski vs. Evloev, Yan vs. Dvalishvili 3, the full card, $100K bonus winners and highlights.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-experts-best-cash-back-01",
+        "headline": "Experts: this is the best cash back card of 2022",
+        "summary": "Martin McDonagh’s :Wild Horse Nine, \"starring John Malkovich and Sam Rockwell, has Rotten Tomatoes critics going wild for the writer-director’s work once again.",
         "category": "未分类"
       }
     ]
@@ -10991,7 +11082,7 @@
   },
   {
     "thread_id": "thread-delegates-walk-out-of-netanyahu-s-un-spe",
-    "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+    "title": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
     "category": "安全与冲突",
     "events": [
       {
@@ -11034,6 +11125,13 @@
         "event_cluster_id": "20261023-despicable-amy-acton-responds-01",
         "headline": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
         "summary": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-mother-daughter-killed-grizzly-01",
+        "headline": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
+        "summary": "Conservation officers say more than one bear may have been involved in attack on women near their home Search teams in Canada have discovered the body of a 20-year-old woman and confirmed that both she and her mother were killed in an attack that conservation officers now believe could have involved multiple grizzly bears. Late on Tuesday, conservation officers in British Columbia said the two wom",
         "category": "安全与冲突"
       }
     ]
@@ -11145,7 +11243,7 @@
   },
   {
     "thread_id": "thread-reporter-s-notebook-call-for-a-free-iran",
-    "title": "Cornell begins no confidence vote over handling of alleged gang rape",
+    "title": "Vote counting underway in critical South Africa elections",
     "category": "国际政治",
     "events": [
       {
@@ -11175,13 +11273,20 @@
         "headline": "Cornell begins no confidence vote over handling of alleged gang rape",
         "summary": "Faculty vote will continue until next Friday and could send message that school s president has lost their confidence.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-vote-counting-underway-critical-01",
+        "headline": "Vote counting underway in critical South Africa elections",
+        "summary": "Votes are being counted across South Africa after a record 29.2 million people registered to vote.",
+        "category": "国际政治"
       }
     ]
   },
   {
     "thread_id": "thread-afghan-taxi-drivers-defy-the-taliban-s-m",
-    "title": "Texas grand jury indicts ICE officer accused of running over man in Houston",
-    "category": "社会与公共政策",
+    "title": "Africa’s richest man launches mega oil tank farm in Namibia",
+    "category": "未分类",
     "events": [
       {
         "date": "20260926",
@@ -11224,6 +11329,13 @@
         "headline": "Texas grand jury indicts ICE officer accused of running over man in Houston",
         "summary": "The officer faces charges after allegedly striking a fleeing construction worker with an SUV during an immigration raid.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-africa-s-richest-man-01",
+        "headline": "Africa’s richest man launches mega oil tank farm in Namibia",
+        "summary": "Nigerian billionaire Aliko Dangote launched a fuel storage facility in Namibia to future-proof Southern Africa s supply.",
+        "category": "未分类"
       }
     ]
   },
@@ -12419,8 +12531,8 @@
   },
   {
     "thread_id": "thread-hackers-raise-temperatures-in-supermarke",
-    "title": "Trump Says He’ll Spend More Than $400 Million To Elect Republicans In Midterms",
-    "category": "未分类",
+    "title": "Trump Loses $168 Million, Trump Media Falls 25% After Democratic Midterm Rout",
+    "category": "国际政治",
     "events": [
       {
         "date": "20261013",
@@ -12449,6 +12561,13 @@
         "headline": "Trump Says He’ll Spend More Than $400 Million To Elect Republicans In Midterms",
         "summary": "Trump said more than $300 million has already been spent to support Republicans.",
         "category": "未分类"
+      },
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-trump-loses-168-million-01",
+        "headline": "Trump Loses $168 Million, Trump Media Falls 25% After Democratic Midterm Rout",
+        "summary": "President Donald Trump’s net worth tumbled $168 million as of Wednesday afternoon after Democratic sweeps in the midterm elections sent shares of Trump Media & Technology Group sinking to an all-time low.",
+        "category": "国际政治"
       }
     ]
   },
@@ -12972,8 +13091,8 @@
   },
   {
     "thread_id": "thread-duchess-of-sussex-deeply-distressed-over",
-    "title": "Supreme Court rejects Trump request to set aside California ballots",
-    "category": "社会与公共政策",
+    "title": "California Billionaire Tax Appears Headed For Failure",
+    "category": "未分类",
     "events": [
       {
         "date": "20261024",
@@ -13009,6 +13128,13 @@
         "headline": "Supreme Court rejects Trump request to set aside California ballots",
         "summary": "Top court declines to block California from counting ballots of voters Trump administration claims are not US citizens.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-california-billionaire-tax-appears-01",
+        "headline": "California Billionaire Tax Appears Headed For Failure",
+        "summary": "California voters showed their pragmatic side on Election Day by rejecting Proposition 40, the so-called “billionaire tax.”",
+        "category": "未分类"
       }
     ]
   },
@@ -13240,6 +13366,62 @@
         "headline": "Major test for Australia's social media ban begins in High Court",
         "summary": "Lawyers for Reddit and a digital rights group are arguing the world-leading policy robs children of their right to free communication.",
         "category": "社会与公共政策"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-internal-culture-the-forgotten-metric-yo",
+    "title": "Internal Culture: The Forgotten Metric You Can’t Afford To Ignore",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-internal-culture-forgotten-metric-01",
+        "headline": "Internal Culture: The Forgotten Metric You Can’t Afford To Ignore",
+        "summary": "Author and business scaling expert Michael McCready explains how tracking internal culture is the growth metric you can’t afford to ignore.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-republicans-suffer-midterms-defeat-sourc",
+    "title": "Republicans suffer midterms defeat; sources differ on causes",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-what-democrats-midterms-win-01",
+        "headline": "Republicans suffer midterms defeat; sources differ on causes",
+        "summary": "Republicans lost the US midterm elections. DW reports economic concerns including oil prices, tariffs, and debt were key factors. BBC reports some Republicans blame President Trump's focus on his legacy and indifference to voter concerns. Both sources note the Democratic victory. The outlook for Democratic economic policy remains uncertain.",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-hong-kong-pro-democracy-activist-joshua-",
+    "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-hong-kong-pro-democracy-01",
+        "headline": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+        "summary": "Wong, 30, has been imprisoned since 2020 and is the only activist in Hong Kong prosecuted twice under national security law Hong Kong activist Joshua Wong was sentenced on Thursday to 10 years in prison after pleading guilty to “foreign collusion”, his second conviction under a national security law that critics say has been used to silence political opposition in the city. Wong, who rose to promi",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-syria-saudi-arabia-sign-defence-cooperat",
+    "title": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20261105",
+        "event_cluster_id": "20261105-syria-saudi-arabia-sign-01",
+        "headline": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans",
+        "summary": "Defence cooperation deal signed as Syria s President al-Sharaa visits Riyadh for the second time in less than a month.",
+        "category": "国际政治"
       }
     ]
   }
