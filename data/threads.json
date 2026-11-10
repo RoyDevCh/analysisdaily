@@ -36,8 +36,8 @@
   },
   {
     "thread_id": "thread-nearly-200-nations-agree-to-phase-down-c",
-    "title": "London police say there could be ‘many more’ potential Russell Brand victims",
-    "category": "文化体育",
+    "title": "Krakow mass shooting suspect has died in hospital, police in Poland say",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -108,6 +108,13 @@
         "headline": "London police say there could be ‘many more’ potential Russell Brand victims",
         "summary": "London’s Metropolitan Police Commissioner Mark Rowley said police were investigating “two more rape allegations” against the actor and comedian.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261110",
+        "event_cluster_id": "20261110-krakow-mass-shooting-suspect-01",
+        "headline": "Krakow mass shooting suspect has died in hospital, police in Poland say",
+        "summary": "The alleged gunman who killed six people in a shooting spree in the Polish city of Krakow has died of injuries sustained in a shootout with police, authorities say.",
+        "category": "未分类"
       }
     ]
   },
@@ -2080,8 +2087,8 @@
   },
   {
     "thread_id": "thread-u-s-military-strikes-iran-while-trump-vo",
-    "title": "Why has Trump rejected Iran’s peace proposal",
-    "category": "安全与冲突",
+    "title": "Trump says further US attacks on Iran unlikely, maintains status quo",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -2117,6 +2124,13 @@
         "headline": "Why has Trump rejected Iran’s peace proposal",
         "summary": "The US president has reportedly threatened to resume strikes on Iran.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261110",
+        "event_cluster_id": "20261110-trump-more-us-attacks-01",
+        "headline": "Trump says further US attacks on Iran unlikely, maintains status quo",
+        "summary": "President Trump stated that additional US military strikes against Iran are highly unlikely and that the United States is keeping the current status quo. He added that the US remains \"locked and loaded\" if the situation changes. Trump also said negotiations with Iran are making progress. Both BBC World and The Washington Post report these remarks from an impromptu news conference. The sources do n",
+        "category": "国际政治"
       }
     ]
   },
@@ -5265,8 +5279,8 @@
   },
   {
     "thread_id": "thread-three-unrelated-news-items-reported-acro",
-    "title": "Al Jazeera celebrates 30th anniversary",
-    "category": "未分类",
+    "title": "ICE arrests reported in conflicting accounts from New Jersey and Los Angeles",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -5316,6 +5330,13 @@
         "headline": "Al Jazeera celebrates 30th anniversary",
         "summary": "Since its first broadcast in 1996, Al Jazeera has spent three decades bringing stories to audiences worldwide.",
         "category": "未分类"
+      },
+      {
+        "date": "20261110",
+        "event_cluster_id": "20261110-anger-ice-agents-make-01",
+        "headline": "ICE arrests reported in conflicting accounts from New Jersey and Los Angeles",
+        "summary": "Al Jazeera reports ICE agents made an arrest in a New Jersey grocery store before being confronted by a crowd demanding they leave. New York Post reports ICE arrested Iranian citizen Farzad \"Tony\" Toutouni, 55, in Los Angeles on October 27 after illegal entry from Canada, citing a criminal history dating to 1989. The sources describe different locations, individuals, and circumstances. Al Jazeera ",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -6035,8 +6056,8 @@
   },
   {
     "thread_id": "thread-tiger-woods-pleads-guilty-to-reckless-dr",
-    "title": "Nvidia CEO’s affair sparks Chinese espionage probe",
-    "category": "未分类",
+    "title": "Trump says FBI probing Nvidia CEO Huang’s affair with alleged spy",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -6100,6 +6121,13 @@
         "headline": "Nvidia CEO’s affair sparks Chinese espionage probe",
         "summary": "Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.",
         "category": "未分类"
+      },
+      {
+        "date": "20261110",
+        "event_cluster_id": "20261110-trump-fbi-probing-nvidia-01",
+        "headline": "Trump says FBI probing Nvidia CEO Huang’s affair with alleged spy",
+        "summary": "US president says he believes CEO Jensen Huang had no knowledge of woman s alleged work for Chinese intelligence.",
+        "category": "国际政治"
       }
     ]
   },
@@ -7421,7 +7449,7 @@
   },
   {
     "thread_id": "thread-nyc-mayor-mamdani-bans-ai-use-for-younge",
-    "title": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
+    "title": "Targeted by U.S., Armed Group Strikes Back in Colombia",
     "category": "安全与冲突",
     "events": [
       {
@@ -7450,6 +7478,13 @@
         "event_cluster_id": "20261010-panama-earthquake-tsunami-warnings-01",
         "headline": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
         "summary": "Countries including Colombia, Ecuador, Nicaragua, Guatemala and Chile have received warnings after the quake.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261110",
+        "event_cluster_id": "20261110-targeted-u-s-armed-01",
+        "headline": "Targeted by U.S., Armed Group Strikes Back in Colombia",
+        "summary": "Members of the National Liberation Army, Colombia’s oldest active leftist rebel group, in Arauca, Colombia, in July.",
         "category": "安全与冲突"
       }
     ]
@@ -7498,8 +7533,8 @@
   },
   {
     "thread_id": "thread-trump-posts-ai-generated-videos-of-milit",
-    "title": "Trump told new press secretary to ‘reconsider’ role",
-    "category": "未分类",
+    "title": "Dana White declines Trump’s offer to be White House press secretary",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260904",
@@ -7528,6 +7563,13 @@
         "headline": "Trump told new press secretary to ‘reconsider’ role",
         "summary": "Al Jazeera has confirmed that White House press secretary Katie Zacharia is “transitioning out” of her role.",
         "category": "未分类"
+      },
+      {
+        "date": "20261110",
+        "event_cluster_id": "20261110-dana-white-declines-trump-01",
+        "headline": "Dana White declines Trump’s offer to be White House press secretary",
+        "summary": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
+        "category": "国际政治"
       }
     ]
   },
@@ -8191,7 +8233,7 @@
   },
   {
     "thread_id": "thread-european-industry-group-warns-of-300-000",
-    "title": "Democrats’ Blue Wave Draws Big Numbers, With NBC, MS NOW Topping Broadcast, Cable Ratings",
+    "title": "Why Winning Big Matters",
     "category": "未分类",
     "events": [
       {
@@ -8241,6 +8283,20 @@
         "event_cluster_id": "20261105-democrats-blue-wave-draws-01",
         "headline": "Democrats’ Blue Wave Draws Big Numbers, With NBC, MS NOW Topping Broadcast, Cable Ratings",
         "summary": "The big night for Democrats drew millions of viewers to the cable news and broadcast networks, setting records on TV and in digital streams.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261110",
+        "event_cluster_id": "20261110-newly-elected-democrats-react-01",
+        "headline": "Newly-elected Democrats react to Hegseth impeachment bid",
+        "summary": "Newly-elected Democrats say holding Defense Secretary Pete Hegseth accountable, will be a priority in the next Congress.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261110",
+        "event_cluster_id": "20261110-why-winning-big-matters-01",
+        "headline": "Why Winning Big Matters",
+        "summary": "The biggest questions, of course, are: Who can afford him? Who’s willing to spend big on a starter? And ultimately, who will get him?",
         "category": "未分类"
       }
     ]
@@ -9157,8 +9213,8 @@
   },
   {
     "thread_id": "thread-eiffel-tower-workers-strike-saying-women",
-    "title": "Macron bans ‘illegitimate’ protests in France as he tries to get a grip on unrest",
-    "category": "国际政治",
+    "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260909",
@@ -9201,6 +9257,13 @@
         "headline": "Macron bans ‘illegitimate’ protests in France as he tries to get a grip on unrest",
         "summary": "French president also says he will decide on concrete ‘next steps’ for the next nationwide demonstrations Angry lawyers and bewildered defendants: the fallout from fast-tracking French rioting cases Emmanuel Macron has said “illegitimate” demonstrations will be banned over the coming days as France seeks to get a grip on civil unrest after some of its worst street violence in years erupted on the ",
         "category": "国际政治"
+      },
+      {
+        "date": "20261110",
+        "event_cluster_id": "20261110-iran-behind-cyber-attack-01",
+        "headline": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+        "summary": "French foreign minister vows European sanctions against Tehran over ‘unprecedented’ hacks last month France has said Iran was responsible for a massive cyber-attack on supermarket freezers and chiller cabinets that was described by its foreign minister as being an act of “unprecedented scale and unprecedented aggression”. Jean-Noël Barrot said “Europe-wide sanctions” would be imposed against those",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -9570,8 +9633,8 @@
   },
   {
     "thread_id": "thread-china-cargo-ship-fire-kills-at-least-25",
-    "title": "Several people missing after multistorey building collapses in Kenya",
-    "category": "未分类",
+    "title": "Turkey steel factory blast kills at least 17 people",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260911",
@@ -9586,6 +9649,13 @@
         "headline": "Several people missing after multistorey building collapses in Kenya",
         "summary": "Officials say building in Nairobi s Eastleigh area had no occupation certificate, but ground floor was in use.",
         "category": "未分类"
+      },
+      {
+        "date": "20261110",
+        "event_cluster_id": "20261110-turkey-steel-factory-blast-01",
+        "headline": "Turkey steel factory blast kills at least 17 people",
+        "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+        "category": "文化体育"
       }
     ]
   },
@@ -9906,7 +9976,7 @@
   },
   {
     "thread_id": "thread-houthi-advance-in-yemen-is-about-more-th",
-    "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+    "title": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
     "category": "安全与冲突",
     "events": [
       {
@@ -9991,6 +10061,13 @@
         "event_cluster_id": "20261025-trump-lauds-melania-russia-01",
         "headline": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
         "summary": "Donald Trump praised First Lady as better than professionals after a localised Russia-Ukraine ceasefire in Oleshky.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261110",
+        "event_cluster_id": "20261110-russia-ukraine-us-meet-01",
+        "headline": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
+        "summary": "Zelenskyy claims Russia suffering record losses as Trump says US seeing strong inclination to end war in Ukraine.",
         "category": "安全与冲突"
       }
     ]
@@ -12167,7 +12244,7 @@
   },
   {
     "thread_id": "thread-what-a-pearly-king-taught-me-about-cockn",
-    "title": "Pope Leo XIV delivers homily to thousands in Uruguay",
+    "title": "Pope meets with clergy abuse survivors in Argentina",
     "category": "未分类",
     "events": [
       {
@@ -12203,6 +12280,13 @@
         "event_cluster_id": "20261109-pope-leo-xiv-delivers-01",
         "headline": "Pope Leo XIV delivers homily to thousands in Uruguay",
         "summary": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak. (Image credit: Andrew Medichini)",
+        "category": "未分类"
+      },
+      {
+        "date": "20261110",
+        "event_cluster_id": "20261110-pope-meets-clergy-abuse-01",
+        "headline": "Pope meets with clergy abuse survivors in Argentina",
+        "summary": "During private meetings with survivors, Pope Leo XIV pledged to reinforce safeguards and listen to victims.",
         "category": "未分类"
       }
     ]
@@ -12496,7 +12580,7 @@
   },
   {
     "thread_id": "thread-bold-and-inventive-canadian-poet-anne-ca",
-    "title": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
+    "title": "Strait of Hormuz still a source of leverage for Iran",
     "category": "安全与冲突",
     "events": [
       {
@@ -12546,6 +12630,13 @@
         "event_cluster_id": "20261103-iran-war-live-us-01",
         "headline": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
         "summary": "US forces target Iranian positions in the Strait of Hormuz in defensive strikes following missile threats.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261110",
+        "event_cluster_id": "20261110-strait-hormuz-still-source-01",
+        "headline": "Strait of Hormuz still a source of leverage for Iran",
+        "summary": "Attacks in the Strait of Hormuz put crews at risk and drive up energy shipping costs. Iran's ability to sustain them and the limits of US protection will shape how much trade can continue and at what price.",
         "category": "安全与冲突"
       }
     ]
@@ -12657,7 +12748,7 @@
   },
   {
     "thread_id": "thread-zelenskyy-welcomes-us-announced-energy-c",
-    "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+    "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect",
     "category": "安全与冲突",
     "events": [
       {
@@ -12700,6 +12791,13 @@
         "event_cluster_id": "20261023-ukraine-hit-strikes-russia-01",
         "headline": "Ukraine hit by strikes after Russia agrees to new peace talks",
         "summary": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261110",
+        "event_cluster_id": "20261110-trilateral-talks-ukraine-war-01",
+        "headline": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect",
+        "summary": "Ukrainian and Russian representatives last met in February for talks on ending the war, but the same sticking points remain. Ukraine continues to demand security guarantees, which is a non-starter for Russia.",
         "category": "安全与冲突"
       }
     ]
@@ -12895,8 +12993,8 @@
   },
   {
     "thread_id": "thread-six-flags-stock-plunges-after-death-at-g",
-    "title": "Six Flags Stock Plunges After Death At Georgia Roller Coaster Prompts Closures",
-    "category": "经济与市场",
+    "title": "Lloyd Geering, Pastor Who Disputed Christ’s Resurrection, Dies at 108",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20261014",
@@ -12904,6 +13002,13 @@
         "headline": "Six Flags Stock Plunges After Death At Georgia Roller Coaster Prompts Closures",
         "summary": "A 42-year-old man was “ejected” from a roller coaster at Six Flags Over Georgia and struck other passengers before falling under the ride, authorities in the state said.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261110",
+        "event_cluster_id": "20261110-lloyd-geering-pastor-who-01",
+        "headline": "Lloyd Geering, Pastor Who Disputed Christ’s Resurrection, Dies at 108",
+        "summary": "“It is faith that man needs, not past doctrines,” he said in defense of his views, which became a cause célèbre for many but were condemned by others.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -13014,8 +13119,8 @@
   },
   {
     "thread_id": "thread-curfew-imposed-in-parts-of-central-paris",
-    "title": "France is divided over who to blame for and what to learn from weekend riots",
-    "category": "未分类",
+    "title": "France blames Iran for October supermarket cyberattack",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20261020",
@@ -13030,6 +13135,13 @@
         "headline": "France is divided over who to blame for and what to learn from weekend riots",
         "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
         "category": "未分类"
+      },
+      {
+        "date": "20261110",
+        "event_cluster_id": "20261110-france-blames-iran-october-01",
+        "headline": "France blames Iran for October supermarket cyberattack",
+        "summary": "French Foreign Minister Jean-Noël Barrot has blamed the Iranian Islamic Revolutionary Guard Corps for the cyberattack.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -13714,8 +13826,8 @@
   },
   {
     "thread_id": "thread-migrants-arrive-in-spain-s-canary-island",
-    "title": "Migrants arrive in Spain’s Canary Islands after being rescued at sea",
-    "category": "未分类",
+    "title": "Migrant boat sinks off Senegal killing dozens",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20261107",
@@ -13723,6 +13835,27 @@
         "headline": "Migrants arrive in Spain’s Canary Islands after being rescued at sea",
         "summary": "More than 3,200 migrants were rescued in the first six days of November in Canary Islands, Spain.",
         "category": "未分类"
+      },
+      {
+        "date": "20261110",
+        "event_cluster_id": "20261110-least-39-die-europe-01",
+        "headline": "Migrant boat sinks off Senegal killing dozens",
+        "summary": "A migrant boat sank off the coast of Senegal. At least 39 people died according to BBC World. The New York Times reports dozens killed. The vessel was attempting to reach the Canary Islands. The Canary Islands declared a migrant emergency. Remains of the boat washed onto a beach in northwestern Senegal.",
+        "category": "安全与冲突"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-cop31-has-opened-in-turkiye-amid-war-dri",
+    "title": "COP31 has opened in Turkiye amid war-driven energy disruptions and a renewed reliance on fossil fuels.",
+    "category": "气候与环境",
+    "events": [
+      {
+        "date": "20261110",
+        "event_cluster_id": "20261110-cop31-opens-energy-crisis-01",
+        "headline": "COP31 has opened in Turkiye amid war-driven energy disruptions and a renewed reliance on fossil fuels.",
+        "summary": "COP31 has opened in Turkiye amid war-driven energy disruptions and a renewed reliance on fossil fuels.",
+        "category": "气候与环境"
       }
     ]
   }
