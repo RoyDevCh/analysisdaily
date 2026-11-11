@@ -2045,8 +2045,8 @@
   },
   {
     "thread_id": "thread-putin-pledges-increased-strikes-in-ukrai",
-    "title": "Putin Pledges Increased Strikes in Ukraine and Support for Iran",
-    "category": "安全与冲突",
+    "title": "No Good Choices on Iran",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -2054,6 +2054,13 @@
         "headline": "Putin Pledges Increased Strikes in Ukraine and Support for Iran",
         "summary": "Pedestrians walking past a mural of Iran’s slain supreme leader, Ayatollah Ali Khamenei, in downtown Tehran on Monday.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-no-good-choices-iran-01",
+        "headline": "No Good Choices on Iran",
+        "summary": "Iran's top security official, who reportedly received a letter from Vice President JD Vance about resuming peace talks, warned in a resurfaced interview that wartime negotiations with Tehran could drag on for decades, and during which both sides should \"be prepared to fight.\" Mohsen Rezaei, a former commander of Iran's Islamic Revolutionary Guard Corps (IRGC), now serves as secretary of the Suprem",
+        "category": "未分类"
       }
     ]
   },
@@ -3368,8 +3375,8 @@
   },
   {
     "thread_id": "thread-search-operations-continue-after-floods-",
-    "title": "China Fielding Robotic Space Weapons That Can Attack Other Satellites",
-    "category": "安全与冲突",
+    "title": "US and rest of world must follow China’s lead on green energy, says John Kerry",
+    "category": "气候与环境",
     "events": [
       {
         "date": "20260902",
@@ -3482,6 +3489,13 @@
         "headline": "China Fielding Robotic Space Weapons That Can Attack Other Satellites",
         "summary": "As China has more than tripled its space launches, satellites that can function as weapons pose a big security risk, according to the U.S. Defense Intelligence Agency.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-us-rest-world-must-01",
+        "headline": "US and rest of world must follow China’s lead on green energy, says John Kerry",
+        "summary": "Former US secretary of state says most nations are ‘stumbling along’ while Beijing has ‘hugely accelerated’ Cop31 live – latest updates China is leading the world in moving away from fossil fuels , and the rest of the globe – including the US – must now follow, the former US secretary of state John Kerry has told the Guardian, as Cop watchers wonder exactly how China is going to approach this year",
+        "category": "气候与环境"
       }
     ]
   },
@@ -3851,8 +3865,8 @@
   },
   {
     "thread_id": "thread-guinea-bissau-voters-approve-new-constit",
-    "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
-    "category": "未分类",
+    "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+    "category": "气候与环境",
     "events": [
       {
         "date": "20260902",
@@ -3979,6 +3993,13 @@
         "headline": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
         "summary": "Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain. (Image credit: Salwan Georges)",
         "category": "未分类"
+      },
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-board-peace-israel-s-01",
+        "headline": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+        "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
+        "category": "气候与环境"
       }
     ]
   },
@@ -4075,8 +4096,8 @@
   },
   {
     "thread_id": "thread-oil-market-developments-and-aviation-imp",
-    "title": "Oil spill washes up on UAE beaches after tanker strike",
-    "category": "安全与冲突",
+    "title": "America’s Oil Capital Is Also Its Wind And Solar Capital",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260902",
@@ -4091,6 +4112,13 @@
         "headline": "Oil spill washes up on UAE beaches after tanker strike",
         "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-america-s-oil-capital-01",
+        "headline": "America’s Oil Capital Is Also Its Wind And Solar Capital",
+        "summary": "Texas leads the nation in oil, gas, wind, and utility-scale solar generation. The state's market-based grid allows the cheapest energy offers to win.",
+        "category": "经济与市场"
       }
     ]
   },
@@ -5615,7 +5643,7 @@
   },
   {
     "thread_id": "thread-马达加斯加前参议院主席因镇压z世代抗议被判强迫劳动-丹麦农民因化肥限令抗议",
-    "title": "Thousands displaced as homes are bulldozed in India’s Assam state",
+    "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
     "category": "未分类",
     "events": [
       {
@@ -5707,6 +5735,13 @@
         "event_cluster_id": "20261103-thousands-displaced-homes-bulldozed-01",
         "headline": "Thousands displaced as homes are bulldozed in India’s Assam state",
         "summary": "Hundreds of homes have been bulldozed in the Dhubri district of Assam state in northeastern India.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-violence-erupts-bangladesh-ousted-01",
+        "headline": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+        "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
         "category": "未分类"
       }
     ]
@@ -5860,8 +5895,8 @@
   },
   {
     "thread_id": "thread-以色列在加沙突袭中逮捕哈马斯安全部门高级指挥官",
-    "title": "纽约市禁止K-8年级使用AI技术，专家称可能影响美国其他地区政策",
-    "category": "科技与AI",
+    "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -5897,6 +5932,13 @@
         "headline": "纽约市禁止K-8年级使用AI技术，专家称可能影响美国其他地区政策",
         "summary": "纽约市通过了一项为期一年的禁令，禁止幼儿园至八年级使用人工智能技术，影响约60万名学生。专家表示，该禁令可能为美国其他地区的类似政策开创先例。Al Jazeera报道了此项教育政策，涵盖时间跨度、学生人数和潜在影响范围。与此同时，AI技术在其他领域的发展也在推进，BBC报道了澳大利亚AI数据中心建设热潮，支持者认为将带来就业机会，反对者担忧资源消耗问题。两篇文章涉及不同地区的AI应用议题，但都反映了AI技术在社会中引发的政策讨论。",
         "category": "科技与AI"
+      },
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-arrests-made-mohamed-al-01",
+        "headline": "Arrests made in Mohamed Al Fayed probe in France, police say",
+        "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+        "category": "未分类"
       }
     ]
   },
@@ -7078,8 +7120,8 @@
   },
   {
     "thread_id": "thread-dara-singh-faces-potential-release-in-in",
-    "title": "Iran war increasing inflation, straining US munitions: congressional report",
-    "category": "经济与市场",
+    "title": "Two congressional and municipal reports released on separate issues",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260903",
@@ -7101,6 +7143,13 @@
         "headline": "Iran war increasing inflation, straining US munitions: congressional report",
         "summary": "Report by nonpartisan research body finds that replenishing depleted munitions stockpiles could take up to five years.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-us-federal-authorities-have-01",
+        "headline": "Two congressional and municipal reports released on separate issues",
+        "summary": "A Republican-led congressional committee released a 15-month investigation report stating US federal authorities could have prevented crimes by financier Jeffrey Epstein. Separately, a 23-page report detailed Los Angeles' $1 billion homeless spending challenges facing Councilmember Raman. The two sources cover different events.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -8975,7 +9024,7 @@
   },
   {
     "thread_id": "thread-the-map-was-lying-to-you-why-the-un-just",
-    "title": "Who went home on ‘Dancing With the Stars’ Disney Night",
+    "title": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
     "category": "未分类",
     "events": [
       {
@@ -9025,6 +9074,13 @@
         "event_cluster_id": "20261103-dancing-stars-disney-night-01",
         "headline": "Who went home on ‘Dancing With the Stars’ Disney Night",
         "summary": "Who went home on ‘Dancing With the Stars’ Disney Night? A beloved couple was sent home Monday night, while three perfect scores stole the show.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-watch-e-bike-battery-01",
+        "headline": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
+        "summary": "Surveillance footage from inside the home shows a mother and son noticing smoke coming from the battery before it suddenly bursts into flames.",
         "category": "未分类"
       }
     ]
@@ -9115,7 +9171,7 @@
   },
   {
     "thread_id": "thread-saudi-arabia-vows-to-respond-after-houth",
-    "title": "Port Sudan families can barely afford water as shortages persist",
+    "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
     "category": "安全与冲突",
     "events": [
       {
@@ -9208,13 +9264,20 @@
         "headline": "Port Sudan families can barely afford water as shortages persist",
         "summary": "Despite efforts to restore damaged infrastructure, residents face soaring water costs as war, displacement strain supply",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-us-voters-want-democrats-01",
+        "headline": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
+        "summary": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.",
+        "category": "安全与冲突"
       }
     ]
   },
   {
     "thread_id": "thread-eiffel-tower-workers-strike-saying-women",
-    "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
-    "category": "安全与冲突",
+    "title": "Iran denies role in fridge hack, France summons ambassador",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260909",
@@ -9264,6 +9327,13 @@
         "headline": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
         "summary": "French foreign minister vows European sanctions against Tehran over ‘unprecedented’ hacks last month France has said Iran was responsible for a massive cyber-attack on supermarket freezers and chiller cabinets that was described by its foreign minister as being an act of “unprecedented scale and unprecedented aggression”. Jean-Noël Barrot said “Europe-wide sanctions” would be imposed against those",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-iran-denies-role-fridge-01",
+        "headline": "Iran denies role in fridge hack, France summons ambassador",
+        "summary": "France has said it rules \"nothing\" out in response to a cyberattack on supermarket refrigeration units. Iran, however, said it categorically rejected Paris' \"baseless and one-sided accusations\" of IRGC involvement.",
+        "category": "国际政治"
       }
     ]
   },
@@ -9493,7 +9563,7 @@
   },
   {
     "thread_id": "thread-how-a-driver-s-sudden-death-triggered-eb",
-    "title": "Experts: this is the best cash back card of 2022",
+    "title": "It's official: now avoid credit card interest into 2024",
     "category": "未分类",
     "events": [
       {
@@ -9551,6 +9621,13 @@
         "headline": "Experts: this is the best cash back card of 2022",
         "summary": "Back in mid-October, as Karl-Anthony Towns voiced his displeasure with the lack of a new contract extension, he also maintained it wouldn’t impact his performance.",
         "category": "未分类"
+      },
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-it-s-official-now-01",
+        "headline": "It's official: now avoid credit card interest into 2024",
+        "summary": "Everything you need to know about UFC 334, which features two title fights at the top of the card: Ciryl Gane vs. Josh Hokit and Kayla Harrison vs. Amanda Nunes",
+        "category": "未分类"
       }
     ]
   },
@@ -9598,8 +9675,8 @@
   },
   {
     "thread_id": "thread-peter-thiel-backed-firm-to-make-low-cost",
-    "title": "Sprawling New York Castle—With A Taylor Swift Connection—Headed To Auction (Photos)",
-    "category": "经济与市场",
+    "title": "Trump administration seeks to cut food aid for more than six million people",
+    "category": "未分类",
     "events": [
       {
         "date": "20260910",
@@ -9628,6 +9705,13 @@
         "headline": "Sprawling New York Castle—With A Taylor Swift Connection—Headed To Auction (Photos)",
         "summary": "The castle's market value sits around $75 million to $95 million.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-trump-administration-seeks-cut-01",
+        "headline": "Trump administration seeks to cut food aid for more than six million people",
+        "summary": "Trump’s proposal builds on earlier cuts to federal food aid programme used by more than 36 million low-income Americans.",
+        "category": "未分类"
       }
     ]
   },
@@ -10900,8 +10984,8 @@
   },
   {
     "thread_id": "thread-putin-s-grip-on-power-remains-strong-ahe",
-    "title": "Russia’s Silence on Possible Plague Outbreak Stokes Fears of a Cover-Up",
-    "category": "未分类",
+    "title": "Russia expels Moldovan diplomat in tit-for-tat move",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260919",
@@ -10937,6 +11021,13 @@
         "headline": "Russia’s Silence on Possible Plague Outbreak Stokes Fears of a Cover-Up",
         "summary": "The Irkutsk Anti-Plague Research Institute of Siberia and the Far East in Irkutsk, Russia, on Wednesday. The researcher who died worked in the lab.",
         "category": "未分类"
+      },
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-russia-expels-moldovan-diplomat-01",
+        "headline": "Russia expels Moldovan diplomat in tit-for-tat move",
+        "summary": "Relations between Moscow and Chisinau have worsened since Russia s full-scale invasion of Ukraine in 2022.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -12062,8 +12153,8 @@
   },
   {
     "thread_id": "thread-flydubai-fz1073-timeline-how-the-israel-",
-    "title": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
-    "category": "安全与冲突",
+    "title": "F1 champion Lewis Hamilton visits Gaza border",
+    "category": "未分类",
     "events": [
       {
         "date": "20261001",
@@ -12120,6 +12211,13 @@
         "headline": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
         "summary": "At least 26 people were killed in Russian strikes on a school being used as a humanitarian aid centre.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-f1-champion-lewis-hamilton-01",
+        "headline": "F1 champion Lewis Hamilton visits Gaza border",
+        "summary": "North Sinai Governor Khaled Megawer briefs the British driver on Egypt-coordinated aid efforts through Rafah crossing.",
+        "category": "未分类"
       }
     ]
   },
@@ -12510,7 +12608,7 @@
   },
   {
     "thread_id": "thread-israel-shuts-down-british-consulate-in-o",
-    "title": "Eisenkot open to Netanyahu joining Israel’s next government",
+    "title": "Netanyahu and Eisenkot push for new government after election deadlock",
     "category": "国际政治",
     "events": [
       {
@@ -12525,6 +12623,20 @@
         "event_cluster_id": "20261109-eisenkot-open-netanyahu-joining-01",
         "headline": "Eisenkot open to Netanyahu joining Israel’s next government",
         "summary": "Israel s president officially tasks the opposition leader with forming a new government.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-israeli-opposition-hurries-seize-01",
+        "headline": "Israeli opposition hurries to seize control as new Knesset is sworn in",
+        "summary": "Former military chief Gadi Eisenkot has mandate to try to form a government – with Netanyahu waiting if he fails Opposition lawmakers have wasted no time after Israel’s new Knesset was sworn in, deploying their majority to seize control of the legislature from Benjamin Netanyhau and his allies. Although they are still too divided to form a government, the opposition requested a vote for a new spea",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-netanyahu-eisenkot-push-government-01",
+        "headline": "Netanyahu and Eisenkot push for new government after election deadlock",
+        "summary": "Netanyahu and Eisenkot push for new government after election deadlock",
         "category": "国际政治"
       }
     ]
@@ -12748,8 +12860,8 @@
   },
   {
     "thread_id": "thread-zelenskyy-welcomes-us-announced-energy-c",
-    "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect",
-    "category": "安全与冲突",
+    "title": "First day of Ukraine peace talks constructive, Zelensky says",
+    "category": "未分类",
     "events": [
       {
         "date": "20261012",
@@ -12799,6 +12911,13 @@
         "headline": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect",
         "summary": "Ukrainian and Russian representatives last met in February for talks on ending the war, but the same sticking points remain. Ukraine continues to demand security guarantees, which is a non-starter for Russia.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-first-ukraine-peace-talks-01",
+        "headline": "First day of Ukraine peace talks constructive, Zelensky says",
+        "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+        "category": "未分类"
       }
     ]
   },
@@ -12818,7 +12937,7 @@
   },
   {
     "thread_id": "thread-breaking-bad-actor-rj-mitte-dies-aged-34",
-    "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+    "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
     "category": "未分类",
     "events": [
       {
@@ -12833,6 +12952,13 @@
         "event_cluster_id": "20261030-hello-kitty-maker-cuts-01",
         "headline": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
         "summary": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-nvidia-hires-major-us-01",
+        "headline": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+        "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
         "category": "未分类"
       }
     ]
@@ -12888,7 +13014,7 @@
   },
   {
     "thread_id": "thread-nato-details-plan-to-shield-ukraine-s-eu",
-    "title": "University of Cambridge scientist among those who died in Spanish train crash",
+    "title": "Spain holds state funeral for 69 victims of deadly train crash",
     "category": "未分类",
     "events": [
       {
@@ -12917,6 +13043,13 @@
         "event_cluster_id": "20261102-university-cambridge-scientist-among-01",
         "headline": "University of Cambridge scientist among those who died in Spanish train crash",
         "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-spain-holds-state-funeral-01",
+        "headline": "Spain holds state funeral for 69 victims of deadly train crash",
+        "summary": "Spain’s King and Queen have joined families of the 69 victims from a deadly train collision at a state funeral.",
         "category": "未分类"
       }
     ]
@@ -13315,7 +13448,7 @@
   },
   {
     "thread_id": "thread-al-jazeera-reports-us-accuses-canada-of-",
-    "title": "Bus accident near Barcelona injures 80; Forbes discusses bank reputation",
+    "title": "Two unrelated news topics covered by Al Jazeera and Forbes",
     "category": "社会与公共政策",
     "events": [
       {
@@ -13337,6 +13470,13 @@
         "event_cluster_id": "20261027-80-injured-bus-plunges-01",
         "headline": "Bus accident near Barcelona injures 80; Forbes discusses bank reputation",
         "summary": "Al Jazeera reports a bus plunged down an embankment near Barcelona injuring 80 people. Forbes publishes an opinion piece on banks' duty to protect their reputations. The two articles cover unrelated events.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-2026-midterms-blue-wave-01",
+        "headline": "Two unrelated news topics covered by Al Jazeera and Forbes",
+        "summary": "Al Jazeera reports on analysis of the 2026 U.S. midterm elections. Forbes reports on U.S. ski resorts opening for the 2026-27 season. The articles cover separate events.",
         "category": "社会与公共政策"
       }
     ]
@@ -13749,8 +13889,8 @@
   },
   {
     "thread_id": "thread-republicans-suffer-midterms-defeat-sourc",
-    "title": "Republicans suffer midterms defeat; sources differ on causes",
-    "category": "国际政治",
+    "title": "Republicans block Hegseth impeachment motion",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20261105",
@@ -13758,6 +13898,13 @@
         "headline": "Republicans suffer midterms defeat; sources differ on causes",
         "summary": "Republicans lost the US midterm elections. DW reports economic concerns including oil prices, tariffs, and debt were key factors. BBC reports some Republicans blame President Trump's focus on his legacy and indifference to voter concerns. Both sources note the Democratic victory. The outlook for Democratic economic policy remains uncertain.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-republicans-block-hegseth-impeachment-01",
+        "headline": "Republicans block Hegseth impeachment motion",
+        "summary": "Republicans have blocked a motion to impeach US Secretary of Defense Pete Hegseth over the war on Iran.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -13856,6 +14003,76 @@
         "headline": "COP31 has opened in Turkiye amid war-driven energy disruptions and a renewed reliance on fossil fuels.",
         "summary": "COP31 has opened in Turkiye amid war-driven energy disruptions and a renewed reliance on fossil fuels.",
         "category": "气候与环境"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-bulgaria-highway-pileup-kills-12-dozens-",
+    "title": "Bulgaria highway pileup kills 12, dozens injured: PM",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-bulgaria-highway-pileup-kills-01",
+        "headline": "Bulgaria highway pileup kills 12, dozens injured: PM",
+        "summary": "At least 12 people were killed and dozens injured in a series of crashes caused by thick fog in Bulgaria. Police, firefighters and paramedics were dispatched to the scene for the rescue operation.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-foo-fighters-tribute-to-beaconsfield-min",
+    "title": "Foo Fighters tribute to Beaconsfield miner and Jemima Goldsmith accuses Russell Brand",
+    "category": "文化体育",
+    "events": [
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-foo-fighters-interrupt-sydney-01",
+        "headline": "Foo Fighters tribute to Beaconsfield miner and Jemima Goldsmith accuses Russell Brand",
+        "summary": "During a Sydney concert, Foo Fighters frontman Dave Grohl honored Todd Russell, a survivor of the Beaconsfield mine collapse who died at 54. Separately, Jemima Goldsmith alleged abuse by her former partner Russell Brand, noting they dated for about a year in 2014. The two reports address unrelated events.",
+        "category": "文化体育"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-us-soldier-is-arrested-in-uk-on-suspicio",
+    "title": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-us-soldier-arrested-uk-01",
+        "headline": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
+        "summary": "The F.B.I. director, Kash Patel, said in a statement, “This F.B.I. has no tolerance for anyone who breaks their oath to the United States and whose actions endanger our national security and that of our partners.”",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-everything-and-everyone-we-love-is-at-st",
+    "title": "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
+    "category": "气候与环境",
+    "events": [
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-everything-everyone-we-love-01",
+        "headline": "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
+        "summary": "Climate activist urges world leaders to put people and planet before profit as she arrives at UN climate talks.",
+        "category": "气候与环境"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-u-s-aircraft-abruptly-depart-a-second-u-",
+    "title": "U.S. aircraft abruptly depart a second U.K. base",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20261111",
+        "event_cluster_id": "20261111-u-s-aircraft-abruptly-01",
+        "headline": "U.S. aircraft abruptly depart a second U.K. base",
+        "summary": "At least a dozen U.S. refueling planes and other aircraft departed on Monday from a British base that is a major hub for the U.S. Air Force. The reasons behind the move remain unclear.",
+        "category": "未分类"
       }
     ]
   }
