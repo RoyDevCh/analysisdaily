@@ -204,7 +204,7 @@
   },
   {
     "thread_id": "thread-hong-kong-activist-joshua-wong-pleads-gu",
-    "title": "El Salvador’s Bukele touts military intervention in Haiti",
+    "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
     "category": "安全与冲突",
     "events": [
       {
@@ -261,6 +261,13 @@
         "event_cluster_id": "20261105-el-salvador-s-bukele-01",
         "headline": "El Salvador’s Bukele touts military intervention in Haiti",
         "summary": "Haitian police have found a vehicle used by four missing Salvadoran technicians as Salvadoran troops deploy to Haiti.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-haitian-pm-praises-el-01",
+        "headline": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
+        "summary": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis.",
         "category": "安全与冲突"
       }
     ]
@@ -1100,8 +1107,8 @@
   },
   {
     "thread_id": "thread-turn-your-rising-home-equity-into-cash-y",
-    "title": "Forbes reports China won women's team gold at 2026 World Gymnastics Championships in Rotterdam",
-    "category": "文化体育",
+    "title": "BBC reports Australian teen rescued after six days missing; Forbes reports Phillies acquire new catcher",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -1277,6 +1284,13 @@
         "headline": "Forbes reports China won women's team gold at 2026 World Gymnastics Championships in Rotterdam",
         "summary": "BBC World reports organizational failures at the Asian Games in Japan including hotel chaos, transport mishaps, and diplomatic blunders. Forbes reports China narrowly defeated the United States women's team for gold at the 2026 World Gymnastics Championships in Rotterdam. The two sources cover entirely different sporting events in different locations and years. No common event exists between the a",
         "category": "文化体育"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-australian-teen-missing-bush-01",
+        "headline": "BBC reports Australian teen rescued after six days missing; Forbes reports Phillies acquire new catcher",
+        "summary": "BBC World reports a 17-year-old Australian male was rescued alive after missing in bushland for six days. Forbes reports the Philadelphia Phillies acquired a 31-year-old catcher from a division rival following a decision regarding veteran catcher JT Realmuto. The two sources cover unrelated events.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -1772,7 +1786,7 @@
   },
   {
     "thread_id": "thread-us-partners-venezuela-in-massive-oil-dea",
-    "title": "Rubio visits India with a trip to the world's largest oil refinery topping the agenda",
+    "title": "Famed ship SS United States sunk off coast of Florida",
     "category": "未分类",
     "events": [
       {
@@ -1808,6 +1822,13 @@
         "event_cluster_id": "20261020-rubio-visits-india-trip-01",
         "headline": "Rubio visits India with a trip to the world's largest oil refinery topping the agenda",
         "summary": "A visit to India this week by Washington's top diplomat will skip New Delhi and instead include the world's largest oil refinery, which processes massive amounts of Russian crude. Is Trump looking for a new deal?",
+        "category": "未分类"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-famed-ship-ss-united-01",
+        "headline": "Famed ship SS United States sunk off coast of Florida",
+        "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
         "category": "未分类"
       }
     ]
@@ -2045,8 +2066,8 @@
   },
   {
     "thread_id": "thread-putin-pledges-increased-strikes-in-ukrai",
-    "title": "No Good Choices on Iran",
-    "category": "未分类",
+    "title": "Iran designates Argentine navy and air force as terrorist organizations",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -2061,6 +2082,13 @@
         "headline": "No Good Choices on Iran",
         "summary": "Iran's top security official, who reportedly received a letter from Vice President JD Vance about resuming peace talks, warned in a resurfaced interview that wartime negotiations with Tehran could drag on for decades, and during which both sides should \"be prepared to fight.\" Mohsen Rezaei, a former commander of Iran's Islamic Revolutionary Guard Corps (IRGC), now serves as secretary of the Suprem",
         "category": "未分类"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-iran-designates-argentinian-navy-01",
+        "headline": "Iran designates Argentine navy and air force as terrorist organizations",
+        "summary": "Iran has declared Argentina's navy and air force as terrorist organizations. The move follows Argentina's earlier designation of Iran's Islamic Revolutionary Guard Corps as a terrorist group. Iranian officials described the action as a tit-for-tat response and warned Buenos Aires of further consequences. Both Al Jazeera and DW World report the designations and the retaliatory context.",
+        "category": "国际政治"
       }
     ]
   },
@@ -2094,8 +2122,8 @@
   },
   {
     "thread_id": "thread-u-s-military-strikes-iran-while-trump-vo",
-    "title": "Trump says further US attacks on Iran unlikely, maintains status quo",
-    "category": "国际政治",
+    "title": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -2138,6 +2166,13 @@
         "headline": "Trump says further US attacks on Iran unlikely, maintains status quo",
         "summary": "President Trump stated that additional US military strikes against Iran are highly unlikely and that the United States is keeping the current status quo. He added that the US remains \"locked and loaded\" if the situation changes. Trump also said negotiations with Iran are making progress. Both BBC World and The Washington Post report these remarks from an impromptu news conference. The sources do n",
         "category": "国际政治"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-judge-rules-trump-s-01",
+        "headline": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
+        "summary": "The BBC denies defamation charge as Trump celebrates “huge victory” in court decision.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -3865,8 +3900,8 @@
   },
   {
     "thread_id": "thread-guinea-bissau-voters-approve-new-constit",
-    "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-    "category": "气候与环境",
+    "title": "Israel strikes intensive care at Gaza’s Nasser Hospital",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -4000,6 +4035,13 @@
         "headline": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
         "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
         "category": "气候与环境"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-israel-strikes-intensive-care-01",
+        "headline": "Israel strikes intensive care at Gaza’s Nasser Hospital",
+        "summary": "Gaza s Civil Defence says an Israeli strike on Nasser Hospital has killed at least six people.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -4096,8 +4138,8 @@
   },
   {
     "thread_id": "thread-oil-market-developments-and-aviation-imp",
-    "title": "America’s Oil Capital Is Also Its Wind And Solar Capital",
-    "category": "经济与市场",
+    "title": "Drones To Surveil Grids For Data Centers, Infrastructure For Oil And Gas",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -4119,6 +4161,13 @@
         "headline": "America’s Oil Capital Is Also Its Wind And Solar Capital",
         "summary": "Texas leads the nation in oil, gas, wind, and utility-scale solar generation. The state's market-based grid allows the cheapest energy offers to win.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-drones-surveil-grids-data-01",
+        "headline": "Drones To Surveil Grids For Data Centers, Infrastructure For Oil And Gas",
+        "summary": "Autonomous drones can monitor for pre-failures of aging power grids, as well as well pads, production sites, flares, storage tanks, and refineries for oil and gas assets.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -4607,8 +4656,8 @@
   },
   {
     "thread_id": "thread-putin-pledges-support-for-iran",
-    "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
-    "category": "国际政治",
+    "title": "Indonesian VP resigns over education qualification row",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260902",
@@ -4658,6 +4707,13 @@
         "headline": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
         "summary": "The US president s remarks come amid a deepening feud with Ukraine s President Volodymyr Zelenskyy.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-indonesian-vp-resigns-education-01",
+        "headline": "Indonesian VP resigns over education qualification row",
+        "summary": "Indonesia s Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -5538,7 +5594,7 @@
   },
   {
     "thread_id": "thread-独立电影与f1意大利大奖赛2026年相关报道概述",
-    "title": "US says it killed five people in strike on alleged drug boat",
+    "title": "Barcelona erupts in violence after general strike",
     "category": "安全与冲突",
     "events": [
       {
@@ -5637,6 +5693,13 @@
         "event_cluster_id": "20261028-us-it-killed-five-01",
         "headline": "US says it killed five people in strike on alleged drug boat",
         "summary": "Latest strike brings death toll of campaign decried as extrajudicial killings to 243 people since September 2025.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-barcelona-erupts-violence-general-01",
+        "headline": "Barcelona erupts in violence after general strike",
+        "summary": "Protesters hurled fireworks at police and set rubbish bins ablaze in Barcelona after Spain’s general strike.",
         "category": "安全与冲突"
       }
     ]
@@ -8352,7 +8415,7 @@
   },
   {
     "thread_id": "thread-two-separate-plane-crashes-in-the-united",
-    "title": "Sweden must apologise for harm done to Sami people, says state-backed report",
+    "title": "Why the US, Mexico and Guatemala may lose their measles-free status",
     "category": "未分类",
     "events": [
       {
@@ -8374,6 +8437,13 @@
         "event_cluster_id": "20261001-sweden-must-apologise-harm-01",
         "headline": "Sweden must apologise for harm done to Sami people, says state-backed report",
         "summary": "Independent commission accuses country of failing Indigenous people, amid rising tensions over land rights An independent commission set up by the Swedish state has called on the country’s government to apologise for the “harm and injustice inflicted upon the Sami people” and to start a national process for “redress and reconciliation”. The Truth Commission for the Sami People also called for a sp",
+        "category": "未分类"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-why-us-mexico-guatemala-01",
+        "headline": "Why the US, Mexico and Guatemala may lose their measles-free status",
+        "summary": "An independent commission is reviewing whether countries in the Americas still meet measles elimination criteria.",
         "category": "未分类"
       }
     ]
@@ -8611,7 +8681,7 @@
   },
   {
     "thread_id": "thread-aaron-judge-on-verge-of-returning-to-the",
-    "title": "16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says",
+    "title": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
     "category": "未分类",
     "events": [
       {
@@ -8647,6 +8717,13 @@
         "event_cluster_id": "20261018-16-people-rescued-pacific-01",
         "headline": "16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says",
         "summary": "A U.S. Coast Guard helicopter lifting off at the U.S. Coast Guard Station in San Diego on Friday.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-hegseth-entourage-reprimanded-guard-01",
+        "headline": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
+        "summary": "Guard at memorial site can be heard yelling at group to maintain an atmosphere of silence and respect at all times .",
         "category": "未分类"
       }
     ]
@@ -8968,7 +9045,7 @@
   },
   {
     "thread_id": "thread-mamdani-releases-records-on-toxic-air-in",
-    "title": "Two separate entertainment and sports stories covered by right-leaning outlets",
+    "title": "Right-leaning outlets cover separate TV show events: MobLand episode release and Yellowjackets premiere",
     "category": "文化体育",
     "events": [
       {
@@ -9018,6 +9095,13 @@
         "event_cluster_id": "20261107-tulsa-king-star-gretchen-01",
         "headline": "Two separate entertainment and sports stories covered by right-leaning outlets",
         "summary": "Forbes reports Gretchen Mol discusses her role in Tulsa King Season 4 working with Sylvester Stallone, Terence Winter, and Taylor Sheridan. New York Post reports Tye Kartye earns expanded opportunities with the Rangers after being claimed off waivers. The articles cover unrelated entertainment and sports topics.",
+        "category": "文化体育"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-mobland-season-2-episode-01",
+        "headline": "Right-leaning outlets cover separate TV show events: MobLand episode release and Yellowjackets premiere",
+        "summary": "Forbes reports MobLand Season 2 Episode 9 releases November 13. New York Post reports Yellowjackets Season 4 premiere red carpet attended by Melanie Lynskey, Christina Ricci, and Jennifer Morrison. Sources cover different television events. Both publications are right-leaning. No overlapping event coverage exists between articles.",
         "category": "文化体育"
       }
     ]
@@ -9675,8 +9759,8 @@
   },
   {
     "thread_id": "thread-peter-thiel-backed-firm-to-make-low-cost",
-    "title": "Trump administration seeks to cut food aid for more than six million people",
-    "category": "未分类",
+    "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260910",
@@ -9712,6 +9796,13 @@
         "headline": "Trump administration seeks to cut food aid for more than six million people",
         "summary": "Trump’s proposal builds on earlier cuts to federal food aid programme used by more than 36 million low-income Americans.",
         "category": "未分类"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-us-treasury-secretary-scott-01",
+        "headline": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+        "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -9878,7 +9969,7 @@
   },
   {
     "thread_id": "thread-scientists-say-august-was-earth-s-hottes",
-    "title": "Brazil summons Argentinian diplomat over Bolsonaro’s flight to US",
+    "title": "Brazil electoral court fined Meta after President Lula coalition filed complaint",
     "category": "国际政治",
     "events": [
       {
@@ -9921,6 +10012,13 @@
         "event_cluster_id": "20261031-brazil-summons-argentinian-diplomat-01",
         "headline": "Brazil summons Argentinian diplomat over Bolsonaro’s flight to US",
         "summary": "The move threatens to further strain relations between Brazilian President Lula and his Argentinian counterpart, Milei.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-brazil-electoral-court-fines-01",
+        "headline": "Brazil electoral court fined Meta after President Lula coalition filed complaint",
+        "summary": "Brazil's electoral court fined Meta after President Lula's coalition filed a complaint but found no evidence of deliberate election bias. Meta stated it will defend itself against the allegations. Separately, a court in the UK decriminalized same-sex relations in Trinidad and Tobago. The Caribbean Court of Justice is headquartered in Port of Spain but Trinidad and Tobago has not made it the final ",
         "category": "国际政治"
       }
     ]
@@ -10340,8 +10438,8 @@
   },
   {
     "thread_id": "thread-best-friends-for-decades-until-a-dna-tes",
-    "title": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
-    "category": "未分类",
+    "title": "Estiatorio Milos, A High-End Ambassador Of Greek Gastronomy And Drinks",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260913",
@@ -10377,6 +10475,13 @@
         "headline": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
         "summary": "Alcaraz bagged a 7-6 (7/5), 7-5 straight sets for an elusive Paris crown before the year-end ATP Finals.",
         "category": "未分类"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-estiatorio-milos-high-end-01",
+        "headline": "Estiatorio Milos, A High-End Ambassador Of Greek Gastronomy And Drinks",
+        "summary": "With locations in Europe, Asia and The Americas, estiatorio Milos shares Greek traditions, culture and cuisine in a high-end environment that's more convivial than fussy.",
+        "category": "国际政治"
       }
     ]
   },
@@ -10984,8 +11089,8 @@
   },
   {
     "thread_id": "thread-putin-s-grip-on-power-remains-strong-ahe",
-    "title": "Russia expels Moldovan diplomat in tit-for-tat move",
-    "category": "安全与冲突",
+    "title": "Alexander Darchiev, Russia’s Ambassador to the U.S., Dies at 66",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260919",
@@ -11028,6 +11133,13 @@
         "headline": "Russia expels Moldovan diplomat in tit-for-tat move",
         "summary": "Relations between Moscow and Chisinau have worsened since Russia s full-scale invasion of Ukraine in 2022.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-alexander-darchiev-russia-s-01",
+        "headline": "Alexander Darchiev, Russia’s Ambassador to the U.S., Dies at 66",
+        "summary": "A photo provided by Russian state media in 2024 of Alexander Darchiev in Moscow. He died on Thursday, according to the foreign ministry.",
+        "category": "国际政治"
       }
     ]
   },
@@ -11362,8 +11474,8 @@
   },
   {
     "thread_id": "thread-eu-removes-russian-oligarchs-usmanov-and",
-    "title": "CORTIS, ATEEZ, I.O.I And 23 More: Melon Music Awards Confirms Final Performer List",
-    "category": "安全与冲突",
+    "title": "Spurs’ Victor Wembanyama Matches NBA Mark With 40 Points In 25 Minutes",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260923",
@@ -11378,12 +11490,26 @@
         "headline": "CORTIS, ATEEZ, I.O.I And 23 More: Melon Music Awards Confirms Final Performer List",
         "summary": "Notable performances include an MMA reunion by I.O.I after ten years, plus NCT DREAM and NCT 127 marking their tenth anniversaries.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-democrat-scott-colom-seals-01",
+        "headline": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+        "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-spurs-victor-wembanyama-matches-01",
+        "headline": "Spurs’ Victor Wembanyama Matches NBA Mark With 40 Points In 25 Minutes",
+        "summary": "The Spurs center, at 22 years of age, is starting to dominate the NBA. He's the future of the league at an endangered position.",
+        "category": "文化体育"
       }
     ]
   },
   {
     "thread_id": "thread-leaders-set-ambitious-goals-to-better-th",
-    "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+    "title": "Building collapse in Brooklyn kills two, injures more than a dozen",
     "category": "未分类",
     "events": [
       {
@@ -11413,12 +11539,19 @@
         "headline": "Elon Musk confirms he is considering merging Tesla and SpaceX",
         "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
         "category": "未分类"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-building-collapse-brooklyn-kills-01",
+        "headline": "Building collapse in Brooklyn kills two, injures more than a dozen",
+        "summary": "Rescue crews search for victims as Mayor Mamdani says first responders arrived one minute after emergency call.",
+        "category": "未分类"
       }
     ]
   },
   {
     "thread_id": "thread-delegates-walk-out-of-netanyahu-s-un-spe",
-    "title": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
+    "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
     "category": "安全与冲突",
     "events": [
       {
@@ -11469,6 +11602,13 @@
         "headline": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
         "summary": "Conservation officers say more than one bear may have been involved in attack on women near their home Search teams in Canada have discovered the body of a 20-year-old woman and confirmed that both she and her mother were killed in an attack that conservation officers now believe could have involved multiple grizzly bears. Late on Tuesday, conservation officers in British Columbia said the two wom",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-four-grizzly-bears-killed-01",
+        "headline": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+        "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -11495,7 +11635,7 @@
   },
   {
     "thread_id": "thread-susan-sarandon-hannah-einbinder-arrested",
-    "title": "Bollywood star greets fans in bulletproof glass after bomb threat",
+    "title": "More than 6,000 Italian schools received a threat.",
     "category": "安全与冲突",
     "events": [
       {
@@ -11531,6 +11671,13 @@
         "event_cluster_id": "20261102-bollywood-star-greets-fans-01",
         "headline": "Bollywood star greets fans in bulletproof glass after bomb threat",
         "summary": "Bollywood legend Amitabh Bachchan had greeted fans from a bulletproof enclosure outside his residence in Mumbai.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-hoax-bomb-threats-target-01",
+        "headline": "More than 6,000 Italian schools received a threat.",
+        "summary": "Thousands of schools across Italy, the UK and Ireland received hoax bomb threat emails.",
         "category": "安全与冲突"
       }
     ]
@@ -12342,8 +12489,8 @@
   },
   {
     "thread_id": "thread-what-a-pearly-king-taught-me-about-cockn",
-    "title": "Pope meets with clergy abuse survivors in Argentina",
-    "category": "未分类",
+    "title": "Argentina’s Milei cries as he bids farewell to the Pope",
+    "category": "国际政治",
     "events": [
       {
         "date": "20261002",
@@ -12386,6 +12533,13 @@
         "headline": "Pope meets with clergy abuse survivors in Argentina",
         "summary": "During private meetings with survivors, Pope Leo XIV pledged to reinforce safeguards and listen to victims.",
         "category": "未分类"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-argentina-s-milei-cries-01",
+        "headline": "Argentina’s Milei cries as he bids farewell to the Pope",
+        "summary": "President Javier Milei became visibly emotional as he said goodbye to Pope Leo XIV.",
+        "category": "国际政治"
       }
     ]
   },
@@ -12839,8 +12993,8 @@
   },
   {
     "thread_id": "thread-real-madrid-beat-villarreal-1-0-but-vini",
-    "title": "11 Highlights From 82WORLD LA’s Inaugural K-Pop Festival",
-    "category": "文化体育",
+    "title": "TOMORROW X TOGETHER Team With POP MART For PPULBACollaboration",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20261011",
@@ -12855,6 +13009,13 @@
         "headline": "11 Highlights From 82WORLD LA’s Inaugural K-Pop Festival",
         "summary": "Some highlights from 82WORLD LA's inaugural two-day K-pop Festival, including ATEEZ's Tiny Island events, exclusive photocard giveaways, P1Harmony, and more.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-tomorrow-x-together-team-01",
+        "headline": "TOMORROW X TOGETHER Team With POP MART For PPULBACollaboration",
+        "summary": "K-pop stars TOMORROW X TOGETHER (TXT) have teamed up with global merchandise company POP MART to create exclusive PPULBATU x TXT Star Series merchandise.",
+        "category": "经济与市场"
       }
     ]
   },
@@ -14050,8 +14211,8 @@
   },
   {
     "thread_id": "thread-everything-and-everyone-we-love-is-at-st",
-    "title": "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
-    "category": "气候与环境",
+    "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20261111",
@@ -14059,6 +14220,13 @@
         "headline": "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
         "summary": "Climate activist urges world leaders to put people and planet before profit as she arrives at UN climate talks.",
         "category": "气候与环境"
+      },
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-russia-ukraine-talks-turn-01",
+        "headline": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+        "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -14072,6 +14240,34 @@
         "event_cluster_id": "20261111-u-s-aircraft-abruptly-01",
         "headline": "U.S. aircraft abruptly depart a second U.K. base",
         "summary": "At least a dozen U.S. refueling planes and other aircraft departed on Monday from a British base that is a major hub for the U.S. Air Force. The reasons behind the move remain unclear.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-former-italian-red-brigades-member-escap",
+    "title": "Former Italian Red Brigades member escapes house arrest in Argentina",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-former-italian-red-brigades-01",
+        "headline": "Former Italian Red Brigades member escapes house arrest in Argentina",
+        "summary": "Bertulazzi used a rope and harness to climb down from a fifth-floor apartment and evade authorities in Argentina.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-ufc-334-kayla-harrison-vs-amanda-nunes-o",
+    "title": "UFC 334: Kayla Harrison Vs. Amanda Nunes Odds, Pick, And Prediction",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20261112",
+        "event_cluster_id": "20261112-ufc-334-kayla-harrison-01",
+        "headline": "UFC 334: Kayla Harrison Vs. Amanda Nunes Odds, Pick, And Prediction",
+        "summary": "Everything you need to know about the UFC 334 fight between Kayla Harrison and Amanda Nunes, including betting odds, picks and predictions",
         "category": "未分类"
       }
     ]
