@@ -428,7 +428,7 @@
   },
   {
     "thread_id": "thread-bus-crash-in-egypt-s-south-sinai-kills-a",
-    "title": "Ohio Governor Race Gets Deeply Personal: New Anti-Amy Acton Ad Features Acton’s Mother",
+    "title": "Five new miniature frog species found in eastern Himalayas",
     "category": "未分类",
     "events": [
       {
@@ -618,6 +618,13 @@
         "event_cluster_id": "20261021-ohio-governor-race-gets-01",
         "headline": "Ohio Governor Race Gets Deeply Personal: New Anti-Amy Acton Ad Features Acton’s Mother",
         "summary": "Ohio Governor Race Gets Deeply Personal: New Anti-Amy Acton Ad Features Acton’s Mother",
+        "category": "未分类"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-five-miniature-frog-species-01",
+        "headline": "Five new miniature frog species found in eastern Himalayas",
+        "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
         "category": "未分类"
       }
     ]
@@ -1786,7 +1793,7 @@
   },
   {
     "thread_id": "thread-us-partners-venezuela-in-massive-oil-dea",
-    "title": "Famed ship SS United States sunk off coast of Florida",
+    "title": "Qatar Under-17 World Cup is on despite US pull out",
     "category": "未分类",
     "events": [
       {
@@ -1829,6 +1836,13 @@
         "event_cluster_id": "20261112-famed-ship-ss-united-01",
         "headline": "Famed ship SS United States sunk off coast of Florida",
         "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-qatar-under-17-world-01",
+        "headline": "Qatar Under-17 World Cup is on despite US pull out",
+        "summary": "The Under-17 World Cup in Qatar will kick off as scheduled next week despite the United States’ decision to withdraw",
         "category": "未分类"
       }
     ]
@@ -3900,7 +3914,7 @@
   },
   {
     "thread_id": "thread-guinea-bissau-voters-approve-new-constit",
-    "title": "Israel strikes intensive care at Gaza’s Nasser Hospital",
+    "title": "Israel strikes Gaza hospital, says Hamas senior figure inside",
     "category": "安全与冲突",
     "events": [
       {
@@ -4042,6 +4056,20 @@
         "headline": "Israel strikes intensive care at Gaza’s Nasser Hospital",
         "summary": "Gaza s Civil Defence says an Israeli strike on Nasser Hospital has killed at least six people.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-gaza-surgeon-films-aftermath-01",
+        "headline": "Gaza surgeon films aftermath of Israeli strike",
+        "summary": "British volunteer surgeon films the terrifying aftermath of an Israeli strike on Gaza’s Nasser Hospital.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-israel-strikes-gaza-hospital-01",
+        "headline": "Israel strikes Gaza hospital, says Hamas senior figure inside",
+        "summary": "Israel says Hamas was using the hospital as a military command center, while Palestinian officials report at least six people killed, including a surgeon. The strike comes amid an increasingly fragile ceasefire.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -4173,7 +4201,7 @@
   },
   {
     "thread_id": "thread-us-and-iran-exchange-airstrikes-in-middl",
-    "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
+    "title": "Microsoft outage hits tens of thousands of users",
     "category": "未分类",
     "events": [
       {
@@ -4293,6 +4321,13 @@
         "event_cluster_id": "20261107-eu-tells-tiktok-fix-01",
         "headline": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
         "summary": "TikTok s algorithm leading users down rabbit holes they cannot easily escape from , European Commission says.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-microsoft-outage-hits-tens-01",
+        "headline": "Microsoft outage hits tens of thousands of users",
+        "summary": "Microsoft says servers unexpectedly went offline, disrupting Outlook email, Teams, Copilot and other services.",
         "category": "未分类"
       }
     ]
@@ -4656,8 +4691,8 @@
   },
   {
     "thread_id": "thread-putin-pledges-support-for-iran",
-    "title": "Indonesian VP resigns over education qualification row",
-    "category": "社会与公共政策",
+    "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -4714,6 +4749,13 @@
         "headline": "Indonesian VP resigns over education qualification row",
         "summary": "Indonesia s Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-indonesia-s-vice-president-01",
+        "headline": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
+        "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+        "category": "国际政治"
       }
     ]
   },
@@ -6161,8 +6203,8 @@
   },
   {
     "thread_id": "thread-tiger-woods-pleads-guilty-to-reckless-dr",
-    "title": "Trump says FBI probing Nvidia CEO Huang’s affair with alleged spy",
-    "category": "国际政治",
+    "title": "Jensen Huang’s spectacular fall shows how quickly reputations can be destroyed.",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -6233,6 +6275,20 @@
         "headline": "Trump says FBI probing Nvidia CEO Huang’s affair with alleged spy",
         "summary": "US president says he believes CEO Jensen Huang had no knowledge of woman s alleged work for Chinese intelligence.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-why-did-nvidia-ceo-01",
+        "headline": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress",
+        "summary": "Huang has stepped down amid allegations of extramarital affairs and Chinese espionage.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-rise-fall-jensen-huang-01",
+        "headline": "Jensen Huang’s spectacular fall shows how quickly reputations can be destroyed.",
+        "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+        "category": "文化体育"
       }
     ]
   },
@@ -7848,8 +7904,8 @@
   },
   {
     "thread_id": "thread-maria-bartiromo-denies-fox-firing-report",
-    "title": "TGL Has Their First Ever Trade Prior To Third Season",
-    "category": "经济与市场",
+    "title": "Bulls Rookie Caleb Wilson To Miss 4-6 Weeks After Surgery For Fractured Hand",
+    "category": "未分类",
     "events": [
       {
         "date": "20260905",
@@ -7878,6 +7934,13 @@
         "headline": "TGL Has Their First Ever Trade Prior To Third Season",
         "summary": "The TGL is preparing for its third regular season, and they are still experiencing a first with the first ever trade in league history.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-bulls-rookie-caleb-wilson-01",
+        "headline": "Bulls Rookie Caleb Wilson To Miss 4-6 Weeks After Surgery For Fractured Hand",
+        "summary": "The 6-foot-10 Wilson broke both hands during his time at North Carolina last season.",
+        "category": "未分类"
       }
     ]
   },
@@ -8681,8 +8744,8 @@
   },
   {
     "thread_id": "thread-aaron-judge-on-verge-of-returning-to-the",
-    "title": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
-    "category": "未分类",
+    "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260908",
@@ -8725,6 +8788,13 @@
         "headline": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
         "summary": "Guard at memorial site can be heard yelling at group to maintain an atmosphere of silence and respect at all times .",
         "category": "未分类"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-hegseth-awards-medal-war-01",
+        "headline": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+        "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -9878,8 +9948,8 @@
   },
   {
     "thread_id": "thread-royal-family-rift-after-popular-tv-news-",
-    "title": "Could Trump’s veto stop the Democratic majority",
-    "category": "未分类",
+    "title": "Chris Van Hollen launches bid to lead Democrats in US Senate",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260911",
@@ -9964,6 +10034,13 @@
         "headline": "Could Trump’s veto stop the Democratic majority",
         "summary": "Democrats have won the House and Senate. AJLabs looks at the numbers and what their majority means for Trump.",
         "category": "未分类"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-chris-van-hollen-launches-01",
+        "headline": "Chris Van Hollen launches bid to lead Democrats in US Senate",
+        "summary": "Van Hollen s leadership drive follows Democratic sweeps in elections and challenges veteran leader Schumer.",
+        "category": "国际政治"
       }
     ]
   },
@@ -11075,7 +11152,7 @@
   },
   {
     "thread_id": "thread-men-deported-from-us-bound-and-beaten-in",
-    "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
+    "title": "Iranian men guilty of spying on British journalists",
     "category": "未分类",
     "events": [
       {
@@ -11083,6 +11160,13 @@
         "event_cluster_id": "20260919-men-deported-us-bound-01",
         "headline": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
         "summary": "Group trapped at Hotel Bamy after US removal as rights groups sound alarm over poor conditions and violence Two men that the Trump administration expelled to Equatorial Guinea were bound, fitted with bags over their heads, beaten and pushed down a flight of stairs, all in plain view of other US deportees, according to witnesses and human rights lawyers. The men – one from Egypt and one from Eritre",
+        "category": "未分类"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-iranian-men-guilty-spying-01",
+        "headline": "Iranian men guilty of spying on British journalists",
+        "summary": "Two Iranian men were convicted under Britain s National Security Act for spying on dissident journalists.",
         "category": "未分类"
       }
     ]
@@ -12027,8 +12111,8 @@
   },
   {
     "thread_id": "thread-seoul-summons-ukraine-envoy-over-north-k",
-    "title": "At least 7 crew members missing after drone attacks on ships in Black Sea",
-    "category": "安全与冲突",
+    "title": "Mississippi elects first black senator in nearly 150 years",
+    "category": "未分类",
     "events": [
       {
         "date": "20260929",
@@ -12071,6 +12155,13 @@
         "headline": "At least 7 crew members missing after drone attacks on ships in Black Sea",
         "summary": "Emergency teams are searching for 7 missing crew after two chemical tankers were attacked in the Black Sea.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-mississippi-elects-first-black-01",
+        "headline": "Mississippi elects first black senator in nearly 150 years",
+        "summary": "Scott Colom will be the first black senator to represent Mississippi since 1881.",
+        "category": "未分类"
       }
     ]
   },
@@ -12300,7 +12391,7 @@
   },
   {
     "thread_id": "thread-flydubai-fz1073-timeline-how-the-israel-",
-    "title": "F1 champion Lewis Hamilton visits Gaza border",
+    "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
     "category": "未分类",
     "events": [
       {
@@ -12364,6 +12455,13 @@
         "event_cluster_id": "20261111-f1-champion-lewis-hamilton-01",
         "headline": "F1 champion Lewis Hamilton visits Gaza border",
         "summary": "North Sinai Governor Khaled Megawer briefs the British driver on Egypt-coordinated aid efforts through Rafah crossing.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-palestinian-baby-dies-cold-01",
+        "headline": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
+        "summary": "The baby s father said he died of hypothermia overnight in their family s tent in southern Gaza.",
         "category": "未分类"
       }
     ]
@@ -12489,8 +12587,8 @@
   },
   {
     "thread_id": "thread-what-a-pearly-king-taught-me-about-cockn",
-    "title": "Argentina’s Milei cries as he bids farewell to the Pope",
-    "category": "国际政治",
+    "title": "Pope Leo calls for Church to make ‘amends’ to sex abuse victims",
+    "category": "未分类",
     "events": [
       {
         "date": "20261002",
@@ -12540,6 +12638,13 @@
         "headline": "Argentina’s Milei cries as he bids farewell to the Pope",
         "summary": "President Javier Milei became visibly emotional as he said goodbye to Pope Leo XIV.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-pope-leo-calls-church-01",
+        "headline": "Pope Leo calls for Church to make ‘amends’ to sex abuse victims",
+        "summary": "Pope Leo XIV says the Catholic Church must confront sexual abuse committed by clergy with truth and justice.",
+        "category": "未分类"
       }
     ]
   },
@@ -12587,7 +12692,7 @@
   },
   {
     "thread_id": "thread-icc-ends-contract-with-french-insurer-am",
-    "title": "Two Separate Reports on Trump Administration Actions Cover Different Events",
+    "title": "Trump Jr. exits Kalshi role while President Trump warns of immigrant caravans",
     "category": "国际政治",
     "events": [
       {
@@ -12617,13 +12722,20 @@
         "headline": "Two Separate Reports on Trump Administration Actions Cover Different Events",
         "summary": "The Forbes article discusses President Trump's deals aimed at lowering diesel prices in the United States. The New York Times article reports Norwegian officials pushing back after President Trump disparaged Norway over the Nobel Peace Prize decision. The two articles address unrelated events involving the Trump administration.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-donald-trump-jr-leaves-01",
+        "headline": "Trump Jr. exits Kalshi role while President Trump warns of immigrant caravans",
+        "summary": "Donald Trump Jr. left his advisory role at prediction market Kalshi as his firm 1789 Capital increased its stake in rival Polymarket. Separately, President Donald Trump renewed warnings about immigrant caravans and linked immigration to tariff policy. The two articles address different events involving different members of the Trump family. Forbes reports on the business move by Trump Jr., while T",
+        "category": "国际政治"
       }
     ]
   },
   {
     "thread_id": "thread-russia-hits-second-major-bridge-in-ukrai",
-    "title": "Evacuees of Russian-occupied Oleshky reunited with families",
-    "category": "未分类",
+    "title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20261004",
@@ -12673,6 +12785,13 @@
         "headline": "Evacuees of Russian-occupied Oleshky reunited with families",
         "summary": "Ukrainian residents evacuated from Russian-occupied city of Oleshky have arrived in Ukrainian-controlled territory.",
         "category": "未分类"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-finland-detects-strike-russian-01",
+        "headline": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
+        "summary": "Reports of attack in Baltic came before US envoys met with Russian and Ukrainian presidents.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -13098,8 +13217,8 @@
   },
   {
     "thread_id": "thread-breaking-bad-actor-rj-mitte-dies-aged-34",
-    "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-    "category": "未分类",
+    "title": "Lutnick Should Testify ‘ASAP’ About Nvidia And Huang, GOP Sen. Jim Banks Says",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20261013",
@@ -13121,12 +13240,19 @@
         "headline": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
         "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
         "category": "未分类"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-lutnick-testify-asap-about-01",
+        "headline": "Lutnick Should Testify ‘ASAP’ About Nvidia And Huang, GOP Sen. Jim Banks Says",
+        "summary": "A growing bipartisan coalition of lawmakers has raised questions about why Lutnick agreed to allow Nvidia to sell chips to China.",
+        "category": "经济与市场"
       }
     ]
   },
   {
     "thread_id": "thread-hackers-raise-temperatures-in-supermarke",
-    "title": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
+    "title": "Democrats gather in Denver to debate party’s future after US midterm wins",
     "category": "未分类",
     "events": [
       {
@@ -13169,6 +13295,13 @@
         "event_cluster_id": "20261109-jeffries-backs-hegseth-impeachment-01",
         "headline": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
         "summary": "Democratic lawmakers are mapping out their post-midterm agenda with pledges to lead committee investigations into Trump.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-democrats-gather-denver-debate-01",
+        "headline": "Democrats gather in Denver to debate party’s future after US midterm wins",
+        "summary": "Majority Democrats’ What’s Next conference brings lawmakers and potential 2028 contenders to Denver.",
         "category": "未分类"
       }
     ]
@@ -13413,8 +13546,8 @@
   },
   {
     "thread_id": "thread-curfew-imposed-in-parts-of-central-paris",
-    "title": "France blames Iran for October supermarket cyberattack",
-    "category": "安全与冲突",
+    "title": "Iran: Exiled journalists still repressed by regime",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20261020",
@@ -13436,6 +13569,13 @@
         "headline": "France blames Iran for October supermarket cyberattack",
         "summary": "French Foreign Minister Jean-Noël Barrot has blamed the Iranian Islamic Revolutionary Guard Corps for the cyberattack.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-iran-exiled-journalists-still-01",
+        "headline": "Iran: Exiled journalists still repressed by regime",
+        "summary": "For many independent reporters, leaving Iran does not mean fully escaping the grasp of the Iranian state. The regime uses family members, bank accounts and the property they left behind to apply pressure across borders.",
+        "category": "经济与市场"
       }
     ]
   },
@@ -14211,8 +14351,8 @@
   },
   {
     "thread_id": "thread-everything-and-everyone-we-love-is-at-st",
-    "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-    "category": "安全与冲突",
+    "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+    "category": "国际政治",
     "events": [
       {
         "date": "20261111",
@@ -14227,6 +14367,20 @@
         "headline": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
         "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-eu-leaders-tussle-who-01",
+        "headline": "EU leaders tussle over who to send to Ukraine, Russia peace talks",
+        "summary": "A seat at the table for Europe now appears likely following comments by a US envoy who just held talks with Putin. But who will take that seat remains unclear.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261113",
+        "event_cluster_id": "20261113-u-s-envoys-meet-01",
+        "headline": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+        "summary": "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy. (Image credit: Vyacheslav Prokofyev)",
+        "category": "国际政治"
       }
     ]
   },
