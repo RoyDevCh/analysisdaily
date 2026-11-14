@@ -428,7 +428,7 @@
   },
   {
     "thread_id": "thread-bus-crash-in-egypt-s-south-sinai-kills-a",
-    "title": "Five new miniature frog species found in eastern Himalayas",
+    "title": "Tanker collision leaves riverboat passengers clinging to railings",
     "category": "未分类",
     "events": [
       {
@@ -625,6 +625,13 @@
         "event_cluster_id": "20261113-five-miniature-frog-species-01",
         "headline": "Five new miniature frog species found in eastern Himalayas",
         "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261114",
+        "event_cluster_id": "20261114-tanker-collision-leaves-riverboat-01",
+        "headline": "Tanker collision leaves riverboat passengers clinging to railings",
+        "summary": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
         "category": "未分类"
       }
     ]
@@ -4201,8 +4208,8 @@
   },
   {
     "thread_id": "thread-us-and-iran-exchange-airstrikes-in-middl",
-    "title": "Microsoft outage hits tens of thousands of users",
-    "category": "未分类",
+    "title": "Microsoft 365 global outage prompts apology and partial recovery",
+    "category": "科技与AI",
     "events": [
       {
         "date": "20260902",
@@ -4329,6 +4336,20 @@
         "headline": "Microsoft outage hits tens of thousands of users",
         "summary": "Microsoft says servers unexpectedly went offline, disrupting Outlook email, Teams, Copilot and other services.",
         "category": "未分类"
+      },
+      {
+        "date": "20261114",
+        "event_cluster_id": "20261114-microsoft-services-begin-recovering-01",
+        "headline": "Microsoft services begin recovering after global outage",
+        "summary": "Microsoft services began recovering on Friday after a global outage disrupted Outlook and Teams.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261114",
+        "event_cluster_id": "20261114-microsoft-deeply-sorry-global-01",
+        "headline": "Microsoft 365 global outage prompts apology and partial recovery",
+        "summary": "Microsoft experienced a worldwide outage of its Microsoft 365 services starting Thursday. The company apologized, stating it is \"deeply sorry\" and reported a \"broad recovery\" of services. Forbes notes Microsoft has not provided a timeline for full restoration, while BBC cites experts who call the incident a stark reminder of global dependence on a few large technology providers. The two outlets di",
+        "category": "科技与AI"
       }
     ]
   },
@@ -4761,7 +4782,7 @@
   },
   {
     "thread_id": "thread-u-s-military-strikes-iran",
-    "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+    "title": "Czechia braces for massive protest against public media reform plans",
     "category": "安全与冲突",
     "events": [
       {
@@ -4860,6 +4881,13 @@
         "event_cluster_id": "20261103-explosions-hit-iran-s-01",
         "headline": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
         "summary": "Several explosions heard in Qeshm Island and Bandar Lengeh, as US media say the US military carried out the strikes.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261114",
+        "event_cluster_id": "20261114-czechia-braces-massive-protest-01",
+        "headline": "Czechia braces for massive protest against public media reform plans",
+        "summary": "A fast-tracked bill to cut public media funding has sparked strikes, rallies and fears for the independence of public broadcasting in Czechia. A massive protest is planned for Prague on Sunday.",
         "category": "安全与冲突"
       }
     ]
@@ -5223,7 +5251,7 @@
   },
   {
     "thread_id": "thread-scotus-allows-trump-s-ballroom-project-t",
-    "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+    "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
     "category": "国际政治",
     "events": [
       {
@@ -5329,6 +5357,13 @@
         "event_cluster_id": "20261109-gadi-eisenkot-reaches-out-01",
         "headline": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
         "summary": "Former military chief says prime minister brought Israel to historic crisis and it is approaching ‘point of no return’ Israel’s former military chief Gadi Eisenkot started the tough task of forming a government on Sunday, reaching out to Benjamin Netanyahu’s allies as he said the veteran prime minister had brought the country to a historic crisis. Eisenkot, 66, the leader of the Yashar party, who ",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261114",
+        "event_cluster_id": "20261114-eisenkot-slams-netanyahu-s-01",
+        "headline": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
+        "summary": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel an anti-state act .",
         "category": "国际政治"
       }
     ]
@@ -7512,7 +7547,7 @@
   },
   {
     "thread_id": "thread-trump-links-uk-falklands-backing-to-iran",
-    "title": "Holding a sign expressing support for genocide is not, in itself, grounds for arrest under UK law.",
+    "title": "UK police open sex offence probe into comedian and author David Walliams",
     "category": "未分类",
     "events": [
       {
@@ -7535,12 +7570,19 @@
         "headline": "Holding a sign expressing support for genocide is not, in itself, grounds for arrest under UK law.",
         "summary": "Holding a sign expressing support for genocide is not, in itself, grounds for arrest under UK law.",
         "category": "未分类"
+      },
+      {
+        "date": "20261114",
+        "event_cluster_id": "20261114-uk-police-open-sex-01",
+        "headline": "UK police open sex offence probe into comedian and author David Walliams",
+        "summary": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.",
+        "category": "未分类"
       }
     ]
   },
   {
     "thread_id": "thread-ipswich-town-vs-liverpool-premier-league",
-    "title": "Turn Your Rising Home Equity Into Cash You Can Use",
+    "title": "Dream Big with a Home Equity Loan",
     "category": "未分类",
     "events": [
       {
@@ -7611,6 +7653,13 @@
         "event_cluster_id": "20261109-turn-your-rising-home-01",
         "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
         "summary": "Food was at the heart of Henry Onesemo’s South Pacific island upbringing. Now, he’s bringing flavors of home to his Michelin-starred restaurant in New Zealand.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261114",
+        "event_cluster_id": "20261114-dream-big-home-equity-01",
+        "headline": "Dream Big with a Home Equity Loan",
+        "summary": "Executives from the Spirit and Audi Field talk about how Washington's NWSL game moved back home, the importance of their home fans and women's sports progress.",
         "category": "未分类"
       }
     ]
@@ -8478,8 +8527,8 @@
   },
   {
     "thread_id": "thread-two-separate-plane-crashes-in-the-united",
-    "title": "Why the US, Mexico and Guatemala may lose their measles-free status",
-    "category": "未分类",
+    "title": "SpaceX Starship launch fails to recover booster",
+    "category": "科技与AI",
     "events": [
       {
         "date": "20260907",
@@ -8508,6 +8557,13 @@
         "headline": "Why the US, Mexico and Guatemala may lose their measles-free status",
         "summary": "An independent commission is reviewing whether countries in the Americas still meet measles elimination criteria.",
         "category": "未分类"
+      },
+      {
+        "date": "20261114",
+        "event_cluster_id": "20261114-spacex-launches-starship-rocket-01",
+        "headline": "SpaceX Starship launch fails to recover booster",
+        "summary": "SpaceX launched its Starship rocket in a test intended to catch and reuse both stages. The booster did not achieve a controlled catch and was lost over the Gulf of Mexico. The upper stage continued into orbit. BBC reports the catch attempt was aborted and the booster fell into the ocean. DW notes the booster exploded during descent.",
+        "category": "科技与AI"
       }
     ]
   },
@@ -11096,7 +11152,7 @@
   },
   {
     "thread_id": "thread-a-new-report-from-the-government-account",
-    "title": "Mamdani-endorsed progressives fight to join Congress",
+    "title": "National Dog Show Turns 25 With 3 New Breeds On Thanksgiving",
     "category": "未分类",
     "events": [
       {
@@ -11125,6 +11181,13 @@
         "event_cluster_id": "20261103-mamdani-endorsed-progressives-fight-01",
         "headline": "Mamdani-endorsed progressives fight to join Congress",
         "summary": "Zohran Mamdani is championing a slate of Congressional candidates who want to take progressive policies national.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261114",
+        "event_cluster_id": "20261114-national-dog-show-turns-01",
+        "headline": "National Dog Show Turns 25 With 3 New Breeds On Thanksgiving",
+        "summary": "Three new breeds join the National Dog Show for its 25th anniversary on Thanksgiving. Meet the dogs making their debut and find out when and where to watch.",
         "category": "未分类"
       }
     ]
@@ -11810,8 +11873,8 @@
   },
   {
     "thread_id": "thread-reporter-s-notebook-call-for-a-free-iran",
-    "title": "South Africa elections: ANC marks its worst-ever performance",
-    "category": "国际政治",
+    "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+    "category": "未分类",
     "events": [
       {
         "date": "20260925",
@@ -11854,6 +11917,13 @@
         "headline": "South Africa elections: ANC marks its worst-ever performance",
         "summary": "The African National Congress, the party of late Nobel Prize winner Nelson Mandela, slumped to its worst-ever result in South Africa's municipal election. The voters blame the ANC for water and electricity shortages.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261114",
+        "event_cluster_id": "20261114-african-miss-universe-beauty-01",
+        "headline": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+        "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
+        "category": "未分类"
       }
     ]
   },
@@ -12587,7 +12657,7 @@
   },
   {
     "thread_id": "thread-what-a-pearly-king-taught-me-about-cockn",
-    "title": "Pope Leo calls for Church to make ‘amends’ to sex abuse victims",
+    "title": "Pope Leo cheered on return to Peru city where he served as bishop",
     "category": "未分类",
     "events": [
       {
@@ -12645,12 +12715,19 @@
         "headline": "Pope Leo calls for Church to make ‘amends’ to sex abuse victims",
         "summary": "Pope Leo XIV says the Catholic Church must confront sexual abuse committed by clergy with truth and justice.",
         "category": "未分类"
+      },
+      {
+        "date": "20261114",
+        "event_cluster_id": "20261114-pope-leo-cheered-return-01",
+        "headline": "Pope Leo cheered on return to Peru city where he served as bishop",
+        "summary": "An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.",
+        "category": "未分类"
       }
     ]
   },
   {
     "thread_id": "thread-protesters-halt-game-as-calls-grow-on-ir",
-    "title": "How 20-year-old Kimi Antonelli is making F1 history",
+    "title": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
     "category": "未分类",
     "events": [
       {
@@ -12686,6 +12763,13 @@
         "event_cluster_id": "20261031-how-20-old-kimi-01",
         "headline": "How 20-year-old Kimi Antonelli is making F1 history",
         "summary": "Kimi Antonelli had an F1 licence before he could legally drive. Now he could become Formula One’s youngest champion.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261114",
+        "event_cluster_id": "20261114-israel-bars-supplies-needed-01",
+        "headline": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
+        "summary": "Six-year-old burns victim Masa is one of the patients in Gaza whose recovery is under threat due to Israeli restrictions",
         "category": "未分类"
       }
     ]
@@ -12965,7 +13049,7 @@
   },
   {
     "thread_id": "thread-bold-and-inventive-canadian-poet-anne-ca",
-    "title": "Strait of Hormuz still a source of leverage for Iran",
+    "title": "Iran targeted US radar system in Bahrain",
     "category": "安全与冲突",
     "events": [
       {
@@ -13022,6 +13106,13 @@
         "event_cluster_id": "20261110-strait-hormuz-still-source-01",
         "headline": "Strait of Hormuz still a source of leverage for Iran",
         "summary": "Attacks in the Strait of Hormuz put crews at risk and drive up energy shipping costs. Iran's ability to sustain them and the limits of US protection will shape how much trade can continue and at what price.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261114",
+        "event_cluster_id": "20261114-iran-targeted-us-radar-01",
+        "headline": "Iran targeted US radar system in Bahrain",
+        "summary": "Iran claimed it struck US radar systems in Bahrain, while the US said it had intercepted the attacks. Clashes continue in the Strait of Hormuz, as the war remains in a state of de-escalation.",
         "category": "安全与冲突"
       }
     ]
@@ -13140,8 +13231,8 @@
   },
   {
     "thread_id": "thread-zelenskyy-welcomes-us-announced-energy-c",
-    "title": "First day of Ukraine peace talks constructive, Zelensky says",
-    "category": "未分类",
+    "title": "Putin Meets US Officials Witkoff and Kushner in Moscow for Ukraine Peace Talks",
+    "category": "国际政治",
     "events": [
       {
         "date": "20261012",
@@ -13198,6 +13289,13 @@
         "headline": "First day of Ukraine peace talks constructive, Zelensky says",
         "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
         "category": "未分类"
+      },
+      {
+        "date": "20261114",
+        "event_cluster_id": "20261114-rosenberg-uncompromising-putin-ups-01",
+        "headline": "Putin Meets US Officials Witkoff and Kushner in Moscow for Ukraine Peace Talks",
+        "summary": "Russian President Vladimir Putin met with US officials Steve Witkoff and Jared Kushner in Moscow on Thursday to discuss peace negotiations with Ukraine. Russian state media released a photograph of the meeting. The discussions included the question of European security and whether Europe should be included in peace talks. BBC reports that Moscow views the inclusion of European security in discussi",
+        "category": "国际政治"
       }
     ]
   },
@@ -13217,7 +13315,7 @@
   },
   {
     "thread_id": "thread-breaking-bad-actor-rj-mitte-dies-aged-34",
-    "title": "Lutnick Should Testify ‘ASAP’ About Nvidia And Huang, GOP Sen. Jim Banks Says",
+    "title": "AI And Chip Stocks Finish Down On Friday As Markets Digest Nvidia Turmoil",
     "category": "经济与市场",
     "events": [
       {
@@ -13246,6 +13344,20 @@
         "event_cluster_id": "20261113-lutnick-testify-asap-about-01",
         "headline": "Lutnick Should Testify ‘ASAP’ About Nvidia And Huang, GOP Sen. Jim Banks Says",
         "summary": "A growing bipartisan coalition of lawmakers has raised questions about why Lutnick agreed to allow Nvidia to sell chips to China.",
+        "category": "经济与市场"
+      },
+      {
+        "date": "20261114",
+        "event_cluster_id": "20261114-nvidia-scandal-fallout-widens-01",
+        "headline": "Scott Bessent, the US treasury secretary, blamed Lutnick’s commerce department for the fact the US had not imposed expor",
+        "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+        "category": "文化体育"
+      },
+      {
+        "date": "20261114",
+        "event_cluster_id": "20261114-ai-chip-stocks-finish-01",
+        "headline": "AI And Chip Stocks Finish Down On Friday As Markets Digest Nvidia Turmoil",
+        "summary": "AI-linked stocks traded lower on Friday as the market absorbed Thursday’s news of Jensen Huang’s resignation from Nvidia.",
         "category": "经济与市场"
       }
     ]
@@ -13966,7 +14078,7 @@
   },
   {
     "thread_id": "thread-venezuelan-opposition-leader-machado-ret",
-    "title": "Tanzanian opposition leader jailed in ‘politically motivated’ case",
+    "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
     "category": "未分类",
     "events": [
       {
@@ -13988,6 +14100,13 @@
         "event_cluster_id": "20261107-tanzanian-opposition-leader-jailed-01",
         "headline": "Tanzanian opposition leader jailed in ‘politically motivated’ case",
         "summary": "Tanzanian opposition leader Tundu Lissu has been jailed in a case widely condemned as politically motivated.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261114",
+        "event_cluster_id": "20261114-nigeria-ends-21-ebola-01",
+        "headline": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
+        "summary": "None of the 62 contacts identified after the first case developed the disease, although 13 contacts reported fever.",
         "category": "未分类"
       }
     ]
@@ -14423,6 +14542,34 @@
         "headline": "UFC 334: Kayla Harrison Vs. Amanda Nunes Odds, Pick, And Prediction",
         "summary": "Everything you need to know about the UFC 334 fight between Kayla Harrison and Amanda Nunes, including betting odds, picks and predictions",
         "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-faa-grounds-all-fights-across-the-us-ove",
+    "title": "FAA grounds all fights across the US over ‘telecommunication outage’",
+    "category": "未分类",
+    "events": [
+      {
+        "date": "20261114",
+        "event_cluster_id": "20261114-faa-grounds-all-fights-01",
+        "headline": "FAA grounds all fights across the US over ‘telecommunication outage’",
+        "summary": "The FAA has issued a ground stop for departing flights in the US after a communications failure disrupted air traffic.",
+        "category": "未分类"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-afghanistan-s-new-road-to-china-ends-at-",
+    "title": "Afghanistan’s new road to China ends at a closed border",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20261114",
+        "event_cluster_id": "20261114-afghanistan-s-road-china-01",
+        "headline": "Afghanistan’s new road to China ends at a closed border",
+        "summary": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
+        "category": "国际政治"
       }
     ]
   }
