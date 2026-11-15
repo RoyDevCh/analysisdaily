@@ -4208,8 +4208,8 @@
   },
   {
     "thread_id": "thread-us-and-iran-exchange-airstrikes-in-middl",
-    "title": "Microsoft 365 global outage prompts apology and partial recovery",
-    "category": "科技与AI",
+    "title": "Microsoft says all services working again",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -4350,6 +4350,13 @@
         "headline": "Microsoft 365 global outage prompts apology and partial recovery",
         "summary": "Microsoft experienced a worldwide outage of its Microsoft 365 services starting Thursday. The company apologized, stating it is \"deeply sorry\" and reported a \"broad recovery\" of services. Forbes notes Microsoft has not provided a timeline for full restoration, while BBC cites experts who call the incident a stark reminder of global dependence on a few large technology providers. The two outlets di",
         "category": "科技与AI"
+      },
+      {
+        "date": "20261115",
+        "event_cluster_id": "20261115-microsoft-all-services-working-01",
+        "headline": "Microsoft says all services working again",
+        "summary": "US tech giant Microsoft says it has fixed problems that led to a global outage of its services. The glitch severely disrupted online communications in businesses and governments for more than 24 hours.",
+        "category": "国际政治"
       }
     ]
   },
@@ -5503,8 +5510,8 @@
   },
   {
     "thread_id": "thread-bosnian-serb-war-criminal-ratko-mladic-d",
-    "title": "Cyclist who dressed as man to avoid Taliban wins silver medal",
-    "category": "文化体育",
+    "title": "Philippines wins first Eurovision Song Contest Asia",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -5547,6 +5554,13 @@
         "headline": "Cyclist who dressed as man to avoid Taliban wins silver medal",
         "summary": "Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting dream.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261115",
+        "event_cluster_id": "20261115-philippines-wins-first-eurovision-01",
+        "headline": "Philippines wins first Eurovision Song Contest Asia",
+        "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+        "category": "未分类"
       }
     ]
   },
@@ -6343,7 +6357,7 @@
   },
   {
     "thread_id": "thread-congo-ebola-outbreak-exceeds-6-000-confi",
-    "title": "Former FBI officials charged in connection with Hunter Biden laptop probe",
+    "title": "SpaceX officials say catch by mechanical arms shows Starship s full reusability, crucial for rapid, low-cost recycling.",
     "category": "未分类",
     "events": [
       {
@@ -6393,6 +6407,13 @@
         "event_cluster_id": "20261024-former-fbi-officials-charged-01",
         "headline": "Former FBI officials charged in connection with Hunter Biden laptop probe",
         "summary": "Lawyers for two accused officials say Department of Justice seeking to revive scandal in the run-up to midterm vote.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261115",
+        "event_cluster_id": "20261115-spacex-s-starship-nails-01",
+        "headline": "SpaceX officials say catch by mechanical arms shows Starship s full reusability, crucial for rapid, low-cost recycling.",
+        "summary": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
         "category": "未分类"
       }
     ]
@@ -9171,7 +9192,7 @@
   },
   {
     "thread_id": "thread-mamdani-releases-records-on-toxic-air-in",
-    "title": "Right-leaning outlets cover separate TV show events: MobLand episode release and Yellowjackets premiere",
+    "title": "Two entertainment events covered separately by Forbes and New York Post",
     "category": "文化体育",
     "events": [
       {
@@ -9228,6 +9249,13 @@
         "event_cluster_id": "20261112-mobland-season-2-episode-01",
         "headline": "Right-leaning outlets cover separate TV show events: MobLand episode release and Yellowjackets premiere",
         "summary": "Forbes reports MobLand Season 2 Episode 9 releases November 13. New York Post reports Yellowjackets Season 4 premiere red carpet attended by Melanie Lynskey, Christina Ricci, and Jennifer Morrison. Sources cover different television events. Both publications are right-leaning. No overlapping event coverage exists between articles.",
+        "category": "文化体育"
+      },
+      {
+        "date": "20261115",
+        "event_cluster_id": "20261115-aew-full-gear-2026-01",
+        "headline": "Two entertainment events covered separately by Forbes and New York Post",
+        "summary": "Forbes reports on AEW Full Gear 2026 wrestling pay-per-view featuring Will Ospreay, Kyle Fletcher, Adam Copeland, and Mercedes Mone. New York Post covers Rock and Roll Hall of Fame Induction Ceremony 2026 red carpet with Gwen Stefani, Lily Collins, and Travis Barker. Sources cover different events with no overlap in subject matter.",
         "category": "文化体育"
       }
     ]
@@ -10291,8 +10319,8 @@
   },
   {
     "thread_id": "thread-houthi-advance-in-yemen-is-about-more-th",
-    "title": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
-    "category": "安全与冲突",
+    "title": "Ukraine: Zelenskyy says security deal could go to referendum",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260912",
@@ -10384,6 +10412,13 @@
         "headline": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
         "summary": "Zelenskyy claims Russia suffering record losses as Trump says US seeing strong inclination to end war in Ukraine.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261115",
+        "event_cluster_id": "20261115-ukraine-zelenskyy-security-deal-01",
+        "headline": "Ukraine: Zelenskyy says security deal could go to referendum",
+        "summary": "The US has broached the idea of Kyiv giving up the Donbas region in exchange for NATO membership, the Ukrainian president said.",
+        "category": "国际政治"
       }
     ]
   },
@@ -11306,8 +11341,8 @@
   },
   {
     "thread_id": "thread-super-macklemore-64-video-game-mocks-she",
-    "title": "Israeli soldiers arrest Al Jazeera journalist in Hebron",
-    "category": "安全与冲突",
+    "title": "Thailand nursing home accused of keeping elderly residents in cages",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20260919",
@@ -11371,6 +11406,13 @@
         "headline": "Israeli soldiers arrest Al Jazeera journalist in Hebron",
         "summary": "Israeli soldiers arrested Al Jazeera correspondent Montaser Nassar during a raid on his home in Hebron. The soldiers blindfolded and handcuffed Nassar before taking him into custody. The CNN article provided appears unrelated to this event, discussing home equity loans instead.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261115",
+        "event_cluster_id": "20261115-thailand-s-elderly-kept-01",
+        "headline": "Thailand nursing home accused of keeping elderly residents in cages",
+        "summary": "Al Jazeera reports a nursing home in Thailand has been accused of confining dozens of senior residents in metal cages. The three CNN sources provided discuss home equity loan products and do not cover this event.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -12727,7 +12769,7 @@
   },
   {
     "thread_id": "thread-protesters-halt-game-as-calls-grow-on-ir",
-    "title": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
+    "title": "How Does a 74-Year-Old in Argentina Escape House Arrest on the Fifth Floor",
     "category": "未分类",
     "events": [
       {
@@ -12770,6 +12812,13 @@
         "event_cluster_id": "20261114-israel-bars-supplies-needed-01",
         "headline": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
         "summary": "Six-year-old burns victim Masa is one of the patients in Gaza whose recovery is under threat due to Israeli restrictions",
+        "category": "未分类"
+      },
+      {
+        "date": "20261115",
+        "event_cluster_id": "20261115-how-does-74-old-01",
+        "headline": "How Does a 74-Year-Old in Argentina Escape House Arrest on the Fifth Floor",
+        "summary": "Leonardo Bertulazzi after being arrested in 2002 in Buenos Aires.",
         "category": "未分类"
       }
     ]
@@ -13231,8 +13280,8 @@
   },
   {
     "thread_id": "thread-zelenskyy-welcomes-us-announced-energy-c",
-    "title": "Putin Meets US Officials Witkoff and Kushner in Moscow for Ukraine Peace Talks",
-    "category": "国际政治",
+    "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+    "category": "未分类",
     "events": [
       {
         "date": "20261012",
@@ -13296,6 +13345,13 @@
         "headline": "Putin Meets US Officials Witkoff and Kushner in Moscow for Ukraine Peace Talks",
         "summary": "Russian President Vladimir Putin met with US officials Steve Witkoff and Jared Kushner in Moscow on Thursday to discuss peace negotiations with Ukraine. Russian state media released a photograph of the meeting. The discussions included the question of European security and whether Europe should be included in peace talks. BBC reports that Moscow views the inclusion of European security in discussi",
         "category": "国际政治"
+      },
+      {
+        "date": "20261115",
+        "event_cluster_id": "20261115-us-envoy-kushner-he-01",
+        "headline": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+        "summary": "Europe s direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
+        "category": "未分类"
       }
     ]
   },
@@ -14078,7 +14134,7 @@
   },
   {
     "thread_id": "thread-venezuelan-opposition-leader-machado-ret",
-    "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
+    "title": "Nvidia is reeling from the resignation of CEO Jensen Huang over reported affairs with employees and an alleged Chinese s",
     "category": "未分类",
     "events": [
       {
@@ -14107,6 +14163,13 @@
         "event_cluster_id": "20261114-nigeria-ends-21-ebola-01",
         "headline": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
         "summary": "None of the 62 contacts identified after the first case developed the disease, although 13 contacts reported fever.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261115",
+        "event_cluster_id": "20261115-tech-giant-affairs-came-01",
+        "headline": "Nvidia is reeling from the resignation of CEO Jensen Huang over reported affairs with employees and an alleged Chinese s",
+        "summary": "Nvidia is reeling from the resignation of CEO Jensen Huang over reported affairs with employees and an alleged Chinese spy.",
         "category": "未分类"
       }
     ]
@@ -14570,6 +14633,20 @@
         "headline": "Afghanistan’s new road to China ends at a closed border",
         "summary": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
         "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-two-separate-humanitarian-crises-hinder-",
+    "title": "Two separate humanitarian crises hinder aid delivery in Sudan and DRC",
+    "category": "安全与冲突",
+    "events": [
+      {
+        "date": "20261115",
+        "event_cluster_id": "20261115-sudan-misery-worsens-plummeting-01",
+        "headline": "Two separate humanitarian crises hinder aid delivery in Sudan and DRC",
+        "summary": "DW World reports Sudan faces a worsening humanitarian crisis with nearly 34 million people in need as war and drone strikes impede aid delivery. The New York Times reports an Ebola outbreak in eastern Democratic Republic of Congo has a new epicenter isolated from aid by an armed group that has killed and kidnapped aid workers. The two articles cover different crises in different countries. Both de",
+        "category": "安全与冲突"
       }
     ]
   }
