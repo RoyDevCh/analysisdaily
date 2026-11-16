@@ -2913,8 +2913,8 @@
   },
   {
     "thread_id": "thread-germany-attributes-leipzig-airport-drone",
-    "title": "Germany blames Russia for drone incident at Leipzig/Halle Airport, closes Russian diplomatic facilities",
-    "category": "国际政治",
+    "title": "Estonia to close border crossings with Russia after alleged arson attack",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -2985,6 +2985,13 @@
         "headline": "Germany blames Russia for drone incident at Leipzig/Halle Airport, closes Russian diplomatic facilities",
         "summary": "On August 4, an explosive-laden drone was found next to a Ukrainian Antonov cargo aircraft at Leipzig/Halle Airport in eastern Germany; the detonator failed, preventing detonation. On Tuesday, the German government stated it holds Russia responsible for the incident, with Interior Minister Alexander Dobrindt citing forensic evidence and intelligence findings linking Moscow to the attack. German Fo",
         "category": "国际政治"
+      },
+      {
+        "date": "20261116",
+        "event_cluster_id": "20261116-estonia-close-border-crossings-01",
+        "headline": "Estonia to close border crossings with Russia after alleged arson attack",
+        "summary": "Estonia is closing its border crossings with Russia following an alleged arson attempt at a drone factory.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -4789,8 +4796,8 @@
   },
   {
     "thread_id": "thread-u-s-military-strikes-iran",
-    "title": "Czechia braces for massive protest against public media reform plans",
-    "category": "安全与冲突",
+    "title": "Czechs rally against gov’t threat to media independence",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -4896,6 +4903,13 @@
         "headline": "Czechia braces for massive protest against public media reform plans",
         "summary": "A fast-tracked bill to cut public media funding has sparked strikes, rallies and fears for the independence of public broadcasting in Czechia. A massive protest is planned for Prague on Sunday.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261116",
+        "event_cluster_id": "20261116-czechs-rally-against-gov-01",
+        "headline": "Czechs rally against gov’t threat to media independence",
+        "summary": "Czechs rallied in Prague over plans to shift public media funding to the state, raising fears of government influence.",
+        "category": "国际政治"
       }
     ]
   },
@@ -5258,8 +5272,8 @@
   },
   {
     "thread_id": "thread-scotus-allows-trump-s-ballroom-project-t",
-    "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
-    "category": "国际政治",
+    "title": "Christian priest says US denied him a visa for being Palestinian",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -5372,6 +5386,13 @@
         "headline": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
         "summary": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel an anti-state act .",
         "category": "国际政治"
+      },
+      {
+        "date": "20261116",
+        "event_cluster_id": "20261116-christian-priest-us-denied-01",
+        "headline": "Christian priest says US denied him a visa for being Palestinian",
+        "summary": "A Christian priest from Bethlehem, the birthplace of Jesus, says the US denied him a visa because he is Palestinian.",
+        "category": "未分类"
       }
     ]
   },
@@ -6903,8 +6924,8 @@
   },
   {
     "thread_id": "thread-india-rejects-hague-arbitration-ruling-o",
-    "title": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
-    "category": "安全与冲突",
+    "title": "Houthis advance in Yemen as government forces move to defend Aden",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -7010,6 +7031,13 @@
         "headline": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
         "summary": "United Arab Emirates will reportedly resume payments to Yemeni forces as gains by Iran-backed Houthi fighters alarm Gulf state rulers Yemen civil war: what sparked latest escalation and who is involved? The United Arab Emirates has agreed to re-enter the Yemen conflict by resuming payments to some government forces fighting Iran-aligned Houthis in the south, according to sources in Yemen. In retur",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261116",
+        "event_cluster_id": "20261116-houthis-advance-yemen-government-01",
+        "headline": "Houthis advance in Yemen as government forces move to defend Aden",
+        "summary": "An advance by the Houthi armed group in Yemen is threatening one of the government’s last strongholds.",
+        "category": "国际政治"
       }
     ]
   },
@@ -8016,7 +8044,7 @@
   },
   {
     "thread_id": "thread-nigel-farage-heckled-at-reform-uk-confer",
-    "title": "Australian MP seriously hurt in suspected car attack",
+    "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
     "category": "安全与冲突",
     "events": [
       {
@@ -8108,6 +8136,13 @@
         "event_cluster_id": "20261021-australian-mp-seriously-hurt-01",
         "headline": "Australian MP seriously hurt in suspected car attack",
         "summary": "Helen Haines, an independent federal lawmaker, suffered severe injuries in what Australia's prime minister has called a deliberate attack by a man in a car.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261116",
+        "event_cluster_id": "20261116-australian-mp-full-gratitude-01",
+        "headline": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+        "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
         "category": "安全与冲突"
       }
     ]
@@ -8366,7 +8401,7 @@
   },
   {
     "thread_id": "thread-amazon-prime-plane-overruns-runway-at-mi",
-    "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
+    "title": "Founder of Guadalajara cartel dies in hospital after decades in prison",
     "category": "未分类",
     "events": [
       {
@@ -8437,6 +8472,13 @@
         "event_cluster_id": "20261028-deaths-detention-cells-nigeria-01",
         "headline": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
         "summary": "Overcrowding and poor ventilation caused the deaths of 33 detainees in a prison cell in Minna state.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261116",
+        "event_cluster_id": "20261116-founder-guadalajara-cartel-dies-01",
+        "headline": "Founder of Guadalajara cartel dies in hospital after decades in prison",
+        "summary": "Miguel Angel Felix Gallardo was convicted of the 1985 murder of a US drug enforcement agent and a Mexican pilot.",
         "category": "未分类"
       }
     ]
@@ -9108,8 +9150,8 @@
   },
   {
     "thread_id": "thread-good-to-have-choice-australians-on-optin",
-    "title": "How a WhatsApp channel helped Lula win Brazil’s election",
-    "category": "科技与AI",
+    "title": "Pope condemns murders of Peruvian Indigenous leaders; violence rises against Brazilian Indigenous communities after Lula victory",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260909",
@@ -9145,6 +9187,13 @@
         "headline": "How a WhatsApp channel helped Lula win Brazil’s election",
         "summary": "Over 10 million Lula supporters joined a WhatsApp channel to help boost his campaign.",
         "category": "科技与AI"
+      },
+      {
+        "date": "20261116",
+        "event_cluster_id": "20261116-pope-condemns-murders-peru-01",
+        "headline": "Pope condemns murders of Peruvian Indigenous leaders; violence rises against Brazilian Indigenous communities after Lula victory",
+        "summary": "Pope Francis condemned the killings of Indigenous leaders in Peru and called for justice for environmental defenders. In Brazil, reports indicate increased violence against Indigenous communities following Luiz Inácio Lula da Silva's election win over Jair Bolsonaro.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -9192,7 +9241,7 @@
   },
   {
     "thread_id": "thread-mamdani-releases-records-on-toxic-air-in",
-    "title": "Two entertainment events covered separately by Forbes and New York Post",
+    "title": "Forbes covers golf invitational; New York Post reports UCLA coach's football prediction",
     "category": "文化体育",
     "events": [
       {
@@ -9256,6 +9305,13 @@
         "event_cluster_id": "20261115-aew-full-gear-2026-01",
         "headline": "Two entertainment events covered separately by Forbes and New York Post",
         "summary": "Forbes reports on AEW Full Gear 2026 wrestling pay-per-view featuring Will Ospreay, Kyle Fletcher, Adam Copeland, and Mercedes Mone. New York Post covers Rock and Roll Hall of Fame Induction Ceremony 2026 red carpet with Gwen Stefani, Lily Collins, and Travis Barker. Sources cover different events with no overlap in subject matter.",
+        "category": "文化体育"
+      },
+      {
+        "date": "20261116",
+        "event_cluster_id": "20261116-salim-s-drinking-turns-01",
+        "headline": "Forbes covers golf invitational; New York Post reports UCLA coach's football prediction",
+        "summary": "Forbes reports that Team Blue dominated Team Red at Paynes Valley during Episode Six of the Internet Invitational, highlighting Bobby Ray's strong play and Salim's difficulties. The New York Post reports that UCLA women's basketball coach Cori Close predicted the undefeated Bruins football team will win a championship and described hugging football coach Bob Chesney while making the statement.",
         "category": "文化体育"
       }
     ]
@@ -9325,7 +9381,7 @@
   },
   {
     "thread_id": "thread-british-widow-faces-deportation-from-swe",
-    "title": "Sri Lanka: Death of iconic elephant raises habitat concerns",
+    "title": "Jordan sentences three men to death over deadly church attack in Karak",
     "category": "安全与冲突",
     "events": [
       {
@@ -9403,6 +9459,13 @@
         "event_cluster_id": "20261024-sri-lanka-death-iconic-01",
         "headline": "Sri Lanka: Death of iconic elephant raises habitat concerns",
         "summary": "The death of what was thought to be Sri Lanka’s largest elephant has drawn attention to human-elephant conflict in rural communities. The island country sees a high number of deadly encounters.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261116",
+        "event_cluster_id": "20261116-jordan-sentences-three-men-01",
+        "headline": "Jordan sentences three men to death over deadly church attack in Karak",
+        "summary": "Jordan sentences three men to death over deadly church attack in Karak",
         "category": "安全与冲突"
       }
     ]
@@ -10501,7 +10564,7 @@
   },
   {
     "thread_id": "thread-us-legislators-push-ai-safety-laws-amid-",
-    "title": "The EU wants an AI revolution. But on whose terms",
+    "title": "South Korea's top scorer in tax accountancy exam admits cheating",
     "category": "科技与AI",
     "events": [
       {
@@ -10600,6 +10663,13 @@
         "event_cluster_id": "20261017-eu-wants-ai-revolution-01",
         "headline": "The EU wants an AI revolution. But on whose terms",
         "summary": "As the US and China race ahead, the European Union seeks to boost its economy with AI. Can it compete while protecting workers, safety and the climate?",
+        "category": "科技与AI"
+      },
+      {
+        "date": "20261116",
+        "event_cluster_id": "20261116-south-korea-s-top-01",
+        "headline": "South Korea's top scorer in tax accountancy exam admits cheating",
+        "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
         "category": "科技与AI"
       }
     ]
@@ -11663,7 +11733,7 @@
   },
   {
     "thread_id": "thread-eu-removes-russian-oligarchs-usmanov-and",
-    "title": "Spurs’ Victor Wembanyama Matches NBA Mark With 40 Points In 25 Minutes",
+    "title": "Brawl erupts in Brazil’s Women’s League final",
     "category": "文化体育",
     "events": [
       {
@@ -11692,6 +11762,13 @@
         "event_cluster_id": "20261112-spurs-victor-wembanyama-matches-01",
         "headline": "Spurs’ Victor Wembanyama Matches NBA Mark With 40 Points In 25 Minutes",
         "summary": "The Spurs center, at 22 years of age, is starting to dominate the NBA. He's the future of the league at an endangered position.",
+        "category": "文化体育"
+      },
+      {
+        "date": "20261116",
+        "event_cluster_id": "20261116-brawl-erupts-brazil-s-01",
+        "headline": "Brawl erupts in Brazil’s Women’s League final",
+        "summary": "A fist fight erupted between opposing players during the final of Brazil s under-20 Women’s League.",
         "category": "文化体育"
       }
     ]
@@ -12321,8 +12398,8 @@
   },
   {
     "thread_id": "thread-how-urban-suburban-and-rural-americans-e",
-    "title": "Ukraine says Starlink connection 'now stable' after network limits",
-    "category": "安全与冲突",
+    "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
+    "category": "未分类",
     "events": [
       {
         "date": "20260929",
@@ -12372,6 +12449,13 @@
         "headline": "Ukraine says Starlink connection 'now stable' after network limits",
         "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261116",
+        "event_cluster_id": "20261116-prince-harry-ukraine-meeting-01",
+        "headline": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
+        "summary": "British royal says he s taken a risk in his fourth surprise visit to Ukraine since 2022 to meet wounded veterans.",
+        "category": "未分类"
       }
     ]
   },
@@ -12503,7 +12587,7 @@
   },
   {
     "thread_id": "thread-flydubai-fz1073-timeline-how-the-israel-",
-    "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
+    "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
     "category": "未分类",
     "events": [
       {
@@ -12574,6 +12658,13 @@
         "event_cluster_id": "20261113-palestinian-baby-dies-cold-01",
         "headline": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
         "summary": "The baby s father said he died of hypothermia overnight in their family s tent in southern Gaza.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261116",
+        "event_cluster_id": "20261116-australia-canada-italy-uk-01",
+        "headline": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
+        "summary": "The countries accuse Israel of preventing tents and other supplies from entering Gaza, despite the humanitarian crisis.",
         "category": "未分类"
       }
     ]
@@ -12699,8 +12790,8 @@
   },
   {
     "thread_id": "thread-what-a-pearly-king-taught-me-about-cockn",
-    "title": "Pope Leo cheered on return to Peru city where he served as bishop",
-    "category": "未分类",
+    "title": "Pope urges end to Amazon deforestation",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20261002",
@@ -12764,6 +12855,13 @@
         "headline": "Pope Leo cheered on return to Peru city where he served as bishop",
         "summary": "An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.",
         "category": "未分类"
+      },
+      {
+        "date": "20261116",
+        "event_cluster_id": "20261116-pope-urges-end-amazon-01",
+        "headline": "Pope urges end to Amazon deforestation",
+        "summary": "Pope Leo XIV warns deforestation and illegal mining are threatening the Amazon rainforest and the local communities.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -13098,7 +13196,7 @@
   },
   {
     "thread_id": "thread-bold-and-inventive-canadian-poet-anne-ca",
-    "title": "Iran targeted US radar system in Bahrain",
+    "title": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
     "category": "安全与冲突",
     "events": [
       {
@@ -13162,6 +13260,20 @@
         "event_cluster_id": "20261114-iran-targeted-us-radar-01",
         "headline": "Iran targeted US radar system in Bahrain",
         "summary": "Iran claimed it struck US radar systems in Bahrain, while the US said it had intercepted the attacks. Clashes continue in the Strait of Hormuz, as the war remains in a state of de-escalation.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261116",
+        "event_cluster_id": "20261116-iran-launches-drone-attacks-01",
+        "headline": "Iran launches drone attacks against US military base in Bahrain",
+        "summary": "Strikes cast further doubt on peace talks between Tehran and Washington with increasing risk of escalation Iran has launched drone attacks against a US military base in Bahrain, casting further doubt on peace talks between Tehran and Washington and raising the spectre of escalation. Blasts sounded over the Gulf nation on Sunday in the second Iranian drone attack in three days in retaliation for US",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261116",
+        "event_cluster_id": "20261116-iran-war-live-third-01",
+        "headline": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
+        "summary": "The USS Theodore Roosevelt has arrived in the Middle East, while Iran warned it would not simply wait for an attack.",
         "category": "安全与冲突"
       }
     ]
@@ -14176,8 +14288,8 @@
   },
   {
     "thread_id": "thread-harry-kane-wins-ballon-d-or-ending-engla",
-    "title": "Harry Kane wins Ballon d’Or, ending England’s 25-year wait",
-    "category": "安全与冲突",
+    "title": "‘The Chosen’ Is Back: Season 6 Premiere, Full Episode Schedule And Where To Watch",
+    "category": "未分类",
     "events": [
       {
         "date": "20261027",
@@ -14185,6 +14297,13 @@
         "headline": "Harry Kane wins Ballon d’Or, ending England’s 25-year wait",
         "summary": "Bayern Munich and England striker Harry Kane has won his first Ballon d’Or after a record-breaking season.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261116",
+        "event_cluster_id": "20261116-chosen-back-season-6-01",
+        "headline": "‘The Chosen’ Is Back: Season 6 Premiere, Full Episode Schedule And Where To Watch",
+        "summary": "The Chosen Season 6 premieres November 15 on Prime Video. Here's the complete episode schedule, where to stream, Season 5 recap and theatrical finale date.",
+        "category": "未分类"
       }
     ]
   },
@@ -14533,7 +14652,7 @@
   },
   {
     "thread_id": "thread-everything-and-everyone-we-love-is-at-st",
-    "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+    "title": "What to expect from Trump and Xi's upcoming meeting in China",
     "category": "国际政治",
     "events": [
       {
@@ -14562,6 +14681,13 @@
         "event_cluster_id": "20261113-u-s-envoys-meet-01",
         "headline": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
         "summary": "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy. (Image credit: Vyacheslav Prokofyev)",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261116",
+        "event_cluster_id": "20261116-what-expect-trump-xi-01",
+        "headline": "What to expect from Trump and Xi's upcoming meeting in China",
+        "summary": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
         "category": "国际政治"
       }
     ]
@@ -14596,7 +14722,7 @@
   },
   {
     "thread_id": "thread-ufc-334-kayla-harrison-vs-amanda-nunes-o",
-    "title": "UFC 334: Kayla Harrison Vs. Amanda Nunes Odds, Pick, And Prediction",
+    "title": "‘Dancing With The Stars’ Semifinals Dances Revealed As Six Couples Battle For Finale Spots",
     "category": "未分类",
     "events": [
       {
@@ -14604,6 +14730,13 @@
         "event_cluster_id": "20261112-ufc-334-kayla-harrison-01",
         "headline": "UFC 334: Kayla Harrison Vs. Amanda Nunes Odds, Pick, And Prediction",
         "summary": "Everything you need to know about the UFC 334 fight between Kayla Harrison and Amanda Nunes, including betting odds, picks and predictions",
+        "category": "未分类"
+      },
+      {
+        "date": "20261116",
+        "event_cluster_id": "20261116-dancing-stars-semifinals-dances-01",
+        "headline": "‘Dancing With The Stars’ Semifinals Dances Revealed As Six Couples Battle For Finale Spots",
+        "summary": "The stakes are higher than ever as six couples head into the ‘Dancing With the Stars’ semifinals. Each pair will perform two new routines. Here’s everything you need to know.",
         "category": "未分类"
       }
     ]
