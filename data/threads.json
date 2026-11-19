@@ -701,7 +701,7 @@
   },
   {
     "thread_id": "thread-mark-carney-tells-us-to-start-being-seri",
-    "title": "Trump blames Iran war for midterms losses",
+    "title": "Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh",
     "category": "安全与冲突",
     "events": [
       {
@@ -849,6 +849,13 @@
         "event_cluster_id": "20261105-trump-blames-iran-war-01",
         "headline": "Trump blames Iran war for midterms losses",
         "summary": "President Donald Trump said the war in Iran likely contributed to Republican setbacks in the midterm elections",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-iran-war-live-trump-01",
+        "headline": "Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh",
+        "summary": "Trump claims Iran is seeking to develop biological weapons, as the Saudi-led coalition combats Houthi missiles.",
         "category": "安全与冲突"
       }
     ]
@@ -2997,8 +3004,8 @@
   },
   {
     "thread_id": "thread-nepal-flood-death-toll-exceeds-1-000",
-    "title": "Nepal hit by deadly floods, landslides, and avalanche",
-    "category": "气候与环境",
+    "title": "Nepal Came to COP31 in Dire Need. It’s a Test for the World.",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -3097,6 +3104,13 @@
         "headline": "Nepal hit by deadly floods, landslides, and avalanche",
         "summary": "Heavy rain triggered deadly floods and landslides across Nepal, while an avalanche left 12 workers missing.",
         "category": "气候与环境"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-nepal-came-cop31-dire-01",
+        "headline": "Nepal Came to COP31 in Dire Need. It’s a Test for the World.",
+        "summary": "Damaged buildings in Devighat, in the Nuwakot district of Nepal, last week.",
+        "category": "未分类"
       }
     ]
   },
@@ -4187,7 +4201,7 @@
   },
   {
     "thread_id": "thread-oil-market-developments-and-aviation-imp",
-    "title": "Drones To Surveil Grids For Data Centers, Infrastructure For Oil And Gas",
+    "title": "\"Consequently, every fire at these facilities means less diesel and petrol for the Russian military, and fewer oil reven",
     "category": "安全与冲突",
     "events": [
       {
@@ -4216,6 +4230,13 @@
         "event_cluster_id": "20261112-drones-surveil-grids-data-01",
         "headline": "Drones To Surveil Grids For Data Centers, Infrastructure For Oil And Gas",
         "summary": "Autonomous drones can monitor for pre-failures of aging power grids, as well as well pads, production sites, flares, storage tanks, and refineries for oil and gas assets.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-putin-touts-russia-s-01",
+        "headline": "\"Consequently, every fire at these facilities means less diesel and petrol for the Russian military, and fewer oil reven",
+        "summary": "A ramp-up in Ukrainian strikes on oil refineries has knocked out about half of Russia’s refining output, analysts say, and is darkening an already bleak economic outlook.",
         "category": "安全与冲突"
       }
     ]
@@ -4579,7 +4600,7 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-kakapo-population-a",
-    "title": "Unrelated Reports on Kakapo Population and Property Dispute",
+    "title": "Pew Research Center projects major shifts in global religious populations by 2070",
     "category": "社会与公共政策",
     "events": [
       {
@@ -4587,6 +4608,13 @@
         "event_cluster_id": "20260902-critically-endangered-parrots-enjoy-01",
         "headline": "Unrelated Reports on Kakapo Population and Property Dispute",
         "summary": "The provided texts describe two unrelated events. One report discusses the population recovery of the critically endangered kakapo parrot since 1995. The second report details a legal claim by a Maryland woman regarding her father's South Carolina home. She alleges a caregiver acquired the deed for five dollars before the father's death. The sources do not overlap in subject matter.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-future-global-christian-population-01",
+        "headline": "Pew Research Center projects major shifts in global religious populations by 2070",
+        "summary": "Pew Research Center released projections showing Christians will become majority in sub-Saharan Africa by 2070. The religiously unaffiliated population is projected to decline globally, driven by decreases in China. Hindu population growth will lag behind other groups in India and worldwide. Buddhist numbers are projected to continue shrinking through 2070. The Jewish population will become increa",
         "category": "社会与公共政策"
       }
     ]
@@ -4614,7 +4642,7 @@
   },
   {
     "thread_id": "thread-germany-attributes-leipzig-airport-drone",
-    "title": "Steve Ellis, Singer On 1960s Hit ‘Everlasting Love,’ Dies At 76",
+    "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
     "category": "未分类",
     "events": [
       {
@@ -4727,6 +4755,13 @@
         "event_cluster_id": "20261105-steve-ellis-singer-1960s-01",
         "headline": "Steve Ellis, Singer On 1960s Hit ‘Everlasting Love,’ Dies At 76",
         "summary": "Steve Ellis, who was 17 years old when he recorded the classic hit “Everlasting Love” with the British pop group Love Affair, has died.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-british-hacker-who-stole-01",
+        "headline": "British hacker who stole $11m through text message scheme jailed for six years in US",
+        "summary": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
         "category": "未分类"
       }
     ]
@@ -5062,8 +5097,8 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-indie-cinema-and-f1",
-    "title": "Cornell case puts New York’s progressive image at odds with its rape laws",
-    "category": "未分类",
+    "title": "ICJ to rule on Rohingya genocide case against Myanmar",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -5169,6 +5204,13 @@
         "headline": "Cornell case puts New York’s progressive image at odds with its rape laws",
         "summary": "New York lawmakers will review sexual-assault laws, including voluntary intoxication rule at the heart of Cornell case.",
         "category": "未分类"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-icj-rule-rohingya-genocide-01",
+        "headline": "ICJ to rule on Rohingya genocide case against Myanmar",
+        "summary": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -5279,7 +5321,7 @@
   },
   {
     "thread_id": "thread-scotus-allows-trump-s-ballroom-project-t",
-    "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+    "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
     "category": "安全与冲突",
     "events": [
       {
@@ -5406,6 +5448,13 @@
         "event_cluster_id": "20261118-palestinian-woman-72-shot-01",
         "headline": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
         "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-israeli-military-launches-rare-01",
+        "headline": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+        "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
         "category": "安全与冲突"
       }
     ]
@@ -5545,7 +5594,7 @@
   },
   {
     "thread_id": "thread-bosnian-serb-war-criminal-ratko-mladic-d",
-    "title": "Philippines wins first Eurovision Song Contest Asia",
+    "title": "One in four women globally unable to refuse sex within marriage, says UN",
     "category": "未分类",
     "events": [
       {
@@ -5596,6 +5645,13 @@
         "headline": "Philippines wins first Eurovision Song Contest Asia",
         "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
         "category": "未分类"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-one-four-women-globally-01",
+        "headline": "One in four women globally unable to refuse sex within marriage, says UN",
+        "summary": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds One in four women around the world has no power of consent if their husband or partner demands sex, according to a UN report. In west and central Africa, almost half of women (45%) are not able to say no in their own marriage, while a third of women (33%) in east and southern Africa and ",
+        "category": "未分类"
       }
     ]
   },
@@ -5615,8 +5671,8 @@
   },
   {
     "thread_id": "thread-乌克兰扎波罗热市一学校在地库开学以规避战争风险",
-    "title": "Democratic Socialists of America see record wins in US midterm elections",
-    "category": "国际政治",
+    "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -5701,6 +5757,13 @@
         "headline": "Democratic Socialists of America see record wins in US midterm elections",
         "summary": "The left-wing movement has won support for its views on issues like the war in Gaza and universal healthcare.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-mary-peltola-flips-alaska-01",
+        "headline": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+        "summary": "Former Democratic Rep. Mary Peltola has won one of the U.S.' most watched Senate races. And, Nvidia's board says it doesn't plan to reinstate former CEO Jensen Huang despite pressure from his allies. (Image credit: Charly Triballeau)",
+        "category": "未分类"
       }
     ]
   },
@@ -6707,7 +6770,7 @@
   },
   {
     "thread_id": "thread-bicester-collection-launches-travel-guid",
-    "title": "The price tag nearly doubles Forbes’ valuation of Gotham FC from just a few months ago, accelerating the financial momen",
+    "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
     "category": "未分类",
     "events": [
       {
@@ -6722,6 +6785,13 @@
         "event_cluster_id": "20261107-0-intro-apr-until-01",
         "headline": "The price tag nearly doubles Forbes’ valuation of Gotham FC from just a few months ago, accelerating the financial momen",
         "summary": "The price tag nearly doubles Forbes’ valuation of Gotham FC from just a few months ago, accelerating the financial momentum of the already fast-growing NWSL.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-van-gogh-painting-sells-01",
+        "headline": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+        "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
         "category": "未分类"
       }
     ]
@@ -7183,8 +7253,8 @@
   },
   {
     "thread_id": "thread-active-shooter-drills-and-school-safety-",
-    "title": "Sources discuss Ebola treatment gaps for children in DRC and shipping decarbonization efforts",
-    "category": "社会与公共政策",
+    "title": "Two unrelated articles: Save the Children report on conflict zones and Berlin statue description",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20260902",
@@ -7206,6 +7276,13 @@
         "headline": "Sources discuss Ebola treatment gaps for children in DRC and shipping decarbonization efforts",
         "summary": "Two of the provided articles do not address the same event. Deutsche Welle reports on the Democratic Republic of Congo's ongoing Ebola outbreak, noting that children face higher mortality rates partly because treatments sized for younger patients are less available. NPR reports that one of the world's largest logistics companies plans to install sails on a cargo ship, part of a growing effort to r",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-almost-1-4-children-01",
+        "headline": "Two unrelated articles: Save the Children report on conflict zones and Berlin statue description",
+        "summary": "DW World reports Save the Children found almost one in four children live in conflict zones with violations increasing dramatically. NPR describes children playing near a Käthe Kollwitz bronze statue in a Berlin square named after the artist. The articles cover different subjects with no common event.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -7645,7 +7722,7 @@
   },
   {
     "thread_id": "thread-ipswich-town-vs-liverpool-premier-league",
-    "title": "Turn Your Rising Home Equity Into Cash You Can Use",
+    "title": "Dream Big with a Home Equity Loan",
     "category": "未分类",
     "events": [
       {
@@ -7730,6 +7807,13 @@
         "event_cluster_id": "20261118-turn-your-rising-home-01",
         "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
         "summary": "As the Ebola virus spreads in eastern Congo, health teams struggle to curb fatal delays in seeking medical care and the widespread desire to treat sick relatives at home.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-dream-big-home-equity-01",
+        "headline": "Dream Big with a Home Equity Loan",
+        "summary": "Duke lost, 99-78, to Illinois, its worst defeat at home since March 1983. It is the first time since 2020 that Duke has lost two of its first five games.",
         "category": "未分类"
       }
     ]
@@ -8030,7 +8114,7 @@
   },
   {
     "thread_id": "thread-maria-bartiromo-denies-fox-firing-report",
-    "title": "At Least 10 States Require In-Person Businesses to Accept Cash",
+    "title": "Experts: this is the best cash back card of 2022",
     "category": "未分类",
     "events": [
       {
@@ -8073,6 +8157,13 @@
         "event_cluster_id": "20261118-least-10-states-require-01",
         "headline": "At Least 10 States Require In-Person Businesses to Accept Cash",
         "summary": "At least 10 states and 10 municipalities require in-person businesses to accept cash, with some exceptions.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-experts-best-cash-back-01",
+        "headline": "Experts: this is the best cash back card of 2022",
+        "summary": "The culmination of Western civilization is fast approaching.",
         "category": "未分类"
       }
     ]
@@ -8555,8 +8646,8 @@
   },
   {
     "thread_id": "thread-european-industry-group-warns-of-300-000",
-    "title": "Why Winning Big Matters",
-    "category": "未分类",
+    "title": "Anthropic raises $81.3bn in biggest IPO of all time",
+    "category": "经济与市场",
     "events": [
       {
         "date": "20260907",
@@ -8620,6 +8711,13 @@
         "headline": "Why Winning Big Matters",
         "summary": "The biggest questions, of course, are: Who can afford him? Who’s willing to spend big on a starter? And ultimately, who will get him?",
         "category": "未分类"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-anthropic-raises-81-3bn-01",
+        "headline": "Anthropic raises $81.3bn in biggest IPO of all time",
+        "summary": "Lainey Wilson hosted the event for the third time, while Taylor Swift returned to the stage for her first CMA performance since 2013.",
+        "category": "经济与市场"
       }
     ]
   },
@@ -9150,7 +9248,7 @@
   },
   {
     "thread_id": "thread-liv-files-for-bankruptcy-protection-with",
-    "title": "A Marathon Runner’s Hard Lesson",
+    "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
     "category": "未分类",
     "events": [
       {
@@ -9179,6 +9277,13 @@
         "event_cluster_id": "20261030-marathon-runner-s-hard-01",
         "headline": "A Marathon Runner’s Hard Lesson",
         "summary": "Temperatures approached 80 degrees Fahrenheit during this year’s Chicago marathon.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-parents-jailed-torture-death-01",
+        "headline": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
+        "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
         "category": "未分类"
       }
     ]
@@ -9276,8 +9381,8 @@
   },
   {
     "thread_id": "thread-mamdani-releases-records-on-toxic-air-in",
-    "title": "Two unrelated entertainment updates: GTA 6 pre-launch patch and Knicks NBA victory",
-    "category": "文化体育",
+    "title": "Sources report on unrelated events: AI company valuation and NFL coaching decision",
+    "category": "科技与AI",
     "events": [
       {
         "date": "20260909",
@@ -9355,6 +9460,13 @@
         "headline": "Two unrelated entertainment updates: GTA 6 pre-launch patch and Knicks NBA victory",
         "summary": "Forbes reports Rockstar Games released a 602.5 MB update for GTA 6 on PlayStation 5 ahead of the November 19 launch. New York Post reports the New York Knicks defeated the Toronto Raptors with Jalen Brunson scoring a late four-point play. The articles cover separate events in gaming and basketball.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-ai-giant-anthropic-valued-01",
+        "headline": "Sources report on unrelated events: AI company valuation and NFL coaching decision",
+        "summary": "BBC World reports that AI company Anthropic is valued at up to $1.5 trillion ahead of a stock market debut. New York Post reports that Baltimore Ravens coach John Harbaugh chose to receive after the New York Giants won the coin toss. The two sources cover completely different events with no overlap.",
+        "category": "科技与AI"
       }
     ]
   },
@@ -9521,8 +9633,8 @@
   },
   {
     "thread_id": "thread-saudi-arabia-vows-to-respond-after-houth",
-    "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
-    "category": "安全与冲突",
+    "title": "A look at reactions to previous James Bond casting announcements, similarities to Batman casting backlash, and what it m",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260909",
@@ -9621,12 +9733,19 @@
         "headline": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
         "summary": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-ghana-s-60m-presidential-01",
+        "headline": "A look at reactions to previous James Bond casting announcements, similarities to Batman casting backlash, and what it m",
+        "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
+        "category": "国际政治"
       }
     ]
   },
   {
     "thread_id": "thread-eiffel-tower-workers-strike-saying-women",
-    "title": "Rubio rules out cyberattacks or links between tech outages",
+    "title": "Rubio says US not 'under systemic attack' after series of tech outages",
     "category": "安全与冲突",
     "events": [
       {
@@ -9690,6 +9809,13 @@
         "event_cluster_id": "20261118-rubio-rules-out-cyberattacks-01",
         "headline": "Rubio rules out cyberattacks or links between tech outages",
         "summary": "US Secretary of State Marco Rubio said there is no evidence linking technical outages to each other or to cyberattacks.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-rubio-us-not-under-01",
+        "headline": "Rubio says US not 'under systemic attack' after series of tech outages",
+        "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
         "category": "安全与冲突"
       }
     ]
@@ -10452,8 +10578,8 @@
   },
   {
     "thread_id": "thread-houthi-advance-in-yemen-is-about-more-th",
-    "title": "Ukraine: Zelenskyy says security deal could go to referendum",
-    "category": "国际政治",
+    "title": "North Korea expanded uranium enrichment plant, says IAEA head",
+    "category": "未分类",
     "events": [
       {
         "date": "20260912",
@@ -10552,6 +10678,13 @@
         "headline": "Ukraine: Zelenskyy says security deal could go to referendum",
         "summary": "The US has broached the idea of Kyiv giving up the Donbas region in exchange for NATO membership, the Ukrainian president said.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-north-korea-expanded-uranium-01",
+        "headline": "North Korea expanded uranium enrichment plant, says IAEA head",
+        "summary": "IAEA chief Rafael Grossi has said the ongoing expansion of North Korea's uranium enrichment program remains \"a cause for serious concern.\"",
+        "category": "未分类"
       }
     ]
   },
@@ -12230,8 +12363,8 @@
   },
   {
     "thread_id": "thread-takeaways-from-the-trump-xi-state-visit-",
-    "title": "China denies allegations of spy operation targeting Nvidia CEO",
-    "category": "科技与AI",
+    "title": "Today’s Wordle #1979 Hints, Clues And Answer For Thursday November 19",
+    "category": "未分类",
     "events": [
       {
         "date": "20260926",
@@ -12281,6 +12414,13 @@
         "headline": "China denies allegations of spy operation targeting Nvidia CEO",
         "summary": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
         "category": "科技与AI"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-s-wordle-1979-hints-01",
+        "headline": "Today’s Wordle #1979 Hints, Clues And Answer For Thursday November 19",
+        "summary": "Looking for help with today's New York Times Wordle? Here are some expert hints, clues and commentary to help you solve today's Wordle and sharpen your guessing game.",
+        "category": "未分类"
       }
     ]
   },
@@ -12671,8 +12811,8 @@
   },
   {
     "thread_id": "thread-flydubai-fz1073-timeline-how-the-israel-",
-    "title": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing",
-    "category": "国际政治",
+    "title": "Settler rams into Palestinians at multiple locations in central Israel",
+    "category": "未分类",
     "events": [
       {
         "date": "20261001",
@@ -12757,6 +12897,13 @@
         "headline": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing",
         "summary": "Israel’s parliament has elected Matan Kahana as the new speaker with support from Arab parties.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-settler-rams-palestinians-multiple-01",
+        "headline": "Settler rams into Palestinians at multiple locations in central Israel",
+        "summary": "At least eight Palestinians were injured after a settler driver was caught on camera running them over.",
+        "category": "未分类"
       }
     ]
   },
@@ -13063,8 +13210,8 @@
   },
   {
     "thread_id": "thread-russia-hits-second-major-bridge-in-ukrai",
-    "title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
-    "category": "安全与冲突",
+    "title": "Three separate Russia-related events reported by left-leaning outlets",
+    "category": "国际政治",
     "events": [
       {
         "date": "20261004",
@@ -13121,6 +13268,13 @@
         "headline": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
         "summary": "Reports of attack in Baltic came before US envoys met with Russian and Ukrainian presidents.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-russian-arrested-spying-us-01",
+        "headline": "Three separate Russia-related events reported by left-leaning outlets",
+        "summary": "BBC World reports a Russian national was arrested for allegedly spying on US defence company Palantir over its Ukraine support. The New York Times profiles Russian rock musician Boris Grebenshchikov performing in Tallinn, Estonia. The Washington Post reports no tankers have reached the US six weeks after a Russian diesel deal involving Trump, with ships changing course or halting.",
+        "category": "国际政治"
       }
     ]
   },
@@ -13518,7 +13672,7 @@
   },
   {
     "thread_id": "thread-zelenskyy-welcomes-us-announced-energy-c",
-    "title": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+    "title": "Two-Thirds of Americans Disapprove of Trump’s Handling of the Russia-Ukraine War",
     "category": "安全与冲突",
     "events": [
       {
@@ -13596,6 +13750,20 @@
         "event_cluster_id": "20261118-putin-s-crimean-bridge-01",
         "headline": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
         "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-crimean-bridge-attacked-again-01",
+        "headline": "Crimean Bridge attacked again, Russian official says",
+        "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-two-thirds-americans-disapprove-01",
+        "headline": "Two-Thirds of Americans Disapprove of Trump’s Handling of the Russia-Ukraine War",
+        "summary": "Around four-in-ten Americans say Trump is favoring Russia too much in the conflict, while a much smaller share (7%) say he is favoring Ukraine too much.",
         "category": "安全与冲突"
       }
     ]
@@ -14232,7 +14400,7 @@
   },
   {
     "thread_id": "thread-russia-frees-jailed-american-stephen-hub",
-    "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
+    "title": "Trump, Xi and Putin will hold their first trilateral meeting on the sidelines of APEC.",
     "category": "国际政治",
     "events": [
       {
@@ -14247,6 +14415,13 @@
         "event_cluster_id": "20261028-kyiv-hopes-momentum-peace-01",
         "headline": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
         "summary": "Alexander Stubb and Jonas Gahr Støre held ‘substantive’ talk with Russian president on peace negotiations, but faced sceptical reactions from some European leaders Meanwhile, Wes Streeting, the defence secretary, has warned that Russia’s Vladimir Putin is “testing us and testing Nato’s resolve” as he condemned hybrid threats and “state-sponsored terrorism” from Russia. Streeting repeated his recen",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-apec-live-trump-xi-01",
+        "headline": "Trump, Xi and Putin will hold their first trilateral meeting on the sidelines of APEC.",
+        "summary": "The leaders of the US, China and Russia are due to hold highly anticipated talks in Shenzhen.",
         "category": "国际政治"
       }
     ]
@@ -14316,7 +14491,7 @@
   },
   {
     "thread_id": "thread-duchess-of-sussex-deeply-distressed-over",
-    "title": "California Billionaire Tax Appears Headed For Failure",
+    "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
     "category": "未分类",
     "events": [
       {
@@ -14359,6 +14534,13 @@
         "event_cluster_id": "20261105-california-billionaire-tax-appears-01",
         "headline": "California Billionaire Tax Appears Headed For Failure",
         "summary": "California voters showed their pragmatic side on Election Day by rejecting Proposition 40, the so-called “billionaire tax.”",
+        "category": "未分类"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-catherine-visits-mumbai-maternity-01",
+        "headline": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
+        "summary": "The Prince and Princess of Wales ended their three-day trip to India on Wednesday, the couple's first international tour since 2022.",
         "category": "未分类"
       }
     ]
@@ -14512,7 +14694,7 @@
   },
   {
     "thread_id": "thread-egypt-orders-closure-of-independent-news",
-    "title": "Egypt orders closure of independent news site Mada Masr and fines editor Lina Attalah",
+    "title": "No state has ever been found guilty by an international court of committing genocide.",
     "category": "社会与公共政策",
     "events": [
       {
@@ -14520,6 +14702,13 @@
         "event_cluster_id": "20261028-egypt-orders-closure-leading-01",
         "headline": "Egypt orders closure of independent news site Mada Masr and fines editor Lina Attalah",
         "summary": "An Egyptian court ordered the shutdown of the independent online newspaper Mada Masr and imposed a fine of $53,400 on its editor-in-chief Lina Attalah. Attalah was released after paying the fine but later discovered a one-year prison sentence had been issued in her absence. Amnesty International called the verdict a crushing blow to press freedom, while critics warn it signals a broader crackdown ",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-myanmar-faces-historic-genocide-01",
+        "headline": "No state has ever been found guilty by an international court of committing genocide.",
+        "summary": "No state has ever been found guilty by an international court of committing genocide.",
         "category": "社会与公共政策"
       }
     ]
@@ -14659,7 +14848,7 @@
   },
   {
     "thread_id": "thread-republicans-suffer-midterms-defeat-sourc",
-    "title": "Republicans block Hegseth impeachment motion",
+    "title": "Hegseth unveils new US-Venezuela military deal",
     "category": "安全与冲突",
     "events": [
       {
@@ -14674,6 +14863,13 @@
         "event_cluster_id": "20261111-republicans-block-hegseth-impeachment-01",
         "headline": "Republicans block Hegseth impeachment motion",
         "summary": "Republicans have blocked a motion to impeach US Secretary of Defense Pete Hegseth over the war on Iran.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-hegseth-unveils-us-venezuela-01",
+        "headline": "Hegseth unveils new US-Venezuela military deal",
+        "summary": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
         "category": "安全与冲突"
       }
     ]
@@ -14820,7 +15016,7 @@
   },
   {
     "thread_id": "thread-everything-and-everyone-we-love-is-at-st",
-    "title": "Xi said China would welcome American students for exchanges. What's the reality",
+    "title": "Observers analyzing the dynamics between world leaders found ample material in the notable embrace between President Xi",
     "category": "国际政治",
     "events": [
       {
@@ -14877,6 +15073,13 @@
         "event_cluster_id": "20261118-xi-china-welcome-american-01",
         "headline": "Xi said China would welcome American students for exchanges. What's the reality",
         "summary": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen. At their last summit in September, Xi said he will welcome 100,000 American students for exchanges.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-china-s-xi-greets-01",
+        "headline": "Observers analyzing the dynamics between world leaders found ample material in the notable embrace between President Xi",
+        "summary": "Chinese President Xi Jinping greeted Donald Trump and Vladimir Putin at APEC summit.",
         "category": "国际政治"
       }
     ]
@@ -14960,8 +15163,8 @@
   },
   {
     "thread_id": "thread-two-separate-humanitarian-crises-hinder-",
-    "title": "Two separate humanitarian crises hinder aid delivery in Sudan and DRC",
-    "category": "安全与冲突",
+    "title": "Two left-leaning outlets report on separate political developments: Musk comments on US midterms and Paris student protests",
+    "category": "国际政治",
     "events": [
       {
         "date": "20261115",
@@ -14969,6 +15172,27 @@
         "headline": "Two separate humanitarian crises hinder aid delivery in Sudan and DRC",
         "summary": "DW World reports Sudan faces a worsening humanitarian crisis with nearly 34 million people in need as war and drone strikes impede aid delivery. The New York Times reports an Ebola outbreak in eastern Democratic Republic of Congo has a new epicenter isolated from aid by an armed group that has killed and kidnapped aid workers. The two articles cover different crises in different countries. Both de",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-elon-musk-record-spending-01",
+        "headline": "Two left-leaning outlets report on separate political developments: Musk comments on US midterms and Paris student protests",
+        "summary": "BBC World reports Elon Musk called record US midterm spending 'pretty foolish' and distanced himself from the MAGA movement. The New York Times solicits Gen Z political hopes and references student demonstrations in Paris this month demanding increased education funding. The sources cover different events in different countries.",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-two-separate-political-events-nigeria-el",
+    "title": "Two separate political events: Nigeria election violence and US House Speaker nomination",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20261119",
+        "event_cluster_id": "20261119-axes-cutlasses-violence-nigeria-01",
+        "headline": "Two separate political events: Nigeria election violence and US House Speaker nomination",
+        "summary": "The provided articles cover two distinct political events. DW World reports on political violence and thuggery during Nigeria's election campaign trail ahead of January 2027 elections. BBC World reports on Democrats nominating Hakeem Jeffries for US Speaker of the House, positioning him to become the first Black lawmaker to lead the chamber when Democrats take control in January.",
+        "category": "国际政治"
       }
     ]
   }
