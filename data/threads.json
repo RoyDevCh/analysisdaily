@@ -701,7 +701,7 @@
   },
   {
     "thread_id": "thread-mark-carney-tells-us-to-start-being-seri",
-    "title": "Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh",
+    "title": "Iran war live: Houthis escalate attacks on Saudi capital",
     "category": "安全与冲突",
     "events": [
       {
@@ -856,6 +856,13 @@
         "event_cluster_id": "20261119-iran-war-live-trump-01",
         "headline": "Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh",
         "summary": "Trump claims Iran is seeking to develop biological weapons, as the Saudi-led coalition combats Houthi missiles.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-iran-war-live-houthis-01",
+        "headline": "Iran war live: Houthis escalate attacks on Saudi capital",
+        "summary": "Houthi missile fire has rocked Riyadh s financial centre as the Iran war leaves lasting marks on global energy.",
         "category": "安全与冲突"
       }
     ]
@@ -2150,7 +2157,7 @@
   },
   {
     "thread_id": "thread-u-s-military-strikes-iran-while-trump-vo",
-    "title": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
+    "title": "US appeals court lets Trump end TPS deportation protections for Venezuelans",
     "category": "社会与公共政策",
     "events": [
       {
@@ -2200,6 +2207,13 @@
         "event_cluster_id": "20261112-judge-rules-trump-s-01",
         "headline": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
         "summary": "The BBC denies defamation charge as Trump celebrates “huge victory” in court decision.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-us-appeals-court-lets-01",
+        "headline": "US appeals court lets Trump end TPS deportation protections for Venezuelans",
+        "summary": "The appeals court s ruling prevents a lower-court decision from taking effect, which would block Trump from lifting TPS.",
         "category": "社会与公共政策"
       }
     ]
@@ -3851,8 +3865,8 @@
   },
   {
     "thread_id": "thread-unrelated-reports-on-tiger-woods-and-bmw",
-    "title": "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86",
-    "category": "文化体育",
+    "title": "Hippo Fiona dies days after swallowing visitor’s hat",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -3944,6 +3958,13 @@
         "headline": "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86",
         "summary": "Stewart died in Los Angeles after living with Alzheimer s disease and Lewy body dementia.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-hippo-fiona-dies-swallowing-01",
+        "headline": "Hippo Fiona dies days after swallowing visitor’s hat",
+        "summary": "Hippo Fiona, who became a global sensation after being born six weeks premature in 2017, has died at Cincinnati Zoo.",
+        "category": "未分类"
       }
     ]
   },
@@ -5321,7 +5342,7 @@
   },
   {
     "thread_id": "thread-scotus-allows-trump-s-ballroom-project-t",
-    "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+    "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
     "category": "安全与冲突",
     "events": [
       {
@@ -5455,6 +5476,13 @@
         "event_cluster_id": "20261119-israeli-military-launches-rare-01",
         "headline": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
         "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-israeli-military-completes-ground-01",
+        "headline": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+        "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
         "category": "安全与冲突"
       }
     ]
@@ -7911,8 +7939,8 @@
   },
   {
     "thread_id": "thread-trump-posts-ai-generated-videos-of-milit",
-    "title": "Dana White declines Trump’s offer to be White House press secretary",
-    "category": "国际政治",
+    "title": "White House replaces cyber security chief after tech outages",
+    "category": "未分类",
     "events": [
       {
         "date": "20260904",
@@ -7948,6 +7976,13 @@
         "headline": "Dana White declines Trump’s offer to be White House press secretary",
         "summary": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
         "category": "国际政治"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-white-house-replaces-cyber-01",
+        "headline": "White House replaces cyber security chief after tech outages",
+        "summary": "Sean Cairncross is leaving his role as national cyber director after a chaotic week of tech outages. Kirsten Davies, the Pentagon's chief information officer, will assume the position in an acting capacity.",
+        "category": "未分类"
       }
     ]
   },
@@ -11768,7 +11803,7 @@
   },
   {
     "thread_id": "thread-yemenis-flee-across-red-sea-as-houthis-a",
-    "title": "Saudi Arabia: Rights groups raise alarm over rising number of executions",
+    "title": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
     "category": "安全与冲突",
     "events": [
       {
@@ -11846,6 +11881,13 @@
         "event_cluster_id": "20261118-saudi-arabia-rights-groups-01",
         "headline": "Saudi Arabia: Rights groups raise alarm over rising number of executions",
         "summary": "Amid the war in Iran, Saudi Arabia's human rights situation remains bleak, with at least 211 executions, corporal punishment and an intensifying crackdown on critics. Is the regional conflict driving domestic repression?",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-saudi-sovereign-wealth-fund-01",
+        "headline": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
+        "summary": "Towers in Riyadh, Saudi Arabia, in October, including the skyscraper, left, that houses the country’s Public Investment Fund.",
         "category": "安全与冲突"
       }
     ]
@@ -12118,8 +12160,8 @@
   },
   {
     "thread_id": "thread-susan-sarandon-hannah-einbinder-arrested",
-    "title": "More than 6,000 Italian schools received a threat.",
-    "category": "安全与冲突",
+    "title": "UK and EU to agree youth mobility scheme, BBC understands",
+    "category": "气候与环境",
     "events": [
       {
         "date": "20260925",
@@ -12162,6 +12204,13 @@
         "headline": "More than 6,000 Italian schools received a threat.",
         "summary": "Thousands of schools across Italy, the UK and Ireland received hoax bomb threat emails.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-uk-eu-agree-youth-01",
+        "headline": "UK and EU to agree youth mobility scheme, BBC understands",
+        "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+        "category": "气候与环境"
       }
     ]
   },
@@ -12363,8 +12412,8 @@
   },
   {
     "thread_id": "thread-takeaways-from-the-trump-xi-state-visit-",
-    "title": "Today’s Wordle #1979 Hints, Clues And Answer For Thursday November 19",
-    "category": "未分类",
+    "title": "Forbes covers music industry shift to fan networks while New York Times examines Grand Theft Auto cultural impact",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260926",
@@ -12421,6 +12470,13 @@
         "headline": "Today’s Wordle #1979 Hints, Clues And Answer For Thursday November 19",
         "summary": "Looking for help with today's New York Times Wordle? Here are some expert hints, clues and commentary to help you solve today's Wordle and sharpen your guessing game.",
         "category": "未分类"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-clipping-had-its-moment-01",
+        "headline": "Forbes covers music industry shift to fan networks while New York Times examines Grand Theft Auto cultural impact",
+        "summary": "Forbes reports that music labels and distributors are rethinking short-form video strategies as per-view clipping floods social feeds. The New York Times reports that Grand Theft Auto has evolved from a moral panic into a signature cultural event. The two sources address different subjects: one focuses on music marketing trends, the other on video game cultural significance. No overlapping event c",
+        "category": "文化体育"
       }
     ]
   },
@@ -12580,8 +12636,8 @@
   },
   {
     "thread_id": "thread-watch-from-launch-to-fiery-splashdown-sp",
-    "title": "Valkyries And Dream Play For First Franchise Title In First Game 7 In WNBA Finals History",
-    "category": "未分类",
+    "title": "L.A. Sparks’ Reported $750 Million Sale Could Ignite New Era For WNBA",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260929",
@@ -12617,6 +12673,13 @@
         "headline": "Valkyries And Dream Play For First Franchise Title In First Game 7 In WNBA Finals History",
         "summary": "The Golden State Valkyries and Atlanta Dream will not only compete for a chance at each franchise’s first WNBA Championship but will do so during the first ever game 7 of the WNBA Finals in league history.",
         "category": "未分类"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-l-sparks-reported-750-01",
+        "headline": "L.A. Sparks’ Reported $750 Million Sale Could Ignite New Era For WNBA",
+        "summary": "According to Sportico, José E. Feliciano and Kwanza Jones are on the verge of buying the Sparks for a WNBA record total.",
+        "category": "文化体育"
       }
     ]
   },
@@ -13784,8 +13847,8 @@
   },
   {
     "thread_id": "thread-breaking-bad-actor-rj-mitte-dies-aged-34",
-    "title": "AI And Chip Stocks Finish Down On Friday As Markets Digest Nvidia Turmoil",
-    "category": "经济与市场",
+    "title": "California pursues AI regulation actions against Nvidia and OpenAI while Ireland seeks AI hub status",
+    "category": "科技与AI",
     "events": [
       {
         "date": "20261013",
@@ -13828,6 +13891,20 @@
         "headline": "AI And Chip Stocks Finish Down On Friday As Markets Digest Nvidia Turmoil",
         "summary": "AI-linked stocks traded lower on Friday as the market absorbed Thursday’s news of Jensen Huang’s resignation from Nvidia.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-ai-bubble-bursting-just-01",
+        "headline": "Is the AI bubble bursting just as Anthropic goes public",
+        "summary": "The sharp sell-off in tech stocks after the US midterms and the Nvidia scandal has cast doubt on Anthropic's IPO. Yet with hundreds of billions still being invested, some think the AI party is still in full swing.",
+        "category": "科技与AI"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-california-targets-nvidia-china-01",
+        "headline": "California pursues AI regulation actions against Nvidia and OpenAI while Ireland seeks AI hub status",
+        "summary": "California authorities have launched a probe targeting Nvidia over China AI chip exports and filed a lawsuit declaring OpenAI and ChatGPT a public nuisance over unsafe AI practices. Separately, Ireland is investing in AI startups to establish itself as an AI hub but faces challenges from limited growth capital and power constraints. The California actions could set new precedents for state-level A",
+        "category": "科技与AI"
       }
     ]
   },
@@ -14008,8 +14085,8 @@
   },
   {
     "thread_id": "thread-six-flags-stock-plunges-after-death-at-g",
-    "title": "Lloyd Geering, Pastor Who Disputed Christ’s Resurrection, Dies at 108",
-    "category": "安全与冲突",
+    "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+    "category": "文化体育",
     "events": [
       {
         "date": "20261014",
@@ -14024,6 +14101,13 @@
         "headline": "Lloyd Geering, Pastor Who Disputed Christ’s Resurrection, Dies at 108",
         "summary": "“It is faith that man needs, not past doctrines,” he said in defense of his views, which became a cause célèbre for many but were condemned by others.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-fiona-hippo-dies-swallowing-01",
+        "headline": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+        "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
+        "category": "文化体育"
       }
     ]
   },
@@ -14400,7 +14484,7 @@
   },
   {
     "thread_id": "thread-russia-frees-jailed-american-stephen-hub",
-    "title": "Trump, Xi and Putin will hold their first trilateral meeting on the sidelines of APEC.",
+    "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
     "category": "国际政治",
     "events": [
       {
@@ -14422,6 +14506,13 @@
         "event_cluster_id": "20261119-apec-live-trump-xi-01",
         "headline": "Trump, Xi and Putin will hold their first trilateral meeting on the sidelines of APEC.",
         "summary": "The leaders of the US, China and Russia are due to hold highly anticipated talks in Shenzhen.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-trump-xi-putin-meet-01",
+        "headline": "Trump, Xi and Putin meet as global alliances hang in the balance",
+        "summary": "President Trump, China's Xi Jinping and Russia's Vladimir Putin have gathered in Shenzhen, China, for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda. (Image credit: Win McNamee)",
         "category": "国际政治"
       }
     ]
@@ -14631,7 +14722,7 @@
   },
   {
     "thread_id": "thread-harry-kane-wins-ballon-d-or-ending-engla",
-    "title": "‘The Chosen’ Is Back: Season 6 Premiere, Full Episode Schedule And Where To Watch",
+    "title": "‘Percy Jackson’ Season 3 Returns: Release Time And What To Know Before Watching",
     "category": "未分类",
     "events": [
       {
@@ -14646,6 +14737,13 @@
         "event_cluster_id": "20261116-chosen-back-season-6-01",
         "headline": "‘The Chosen’ Is Back: Season 6 Premiere, Full Episode Schedule And Where To Watch",
         "summary": "The Chosen Season 6 premieres November 15 on Prime Video. Here's the complete episode schedule, where to stream, Season 5 recap and theatrical finale date.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-percy-jackson-season-3-01",
+        "headline": "‘Percy Jackson’ Season 3 Returns: Release Time And What To Know Before Watching",
+        "summary": "What time does ‘Percy Jackson and the Olympians’ Season 3 come out on Disney+? Here's everything to know about the next chapter.",
         "category": "未分类"
       }
     ]
@@ -14666,8 +14764,8 @@
   },
   {
     "thread_id": "thread-interest-rates-could-rise-again-in-2027-",
-    "title": "Interest Rates Could Rise Again In 2027—What To Watch",
-    "category": "经济与市场",
+    "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+    "category": "文化体育",
     "events": [
       {
         "date": "20261027",
@@ -14675,6 +14773,13 @@
         "headline": "Interest Rates Could Rise Again In 2027—What To Watch",
         "summary": "Interest rates could rise further in 2027 as the Fed fights inflation. Here’s what could drive rate hikes and what investors should watch.",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-what-watch-weekend-shows-01",
+        "headline": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+        "summary": "The best new movies and TV shows to watch this weekend (Nov. 20–22) on Netflix, Prime Video, Disney+, Paramount+, HBO Max and in theaters, including ‘Yellowjackets,’ ‘Percy Jackson’ and ‘The Hunger Games.’",
+        "category": "文化体育"
       }
     ]
   },
@@ -14694,8 +14799,8 @@
   },
   {
     "thread_id": "thread-egypt-orders-closure-of-independent-news",
-    "title": "No state has ever been found guilty by an international court of committing genocide.",
-    "category": "社会与公共政策",
+    "title": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
+    "category": "未分类",
     "events": [
       {
         "date": "20261028",
@@ -14710,6 +14815,20 @@
         "headline": "No state has ever been found guilty by an international court of committing genocide.",
         "summary": "No state has ever been found guilty by an international court of committing genocide.",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-rohingya-genocide-survivor-perpetrators-01",
+        "headline": "Rohingya genocide survivor: ‘perpetrators will have to face consequences’",
+        "summary": "The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya.",
+        "category": "社会与公共政策"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-myanmar-ruling-gives-relevance-01",
+        "headline": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
+        "summary": "Hailed as ‘a rare moment of justice’, judges’ decision sets out a roadmap for assessing the question of intent The international court of justice (ICJ) verdict making Myanmar the first country in history to be found guilty of committing genocide does not just deliver justice for Rohingya victims. It also gives the 1948 genocide convention new relevance in governing the actions of nation states. In",
+        "category": "未分类"
       }
     ]
   },
@@ -14743,8 +14862,8 @@
   },
   {
     "thread_id": "thread-two-separate-fbi-operations-reported-bev",
-    "title": "Two separate FBI operations reported: Beverly Hills mansion raid and San Diego Mafia takedown",
-    "category": "安全与冲突",
+    "title": "Three entertainment articles from right-leaning sources cover separate topics",
+    "category": "文化体育",
     "events": [
       {
         "date": "20261031",
@@ -14752,6 +14871,13 @@
         "headline": "Two separate FBI operations reported: Beverly Hills mansion raid and San Diego Mafia takedown",
         "summary": "Forbes reports the FBI raided the Beverly Hills mansion of Stephen Cloobeck, a former donor to Eric Swalwell, in connection with an investigation into the former congressman. Separately, the New York Post reports FBI agents came under fire during a large-scale operation targeting an alleged Mexican Mafia-linked drug empire in San Diego. The two articles describe distinct law enforcement actions in",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-classic-cosmopolitan-cocktail-has-01",
+        "headline": "Three entertainment articles from right-leaning sources cover separate topics",
+        "summary": "Forbes published two articles: one about new glassware for Cosmopolitan cocktails, another about viewing order for Hunger Games films including the new Sunrise on the Reaping. New York Post reported on The Traitors: New Blood finale revealing the winner. The articles cover distinct entertainment topics with no shared event.",
+        "category": "文化体育"
       }
     ]
   },
@@ -14848,7 +14974,7 @@
   },
   {
     "thread_id": "thread-republicans-suffer-midterms-defeat-sourc",
-    "title": "Hegseth unveils new US-Venezuela military deal",
+    "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
     "category": "安全与冲突",
     "events": [
       {
@@ -14870,6 +14996,13 @@
         "event_cluster_id": "20261119-hegseth-unveils-us-venezuela-01",
         "headline": "Hegseth unveils new US-Venezuela military deal",
         "summary": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
+        "category": "安全与冲突"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-venezuela-signs-military-deal-01",
+        "headline": "Venezuela signs military deal with US less than a year after Maduro's removal",
+        "summary": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
         "category": "安全与冲突"
       }
     ]
@@ -14919,6 +15052,13 @@
         "event_cluster_id": "20261107-turn-your-rising-home-01",
         "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
         "summary": "As a mother of two in California, I can no longer have the trifecta — a corporate paycheck, a highly desirable place to live, and flexible time to spend with my kids.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-turn-your-rising-home-01",
+        "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
+        "summary": "Renovations at the Rock Creek Tennis Center keeps the DC Open 500-level combined ATP and WTA tournament in Washington, D.C., and expands other tennis programming",
         "category": "未分类"
       }
     ]
@@ -15016,7 +15156,7 @@
   },
   {
     "thread_id": "thread-everything-and-everyone-we-love-is-at-st",
-    "title": "Observers analyzing the dynamics between world leaders found ample material in the notable embrace between President Xi",
+    "title": "Trump accused of falling asleep during Xi Jinping speech at Apec summit in China",
     "category": "国际政治",
     "events": [
       {
@@ -15080,6 +15220,20 @@
         "event_cluster_id": "20261119-china-s-xi-greets-01",
         "headline": "Observers analyzing the dynamics between world leaders found ample material in the notable embrace between President Xi",
         "summary": "Chinese President Xi Jinping greeted Donald Trump and Vladimir Putin at APEC summit.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-shenzhen-summit-safeguard-world-01",
+        "headline": "Will the Shenzhen summit safeguard world peace",
+        "summary": "Xi, Putin and Trump issue Peace Declaration after historic summit.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261120",
+        "event_cluster_id": "20261120-trump-accused-falling-asleep-01",
+        "headline": "Trump accused of falling asleep during Xi Jinping speech at Apec summit in China",
+        "summary": "US president appeared to doze off while Chinese leader made speech, but White House insisted he was awake Donald Trump was, again, accused of falling asleep during a televised event, this time during the speech of the Chinese president, Xi Jinping, at the Asia-Pacific Economic Cooperation (Apec) summit in China. The US president appeared to close his eyes for roughly 10 seconds on Thursday. As his",
         "category": "国际政治"
       }
     ]
