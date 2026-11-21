@@ -358,8 +358,8 @@
   },
   {
     "thread_id": "thread-video-us-energy-chief-in-venezuela-to-si",
-    "title": "US energy secretary visits Venezuela to sign oil deal covering 65 billion barrels",
-    "category": "经济与市场",
+    "title": "COP31 deal stalls as nations struggle to agree on climate plan",
+    "category": "气候与环境",
     "events": [
       {
         "date": "20260902",
@@ -423,6 +423,13 @@
         "headline": "US energy secretary visits Venezuela to sign oil deal covering 65 billion barrels",
         "summary": "US Energy Secretary Chris Wright arrived in La Guaira, Venezuela, for the signing of a deal granting the US control over a significant portion of Venezuela's oil reserves, estimated at 65 billion barrels of crude. The deal has drawn criticism from some Venezuelan groups and analysts, including a former envoy who called it a colonialist fever dream. Industry experts noted that meaningful increases ",
         "category": "经济与市场"
+      },
+      {
+        "date": "20261121",
+        "event_cluster_id": "20261121-cop31-deal-stalls-nations-01",
+        "headline": "COP31 deal stalls as nations struggle to agree on climate plan",
+        "summary": "COP31 deal stalls as nations struggle to agree on climate plan",
+        "category": "气候与环境"
       }
     ]
   },
@@ -1359,7 +1366,7 @@
   },
   {
     "thread_id": "thread-zelensky-says-airlines-should-avoid-russ",
-    "title": "Police Investigate Former Prince Andrew and Epstein’s Time at Balmoral, Royal Estate in Scotland",
+    "title": "Colts Waive QB Daniel Jones: What It Means For Anthony Richardson Sr.",
     "category": "未分类",
     "events": [
       {
@@ -1542,6 +1549,13 @@
         "event_cluster_id": "20261031-police-investigate-former-prince-01",
         "headline": "Police Investigate Former Prince Andrew and Epstein’s Time at Balmoral, Royal Estate in Scotland",
         "summary": "An undated image of Jeffrey Epstein and Ghislaine Maxwell released by the U.S. Department of Justice.",
+        "category": "未分类"
+      },
+      {
+        "date": "20261121",
+        "event_cluster_id": "20261121-colts-waive-qb-daniel-01",
+        "headline": "Colts Waive QB Daniel Jones: What It Means For Anthony Richardson Sr.",
+        "summary": "The Indianapolis Colts released quarterback Daniel Jones. Here's what it means for Anthony Richardson Sr.",
         "category": "未分类"
       }
     ]
@@ -1814,7 +1828,7 @@
   },
   {
     "thread_id": "thread-us-partners-venezuela-in-massive-oil-dea",
-    "title": "Qatar Under-17 World Cup is on despite US pull out",
+    "title": "Nepali cricket fans in Qatar want to see their team competing with the best",
     "category": "未分类",
     "events": [
       {
@@ -1864,6 +1878,13 @@
         "event_cluster_id": "20261113-qatar-under-17-world-01",
         "headline": "Qatar Under-17 World Cup is on despite US pull out",
         "summary": "The Under-17 World Cup in Qatar will kick off as scheduled next week despite the United States’ decision to withdraw",
+        "category": "未分类"
+      },
+      {
+        "date": "20261121",
+        "event_cluster_id": "20261121-nepali-cricket-fans-qatar-01",
+        "headline": "Nepali cricket fans in Qatar want to see their team competing with the best",
+        "summary": "As thousands from Qatar s Nepali community watch their team play, they hope that the team will rise in global rankings.",
         "category": "未分类"
       }
     ]
@@ -2934,8 +2955,8 @@
   },
   {
     "thread_id": "thread-germany-attributes-leipzig-airport-drone",
-    "title": "Estonia to close border crossings with Russia after alleged arson attack",
-    "category": "安全与冲突",
+    "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -3013,6 +3034,13 @@
         "headline": "Estonia to close border crossings with Russia after alleged arson attack",
         "summary": "Estonia is closing its border crossings with Russia following an alleged arson attempt at a drone factory.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261121",
+        "event_cluster_id": "20261121-denmark-expels-russian-diplomat-01",
+        "headline": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+        "summary": "Copenhagen accuses Moscow of planning assassination with banned local gang; Russia says no evidence for allegation.",
+        "category": "未分类"
       }
     ]
   },
@@ -4166,7 +4194,7 @@
   },
   {
     "thread_id": "thread-david-bowie-xr-documentary-debuts-at-ven",
-    "title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW",
+    "title": "The U.K. and EU hold a rare summit to strengthen ties",
     "category": "国际政治",
     "events": [
       {
@@ -4216,6 +4244,13 @@
         "event_cluster_id": "20261031-canadian-pm-mark-carney-01",
         "headline": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW",
         "summary": "Prime Minister Mark Carney tells DW that Canada is seeking closer EU ties to \"diversify and deepen\" partnerships beyond the Americas. Despite German pushback, he said he favors the all-new term \"associate membership.\"",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261121",
+        "event_cluster_id": "20261121-u-k-eu-hold-01",
+        "headline": "The U.K. and EU hold a rare summit to strengthen ties",
+        "summary": "A decade after the people of Britain voted to leave the European Union, top EU officials are meeting with Prime Minister Andy Burnham on Friday, looking to mend more fences. (Image credit: Stefan Rousseau)",
         "category": "国际政治"
       }
     ]
@@ -5559,8 +5594,8 @@
   },
   {
     "thread_id": "thread-three-unrelated-news-items-reported-acro",
-    "title": "ICE arrests reported in conflicting accounts from New Jersey and Los Angeles",
-    "category": "社会与公共政策",
+    "title": "Two Christmas-related events reported: film locations in Wisconsin and Krampus ban in Ontario",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260902",
@@ -5617,13 +5652,20 @@
         "headline": "ICE arrests reported in conflicting accounts from New Jersey and Los Angeles",
         "summary": "Al Jazeera reports ICE agents made an arrest in a New Jersey grocery store before being confronted by a crowd demanding they leave. New York Post reports ICE arrested Iranian citizen Farzad \"Tony\" Toutouni, 55, in Los Angeles on October 27 after illegal entry from Canada, citing a criminal history dating to 1989. The sources describe different locations, individuals, and circumstances. Al Jazeera ",
         "category": "社会与公共政策"
+      },
+      {
+        "date": "20261121",
+        "event_cluster_id": "20261121-cherry-pie-christmas-door-01",
+        "headline": "Two Christmas-related events reported: film locations in Wisconsin and Krampus ban in Ontario",
+        "summary": "Forbes reports on filming locations for 'A Cherry Pie Christmas' in Door County, Wisconsin, including Lautenbach's cherry orchard and Sister Bay's Christmas market barn. The New York Times reports Krampus was banned from the 2025 Christmas parade in Strathroy, Ontario, and will be relegated to the sidelines. Sources describe different events in different locations.",
+        "category": "文化体育"
       }
     ]
   },
   {
     "thread_id": "thread-bosnian-serb-war-criminal-ratko-mladic-d",
-    "title": "One in four women globally unable to refuse sex within marriage, says UN",
-    "category": "未分类",
+    "title": "Women will hold half of legislative seats in a record six states in 2027.",
+    "category": "国际政治",
     "events": [
       {
         "date": "20260902",
@@ -5680,6 +5722,13 @@
         "headline": "One in four women globally unable to refuse sex within marriage, says UN",
         "summary": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds One in four women around the world has no power of consent if their husband or partner demands sex, according to a UN report. In west and central Africa, almost half of women (45%) are not able to say no in their own marriage, while a third of women (33%) in east and southern Africa and ",
         "category": "未分类"
+      },
+      {
+        "date": "20261121",
+        "event_cluster_id": "20261121-what-women-s-historic-01",
+        "headline": "Women will hold half of legislative seats in a record six states in 2027.",
+        "summary": "Women will hold half of legislative seats in a record six states in 2027. But their growing political representation reveals a sharp divide between the two major parties.",
+        "category": "国际政治"
       }
     ]
   },
@@ -6574,8 +6623,8 @@
   },
   {
     "thread_id": "thread-long-lines-at-fuel-stations-are-spreadin",
-    "title": "Mets’ Former GM Rules Out Freddy Peralta Return With Braves Looming",
-    "category": "文化体育",
+    "title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -6688,6 +6737,13 @@
         "headline": "Mets’ Former GM Rules Out Freddy Peralta Return With Braves Looming",
         "summary": "The New York Mets’ former executive sent a definitive message about a reunion with the star pitcher as the Atlanta Braves seek reinforcement.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261121",
+        "event_cluster_id": "20261121-indian-man-sentenced-19-01",
+        "headline": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
+        "summary": "Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun.",
+        "category": "未分类"
       }
     ]
   },
@@ -7155,8 +7211,8 @@
   },
   {
     "thread_id": "thread-japan-reduces-urban-speed-limits-and-see",
-    "title": "Trump invites Michigan Democrat Stevens to join the Republican Party",
-    "category": "国际政治",
+    "title": "Democrats Won Senate Races in 10 States Trump Carried in 2024. How Uncommon Is That",
+    "category": "未分类",
     "events": [
       {
         "date": "20260902",
@@ -7262,6 +7318,13 @@
         "headline": "Trump invites Michigan Democrat Stevens to join the Republican Party",
         "summary": "US President Donald Trump praised Michigan Democrat Haley Stevens for endorsing Republican Mike Rogers.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261121",
+        "event_cluster_id": "20261121-democrats-won-senate-races-01",
+        "headline": "Democrats Won Senate Races in 10 States Trump Carried in 2024. How Uncommon Is That",
+        "summary": "Voters in 10 states that voted for Republican Donald Trump in 2024 elected Democratic senators this year.",
+        "category": "未分类"
       }
     ]
   },
@@ -12160,8 +12223,8 @@
   },
   {
     "thread_id": "thread-susan-sarandon-hannah-einbinder-arrested",
-    "title": "UK and EU to agree youth mobility scheme, BBC understands",
-    "category": "气候与环境",
+    "title": "Can the UK and EU turn the page on Brexit",
+    "category": "未分类",
     "events": [
       {
         "date": "20260925",
@@ -12211,6 +12274,13 @@
         "headline": "UK and EU to agree youth mobility scheme, BBC understands",
         "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
         "category": "气候与环境"
+      },
+      {
+        "date": "20261121",
+        "event_cluster_id": "20261121-uk-eu-turn-page-01",
+        "headline": "Can the UK and EU turn the page on Brexit",
+        "summary": "A decade after the Brexit vote, the UK and EU have struck deals. But divisions persist.",
+        "category": "未分类"
       }
     ]
   },
@@ -12412,7 +12482,7 @@
   },
   {
     "thread_id": "thread-takeaways-from-the-trump-xi-state-visit-",
-    "title": "Forbes covers music industry shift to fan networks while New York Times examines Grand Theft Auto cultural impact",
+    "title": "GTA 6 launches with record sales and cultural debate",
     "category": "文化体育",
     "events": [
       {
@@ -12476,6 +12546,13 @@
         "event_cluster_id": "20261120-clipping-had-its-moment-01",
         "headline": "Forbes covers music industry shift to fan networks while New York Times examines Grand Theft Auto cultural impact",
         "summary": "Forbes reports that music labels and distributors are rethinking short-form video strategies as per-view clipping floods social feeds. The New York Times reports that Grand Theft Auto has evolved from a moral panic into a signature cultural event. The two sources address different subjects: one focuses on music marketing trends, the other on video game cultural significance. No overlapping event c",
+        "category": "文化体育"
+      },
+      {
+        "date": "20261121",
+        "event_cluster_id": "20261121-gta-6-raked-3-01",
+        "headline": "GTA 6 launches with record sales and cultural debate",
+        "summary": "Grand Theft Auto 6 launched recently and generated $3.8 billion in first-day sales according to Forbes, making it the largest entertainment launch ever. The game had been anticipated for 13 years. The New York Times notes the franchise has evolved from causing moral panic to becoming a signature cultural event. New York Post reports sports commentator Chris Russo criticized the game and urged game",
         "category": "文化体育"
       }
     ]
@@ -12580,8 +12657,8 @@
   },
   {
     "thread_id": "thread-seoul-summons-ukraine-envoy-over-north-k",
-    "title": "Mississippi elects first black senator in nearly 150 years",
-    "category": "未分类",
+    "title": "Three French police officers sentenced over racist assault on Black man",
+    "category": "文化体育",
     "events": [
       {
         "date": "20260929",
@@ -12631,13 +12708,20 @@
         "headline": "Mississippi elects first black senator in nearly 150 years",
         "summary": "Scott Colom will be the first black senator to represent Mississippi since 1881.",
         "category": "未分类"
+      },
+      {
+        "date": "20261121",
+        "event_cluster_id": "20261121-three-french-police-officers-01",
+        "headline": "Three French police officers sentenced over racist assault on Black man",
+        "summary": "Paris criminal court finds racism was an aggravating factor in the 2020 assault of Black music producer Michel Zecler.",
+        "category": "文化体育"
       }
     ]
   },
   {
     "thread_id": "thread-watch-from-launch-to-fiery-splashdown-sp",
-    "title": "L.A. Sparks’ Reported $750 Million Sale Could Ignite New Era For WNBA",
-    "category": "文化体育",
+    "title": "‘Hunger Games: Sunrise On The Reaping’ Eyes $110 Million Opening Weekend",
+    "category": "未分类",
     "events": [
       {
         "date": "20260929",
@@ -12680,6 +12764,13 @@
         "headline": "L.A. Sparks’ Reported $750 Million Sale Could Ignite New Era For WNBA",
         "summary": "According to Sportico, José E. Feliciano and Kwanza Jones are on the verge of buying the Sparks for a WNBA record total.",
         "category": "文化体育"
+      },
+      {
+        "date": "20261121",
+        "event_cluster_id": "20261121-hunger-games-sunrise-reaping-01",
+        "headline": "‘Hunger Games: Sunrise On The Reaping’ Eyes $110 Million Opening Weekend",
+        "summary": "The prequel “The Hunger Games: Sunrise on the Reaping” is projected to earn $110 million in its opening weekend after earning an estimated $51 million on Friday.",
+        "category": "未分类"
       }
     ]
   },
@@ -13049,8 +13140,8 @@
   },
   {
     "thread_id": "thread-south-korea-lost-shark-draws-over-half-a",
-    "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
-    "category": "国际政治",
+    "title": "Trump touts meeting with Xi and Putin but offers little results",
+    "category": "未分类",
     "events": [
       {
         "date": "20261001",
@@ -13086,6 +13177,13 @@
         "headline": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
         "summary": "The White House publicly asked for U.S. Ambassador to Greece Kimberly Guilfoyle's resignation on Tuesday as she faced mounting accusations of improper conduct. (Image credit: Jacquelyn Martin)",
         "category": "国际政治"
+      },
+      {
+        "date": "20261121",
+        "event_cluster_id": "20261121-trump-touts-meeting-xi-01",
+        "headline": "Trump touts meeting with Xi and Putin but offers little results",
+        "summary": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues. (Image credit: Kevin Dietsch)",
+        "category": "未分类"
       }
     ]
   },
@@ -13623,7 +13721,7 @@
   },
   {
     "thread_id": "thread-independents-aren-t-happy-with-trump-wha",
-    "title": "Michigan voters closely divided between Rogers and El-Sayed",
+    "title": "Dating Attitudes of Single Black Americans",
     "category": "国际政治",
     "events": [
       {
@@ -13645,6 +13743,13 @@
         "event_cluster_id": "20261023-michigan-voters-closely-divided-01",
         "headline": "Michigan voters closely divided between Rogers and El-Sayed",
         "summary": "Less than two weeks before the midterm elections, some Michigan voters are still deciding.",
+        "category": "国际政治"
+      },
+      {
+        "date": "20261121",
+        "event_cluster_id": "20261121-dating-attitudes-single-black-01",
+        "headline": "Dating Attitudes of Single Black Americans",
+        "summary": "Race Ethnicity A monthly digest of the Center s latest research on race and ethnicity · Subscribe ↗ Stay tuned for post-election analysis from the Center, but in the meantime, here are a few interesting pieces from our portfolio: The U.S. Electorate’s Changing Racial and Ethnic Makeup How Latino Voters Are Experiencing the 2026 Midterm Elections Media [ ]",
         "category": "国际政治"
       }
     ]
@@ -13735,8 +13840,8 @@
   },
   {
     "thread_id": "thread-zelenskyy-welcomes-us-announced-energy-c",
-    "title": "Two-Thirds of Americans Disapprove of Trump’s Handling of the Russia-Ukraine War",
-    "category": "安全与冲突",
+    "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+    "category": "社会与公共政策",
     "events": [
       {
         "date": "20261012",
@@ -13828,6 +13933,13 @@
         "headline": "Two-Thirds of Americans Disapprove of Trump’s Handling of the Russia-Ukraine War",
         "summary": "Around four-in-ten Americans say Trump is favoring Russia too much in the conflict, while a much smaller share (7%) say he is favoring Ukraine too much.",
         "category": "安全与冲突"
+      },
+      {
+        "date": "20261121",
+        "event_cluster_id": "20261121-russia-targets-kyiv-crossings-01",
+        "headline": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+        "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
+        "category": "社会与公共政策"
       }
     ]
   },
@@ -13847,7 +13959,7 @@
   },
   {
     "thread_id": "thread-breaking-bad-actor-rj-mitte-dies-aged-34",
-    "title": "California pursues AI regulation actions against Nvidia and OpenAI while Ireland seeks AI hub status",
+    "title": "SpaceX and Anthropic show why investors may want to wait before buying a hot IPO and let the initial hype and price swin",
     "category": "科技与AI",
     "events": [
       {
@@ -13904,6 +14016,13 @@
         "event_cluster_id": "20261120-california-targets-nvidia-china-01",
         "headline": "California pursues AI regulation actions against Nvidia and OpenAI while Ireland seeks AI hub status",
         "summary": "California authorities have launched a probe targeting Nvidia over China AI chip exports and filed a lawsuit declaring OpenAI and ChatGPT a public nuisance over unsafe AI practices. Separately, Ireland is investing in AI startups to establish itself as an AI hub but faces challenges from limited growth capital and power constraints. The California actions could set new precedents for state-level A",
+        "category": "科技与AI"
+      },
+      {
+        "date": "20261121",
+        "event_cluster_id": "20261121-ai-solving-maths-problems-01",
+        "headline": "SpaceX and Anthropic show why investors may want to wait before buying a hot IPO and let the initial hype and price swin",
+        "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
         "category": "科技与AI"
       }
     ]
@@ -14057,8 +14176,8 @@
   },
   {
     "thread_id": "thread-albanian-police-fire-tear-gas-at-protest",
-    "title": "Violent clashes as Albanian government cracks down on protests",
-    "category": "国际政治",
+    "title": "Gen Z protests sweep Europe over wars, rising costs and climate",
+    "category": "安全与冲突",
     "events": [
       {
         "date": "20261014",
@@ -14080,6 +14199,13 @@
         "headline": "Violent clashes as Albanian government cracks down on protests",
         "summary": "Protesters in Albania have fought running battles with police, on a 12th day of anti-government protests.",
         "category": "国际政治"
+      },
+      {
+        "date": "20261121",
+        "event_cluster_id": "20261121-gen-z-protests-sweep-01",
+        "headline": "Gen Z protests sweep Europe over wars, rising costs and climate",
+        "summary": "Thousands of Gen Z protesters rallied across 25 European countries over living costs, military spending and climate.",
+        "category": "安全与冲突"
       }
     ]
   },
@@ -15060,6 +15186,13 @@
         "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
         "summary": "Renovations at the Rock Creek Tennis Center keeps the DC Open 500-level combined ATP and WTA tournament in Washington, D.C., and expands other tennis programming",
         "category": "未分类"
+      },
+      {
+        "date": "20261121",
+        "event_cluster_id": "20261121-turn-your-rising-home-01",
+        "headline": "Turn Your Rising Home Equity Into Cash You Can Use",
+        "summary": "Columbus directed the first two films in the \"Home Alone\" franchise.",
+        "category": "未分类"
       }
     ]
   },
@@ -15346,6 +15479,20 @@
         "event_cluster_id": "20261119-axes-cutlasses-violence-nigeria-01",
         "headline": "Two separate political events: Nigeria election violence and US House Speaker nomination",
         "summary": "The provided articles cover two distinct political events. DW World reports on political violence and thuggery during Nigeria's election campaign trail ahead of January 2027 elections. BBC World reports on Democrats nominating Hakeem Jeffries for US Speaker of the House, positioning him to become the first Black lawmaker to lead the chamber when Democrats take control in January.",
+        "category": "国际政治"
+      }
+    ]
+  },
+  {
+    "thread_id": "thread-how-the-2026-midterms-played-out-on-kals",
+    "title": "How the 2026 Midterms Played Out on Kalshi and Polymarket",
+    "category": "国际政治",
+    "events": [
+      {
+        "date": "20261121",
+        "event_cluster_id": "20261121-how-2026-midterms-played-01",
+        "headline": "How the 2026 Midterms Played Out on Kalshi and Polymarket",
+        "summary": "Trading volume on this year’s elections reached $2.7 billion. That was far below the $8.5 billion on 2024 elections, and less than the roughly $3 billion already spent on 2028.",
         "category": "国际政治"
       }
     ]
